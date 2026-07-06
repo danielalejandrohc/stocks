@@ -1,0 +1,405 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-how-the-chipmaker-evolved-from-a-gaming-startup-to-an-ai-giant-140140110.html",
+    "title": "Nvidia: How the chipmaker evolved from a gaming startup to an AI giant Here\u2019s a look at Nvidia\u2019s path to where it is today, from creating hardware for the gaming industry to designing the chips that power AI.",
+    "detail": "Nvidia: How the chipmaker evolved from a gaming startup to an AI giant\nNina Moothedath \u00b7 Data Editorial Intern\nUpdated Wed, Jul 9, 2025, 8:59 AM 9 min read\nIn This Article:\nNVDA\nMSFT\nOPAI.PVT\n^NDX\n^SPX\n\nOver the past two decades, Nvidia (NVDA) has skyrocketed into global conversation.\n\nThe semiconductor company is considered an international leader in the design and manufacturing of computer chips and helped revolutionize the rise of artificial intelligence (AI). On July 9, it hit a $4 trillion market cap, becoming the first public company to do so.\n\nBeyond its strengths in the gaming, data, and AI fields, Nvidia announced plans this March for a quantum research center in Boston, where CEO Jensen Huang said researchers could tackle problems from drug discovery to materials development.\n\nHere\u2019s a look at Nvidia\u2019s path to where it is today, from creating hardware for the gaming industry to designing the chips that power AI.\n\n'30 days from going out of business'\n\nOn April 5, 1993, Jensen Huang, Chris Malachowsky, and Curtis Priem founded Nvidia with an initial focus on designing and producing 3D graphics processors for computing and video games.\n\nThe company\u2019s first product release, the multimedia processor NV1, didn\u2019t get the reception the founders were hoping for. What followed was a financial situation so dire that Nvidia laid off half its staff, leading to its unofficial motto: \u201cOur company is 30 days from going out of business.\u201d\n\nIn addition to the NV1\u2019s unimpressive return, a partnership that Nvidia had forged with Japanese video game company Sega to produce console graphics chips fell through, adding to the pressure. However, even as it pivoted to another company for chips, Sega invested $5 million in Nvidia \u2014 funding which allowed Nvidia to survive going out of business.\n\nNvidia CEO Jensen Huang during his keynote presentation at CES 2025 in Las Vegas on January 6, 2025. (Photo by Artur Widak/NurPhoto via Getty Images) \u00b7 NurPhoto via Getty Images\n\nDespite financial challenges and a smaller team, Nvidia released its next chip in 1997. It was a success. RIVA 128 allowed for support of high-resolution 2D and 3D graphics, and over a million units were sold in its first four months of sales.\n\nWith the foundation of RIVA 128 sales, Nvidia produced RIVA TNT, which further cemented its place in the industry with better image quality and performance. Two years later, on Jan. 22, 1999, Nvidia went public on the New York Stock Exchange (NYSE) at $12 a share, and by May, it shipped out its 10,000,000th graphics processor.\n\nThe birth of the GPU\n\nLater in 1999, Nvidia released GeForce 256, calling it the world\u2019s first \u201cGraphics Processing Unit.\u201d By marketing the chip directly to customers instead of just including it within a device or console, the company popularized the term \u201cGPU.\u201d\n\nWith their ability to break larger tasks into smaller ones that could run at the same time, known as parallel processing, GPUs took on the heavy workload of powering graphics. It allowed devices to work on other processing functions faster, which meant GeForce 256 offered smoother, faster, and more realistic graphics.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "1. Nvidia hits $4T market cap, becomes first public company to do so; 2. Plans for quantum research center in Boston; 3. Strengths in gaming, data, and AI industries."
+    },
+    "date": "2025-07-09T08:59:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tesla-sell-off-is-overdone-this-bull-says-132617848.html",
+    "title": "Tesla sell-off is overdone, this bull says Despite Tesla's weak deliveries and bearish technicals, RBC Capital Markets says the company's long-term growth in energy, AI, and autonomy justifies staying bullish on the stock.",
+    "detail": "Tesla sell-off is overdone, this bull says\nFrancisco Velasquez\nWed, Jul 9, 2025, 7:26 AM 3 min read\nIn This Article:\nTSLA\nNVDA\nMETA\n\nTesla (TSLA) stock has been under pressure this year, but one analyst is telling investors to take a deep breath.\n\nDespite mounting headwinds and technical signals flashing red, RBC Capital Markets analyst Tom Narayan said the recent Tesla sell-off has gone too far. In a new note to clients, Narayan reiterated his Outperform rating and raised his price target to $319, up from $307. That implies about 7% upside from current levels.\n\n\"We believe there is strong demand for Tesla products even in the face of more EV competition,\" Narayan wrote. \"Tesla's lead, profits, cash generation, and currency are a major advantage that helps it to fund growth.\"\n\nRBC values Tesla's core car business at 1x sales but gives premium weight to its long-term plays like Megapack energy storage systems, autonomous driving, and AI. The firm applies a 15x multiple to 2040 estimated EBITDA for Megapacks and a 10x revenue multiple to Tesla's future robotaxi and humanoid robot operations.\n\nThe long-term picture, Narayan argued, justifies holding through the current rough patch. But not everyone is buying it.\n\nTesla's stock has dropped over 20% year over year. According to Adam Turnquist, LPL Financial's chief technical strategist, short-term technical indicators suggest further dips for the stock. The stock is also underperforming compared to \"Magnificent Seven\" peers like Nvidia (NVDA) and Meta (META), which are up 16% and 20%, respectively.\n\nRead more: How to avoid the sticker shock on Tesla car insurance\n\nTesla's recent financials haven't helped sentiment. Tesla reported in Q2 that it sold 384,122 cars, a 13.5% drop year over year. Declining EV demand and CEO Elon Musk's political foray have led to boycotts and protests, making some analysts skeptical of a near-term rebound for the company.\n\nEven so, Narayan sees opportunity. RBC projects Tesla's revenue will rebound to $111 billion by 2026, up from an estimated $93.5 billion this year. Adjusted earnings per share (EPS) are expected to rise in that period from $1.99 in 2025 to $2.99 in 2026. Those gains would be fueled by expanding production, new product launches, and higher-margin growth from non-automotive businesses.\n\nNarayan also pointed to a potential boost from Tesla's robotaxi, which could reinvigorate investor enthusiasm around its full self-driving ambitions. \"Tesla is EV's poster child,\u201d RBC argued. Piper Sandler analysts recently called the company the \"most transformative company in autos,\" noting that in the long run, it \"will likely win.\"\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.48
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.15
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Analyst maintains Outperform rating for Tesla (TSLA), raising price target to $319; sees strong demand for Tesla products despite competition, citing lead, profits, cash generation, and currency advantages."
+    },
+    "date": "2025-07-09T07:26:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-backed-perplexity-launches-ai-150931302.html",
+    "title": "Nvidia-backed Perplexity launches AI-powered browser to take on Google Chrome The launch marks Perplexity AI's entry into the competitive browser market, aiming to replace traditional navigation with agentic AI that can think, act, and decide on behalf of users.  Google Chrome held a commanding 68% share of the global browser market in June, according to StatCounter, cementing its position as the world\u2019s most widely used browser\u2014far ahead of Safari, Microsoft Edge, and Firefox.",
+    "detail": "Nvidia-backed Perplexity launches AI-powered browser to take on Google Chrome\nReuters\nWed, Jul 9, 2025, 9:09 AM 2 min read\nIn This Article:\nPEAI.PVT\nNVDA\nMSFT\nGOOGL\n9984.T\n\n(Reuters) -Nvidia-backed Perplexity AI said on Wednesday it has launched Comet, a new web browser with AI-powered search capabilities, as the startup looks to challenge the dominance of market leader Alphabet's Google Chrome.\n\nThe launch marks Perplexity AI's entry into the competitive browser market, aiming to replace traditional navigation with agentic AI that can think, act, and decide on behalf of users.\n\nGoogle Chrome held a commanding 68% share of the global browser market in June, according to StatCounter, cementing its position as the world\u2019s most widely used browser\u2014far ahead of Safari, Microsoft Edge, and Firefox.\n\nComet enables users to ask questions, perform tasks, and conduct research in a single, unified interface. The browser integrates a built-in assistant that can compare products, summarize content, book meetings, and transform complex workflows into simple, conversational experiences.\n\nComet is currently available to subscribers who pay $200 per month for Perplexity Max, with broader access rolling out via invite over the summer.\n\nBacked by high-profile investors like Jeff Bezos, SoftBank, and Nvidia, Perplexity is leveraging the launch of Comet to directly challenge incumbents such as Google\u2019s Chrome and Microsoft's Edge, while also exploring new revenue streams in advertising and e-commerce.\n\nLast year, OpenAI added a search engine to ChatGPT and recently made the service available to all of its users. Google also introduced an AI-powered search feature, called AI Overviews, last May.\n\nComet stores data locally and avoids model training on personal information\u2014a move likely to appeal to privacy-conscious users.\n\nHowever, the company has come under criticism from media organizations such as News Corp-owned outlets, Forbes and Wired, and Wall Street Journal parent Dow Jones for using their content without consent or compensation. Perplexity has responded by launching a publisher partnership program to collaborate with news outlets.\n\n(Reporting by Akash Sriram in Bengaluru; Editing by Tasim Zahid)\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.36
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia-supported Perplexity AI launches AI-driven browser Comet, challenging Google Chrome's dominance."
+    },
+    "date": "2025-07-09T09:09:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-becomes-most-valuable-company-143929635.html",
+    "title": "Nvidia becomes most valuable company in the world at 4 trillion dollars The AI chipmaker has grown into the largest company on Wall Street, surpassing Microsoft, Apple, Amazon and Google.",
+    "detail": "Nvidia becomes most valuable company in the world at 4 trillion dollars\nAssociated Press Reporters\nWed, Jul 9, 2025, 9:07 AM 2 min read\nIn This Article:\nGOOG\nNVDA\nAAPL\nMSFT\n^SPX\n\nChipmaker Nvidia (NVDA) has become the first public company to top 4 trillion dollars (\u00a33.45 trillion) in value after a two-year investor frenzy.\n\nNvidia shares rose 2.5%, or 3.97 dollars (\u00a32.92), in early trading on Wednesday, topping 164 dollars (\u00a3120) each. At the beginning of 2023, Nvidia shares were around 14 dollars (\u00a310) each.\n\nThe poster child of the AI boom, Nvidia has grown into the largest company on Wall Street, surpassing Microsoft (MSFT), Apple (AAPL), Amazon (AMZN) and Google (GOOG).\n\nNvidia chief executive Jensen Huang (Sarah Meyssonnier/Pool via AP)\n\nThe stock\u2019s movement carries more weight on the S&P 500 (^GSPC) and other indexes than every company except Apple. Two years ago, Nvidia\u2019s market value was below 600 billion dollars (\u00a3441 billion).\n\nIn its most recent quarter, Nvidia overcame tariff-driven turbulence to deliver another quarter of robust growth amid feverish demand for its high-powered AI chips.\n\nNvidia earned 18.8 billion dollars (\u00a313.8 nillion) in the period, a 26% increase from the same time last year.\n\nRevenue surged 69% from a year ago to 44.1 billion dollars (\u00a332.5 billion).\n\nIf not for a 4.5 billion dollar (\u00a33.3 billion) charge that Nvidia absorbed to account for the US government\u2019s restrictions on its chip sales to China, Nvidia would have made 96 cents (71p) per share, far above the 73 cents (54p) per share envisioned by analysts.\n\nNvidia reports its second-quarter results next month. Wall Street is expecting another quarter of record sales and profit for the Santa Clara, California, company.\n\nNvidia and other companies benefiting from the AI boom have been a major reason the S&P 500 has climbed to record after record recently.\n\nTheir explosion of profits has helped to propel the market despite worries about stubbornly high inflation and possible pain coming for the US economy from tariffs and other policies of President Donald Trump.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.93
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.95
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.95
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia (NVDA) breaks record as first public company worth 4 trillion dollars; shares rise 2.5% to 164 dollars each, surpassing Microsoft, Apple, Amazon, and Google."
+    },
+    "date": "2025-07-09T09:07:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/chipmaker-nvidia-hits-4-trillion-150050946.html",
+    "title": "Chipmaker Nvidia hits $4 trillion making it world\u2019s most valuable company Chipmaker Nvidia became the first public company to top $4 trillion in value on Wednesday after a two-year investor frenzy.View on euronews",
+    "detail": "Chipmaker Nvidia hits $4 trillion making it world\u2019s most valuable company\nChipmaker Nvidia hits $4 trillion making it world\u2019s most valuable company \u00b7 Euronews\nAP & Doloresz Katanich\nWed, Jul 9, 2025, 9:27 AM 1 min read\nIn This Article:\nNVDA\nAAPL\nMSFT\nGOOGL\n^SPX\n\nNvidia shares rose 2.5%, or $3.97, in early trading Wednesday, topping $164 each. At the beginning of 2023, Nvidia shares were around $14 each.\n\nThe poster child of the AI boom, Nvidia has grown into the most valuable company in the world, surpassing Microsoft, Apple, Amazon and Google parent, Alphabet. The stock\u2019s movement carries more weight on the S&P 500 and other indexes than every company except Apple. Two years ago, Nvidia\u2019s market value was below $600 billion (\u20ac512bn).\n\nIn its most recent quarter, Nvidia overcame tariff-driven turbulence to deliver another quarter of robust growth amid feverish demand for its high-powered AI chips.\n\nNvidia earned $18.8bn (\u20ac16bn), or 76 cents per share, in the period, a 26% increase from the same time last year. Revenue surged 69% from a year ago to $44.1bn (\u20ac37.6bn). If not for a $4.5bn (\u20ac3.8bn) charge that Nvidia absorbed to account for the US government\u2019s restrictions on its chip sales to China, Nvidia would have made 96 cents per share, far above the 73 cents per share envisioned by analysts.\n\nRelated\n\nNvidia shares surge as earnings beat despite chip export restrictions to China\n\nNvidia is on track to become the most valuable company in history\n\nNvidia reports its second-quarter results next month. Wall Street is expecting another quarter of record sales and profit for the Santa Clara, California, company.\n\nNvidia and other companies benefitting from the AI boom have been a major reason the S&P 500 has broken record after record recently. Their explosion of profits has helped to propel the market despite worries about stubbornly high inflation and possible pain coming for the US economy from tariffs and other policies of President Donald Trump.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.95
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.95
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia becomes world's most valuable company at $4 trillion; shares rise 2.5%. In Q1, Nvidia overcomes tariff-related turbulence, delivering robust growth with increased earnings of $18"
+    },
+    "date": "2025-07-09T09:27:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/instant-view-nvidia-becomes-first-143503386.html",
+    "title": "Instant View: Nvidia becomes first company to hit $4 trillion in market value Shares of the leading chip designer rose as much as 2.5% to an all-time high of $164 earlier in the morning trading, as the company is benefiting from the ongoing surge in demand for artificial intelligence technologies.",
+    "detail": "Nvidia becomes first company to hit $4 trillion in market value\nReuters\nWed, Jul 9, 2025, 8:35 AM 3 min read\nIn This Article:\nNVDA\nMSFT\nMETA\n\n(Reuters) -Nvidia notched a market capitalization of $4 trillion on Wednesday, making it the first public company in the world to reach the milestone and solidifying its position as one of Wall Street's most-favored stocks.\n\nShares of the leading chip designer were last up 1.63%, at $162.61, after reaching an all-time high of $164 earlier, as the company is benefiting from the ongoing surge in demand for artificial intelligence technologies.\n\nCOMMENTS:\n\nMICHAEL ASHLEY SCHULMAN, CHIEF INVESTMENT OFFICER, RUNNING POINT CAPITAL, LOS ANGELES\n\n\u201cThere\u2019s a risk to investors of Amazon, Microsoft and Meta designing their own chips and working around Nvidia and not using them much, relying on their own designs. That\u2019s competition. There\u2019s also the risk of quantum computing. Nvidia says quantum computing is still 10 to 15 years away. But that\u2019s because they don\u2019t have a quantum chip. Other people think quantum computing may be only 5 to 7 years out and it could easily surpass Nvidia in capabilities.\u201d\n\nDAN MORGAN, SENIOR PORTFOLIO MANAGER, SYNOVUS TRUST\n\n\"With Nvidia representing the key stock for AI capex, it appears the AI capex deceleration has bottomed. Of the top four hyperscalers \u2013Amazon, Microsoft, Meta and Alphabet \u2013 are collectively estimated to spend north of $330 billion in capex in 2025 to build out their AI presence. This compares to a combined CAPEX estimate spend rate of $240 Billion in 2024.\"\n\n\"The biggest doubt hanging over Nvidia stock is whether sales growth will slow later this year as customers transition from the Hopper series to the shipment of the new Blackwell chips.\"\n\nGIL LURIA, ANALYST, D.A. DAVIDSON, PORTLAND, OREGON\n\n\"While it is unlikely that Nvidia will continue to dominate the AI chip market to the same extent going forward, it will continue to be the main provider of AI computer hardware into an insatiable market for AI data centers. While its valuation is towards the high end of historical ranges, Nvidia also has better visibility into a continued investment cycle than it typically does during a cycle.\"\n\nCHUCK CARLSON, CHIEF EXECUTIVE OFFICER, HORIZON INVESTMENT SERVICES, HAMMOND, INDIANA\n\n\"It's a continuing reflection of investors wanting to be on the right side of the AI movement, and Nvidia is kind of the golden child for AI investment. The company is still putting up growth numbers. It clearly is the leader in that field, and it's a must-have if you want exposure to AI and generative AI and accelerated computing.\"\n\nART HOGAN, CHIEF MARKET STRATEGIST, B RILEY WEALTH, NEW YORK\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.95
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.78
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia reaches $4T market cap, maintaining top investor favor amid AI tech demand; potential risks from competitors' self-designing chips and quantum computing noted."
+    },
+    "date": "2025-07-09T08:35:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-becomes-first-company-reach-142757367.html",
+    "title": "Nvidia becomes first company to reach $4 trillion market cap amid AI boom Investing.com -- NVIDIA (NASDAQ:NVDA) on Wednesday became the first company in history to surpass a $4 trillion market value, as investor enthusiasm for artificial intelligence continued to fuel a dramatic rally in the chipmaker\u2019s shares. The stock rose 2.7% to close at $164.32, topping the approximate $163.93 level needed to push Nvidia\u2019s market capitalization past the $4 trillion threshold. The strong advance comes following Nvidia\u2019s blockbuster first-quarter results in May, which came despite",
+    "detail": "Nvidia becomes first company to reach $4 trillion market cap amid AI boom\nFrank DeMatteo\nWed, Jul 9, 2025, 8:27 AM 2 min read\nIn This Article:\nNVDA\n\nInvesting.com -- NVIDIA (NASDAQ:NVDA) on Wednesday became the first company in history to surpass a $4 trillion market value, as investor enthusiasm for artificial intelligence continued to fuel a dramatic rally in the chipmaker\u2019s shares. However, the stock pulled back in afternoon trading and closed just shy of the new milestone.\n\nNVIDIA shares closed the session up 1.8% to $162.88, just shy of the approximate $163.93 level needed to push Nvidia\u2019s market capitalization past the $4 trillion threshold. It reached as high as $164.42 intra-day.\n\nThe strong advance comes following Nvidia\u2019s blockbuster first-quarter results in May, which came despite China-related write-downs and concerns over DeepSeek.\n\nAt that time, Chief Executive Jensen Huang pointed to four unexpected tailwinds accelerating demand for the company\u2019s products.\n\nThe first, he said, is a sharp uptick in demand for \u201creasoning AI,\u201d or models capable of more complex and contextual inference. \u201cIt\u2019s fairly clear now that AI is going through exponential growth,\u201d Huang said, noting that recent progress has helped ease concerns around hallucination and reliability.\n\nSecond, Huang cited the recent rollback of international AI export restrictions, calling the move a pivotal shift for U.S. technology leadership. \u201cPresident Trump wants America to win,\u201d he said. \u201cTo do that, the American stack needs to be out in the world.\u201d\n\nEnterprise AI marked the third surprise. Huang highlighted rising adoption of agent-based systems in business software and noted strong momentum behind Nvidia\u2019s RTX Pro Enterprise server platform.\n\nLastly, Huang said the reshoring of global manufacturing is boosting demand for industrial AI. He emphasized opportunities tied to the buildout of new factories, calling AI infrastructure \u201cthe fourth pillar,\u201d alongside compute, storage, and networking.\n\n\u201cThese four vectors are really kicking into turbocharge,\u201d Huang said.\n\nWeighing in on the milestone, NVIDIA bull Dan Ives of Wedbush called it a \"historical moment\" and expects the chipmaker to get some company at that valuation level over the near term.\n\n\"This is a historical moment for Nvidia, the tech space flexing its muscles, and speaks to the AI Revolution hitting its next stage of growth led by the one chip fueling AI...Nvidia,\" Ives commented. \"The poster childs for the AI Revolution are led by Nvidia and Microsoft Corporation (NASDAQ:MSFT) as both are foundational pieces of building on the biggest tech trend we have seen in our 25 years covering tech stocks on the Street. We believe Microsoft will also hit the $4 trillion market cap club this summer and then over the next 18 months the focus will be on the $5 trillion club....as this tech bull market is still early being led by the AI Revolution.\"\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.88
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.95
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.02
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA (NASDAQ:NVDA) nears $4T market cap after Q1 earnings, despite China-related issues; shares close at $162.88, short of $163.93"
+    },
+    "date": "2025-07-09T08:27:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/chipmaker-nvidia-becomes-most-valuable-141727402.html",
+    "title": "Chipmaker Nvidia becomes most valuable company in the world at $4 trillion Chipmaker Nvidia became the first public company to top $4 trillion in value Wednesday after a two-year investor frenzy driven by the artificial intelligence boom.  Nvidia shares rose 2.5%, in early trading Wednesday, topping $164 each.  At the beginning of 2023, Nvidia shares were around $14 each.",
+    "detail": "AI kingpin Nvidia crowned as first public company with a $4 trillion valuation\nMICHAEL LIEDTKE\nWed, Jul 9, 2025, 8:17 AM 3 min read\nIn This Article:\nNVDA\nAAPL\n\nSAN FRANCISCO (AP) \u2014 Silicon Valley chipmaker Nvidia on Wednesday became the first publicly traded company to surpass a $4 trillion market valuation, putting the latest exclamation point on the investor frenzy surrounding an artificial intelligence boom powered by its industry-leading processors.\n\nAlthough Nvidia's market value dipped back below $4 trillion by the time the stock market closed, reaching the milestone highlighted the upheaval being unleashed by an AI craze that's widely viewed as the biggest tectonic shift in technology since Apple co\u2014founder Steve Jobs unveiled the first iPhone 18 years ago. Underscoring the changing of the guard, AI bellwether Nvidia is now worth $900 billion more than Apple, which rode the iPhone's success to become the first publicly traded company to valued at $1 trillion, $2 trillion and eventually, $3 trillion.\n\nNvidia's rise as come as Apple has struggled to deliver on its ambitions to infuse the iPhone and other products with more AI with an array of new features that included a more than year-old promise to smarten up its often bumbling virtual assistant Apple acknowledged last month that delivering on its AI vision is going to take until at least next year, leading some industry analysts to wonder if the company will have to acquire an AI start-up to regain momentum.\n\nIn the meantime, former Apple design guru Jony Ive has joined forces with OpenAI to work on a wearable AI device that could challenge the iPhone while Nvidia has been scrambling to meet the feverish demand for its specialized chips that power the energy-intensive data centers underlying artificial intelligence.\n\nAnd tech giants Microsoft, Amazon, Google parent Alphabet and Facebook parent Meta Platforms are upping the AI ante too, collectively budgeting about $325 billion for investments in the technology this year \u2014 with a significant amount of that money likely to flow into Nvidia's coffers.\n\nThe ravenous appetite for Nvidia's chips are the main reason that the company's stock price increased by 10-fold since early 2023, catapulting its market value from about $400 billion to $4 trillion. After exceeding $4 trillion for the first time early Wednesday, Nvidia's shares backtracked below that threshold at their closing price of $162.88.\n\nBut most analysts don't expect the price to stay below $163 for long. In a sign of the pervasive optimism surrounding Nvidia, CFRA analyst Angelo Zino on Wednesday issued a research note predicting the stock will climb to $196 within the next year to push the company's market value to $4.8 trillion.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"Nvidia becomes first public company to reach $4 trillion valuation amid AI boom; now worth $900B more than Apple.\""
+    },
+    "date": "2025-07-09T08:17:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/asian-markets-mixed-trump-flags-025535022.html",
+    "title": "European stocks brush off Trump's copper, pharma tariff threats Global stock markets rose Wednesday, brushing off US President Donald Trump's tariff threats on copper and pharmaceuticals.\u00a0The US president reignited trade jitters Tuesday by announcing a 50 percent toll on copper imports and saying he was looking at 200 percent tariffs on pharmaceuticals.",
+    "detail": "Global stocks mostly up despite new Trump tariffs, Nasdaq at record\nAFP\nWed, Jul 9, 2025, 4:16 PM 3 min read\nIn This Article:\n^IXIC\nHG=F\nDonald Trump said he will impose 50 percent tariffs on copper (FRANCOIS LO PRESTI)\n\nThe Nasdaq powered to a fresh record and major European markets closed in the green Wednesday, brushing off US President Donald Trump's growing array of tariff targets.\n\nAfter releasing tariff warning letters to seven additional countries early Wednesday afternoon, Trump followed up late in the afternoon with a threatened 50 percent levy on Brazil.\n\nTrump tied the levy -- which is more severe than those facing dozens of other countries -- to Brazil's prosecution of former president Jair Bolsonaro over an alleged attempted coup following the 2022 election, when Bolsonaro was defeated by President Luiz Inacio Lula da Silva.\n\nTrump, who spent last week successfully lobbying Congress for his sweeping fiscal legislation, has returned to tariffs with a vengeance this week.\n\nOn Monday, Trump sent letters to Japan and South Korea, among other countries. On Tuesday, the US president announced a potential 50 percent toll on copper imports, and said he was looking at 200 percent tariffs on pharmaceuticals.\n\nThe news sent the price of copper -- with a wide range of uses including in cars, construction and telecoms -- to a record high Tuesday.\n\nBut Kathleen Brooks, research director at XTB, said Wednesday \"the market is not taking Trump at his word when it comes to tariffs, and the market impact has been limited so far.\"\n\nThe tech-rich Nasdaq Composite Index vaulted nearly one percent higher to a fresh all-time high, while artificial intelligence giant Nvidia touched $4 trillion in market value before falling back slightly.\n\n\"The market is certainly not acting as if it's fearing the tariffs,\" said Briefing.com analyst Patrick O'Hare. \"Obviously, there's been a lot of attention on the tariff letters that have gone out this week, but the market is operating on the assumption that they are just negotiating tools and that, ultimately, better terms will be reached.\"\n\nEuropean markets were also shrugging off risks of a trade war.\n\nGermany's Dax hit a new high as it posted a 1.4 percent gain, matched by the CAC 40 in Paris. London could only manage a gain of just under 0.2 percent.\n\nBut Chris Beauchamp, chief market analyst at online trading platform\u00a0IG, urged caution as \"reports suggesting that Trump relishes the actual dealmaking process more than an actual resolution seem to suggest that a further delay to tariffs will be forthcoming, although this is an approach fraught with risk.\"\n\nEarlier in Asia, Tokyo gains were tempered by losses in Hong Kong and Shanghai.\n\n- Key figures at around 2130 GMT -\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.73
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite new Trump tariffs, Nasdaq hits record high, unaffected by 50% levy on Brazil due to political reasons."
+    },
+    "date": "2025-07-09T16:16:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/chipmaker-nvidia-surpassed-4-trillion-140839577.html",
+    "title": "The chipmaker Nvidia surpassed $4 trillion in market valuation, the first company ever to do so The chipmaker Nvidia surpassed $4 trillion in market valuation, the first company ever to do so.",
+    "detail": "The chipmaker Nvidia surpassed $4 trillion in market valuation, the first company ever to do so\nAssociated Press Finance\nWed, Jul 9, 2025, 8:08 AM\nIn This Article:\nNVDA\n\nNEW YORK (AP) \u2014 The chipmaker Nvidia surpassed $4 trillion in market valuation, the first company ever to do so.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.95
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.95
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Chipmaker Nvidia breaks new ground, reaching $4 trillion market cap as first company to achieve this milestone."
+    },
+    "date": "2025-07-09T08:08:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-beats-apple-microsoft-become-140727314.html",
+    "title": "Nvidia beats Apple and Microsoft to become the world\u2019s first $4 trillion public company Nvidia on Wednesday hit $4 trillion in market value, making it the first publicly traded company to hit that milestone.",
+    "detail": "Nvidia beats Apple and Microsoft to become the world\u2019s first $4 trillion public company\nLisa Eadicicco and John Towfighi, CNN\nWed, Jul 9, 2025, 2:07 PM 4 min read\nIn This Article:\nNVDA\nAAPL\nMSFT\nTaiwanese CEO of NVIDIA Jensen Huang speaks during a conference as part of the 9th edition of the Vivatech technology startups and innovation fair, at the Dome de Paris in the Porte de Versailles exhibition centre in Paris, on June 11, 2025. - Thibaud Moritz/AFP/Getty Images\n\nNvidia on Wednesday briefly hit $4 trillion in market value, making it the first publicly traded company to hit that milestone.\n\nNvidia stock rose 2.76% after the market opened on Wednesday to hit an intraday record high that pushed its market value above the $4 trillion mark.\n\nNvidia then pared its gains but finished the day up by 1.8%, putting the company\u2019s market value at just below $4 trillion.\n\nNvidia beat Apple and Microsoft to the $4 trillion mark. Apple entered this year as the world\u2019s most valuable company at just about $3.9 trillion before tumbling in recent months amid President Donald Trump\u2019s tariff turmoil. Nvidia and Microsoft traded places as the world\u2019s most valuable company in recent months, before Nvidia surged ahead to reach the $4 trillion mark first.\n\nThe US chipmaker has had a remarkable march to record highs and has soared around 21% this year, thanks to its leading role powering the artificial intelligence boom.\n\nNvidia\u2019s chips power the data centers that companies like Microsoft, Amazon and Google need to fuel their AI models and cloud services \u2014 and AI investments are only expected to grow. Global spending on AI infrastructure is expected to surpass $200 billion by 2028, according to market research firm The International Data Corporation.\n\nNvidia generated $44.1 billion in revenue for the quarter that ended in April, up 69% from the same period a year ago.\n\n\u201cThere is one company in the world that is the foundation for the AI Revolution and that is Nvidia,\u201d Wedbush Securities analyst Dan Ives wrote in a research note on June 27.\n\nThe company rose to fame for its graphics processing units, which have become a favorite among PC gamers. Now it is charging ahead with new AI models designed to power autonomous robots and vehicles. At its annual developers conference in March, it announced an update to its sought-after Blackwell chip called Blackwell Ultra, which it says will better support AI models with more sophisticated reasoning capabilities.\n\nNvidia hit $1 trillion in May 2023.\n\n\u201cThis is a historical moment for Nvidia, the tech space flexing its muscles, and speaks to the AI Revolution hitting its next stage of growth led by the one chip fueling AI \u2026 Nvidia,\u201d Ives said in emailed commentary Wednesday. He added that he believes Microsoft, which currently has a valuation around $3.77 trillion, will also cross the $4 trillion threshold this summer.\n\nNvidia\u2019s role in the AI gold rush has made CEO Jensen Huang one of the world\u2019s richest people \u2014 as of Tuesday, Bloomberg Billionaire\u2019s Index pegged him as the tenth wealthiest person, with a net worth of $140 billion. The executive has also found himself in Trump\u2019s orbit, raising his profile beyond the tech industry.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.9
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.95
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.95
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia becomes the first $4 trillion public company, surpassing Apple and Microsoft."
+    },
+    "date": "2025-07-09T14:07:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/samsungs-bet-foldable-phones-faces-140431799.html",
+    "title": "Samsung's bet on foldable phones faces major test with slimmer new model SEOUL (Reuters) -Samsung Electronics on Wednesday unveiled thinner, lighter new foldable phones as it aims to fend off Chinese competition in the higher-margin, premium segment that remains untapped by arch rival Apple.  The South Korean company lost its global smartphone crown to Apple in 2023, and faces growing competition from Chinese rivals like Huawei and Honor.  Meanwhile, Samsung's mainstay chip business has suffered a profit slump stemming in part from its delayed supply of artificial intelligence chips to Nvidia.",
+    "detail": "Samsung to fend off Chinese foldable phone rivals with slimmer model\nHyunjoo Jin and Heekyong Yang\nWed, Jul 9, 2025, 8:04 AM 3 min read\nIn This Article:\nGOOG\nQCOM\nNVDA\nAAPL\nSSNLF\n\nBy Hyunjoo Jin and Heekyong Yang\n\nSEOUL (Reuters) -Samsung Electronics on Wednesday unveiled thinner, lighter foldable phones as it aims to fend off Chinese competition in the higher-margin, premium segment that remains untapped by arch rival Apple.\n\nThe stakes are high. The South Korean company lost its global smartphone crown to Apple in 2023 and faces growing competition from Chinese rivals like Huawei and Honor.\n\nMeanwhile, Samsung's mainstay chip business has suffered a profit slump stemming in part from its delayed supply of artificial intelligence chips to Nvidia.\n\nSamsung's mobile president and chief operating officer, Choi Won-joon, said his most important mission was to make Samsung a leader in AI-powered smartphones.\n\n\"I believe that foldable phones, integrated with AI features, are ready to become mainstream by offering a unique, differentiated experience,\" he told Reuters in his first media interview since being promoted in March.\n\nHe said Samsung aims to take a leadership position in AI by enhancing cooperation with external partners like Google, unlike Apple, which has been using in-house AI technology that has faced delays in adding key features.\n\nSamsung also in New York unveiled its first smartwatches equipped with Google's AI voice assistant, Gemini, which can make recommendations to the owner such as good locations for a run.\n\nPREMIUM HALO\n\nSamsung said in April that it was pushing ahead with a premium product strategy as U.S. tariffs threatened to dampen demand and raise component costs.\n\nThe smartphone maker increased the U.S. price of its Galaxy Z Fold 7 by 5% to $1,999 from its predecessor Fold 6, while introducing a less expensive version of its Galaxy Z Flip 7 clamshell phone, Flip 7 FE, priced at $899.\n\nGalaxy Z Fold 7 is equipped with Qualcomm's super-fast processor Snapdragon 8 Elite, while Galaxy Z Flip 7 is powered by Samsung's in-house Exynos chips.\n\nAnalysts said Samsung's new models tackled some of the issues with foldable phones such as bulkiness, and would create a premium halo around the brand. The Galaxy Z Fold 7 weighs 10% less than its predecessor and is 26% thinner.\n\nBut high prices and a lack of use cases mean foldable phones are likely to remain a niche segment, the analysts said, with data from research firm IDC showing they account for just 1.5% of the total smartphone market.\n\nResearch firm Canalys predicts Samsung's foldable shipments, which peaked in 2022, will remain flat or slightly decline in 2025, in line with the broader market's flat growth, according to data provided to Reuters.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.53
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.15
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Samsung unveils thinner, lighter foldable phones to counter Chinese competition; Samsung's chip business struggles due to delayed AI chip supply to Nvidia."
+    },
+    "date": "2025-07-09T08:04:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/planned-nvidia-expansion-israel-prompts-140211616.html",
+    "title": "Planned Nvidia expansion in Israel prompts multiple offers of sites JERUSALEM (Reuters) -Nvidia has received a high number of offers of potential sites to help it carry out a plan to greatly expand its operations in Israel to meet growing demand for artificial intelligence data centres, two sources told Reuters.  The Santa Clara-based Nvidia, which has become the most valuable company in history at $4 trillion, earlier this week issued a request for information, or RFI, to buy land to build a new campus near its facility in northern Israel that industry sources estimated would cost billions of dollars and create thousands of jobs.  Nvidia, a leading designer of high-end AI chips, entered Israel in 2020 after buying Mellanox Technologies for nearly $7 billion.",
+    "detail": "Planned Nvidia expansion in Israel prompts multiple offers of sites\nSteven Scheer\nWed, Jul 9, 2025, 8:02 AM 3 min read\nIn This Article:\nNVDA\n\nBy Steven Scheer\n\nJERUSALEM (Reuters) -Nvidia (NVDA) has received a high number of offers of potential sites to help it carry out a plan to greatly expand its operations in Israel to meet growing demand for artificial intelligence data centres, two sources told Reuters.\n\nThe Santa Clara-based Nvidia, which has become the most valuable company in history at $4 trillion, earlier this week issued a request for information, or RFI, to buy land to build a new campus near its facility in northern Israel that industry sources estimated would cost billions of dollars and create thousands of jobs.\n\nNvidia, a leading designer of high-end AI chips, entered Israel in 2020 after buying Mellanox Technologies for nearly $7 billion. It is located in Yokne'am, where many tech companies are based, near the northern port city of Haifa.\n\nNvidia in Israel declined to comment beyond its RFI.\n\nA third source, speaking on condition of anonymity because they were not authorised to speak to the press, said the company received \"dozens and dozens and dozens\" of offers from municipalities and others, not all near Haifa.\n\nNvidia has set a July 23 deadline for offers to build its campus of up to 180,000 square metres.\n\nFor its part, the Haifa municipality said it was \"currently busy preparing an attractive offer for the company. We think we are the city with the best potential for them.\"\n\nA race among Microsoft,, Meta Platforms, Alphabet, and Tesla, to build AI data centres and dominate the emerging technology has led to a surge in demand for Nvidia's high-end processors.\n\nOne of the sources said Israel's expertise was \"extremely important to the AI era\" and Nvidia needed to expand rapidly.\n\nThe company has already nearly tripled in size in Israel since its acquisition of Mellanox, which a source said contributed to $13 billion in revenue to Nvidia last year. The company has not confirmed the figure.\n\nNvidia has also made a number of other acquisitions over recent years in the country where it has 5,000 employees.\n\nIt has also built Israel's most powerful AI supercomputer that was a blueprint for Elon Musk's Colossus supercomputer.\n\nDror Bin, CEO of the Israel Innovation Authority, said the new Nvidia campus will be massive and could house \"a few thousand employees\".\n\n\"Nvidia sees its operation in Israel as something which is going to stay here for a very long time and to expand here,\" he told Reuters. \"This declaration is a sign of confidence in Israel.\"\n\nNvidia's planned expansion in Israel comes as rival Intel - in Israel since 1974, and one of the country's largest employers at 9,350 - has begun to trim its workforce globally. Israel media said a few hundred workers in Israel are being made redundant.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.69
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia receives multiple site offers for Israeli expansion, aiming to build new AI data center campus."
+    },
+    "date": "2025-07-09T08:02:00"
+  }
+]

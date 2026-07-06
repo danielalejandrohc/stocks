@@ -1,0 +1,281 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/one-tech-giant-is-getting-buried-in-the-record-setting-stock-market-144549770.html",
+    "title": "One tech giant is getting buried in the record-setting stock market With earnings next week, analysts still see upside for Netflix, citing strong trends, a hit content sale, and growing ad revenue.",
+    "detail": "One tech giant is getting buried in the record-setting stock market\nFrancisco Velasquez\nFri, Jul 11, 2025, 8:45 AM 2 min read\nIn This Article:\nMETA\nAMZN\nNVDA\nNFLX\n\nNetflix (NFLX) has gone missing in the market's summer rally.\n\nNetflix stock has fallen 5.5% in July, a stark contrast to the continued surge of Big Tech companies like Meta (META), Amazon (AMZN), and Nvidia (NVDA), which surpassed the $4 trillion market cap earlier this week. The streaming giant's recent struggles are particularly striking given its performance over the past year, which saw it consistently surpass Wall Street expectations with substantial subscriber growth, impressive earnings, and expanding profit margins.\n\nEvercore ISI analysts led by Mark Mahaney wrote in a note that Netflix is among the \"least risky\" large-cap internet names heading into earnings. They cited strong subscriber satisfaction trends and growing ad tier traction.\n\n\"NFLX has a very consistent recent track record of exceeding its revenue and operating income guidance,\" Mahaney said. Shares of Netflix are up more than 90% over the past year.\n\nNetflix is set to report second quarter earnings on July 17. JPMorgan analysts anticipate revenue of roughly $11 billion and operating income north of $3.7 billion, both solid double-digit growth from a year ago. The company's 2025 outlook boasts projected revenue approaching $45 billion, operating margins around 30%, and free cash flow as high as $9 billion.\n\nStill, the recent sell-off reflects rising investor hesitation around valuation and future upside. JPMorgan, which downgraded Netflix to Neutral, reaffirmed that call this week, citing a less compelling risk/reward profile following the stock's sharp run-up. It maintained a $1,230 price target and warns that Netflix's near-term may already be priced in.\n\nEvercore ISI echoed a similar tone, noting that Netflix now trades at around 41 times forward earnings, a level that leaves little room for error. Just three months ago, Evercore ISI described the space as being in a \"Net Stock Bear Market,\" with many large-cap internet names trading near trough valuations.\n\nNow, that sentiment has reversed. Many of those same names have surged 40% or more since April, driving what Evercore ISI called a \"Net Stock Bull Market.\"\n\nWith stock prices soaring, investors appear to be rotating into names with cleaner setups, or taking some chips off the table in names like Netflix, where expectations are already high.\n\nBut the company's fundamentals remain strong. Netflix's ad-supported business reaches roughly $94 million monthly users globally, per Evercore ISI. Ad revenue is expected to double in 2025.\n\nContent momentum is also building. The second half of 2025 includes the return of \"Squid Game,\" \"Wednesday,\" and \"Stranger Things.\" The company has been steadily raising prices and expanding globally, driving stronger-than-expected average per revenue in several markets.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.77
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.3948
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.1
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite recent struggles, Netflix (NFLX) contrasts with the ongoing rally of Big Tech peers like Meta (META), Amazon (AMZN), and Nvidia (NVDA). Evercore ISI analysts view NFLX as"
+    },
+    "date": "2025-07-11T08:45:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-eke-out-fresh-records-nvidia-closes-at-4t-market-cap-200027558.html",
+    "title": "Stock market today: S&P 500, Nasdaq eke out fresh records, Nvidia closes at $4T market cap Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.",
+    "detail": "Stock market today: S&P 500, Nasdaq eke out fresh records, Nvidia closes at $4T market cap\nBrett LoGiurato, Karen Friar and Ines Ferr\u00e9\nUpdated Thu, Jul 10, 2025, 3:44 PM 2 min read\nIn This Article:\n^GSPC\nNVDA\nBTC-USD\n^DJI\n^SPX\n\nUS stocks rose to eke out fresh record highs on Thursday, as Nvidia (NVDA) ticked higher following a major milestone and bitcoin (BTC-USD) surged to a new record amid fresh tariff threats from President Trump.\n\nThe Dow Jones Industrial Average (^DJI) rose around 0.4% on the heels of a winning day for the major gauges. Meanwhile, the S&P 500 (^GSPC) added about 0.3% to close at a fresh record of 6,280.46, while the tech-heavy Nasdaq Composite (^IXIC) rose 0.1%, to notch its second straight all-time high.\n\nAI chipmaker Nvidia edged higher to close just above $4 trillion market cap, after becoming the first public company to ever cross the threshold.\n\nMeanwhile, bitcoin vaulted to a fresh all-time high, breaking above $113,000 as investors went risk-on across assets.\n\nMarkets were making sense of Trump's latest salvos on tariffs, which have done little to sap the ebullient mood that has pervaded for more than two months. After Wednesday's market close, Trump issued his most stringent threat yet, threatening Brazil with rates of 50% on its imports.\n\nMeanwhile, Delta (DAL) kicked off second quarter earnings season with its report. Shares of the airline jumped 12% as the carrier restored its earnings outlook, citing \"greater clarity\" as trade deals get done.\n\nMarket focus remains on potential trade pacts with bigger US trading partners, such as the EU, India, and Canada. While Trump has said a pact with India is close, the odds have narrowed after he warned of an extra 10% tariff on BRICS members.\n\nRead more: The latest on Trump's tariffs\n\nAmping up the pressure for deals, Trump has sent 22 letters to the heads of countries this week. Each has a similar formula, dictating the tariff rates he says will apply to their imports starting Aug. 1.\n\nIn other news, jobless claims for the week ending July 5 were 227,000, a 5,000 decline from the previous week's revised level. The update comes as investors look for signs of how quickly the labor market is cooling as an indication of when the Federal Reserve will move to cut rates.\n\nLIVE COVERAGE IS OVER 23 updates\nThu, July 10, 2025 at 8:02 PM UTC\nInes Ferr\u00e9\nStocks post record highs as Nvidia closes at $4T market cap and bitcoin hits all-time highs\n\nStocks inched higher on Thursday with the S&P 500 (^GSPC) eking out a fresh record, topping its previous all-time closing high of 6,279.35 one week ago.\n\nThe Nasdaq Composite (^IXIC) also hit its second record close in a row as investors went risk-on.\n\nAI chipmaker Nvidia (NVDA) closed at a $4 trillion market valuation, and bitcoin (BTC-USD) surged above $113,000 for the first time. The cryptocurrency is up roughly 21% year to date.\n\nThe Dow Jones Industrial Average (^DJI) also rose roughly 0.4%.\n\nThu, July 10, 2025 at 7:30 PM UTC\nInes Ferr\u00e9\nBitcoin surges to new highs above $113,000 as investors go risk on\n\nBitcoin (BTC-USD) vaulted to a fresh all-time high Thursday, breaking above $113,000 amid a wave of bullish momentum across risk assets.\n\nThe token's price action coincides with AI giant Nvidia's (NVDA) surge to a $4 trillion valuation, highlighting crypto's tie with tech. The tech-heavy Nasdaq Composite (^IXIC) hit a fresh record on Wednesday, and the S&P 500 (^GSPC) was headed that way on Thursday.\n\n\"Historically, Bitcoin has remained highly correlated with tech stocks, and this correlation is still playing out,\" Nic Puckrin, crypto analyst and founder of the Coin Bureau, wrote on Thursday morning.\n\nRead more here.\n\nThu, July 10, 2025 at 6:52 PM UTC\nAllie Canal\nStocks on pace for a record close\n\nStocks are on track to notch fresh record highs. With roughly an hour left in the trading session, the S&P 500 (^GSPC) was seen trading above 6,285, topping its previous all-time high of 6,279.35 one week ago.\n\nThe Nasdaq Composite (^IXIC), which hit a record close on Wednesday, added another 0.2% as Nvidia (NVDA) hovered near its $4 trillion market valuation, helping extend the index\u2019s gains.\n\nThe Dow Jones Industrial Average (^DJI) also traded in positive territory, rising about 250 points, though it remains below its record highs seen earlier in the year.\n\nThu, July 10, 2025 at 6:11 PM UTC\nAllie Canal\nMortgage rates rise for first time since May\n\nYahoo Finance's Shi Bradley reports:\n\nRead more here.\n\nThu, July 10, 2025 at 5:07 PM UTC\nMP Materials soars after $400 million defense department investment\n\nShares of rare earths miner MP Materials (MP) skyrocketed about 45% in mid-afternoon trade on Thursday following news that the US Department of Defense has agreed to purchase $400 million of preferred stock in the company, becoming its largest shareholder.\n\nAccording to the Pentagon, rare earths, used in everything from electric vehicles to advanced military equipment, are \"needed to manufacture the permanent magnets used in important US military weapons systems.\"\n\nThe purchase reflects growing concerns over supply chain vulnerabilities, especially as tensions between the US and China persist. Rare earths have become a key sticking point in trade negotiations between the two countries.\n\nChina accounted for approximately 70% of US rare earth imports in 2023, according to the US Geological Survey. Members of the Trump administration have framed the deal as a strategic move to reduce dependence on Beijing and strengthen national security.\n\nThu, July 10, 2025 at 4:13 PM UTC\nInes Ferr\u00e9\nTraders eye Nvidia for a $4 trillion close\n\nYahoo Finance's Dan Howley reports:\n\nRead more here.\n\nThu, July 10, 2025 at 3:20 PM UTC\nInes Ferr\u00e9\nUnited, American, and Southwest all surge after Delta's outlook lifts fortunes for US airlines\n\nYahoo Finance's Jake Conley reports:\n\nRead more here.\n\nThu, July 10, 2025 at 2:50 PM UTC\nGrace O'Donnell\nFerrero clinches deal to acquire WK Kellogg for $3.1 billion\n\nYahoo Finance's Brooke DiPalma reports:\n\nRead more here.\n\nThu, July 10, 2025 at 2:30 PM UTC\nJobless claims report shows why Fed rate decision is complicated\n\nNew government data showed that weekly jobless claims unexpectedly fell during the week ended July 5. But a deeper look shows a more mixed picture.\n\nInitial jobless claims came in at 227,000, a decline of 5,000 from the previous week's revised level. Analysts were expecting 235,000 claims, per Reuters. Meanwhile, continuing claims, which lag the headline data by a week, ticked up to 1.97 million.\n\nInvestors have been closely watching labor market data for clues on when the Fed could next cut interest rates. The central bank is weighing its dual mandate of price stability versus full employment. While the labor market doesn't appear to be cooling significantly yet, some cracks have emerged.\n\nAs of Thursday morning, investors were placing a 93% chance on the Fed holding rates steady at its July meeting. The probability of that scenario was 30% for its September meeting.\n\nThu, July 10, 2025 at 2:12 PM UTC\nGrace O'Donnell\nRamaco Resources stock soars after massive rare earths elements deposit confirmed in Wyoming\n\nRamaco Resources stock (METC) surged more than 27% in early trading on Thursday after the Fluor Corporation (FLR) confirmed large rare earth element deposits at Ramaco's Brook Mine in Wyoming.\n\nAccording to Fluor's assessment, the rare earth deposits at Brook Mine are not only abundant but also economically viable, per FreightWaves. Rare earths are used in many products, from electric vehicles to military systems.\n\nThe feasibility of this mine marks a strategic pivot for the Kentucky-based Ramaco, which was known for its coal-mining operations in Appalachia. It also positions Ramaco Resources as a key player in the lucrative rare earths market, which has been in focus as the US looks to reduce its dependency on foreign critical minerals and China, in particular, which controls roughly 85% of global rare earths production.\n\nRead more here.\n\nThu, July 10, 2025 at 1:32 PM UTC\nInes Ferr\u00e9\nStocks open flat on tariff uncertainty as Nvidia rises\n\nStocks on Wall Street opened mostly flat as investors eyed trade developments with an Aug. 1 date for implementing tariff hikes looming.\n\nMeanwhile, Nvidia (NVDA) shares were headed toward a new record after touching a $4 trillion market cap in the prior session.\n\nThe Dow Jones Industrial Average (^DJI) inched down 0.1%, while the S&P 500 (^GSPC) and the Nasdaq (^IXIC) were little changed.\n\nThu, July 10, 2025 at 1:05 PM UTC\nGrace O'Donnell\nAirline stocks rally after Delta restores guidance\n\nUS airline stocks rose across the board after Delta (DAL) \u2014 the first airline to report earnings for the June quarter \u2014 posted upbeat results.\n\nUnited Airlines (UAL) gained 9.5% in premarket trading. American (AAL) rose nearly 9%. And Southwest (LUV) added 3.6%.\n\nDelta sparked the rally after indicating that bookings had stabilized in the most recent quarter. The Atlanta-based airline had pulled its guidance amid a swirl of \"Liberation Day\" tariff uncertainty but now feels confident enough to reinstate that guidance, seeing adjusted earnings in the range of $5.25 a share to $6.25 a share.\n\nRead more here.\n\nThu, July 10, 2025 at 12:38 PM UTC\nGrace O'Donnell\nUS-listed shares of Brazilian companies sink following Trump's 50% tariff threat\n\nUS-listed shares of Brazilian firms fell in premarket trading on Thursday after President Trump warned on Wednesday that he was prepared to slap a 50% tariff on Brazilian goods starting Aug. 1. Previously, the US had signaled it would tax Brazilian imports at a more modest 10%.\n\n\"These Tariffs may be modified, upward or downward, depending on our relationship with your Country,\" Trump wrote in a letter, citing the trial of former president and Trump ally Jair Bolsonaro by Brazil's Supreme Court.\n\nBrazil's state oil company Petrobras (PBR) dropped 2% while Brazil's largest bank, Itau Unibanco (ITUB), lost 3.5%. Banco Santander (SAN) also fell 2.7%.\n\nThe Brazilian real (BRLUSD=X) sank by as much as 2.4% against the US dollar following the escalating tensions.\n\nAs my colleague Jenny McCall noted below, coffee futures (KC=F) also climbed on the tariff news, as around a third of the coffee consumed in the US comes from Brazil. The country also exports significant quantities of orange juice to the US. Orange juice futures (OJ=F) spiked 6% on Thursday morning.\n\nRead more here about the Brazilian markets.\n\nThu, July 10, 2025 at 12:15 PM UTC\nGrace O'Donnell\nCircle stock up 3% on reports that Jack Ma's Ant Group will adopt its stablecoin\n\nCircle stock (CRCL) jumped 3% in premarket trading on news that the Jack Ma-backed Ant Group Co. is reportedly considering adopting its stablecoin on the Chinese fintech company\u2019s blockchain platform.\n\nBloomberg reported that Ant International, the company\u2019s global unit, is planning to incorporate Circle\u2019s USD coin (USDC-USD) on its blockchain platform after the asset becomes compliant in the US, according to people familiar with the matter. They did not give a timeline for when that might happen.\n\nAnt Group is also seeking to apply for stablecoin licenses; it has reportedly processed more than $1 trillion in global transactions last year, a third of which were on the blockchain.\n\nAnd Circle has been buoyed recently by increased optimism over the stablecoin regulatory environment. Circle stock is up over 500% since its IPO a little over a month ago.\n\nRead more here.\n\nThu, July 10, 2025 at 11:50 AM UTC\nJenny McCall\nCoffee prices climb after Donald Trump threatens 50% tariffs on Brazil\n\nCoffee futures (KC=F) rose on Thursday after President Trump threatened to slap a 50% tariff on Brazil, the world's largest producer. The news has shaken the industry and risks US consumers seeing a price surge.\n\nThe FT reports:\n\nRead more here.\n\nThu, July 10, 2025 at 11:35 AM UTC\nGrace O'Donnell\nTSMC revenue climbs 39% in latest sign of AI spending boom\n\nTaiwan Semiconductor Manufacturing Company's (TSM) revenue rose 39% last quarter, boosting expectations that AI spending remains robust.\n\nBloomberg reports that TSMC's sales to Nvidia (NVDA) and Apple (AAPL) reached roughly $32 billion for the June quarter, above expectations. Shares of TSMC advanced 0.88% in premarket trading.\n\nMore from Bloomberg:\n\nRead more here.\n\nThu, July 10, 2025 at 11:22 AM UTC\nGrace O'Donnell\nDelta stock pops premarket as the airline beats on earnings, reinstates guidance\n\nDelta stock (DAL) soared more than 12% in premarket trading after the company's earnings topped Wall Street estimates and Delta reinstated its guidance for the year.\n\nDelta CEO Ed Bastian told Yahoo Finance's Pras Subramanian that progress on trade deals and the approval of the tax deal were \"helpful\" in removing uncertainty for the airline.\n\nSubramanian reports:\n\nRead more here.\n\nThu, July 10, 2025 at 10:58 AM UTC\nJenny McCall\nGood morning. Here's what's happening today.\n\nEarnings: Delta (DAL), Conagra Brands (CAG), Levi's (LEVI), WD-40 (WDFC)\n\nEconomic data: Initial jobless claims (week ending July 5); Continuing claims (week ending June 28)\n\nHere are some of the biggest stories you may have missed overnight and early this morning:\n\nNvidia's real edge isn't just its products, but its customers\n\nThe early winner in the 'Dexit' war for corporate relocations: Nevada\n\nTrump threatens to impose 50% tariff on Brazil\n\nNvidia stock set to rise after company becomes first to hit $4T\n\nKellogg stock soars 50% on report Ferrero buyout is near\n\nXi signals China may finally move to end deflationary price wars\n\nTesla to hold annual shareholder meeting in November\n\nNvidia's Huang to meet Chinese leaders while AI curbs deepen\n\nMP Materials, Pentagon team up on rare earth magnets; stock jumps\n\nThu, July 10, 2025 at 10:21 AM UTC\nKaren Friar\nThe early winner in the 'Dexit' war for corporate relocations: Nevada\n\nYahoo Finance's Alexis Keenan reports:\n\nRead more here.\n\nThu, July 10, 2025 at 9:33 AM UTC\nKaren Friar\nLondon's FTSE 100 and Germany's DAX hit record highs\n\nYahoo Finance UK's LaToya Harding reports:\n\nThe FTSE 100 (^FTSE) hit a new all-time high on Thursday morning, while European stocks also advanced. The German Dax (^GDAXI) also touched a record, as traders shrugged off the threat of Donald Trump\u2019s escalating trade wars.\n\nThe US president confirmed overnight that a 50% copper tariff will come into place on 1 August, and announced a 50% tariff on goods from Brazil. ...\n\nThe Brazilian Real weakened by 2.29% against the US dollar on the back of the news, its biggest decline since 4 April, but mining stocks rallied in London, signalling that investors are not concerned about the new tariffs. ...\n\nRead more on UK and Europe markets here.\n\nThu, July 10, 2025 at 9:25 AM UTC\nJenny McCall\nTrending tickers: Copper stocks, Ultragenyx and Dollar Tree\n\nHere are some top stocks trending on Yahoo Finance in premarket trading:\n\nFreeport-McMoRan (FCX) shares rose over 3% before the bell on Thursday after President Trump said he would impose 50% tariffs on copper.\n\nSouthern Copper Corporation (SCCO) stock was also up almost 4% in premarket trading following Trump's announcement that he would hit copper imports with a 50% tariff.\n\nUltragenyx Pharmaceutical Inc. (RARE) stock fell over 20% after announcing that the US FDA had granted Breakthrough Therapy Designation for GTX-102 as a treatment for Angelman syndrome.\n\nDollar Tree (DLTR) rose 2% before the bell following the news that that its board authorized a $2.5 billion share buyback plan.\n\nThu, July 10, 2025 at 9:15 AM UTC\nBrian Sozzi\nAnalysts get active ahead of earnings\n\nSome analyst calls that caught my eye this morning as the Street preps for yet another earnings season.\n\nAdvanced Micro Devices (AMD)\n\nHSBC analyst Ryan Mellor drops an upgrade on AMD (AMD) to Buy.\n\nSays Mellor: \"Turning bullish on new product pipeline. We now believe there could be significant upside to FY26 estimated AI revenue as our revised forecast of USD15.1 billion is now 57% above consensus forecasts of USD9.6 billion driven by a higher-than-expected pricing premium of its recent MI350 series launch. We are also encouraged by its MI400 rack architecture (to be launched in 2026) but it remains too early to quantify. Hence, we now expect that upside to FY26 estimated AI revenue will lead to higher re-rating to AMD that is not fully priced in by the market despite the 14% share price rally post its AI day event (12 June).\n\nPepsiCo (PEP)\n\nJP Morgan analyst Andrea Teixeira is cautious on PepsiCo (PEP) going into its July 17 earnings report.\n\nSays Teixeira\"We believe expectations are for another soft quarter for PEP as consumption trends in the U.S. deteriorated in the quarter for both PFNA and PBNA segments, while International should remain relatively solid with some puts and takes. We don\u2019t envision a substantial change to underlying guidance at this point following the cut to EPS with 1Q25 and a low enough bar for OSG, although USD softening could provide some relief to reported results. To date, PEP\u2019s initiatives to turn around the snacking business have disappointed with tracked channel trends remaining under pressure, and with more time elapsing from shelf resets and price portioning and pack size adjustments (to lower absolute price points), if the company doesn\u2019t begin to show signs of improving trends near term (i.e., getting less bad against easing comparisons) there could be a need for more meaningful investment.\"\n\nWed, July 9, 2025 at 10:11 PM UTC\nBrooke DiPalma\nWK Kellogg Co. shares skyrocket in on reports of potential sale to Nutella-maker Ferrero\n\nThe maker of Nutella and Ferrero Rocher, Ferrero, is reportedly close to finalizing a deal to acquire WK Kellogg Co. (KLG) for a roughly $3 billion dollar price tag, per the WSJ. The stock soared in after-hours trading following the report, up over 50%.\n\nAs of Wednesday's market close, the company had a market cap of roughly $1.5 billion.\n\nThe cereal maker, behind brands like Froot Loops and Frosted Flakes, has been under pressure lately as consumers crave less breakfast food. Over the course of four weeks, ending June 29, cereal category sales fell 1.8% \"in line with the trend from recent months,\" Stifel analyst Matthew Smith wrote in a note to clients. For WK Kellogg in particular, dollar sales were down 5.7% in that same time frame.\n\nIt could get even worse when compared to the highs of the pandemic, per Smith. He said that \"cereal sales had been running down -1.5% or so, we believe the volumes are likely to continue to move towards the historical decline rate.\"\n\n\"The category is holding in and it's shifting ... we will shift with it,\" CEO Gary Pilnick told investors on its recent earnings call, \"as consumers are looking for value, they're looking for health and wellness... No matter what the combination is, the cereal category is a tremendous destination for those consumers.\"\n\nWK Kellogg did not respond to a request for comment.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI chipmaker Nvidia edges higher to close at $4T market cap, setting a new record. Bitcoin also breaks a record amid fresh tariff threats."
+    },
+    "date": "2025-07-10T15:44:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stocks-pressured-escalation-trade-tensions-151748408.html",
+    "title": "Stocks Pressured by Escalation of Trade Tensions The S&P 500 Index ($SPX ) (SPY ) today is down -0.35%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.15%. September E-mini S&P futures (ESU25 ) are down -0.37%, and September E-mini Nasdaq futures...",
+    "detail": "Stocks Pressured by Escalation of Trade Tensions\nRich Asplund\nFri, Jul 11, 2025, 9:17 AM 7 min read\nIn This Article:\n^SPX\n^DJI\n^NDX\n^IXIC\nView of the trading floor of New York Stock Exchange by Lev Radin via Shutterstock\n\nThe S&P 500 Index ($SPX) (SPY) today is down -0.35%, the\u00a0Dow Jones Industrials Index ($DOWI)\u00a0(DIA) is down -0.61%, and the\u00a0Nasdaq 100 Index ($IUXX) (QQQ) is down -0.15%.\u00a0 September E-mini S&P futures (ESU25) are down -0.37%, and September E-mini Nasdaq futures (NQU25) are down -0.16%.\n\nStock indexes are retreating today on the escalation of trade tensions as President Trump ramps up his threats to impose higher tariffs, sparking a risk-off environment in asset markets.\u00a0 Late Thursday, President Trump said a 35% tariff on some Canadian products would take effect on August 1, up from the current 25%.\u00a0 The new Canadian tariffs would not apply to goods traded within the rules of the US-Mexico-Canada Trade Agreement, and a lower 10% would be kept on some energy-related imports. \u00a0He also said he plans to impose blanket tariffs of 15% or 20% on most US trade partners.\n\nMore News from Barchart\n\nCreating a 38% \u201cDividend\u201d on SOFI Stock Using Options\n\nCircle Stock Warning: CRCL Could Fall More Than 50% From Here\n\nJoby Aviation Just Hit a New 52-Week High. Should You Buy the Flying Car Stock Here?\n\nGet exclusive insights with the FREE Barchart Brief newsletter. Subscribe now for quick, incisive midday market analysis you won't find anywhere else.\n\nHigher bond yields are also weighing on stocks today, with the 10-year T-note yield up +5 bp to 4.40%.\u00a0 Bond yields are climbing today on concern that President Trump\u2019s threats to impose higher tariffs on Canada and other US trading partners will lead to higher US inflation that could prevent the Fed from cutting interest rates.\n\nThe price of Bitcoin (^BTSUSD) is up more than +3% today at a new record high.\u00a0 Bitcoin has rallied more than +9% this week after the US House Committee on Financial Services announced on Tuesday that the week of July 14 will be \u201cCrypto Week.\u201d The US House Committee on Ways and Means has planned an oversight subcommittee hearing on July 16 entitled, \u201cMaking America the Crypto Capital of the World,\u201d which may lead to more crypto-friendly regulations.\n\nStocks continue to see downward pressure as President Trump has vowed to push forward with his aggressive tariff regime, stressing he would not offer additional extensions on country-specific tariffs set to take effect on August 1.\u00a0 Earlier this week, Mr. Trump imposed a 50% tariff on copper imports that will include semi-finished goods, and said that drug companies could face tariffs as high as 200% on imports if they don\u2019t relocate production to the US within the next year.\u00a0 In addition, despite stating that the US was close to a trade deal with India, Mr. Trump said he would still impose a 10% tariff on India\u2019s goods for their participation in BRICS, a group of developing nations he claimed were \u201cset up to hurt\u201d the US.\u00a0\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.15
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Escalating trade tensions prompt stock decline; NVDA down -0.15% on Nasdaq 100 Index."
+    },
+    "date": "2025-07-11T09:17:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/amd-stock-popped-analyst-said-141548277.html",
+    "title": "AMD Stock Popped After Analyst Said New AI Chips Could Take On Nvidia\u2019s\u2014Watch These Key Price Levels Advanced Micro Devices (AMD) shares jumped Thursday after analysts suggested the company\u2019s latest AI chips could compete with Nvidia's offerings. Watch these crucial chart levels.",
+    "detail": "AMD Stock Popped After Analyst Said New AI Chips Could Take On Nvidia\u2019s\u2014Watch These Key Price Levels\nTimothy Smith\nFri, Jul 11, 2025, 8:15 AM 3 min read\nIn This Article:\nAMD\nNVDA\nSource: TradingView.com\nKey Takeaways\n\nAdvanced Micro Devices (AMD) stock jumped Thursday after analysts suggested the company\u2019s latest AI chips are comparable to Nvidia's (NVDA) offerings .\n\nThe stock broke out from a flag pattern in Thursday\u2019s trading session on the highest volume in a little over a week, potentially signaling a continuation of the stock\u2019s recent move higher.\n\nInvestors should watch crucial overhead areas on AMD's chart around $175 and $215, while also monitoring vital support levels near $135 and $115.\n\n\n\n\nAdvanced Micro Devices (AMD) stock jumped Thursday after analysts suggested the company\u2019s latest AI chips could take on Nvidia's (NVDA) offerings.\n\nAnalysts at HSBC said AMD\u2019s MI350 series chips are comparable with Nvidia\u2019s current Blackwell chips and next generation MI400 chips, due for release next year, could compete with Nvidia\u2019s next-generation Vera Rubin platform.\n\n\nAMD shares trade 86% above their early April low and have gained 18% since the start of the year as of Thursday\u2019s close. However, they have significantly unperformed Nvidia\u2019s shares over the past 12 months due to the company\u2019s inability to capture a greater share of the booming AI chip market.\n\nBelow, we take a closer look at AMD\u2019s chart and use technical analysis to identify crucial price levels that investors should keep an eye on.\n\nFlag Pattern Breakout\n\nSince bottoming in early April, AMD shares have traded higher in an orderly uptrend. More recently, the price broke out from a flag pattern in Thursday\u2019s trading session on the highest volume in a little over a week, potentially signaling a continuation of the stock\u2019s recent move higher.\n\nIn another win for the bulls, the 50-day moving average (MA) continues to converge up toward the 200-day MA, setting the stage for a golden cross signal. Meanwhile, the relative strength index (RSI) confirms bullish price momentum, sitting just below the indicator\u2019s overbought threshold.\n\nLet\u2019s identify two crucial overhead areas on AMD\u2019s chart that could attract interest if the shares continue to track higher and also locate several vital support levels worth monitoring during future pullbacks in the stock.\n\nCrucial Overhead Areas to Watch\n\nThe first overhead area to watch sits around $175. This price point could provide resistance near prominent countertrend peaks that formed on the chart in May and October last year. This level is also near a bars pattern target that preceded the flag and overlays it from the pattern\u2019s breakout point. Such a move would complete a classic Elliot Wave pattern, with five distinct swings playing out.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AMD stock surged as analysts suggest its AI chips match Nvidia's, with potential price levels at $175, $215, $135, and $115."
+    },
+    "date": "2025-07-11T08:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/alibaba-risks-deepening-100-billion-025320945.html",
+    "title": "Alibaba Risks Deepening $100 Billion Rout as Turf War Heats Up (Bloomberg) -- A protracted battle in China\u2019s food-delivery market has chopped $100 billion in market value from Alibaba Group Holding Ltd., with no end in sight for damage to profits and investor confidence.Most Read from BloombergSinger Akon\u2019s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortWhy Did Cars Get So Hard to See Out Of?Are Tourists Ruining Europe? How Locals Are Pushing BackCan Americans Just Stop Building New Highways?How German Cities Are Rethinking Women\u2019s Safety \u2014 Wi",
+    "detail": "Alibaba Risks Deepening $100 Billion Rout as Turf War Heats Up\nJeanny Yu\nFri, Jul 11, 2025, 8:08 AM 4 min read\nIn This Article:\nMPNGF\nMPNGY\nGS\nBABA\nBABAF\n\n(Bloomberg) -- A protracted battle in China\u2019s food-delivery market has chopped $100 billion in market value from Alibaba Group Holding Ltd., with no end in sight for damage to profits and investor confidence.\n\nMost Read from Bloomberg\n\nSinger Akon\u2019s Failed Futuristic City in Senegal Ends Up a $1 Billion Resort\n\nWhy Did Cars Get So Hard to See Out Of?\n\nAre Tourists Ruining Europe? How Locals Are Pushing Back\n\nCan Americans Just Stop Building New Highways?\n\nHow German Cities Are Rethinking Women\u2019s Safety \u2014 With Taxis\n\nIts Hong Kong-listed shares plunged 27% from a March high through Friday, nearly double the loss in a gauge of Chinese tech peers. Rivals JD.com Inc. and Meituan have dropped by similar measures amid daily headlines on government efforts to contain the destructive hyper-competition being dubbed \u201cinvolution.\u201d\n\nAt least four brokers, including Goldman Sachs Group Inc. and HSBC Holdings Plc, have cut their price targets by an average of 8% since late June as the latest phase of the yearslong turf war continues to escalate.\n\n\u201cIt could last longer than expected,\u201d said Luo Jing, investment director at Value Partners Group Ltd. in Hong Kong. \u201cThe players are financially stronger than in the previous round, with more cash and better cash flow positions.\u201d\n\nAlibaba\u2019s food-delivery strategy has distracted investors away from the DeepSeek-led AI boom that drove its shares up more than 80% in just two months earlier this year. The company has merged its delivery unit into its core business and boosted subsidies since JD.com\u2019s formal entry to the space in February.\n\nIt\u2019s a costly fight. Nomura Holdings Inc. estimates about $4 billion has been burned on discounts in the June quarter alone by Alibaba, Meituan and JD.com. It sees Alibaba dictating the intensity and scale of the coupon war going forward.\n\n\u201cAll parties want to be the \u2018everyday app,\u2019 said Emily Dong, managing director and head of equity at Conning Asia Pacific Ltd. \u201cEventually it will end when equilibrium is achieved among key players, while there is no signs of abating yet.\u201d\n\nSector leader Meituan said Saturday that it was going into \u201cattack\u201d mode versus Alibaba, while JD.com announced a new incentive scheme this week. The companies\u2019 extreme moves have drawn much criticism from the government over the potential disastrous impact to the industry, as well as warnings on driver health and food safety.\n\nAlibaba might sustain a loss of 41 billion yuan ($5.7 billion) in its food-delivery business for the 12 months through next June, according to Goldman Sachs, equal to about a third of its net income for the fiscal year ended March.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.8
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Alibaba's food delivery market turf war causes $100B rout, shares down 27%, impacting peers JD.com and Meituan similarly."
+    },
+    "date": "2025-07-11T08:08:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/huawei-working-ai-chips-compete-133907890.html",
+    "title": "Huawei working on new AI chips to compete with Nvidia Investing.com -- China\u2019s Huawei Technologies is developing a new AI chip design that would expand the capabilities of its processors to handle a wider range of AI development tasks, according to a report by The Information on Friday.",
+    "detail": "Huawei working on new AI chips to compete with Nvidia\nVlad Schepkov\nFri, Jul 11, 2025, 7:39 AM 1 min read\nIn This Article:\nAMD\nNVDA\n\nInvesting.com -- China\u2019s Huawei Technologies is developing a new AI chip design that would expand the capabilities of its processors to handle a wider range of AI development tasks, according to a report by The Information on Friday.\n\nThe new design would reportedly more closely resemble the architecture used by both Nvidia (NASDAQ:NVDA) and Advanced Micro Devices (NASDAQ:AMD). This similarity should make it easier for Chinese AI developers to transition from Nvidia\u2019s chips to Huawei\u2019s alternatives.\n\nHuawei aims to make its chips more attractive to Chinese tech companies, which currently prefer Nvidia\u2019s processors despite increasing difficulties in obtaining them due to U.S. export controls.\n\nWhile Chinese tech firms have tested Huawei chips, few have fully adopted them. This reluctance stems largely from the challenges developers face in adapting to Huawei\u2019s distinct software system after years of building products using Nvidia\u2019s Cuda software.\n\nWith the planned new chip design, AI developers using Huawei\u2019s processors will be able to run code written for Nvidia\u2019s software platform. However, Huawei will still need to develop software that translates commands from Nvidia\u2019s software into instructions its own chips can understand.\n\nRelated articles\n\nHuawei working on new AI chips to compete with Nvidia\n\nUBS downgrades Albemarle to Sell on prolonged lithium glut, price risk\n\nRoblox stock may rally further as Citi sees more runway growth\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.67
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Huawei develops new AI chips to challenge Nvidia's market dominance, potentially impacting NVDA's sales in China."
+    },
+    "date": "2025-07-11T07:39:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bitcoin-tops-118-000-another-130222387.html",
+    "title": "Bitcoin Tops $118,000 in Another All-Time High Bitcoin topped the $118,000 level for the first time, surpassing Thursday\u2019s record as it continued to gain from its increasing adoption by companies as a reserve asset and lawmakers passing pro-crypto legislation.",
+    "detail": "Bitcoin Tops $118,000 in Another All-Time High\nNisha Gopalan\nFri, Jul 11, 2025, 7:02 AM 2 min read\nIn This Article:\nBTC-USD\n^SPX\nETH-USD\nNVDA\n\nPETER PARKS / AFP via Getty Images\n\nBitcoin has been on a tear this year, up by more than a quarter.\nKEY TAKEAWAYS\n\nBitcoin topped the $118,000 level for the first time, surpassing Thursday\u2019s\u00a0record as it continued to gain from its increasing adoption by companies as a reserve asset and lawmakers passing pro-crypto legislation.\n\nBitcoin has now risen by more than a quarter this year, outpacing the S&P 500's rise of 7%.\n\nEther, the second-largest cryptocurrency after Bitcoin, also rose and is currently trading near $2,950, continuing its climb since the Liberation Day tariffs in early April.\u00a0\n\n\n\n\n\nBitcoin (BTCUSD) topped $118,000 for the first time, surpassing Thursday's record as it continued to gain from companies adding it to their corporate treasuries and lawmakers passing pro-crypto legislation.\n\nBitcoin earlier Friday reached $118,755 and is now trading around $116,800.\n\nBitcoin has now risen by more than a quarter this year, outpacing the S&P 500's rise of 7% and surpassing the surge by AI darling Nvidia (NVDA), which Wednesday briefly passed the $4 trillion market value milestone. Nvidia shares rose 1.3% in intraday trading Friday and are up by almost a quarter in 2025.\n\nBitcoin was surging earlier this year on retail investors buying into ETFs but took a hit, along with the broader stock market, after President Donald Trump imposed his \"Liberation Day\" tariffs in April. Since then, the cryptocurrency has gained from a wave of companies joining Strategy (MSTR) in loading up on bitcoin.\n\nCrypto has also gained increased legitimacy with President Trump establishing a strategic bitcoin reserve and the Senate passing the GENIUS Act, a bill that would enable private companies to issue stablecoins. These are cryptocurrencies with their value tied directly to a state-issued currency, often the U.S. dollar.\n\nEther (ETHUSD), the second-largest cryptocurrency after Bitcoin, also rose and is currently trading near $2,950, continuing its climb since the Liberation Day tariffs in early April.\n\nUPDATE\u2014July 11, 2025: This article has been updated with the latest crypto and share prices.\n\n\nRead the original article on Investopedia\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Bitcoin's price soars past $118,000 due to increased adoption and supportive legislation, boosting NVDA's potential growth prospects."
+    },
+    "date": "2025-07-11T07:02:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/cloud-ai-presidio-partners-aws-123806095.html",
+    "title": "Cloud AI Update - Presidio Partners With AWS To Advance AI Innovation Presidio has been recognized as a Partner Innovation Alliance partner within the AWS Generative AI Innovation Center, emphasizing its leadership in AI innovation through strategic collaboration with Amazon Web Services. This partnership highlights Presidio's capabilities in advancing generative AI solutions for complex business challenges, assisting organizations in achieving real-world applications through collaboration with AWS's AI/ML experts. By participating in this initiative, Presidio...",
+    "detail": "Cloud AI Update - Presidio Partners With AWS To Advance AI Innovation\nSimply Wall St\nFri, Jul 11, 2025, 6:38 AM 2 min read\nIn This Article:\nGOOG\nMSFT\nCRWV\nAAPL\nNVDA\n\nPresidio has been recognized as a Partner Innovation Alliance partner within the AWS Generative AI Innovation Center, emphasizing its leadership in AI innovation through strategic collaboration with Amazon Web Services. This partnership highlights Presidio's capabilities in advancing generative AI solutions for complex business challenges, assisting organizations in achieving real-world applications through collaboration with AWS's AI/ML experts. By participating in this initiative, Presidio aims to drive AI adoption across enterprises, combining technical expertise and AWS's powerful services to enhance efficiencies, decision-making, and customer experiences.\n\nElsewhere in the market, Yonyou Network TechnologyLtd was a standout up 4.6% and ending trading at CN\u00a513.55. Meanwhile, CoreWeave softened, down 9.6% to finish the session at $138.29. Three days ago, CoreWeave announced its cloud platform is the first to offer NVIDIA RTX PRO 6000 Blackwell Server Edition, significantly boosting AI performance.\n\nSeize the opportunity as Microsoft's robust cloud and AI expansion drives growth. Click here to explore the compelling narrative behind this tech giant's potential.\n\nExplore our Market Insights article, \"A.I. Enters the 'Show Me The Money' Phase,\" analyzing the monetization opportunities in Cloud AI investments\u2014catch up before the opportunities pass.\n\nBest Cloud AI Stocks\n\nApple closed at $212.41 up 0.6%. Apple announced a succession plan with Sabih Khan set to become COO in July, 3 days ago.\n\nAlphabet settled at $177.62 up 0.6%.\n\nMicrosoft closed at $501.48 down 0.4%, not far from its 52-week high. Microsoft recently announced advancements in AI integration and carbon removal standards, leveraging partnerships and technology to enhance cybersecurity, warehouse management, and carbon removal efforts as of one day ago.\n\nTurning Ideas Into Actions\n\nEmbark on your investment journey to our 166 Cloud AI Stocks selection, featuring Informatica, HubSpot and Atlassian, right here.\n\nReady To Venture Into Other Investment Styles? The best AI stocks today may lie beyond giants like Nvidia and Microsoft. Find the next big opportunity with these 23 smaller AI-focused companies with strong growth potential through early-stage innovation in machine learning, automation, and data intelligence that could fund your retirement.\n\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Presidio partners with AWS to advance AI innovation; aims to boost AI adoption across enterprises."
+    },
+    "date": "2025-07-11T06:38:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-nvda-rebounded-previous-lows-123342045.html",
+    "title": "NVIDIA (NVDA) Rebounded from the Previous Lows Mar Vista Investment Partners, LLC, an investment management company, released its \u201cMar Vista Global Quality Strategy\u201d second-quarter 2025 investor letter. A copy of the letter can be downloaded here. The first half of 2025 concluded on a historic note, as global equities shrugged off earlier turbulence to close at record levels. The rebound in the [\u2026]",
+    "detail": "NVIDIA (NVDA) Rebounded from the Previous Lows\nSoumya Eswaran\nFri, Jul 11, 2025, 6:33 AM 3 min read\nIn This Article:\nNVDA\n\nMar Vista Investment Partners, LLC, an investment management company, released its \u201cMar Vista Global Quality Strategy\u201d second-quarter 2025 investor letter. A copy of the letter can be downloaded here. The first half of 2025 concluded on a historic note, as global equities shrugged off earlier turbulence to close at record levels. The rebound in the U.S. stock market challenges investors' confidence in shifting their focus to Europe. In the second quarter, the strategy returned +12.98% net of fees, compared to +11.47% and +11.53% returns for the MSCI World Net Index and the MSCI All Country World Net Index, respectively. In addition, please check the fund\u2019s top five holdings to know its best picks in 2025.\n\nIn its second quarter 2025 investor letter, Mar Vista Global Quality Strategy highlighted stocks such as NVIDIA Corporation (NASDAQ: NVDA). NVIDIA Corporation (NASDAQ:NVDA) offers graphics and compute, and networking solutions.\u00a0The one-month return of NVIDIA Corporation (NASDAQ:NVDA) was 15.59%, and its shares gained 26.97% of their value over the last 52 weeks. On July 10, 2025, NVIDIA Corporation (NASDAQ:NVDA) stock closed at $164.10 per share, with a market capitalization of $4.032 trillion.\n\nMar Vista Global Quality Strategy stated the following regarding NVIDIA Corporation (NASDAQ:NVDA) in its second quarter 2025 investor letter:\n\n\"NVIDIA Corporation (NASDAQ:NVDA) shares rebounded from their calendar Q1 lows as investor concerns over DeepSeek\u2019s efficiency gains and U.S. government restrictions on advanced AI semiconductors, such as NVIDIA\u2019s H20 family of GPUs, proved overstated. Demand for NVIDIA\u2019s next-generation Blackwell platform remains strong, fueled by the growing complexity of large language models and the emergence of reasoning-based applications. As CEO Jensen Huang noted, reasoning tasks can require up to 10 times the compute power of training a conventional large language model. With the AI market still in the early stages of a multi-year infrastructure build-out, NVIDIA is well-positioned to capture significant value as the industry standard for accelerated computing.\"\n\nNVIDIA Corporation (NASDAQ:NVDA) is in 5th position on our list of\u00a030 Most Popular Stocks Among Hedge Funds. As per our database, 212 hedge fund portfolios held NVIDIA Corporation (NASDAQ:NVDA) at the end of the first quarter, which was 223 in the previous quarter. NVIDIA Corporation (NASDAQ:NVDA)\u00a0reported another record quarter in fiscal first quarter of 2026 with $44 billion in revenues, representing a 69% year-over-year increase.\u00a0While we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\n\u7e7c\u7e8c\u95b1\u8b80\n\u689d\u6b3e \u53ca \u79c1\u96b1\u653f\u7b56\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA (NVDA) rebounded from previous lows, according to Mar Vista Investment Partners' Q2 report."
+    },
+    "date": "2025-07-11T06:33:00"
+  }
+]

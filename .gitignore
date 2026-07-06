@@ -1,0 +1,9 @@
+# Ignore all .html files
+*.html
+
+# Ignore all .png files
+*.png
+
+# Python cache
+__pycache__/
+*.py[cod]

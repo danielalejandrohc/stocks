@@ -1,0 +1,6 @@
+FROM python:3.12
+RUN pip install --upgrade setuptools wheel
+RUN pip install --upgrade pip
+RUN pip install requests-html playwright asyncpg
+RUN playwright install-deps
+RUN playwright install

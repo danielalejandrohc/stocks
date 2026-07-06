@@ -1,0 +1,268 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/trumps-unconventional-chip-gambit-might-leave-nvidia-and-amd-with-more-questions-than-answers-165648785.html",
+    "title": "Trump's unconventional chip gambit might leave Nvidia and AMD with more questions than answers",
+    "detail": "Trump's unconventional chip gambit might leave Nvidia and AMD with more questions than answers\nDaniel Howley \u00b7 Technology Editor\nUpdated Thu, Aug 14, 2025, 5:44 AM 6 min read\nIn this article:\nNVDA\nAMD\nINTC\nBABA\n0700.HK\n\nPresident Trump has had a busy week making moves across the US chip industry. And it\u2019s only Wednesday. On Monday, Trump revealed his administration will take a 15% cut of sales of Nvidia (NVDA) and AMD\u2019s (AMD) chips to Chinese companies in exchange for allowing the AI hardware to flow back into the country.\n\nHe also met with Intel (INTC) CEO Lip-Bu Tan on Monday after calling for his ouster last week. At the end of the day, Trump appeared to back away from his initial demand, saying Tan\u2019s \u201csuccess and rise is an amazing story.\u201d\n\nOn their face, the developments appear to be positive for the trio of chip giants. But Trump\u2019s lightning-fast whiplash between stances raises important questions about the companies\u2019 futures, including whether Nvidia and AMD will be able to continue selling their chips in China, despite the administration\u2019s prior protestations about national security concerns, and what kind of toll the president will extract from Intel moving forward.\n\nNvidia and AMD get a win\u2026 for now\n\nTrump\u2019s decision to restart the sale of Nvidia and AMD chips into China for a fee means both companies will be able to recoup some of the losses they took when he initially banned processor shipments there in April.\n\nNvidia had to write off $4.5 billion due to the ban in Q1, with an additional $8 billion hit expected in Q2, while AMD reported an $800 million loss in Q2.\n\n\u201c[The] companies can use some part of their prior written-off inventory so even with 15% penalty they get some gross profit recovery, and \u2026 China resumption maintains the original goal of engaging with an important (China) AI ecosystem and of potentially keeping competitors (Huawei) in check,\u201d BofA Global Research analyst Vivek Arya wrote in a research note following Trump\u2019s announcement.\n\nNvidia, in particular, could end up passing along the 15% fee to its China-based customers, thanks to the strong demand for its offerings.\n\n\u201cFrom my perspective, it is a positive for those companies,\u201d Forrester senior analyst Alvin Nguyen told Yahoo Finance. \u201cAs you know, it opens a market where there's still high demand. Nvidia, especially, still has a lot of cache with their name.\u201d\n\nNvidia CEO Jensen Huang speaks alongside President Trump about investing in America, at the White House in Washington, D.C., on April 30, 2025. (JIM WATSON/AFP via Getty Images) \u00b7 JIM WATSON via Getty Images\n\nBut Trump\u2019s latest AI chip move also introduces some thorny questions. The first of which is whether Nvidia and AMD will continue to be able to sell their AI processors into China moving forward, or if Trump will change his mind again.\n\nAfter all, the administration originally pulled Nvidia\u2019s H20 and AMD\u2019s MI308 on national security grounds, and as Bernstein analyst Stacy Rasgon explained to Yahoo Finance, this deal doesn\u2019t appear to address the matter.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T05:44:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "15% tariff on NVDA, AMD chips sales to China; Trump meets with INTCEO, backs off ouster demand, raising questions for future prospects."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ai-startup-cohere-valued-6-160547472.html",
+    "title": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives",
+    "detail": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives\nIllustration shows Cohere logo \u00b7 Reuters\nReuters\nThu, Aug 14, 2025, 12:05 PM 1 min read\nIn this article:\nMETA\nNVDA\nOPAI.PVT\nUBER\nSHAI.PVT\n\n(Reuters) -Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.\n\nThe funding round was led by Radical Ventures and Inovia Capital, with participation from existing investors AMD Ventures, NVIDIA, PSP Investments, and Salesforce Ventures, among others.\n\nUnlike most AI companies like OpenAI and Meta's Llama, which are focused on broad foundational models, Cohere builds enterprise-specific AI models.\n\nIn January, it launched North, a ChatGPT-style tool designed to help knowledge workers with tasks such as document summarization.\n\nThe company said it will use the new funding to advance agentic AI that can help businesses and governments operate more efficiently.\n\nAlongside the fundraise, Cohere appointed Joelle Pineau, former Vice President of AI Research at Meta, as Chief AI Officer, and Francois Chadwick, former CFO at Uber and Shield AI, as Chief Financial Officer.\n\nThe fundraise comes amid a broader surge in AI financing, as private equity and Big Tech channel capital into startups in pursuit of strong returns from innovative AI products.\n\n(Reporting by Kritika Lamba in Bengaluru)\n\nCondiciones y Pol\u00edtica de privacidad\nYour Privacy Choices",
+    "date": "2025-08-14T12:05:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA invests in AI startup Cohere, valuing it at $6.8B; Cohere launches North, a ChatGPT-style tool for knowledge work."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-amd-adjust-apos-rules-150047203.html",
+    "title": "Nvidia, AMD Adjust to 'New Rules of the Game' With 15% China Fee, Wedbush Says",
+    "detail": "PREMIUM\nNvidia, AMD Adjust to 'New Rules of the Game' With 15% China Fee, Wedbush Says\nMT Newswires\nThu, Aug 14, 2025, 11:00 AM 1 min read\nIn this article:\nNVDA\nAMD\n\nNvidia (NVDA) and Advanced Micro Devices (AMD) are adapting to the \"new rules of the game\" under the\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T11:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia and AMD adjust to new China fee, per Wedbush."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mizuho-raises-nvidia-amd-price-145813757.html",
+    "title": "Mizuho Raises Nvidia and AMD Price Targets To $205 On AI-Server Boom",
+    "detail": "Mizuho Raises Nvidia and AMD Price Targets To $205 On AI-Server Boom\nNauman khan\nThu, Aug 14, 2025, 10:58 AM 1 min read\nIn this article:\nNVDA\n\nAug 14 - Mizuho's top tech analyst Vijay Rakesh just turned up the heat on the GPU battle, raising price targets on Nvidia (NASDAQ:NVDA) and Advanced Micro Devices (NASDAQ:AMD) to $205 each while keeping Outperform calls. He pins the move on surging AI-server demand and heavy hyperscaler spending that should keep both companies busy for quarters to come.\n\nRakesh sees Taiwan-based server makers, think Wistron and Wiwynn, driving strong buy-ins of Nvidia gear, and he expects new GPU license approvals in China to add roughly 300,000500,000 units annually across NVDA and AMD, boosting second-half momentum into 2026.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nFor Nvidia, Mizuho leaves the July-quarter revenue view intact at $46.2B but lifts multi-year targets, forecasting fiscal 2026 revenue near $208B and EPS of $4.51, then $260B/$5.95 in 2027 and $292B/$6.71 in 2028.\n\nFor AMD, Rakesh raises near-term estimates and predicts Radeon/Instinct GPU revenue to climb from $8.57B in FY25 to $13.6B in FY27, driven by MI308 and MI355 ramps in China.\n\nBottom line: Mizuho bets AI demand keeps the tailwinds fierce, but execution, supply cadence, and China licensing remain key risk factors to watch as both chipmakers scale into the AI era.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:58:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Mizuho raises NVDA price target to $205 on AI-server boom; analyst expects Taiwanese server makers to drive strong Nvidia sales and new GPU license approvals in China to boost momentum."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/earnings-pair-cisco-other-chip-145023895.html",
+    "title": "After Earnings, Pair Cisco with This Other \u2018Chip\u2019 Stock for Maximum Results",
+    "detail": "After Earnings, Pair Cisco with This Other \u2018Chip\u2019 Stock for Maximum Results\nCisco Systems, Inc_ HQ-by Sundry Photography via iStock\nRob Isbitts\nThu, Aug 14, 2025, 10:50 AM 3 min read\nIn this article:\nCSCO\nNVDA\nSYY\n\nIf you were listening to this article instead of reading it, things might be more confusing. Because when comparing two companies whose names sound identical, you either have to see it in print, or explain which one you mean. Back in my days of managing money, when giving instructions to a trader verbally, I had to be careful to include the ticker symbol, not simply say Cisco (CSCO).\u00a0Or was it Sysco (SYY)?\n\nAs it turns out, the two stocks actually make a nice pair because they are such polar opposites.\n\nMore News from Barchart\n\nWhy This Cannabis Penny Stock Could Be Wall Street\u2019s Next Meme Trade Breakout\n\nApple Stock Is Gaining Momentum, Is AAPL Stock a Buy?\n\nPeter Thiel-Backed Bullish Is About to IPO. Should You Buy BLSH Stock?\n\nGet exclusive insights with the FREE Barchart Brief newsletter. Subscribe now for quick, incisive midday market analysis you won't find anywhere else.\n\nI\u2019ve found over the years that they each represent the constant tug-of-war between investor emotions. We want growth stocks, with strong earnings acceleration, on the cutting edge of technology. We also want stability.\n\nSome have taken to comparing Nvidia\u2019s (NVDA) leading edge in AI to CSCO\u2019s role in leading the charge to power the internet. In perhaps a cautionary tale, CSCO surged into the dot-com bubble top in 2000, but then lost the vast majority of its value. It took 25 years to recover that peak stock price. Yet CSCO and NVDA are each part of today\u2019s Dow Jones Industrial Average ($DOWI).\n\nYou might know the other half of the pair, SYY, if you\u2019ve ever eaten at a restaurant. Sysco supplies everything from napkins to tuna salad. Whatever a restaurant needs! And it is the biggest company in its niche.\n\nComparing \u2018Chip\u2019 Stocks\n\nWhen we consider the 180-degree difference between the (computer) chips business of CSCO and the (potato) chips business of SYY, we can start to understand how this stock pair is a proxy for \u201crisk on\u201d versus \u201crisk off.\u201d This chart shows 6-month rolling returns of these two companies going back a few years. They are mirror images as often as they are in sync. I suspect there are many such pairs in this tech-dominated stock market.\n\nwww.barchart.com\n\nNow that we have separated the pair anecdotally and also shown their often divergent performance, let\u2019s compare the stocks in more detail.\n\nA few things stand out as I look at this custom snapshot I created using Barchart\u2019s stock comparison tool.\n\nCSCO, not unexpectedly, is more volatile, but in this bull market for tech stocks, it has outdistanced SYY over multiple time frames. Yet SYY has grown its earnings and revenue by greater rates over the past 5 years. Both stocks have decent yields for their sectors.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:50:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Comparing CSCO and NVDA, their contrasting natures make them an intriguing investment pair."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/happens-stocks-ai-loses-momentum-143020646.html",
+    "title": "What happens to stocks if AI loses momentum?",
+    "detail": "What happens to stocks if AI loses momentum?\nSam Boughedda\nThu, Aug 14, 2025, 10:30 AM 1 min read\nIn this article:\nMSFT\nNVDA\nAI\nCRWV\n^SPX\n\nInvesting.com -- In its latest note, Sevens warned that the market could face a significant headwind if enthusiasm for artificial intelligence stocks fades, even if the broader U.S. economy remains stable.\n\nThe note pointed to steep declines in two AI bellwethers this week, C3.ai, which fell 25% on Monday after issuing soft guidance, and CoreWeave, which dropped 21% following disappointing results.\n\n\u201cThose moves put a question in my head\u2026 What happens to this market if AI loses momentum?\u201d Sevens Report said.\n\nDrawing parallels to the early 2000s, Sevens noted that during the tech bubble, \u201cthe S&P 500 fell more than 20% from the highs in March 2000 through August 2001, but the economy was broadly stable.\u201d\n\nThe firm stressed that \u201cthe tech bubble bursting was a market phenomenon,\u201d with unemployment rising only modestly before later economic shocks hit.\n\nWhile investors are focused on economic data, tariffs, and Fed policy, Sevens cautioned that \u201cthe economy could stay resilient\u2026 but AI begins to disappoint and the market drops despite macroeconomic stability.\u201d\n\nThe firm highlighted that just five stocks, Nvidia, Microsoft, Meta, Broadcom, and Palantir, have accounted for 56% of the S&P 500\u2019s 10.8% year-to-date gain. More broadly, the Information Technology and Communication Services sectors have contributed two-thirds of the rally.\n\n\u201cC3.ai and CoreWeave\u2019s declines are a reminder that the AI revolution is continuing to mature and that execution will be important going forward,\u201d Sevens said, warning that \u201cif AI enthusiasm begins to fade, this market will face a headwind regardless of whether the economy is stable.\u201d\n\nRelated articles\n\nWhat happens to stocks if AI loses momentum?\n\nVictoria's Secret Exposed: The Warning Sign Behind the Stock's 52% Collapse\n\nAfter soaring 149%, this stock is back in our AI\u2019s favor - & already +25% in July\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:30:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI momentum decline may affect NVDA's stock performance; Sevens warns of potential market headwind if AI enthusiasm wanes despite stable US economy."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.35
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bc-most-active-stocks-143016001.html",
+    "title": "BC-Most Active Stocks",
+    "detail": "BC-Most Active Stocks\nThe Associated Press\nThu, August 14, 2025 at 10:30 AM EDT 21 min read\nIn this article:\n^IXIC\nXPON\nWULF\nOPEN\nTLRY\n\nNEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks.\n\nNasdaq most active stocks:\n\nStock Name\n\n\t\n\nVolume\n\n\t\n\nHigh\n\n\t\n\nLow\n\n\t\n\nLast\n\n\t\n\nChange\n\n\n\n\nExpion360 Inc.\n\n\t\n\n299,389,898\n\n\t\n\n5.50\n\n\t\n\n3.11\n\n\t\n\n3.92\n\n\t\n\n+2.61\n\n\n\n\nTerawulf Inc.\n\n\t\n\n158,205,916\n\n\t\n\n8.12\n\n\t\n\n6.74\n\n\t\n\n8.025\n\n\t\n\n+2.565\n\n\n\n\nOpendoor Technologies Inc.\n\n\t\n\n118,936,878\n\n\t\n\n2.93\n\n\t\n\n2.26\n\n\t\n\n2.90\n\n\t\n\n+0.48\n\n\n\n\nTilray Brands Inc.\n\n\t\n\n96,739,928\n\n\t\n\n1.37\n\n\t\n\n1.13\n\n\t\n\n1.195\n\n\t\n\n-0.055\n\n\n\n\nAeries Technology Inc.\n\n\t\n\n94,445,419\n\n\t\n\n1.27\n\n\t\n\n0.983\n\n\t\n\n1.1795\n\n\t\n\n+0.4795\n\n\n\n\nOneMedNet Corp.\n\n\t\n\n70,039,885\n\n\t\n\n0.8886\n\n\t\n\n0.492\n\n\t\n\n0.794\n\n\t\n\n+0.314\n\n\n\n\nSonoma Pharmaceuticals Inc.\n\n\t\n\n60,167,583\n\n\t\n\n6.9199\n\n\t\n\n5.17\n\n\t\n\n5.27\n\n\t\n\n+2.218\n\n\n\n\nNVIDIA Corp.\n\n\t\n\n55,075,155\n\n\t\n\n183.02\n\n\t\n\n179.46\n\n\t\n\n182.045\n\n\t\n\n+0.455\n\n\n\n\nTPI Composites Inc.\n\n\t\n\n43,556,628\n\n\t\n\n0.22\n\n\t\n\n0.155\n\n\t\n\n0.1984\n\n\t\n\n+0.0424\n\n\n\n\niShares Ethereum Trust ETF\n\n\t\n\n43,021,185\n\n\t\n\n35.65\n\n\t\n\n34.12\n\n\t\n\n35.29\n\n\t\n\n-0.61\n\n\n\n\nreAlpha Tech Corp.\n\n\t\n\n38,908,974\n\n\t\n\n0.448\n\n\t\n\n0.3667\n\n\t\n\n0.3694\n\n\t\n\n+0.011\n\n\n\n\nInspire Veterinary Partners In\n\n\t\n\n38,121,297\n\n\t\n\n1.34\n\n\t\n\n1.00\n\n\t\n\n1.2733\n\n\t\n\n+0.4593\n\n\n\n\nBiomerica Inc.\n\n\t\n\n36,464,260\n\n\t\n\n4.60\n\n\t\n\n3.55\n\n\t\n\n4.0002\n\n\t\n\n+0.9702\n\n\n\n\niShares Bitcoin Trust ETF\n\n\t\n\n35,841,133\n\n\t\n\n67.88\n\n\t\n\n66.85\n\n\t\n\n67.38\n\n\t\n\n-2.46\n\n\n\n\nAdvanced Micro Devices Inc.\n\n\t\n\n35,448,489\n\n\t\n\n185.44\n\n\t\n\n179.64\n\n\t\n\n180.5832\n\n\t\n\n-3.8368\n\n\n\n\nGibo Holdings Ltd.\n\n\t\n\n33,551,014\n\n\t\n\n0.0407\n\n\t\n\n0.0365\n\n\t\n\n0.0398\n\n\t\n\n-0.0002\n\n\n\n\nChanson International Holding\n\n\t\n\n33,203,474\n\n\t\n\n0.055\n\n\t\n\n0.0473\n\n\t\n\n0.0492\n\n\t\n\n-0.0273\n\n\n\n\nOndas Holdings Inc.\n\n\t\n\n28,104,749\n\n\t\n\n3.92\n\n\t\n\n3.43\n\n\t\n\n3.745\n\n\t\n\n+0.225\n\n\n\n\nTesla Inc.\n\n\t\n\n25,466,588\n\n\t\n\n340.47\n\n\t\n\n334.8067\n\n\t\n\n336.445\n\n\t\n\n-2.935\n\n\n\n\nRigetti Computing Inc.\n\n\t\n\n24,587,326\n\n\t\n\n17.395\n\n\t\n\n16.10\n\n\t\n\n16.655\n\n\t\n\n-0.585\n\n\n\n\nIntel Corp.\n\n\t\n\n23,969,065\n\n\t\n\n22.31\n\n\t\n\n21.90\n\n\t\n\n22.1373\n\n\t\n\n-0.0827\n\n\n\n\nAmazon.com Inc.\n\n\t\n\n22,445,013\n\n\t\n\n230.49\n\n\t\n\n227.02\n\n\t\n\n229.165\n\n\t\n\n+4.605\n\n\n\n\nSharpLink Gaming Inc.\n\n\t\n\n22,036,868\n\n\t\n\n23.68\n\n\t\n\n21.76\n\n\t\n\n23.515\n\n\t\n\n-0.005\n\n\n\n\nSoFi Technologies Inc.\n\n\t\n\n21,032,666\n\n\t\n\n23.95\n\n\t\n\n23.16\n\n\t\n\n23.23\n\n\t\n\n-0.58\n\n\n\n\nApple Inc.\n\n\t\n\n20,922,896\n\n\t\n\n235.12\n\n\t\n\n230.85\n\n\t\n\n231.115\n\n\t\n\n-2.215\n\n\n\n\nIncannex Healthcare Inc.\n\n\t\n\n20,062,407\n\n\t\n\n0.4148\n\n\t\n\n0.3852\n\n\t\n\n0.4076\n\n\t\n\n+0.0076\n\n\n\n\nIntuitive Machines Inc.\n\n\t\n\n20,075,563\n\n\t\n\n9.41\n\n\t\n\n8.89\n\n\t\n\n9.015\n\n\t\n\n-1.475\n\n\n\n\nXOS Inc.\n\n\t\n\n19,856,213\n\n\t\n\n5.60\n\n\t\n\n4.09\n\n\t\n\n4.69\n\n\t\n\n+1.20\n\n\n\n\nCisco Systems Inc.\n\n\t\n\n19,736,963\n\n\t\n\n70.61\n\n\t\n\n67.48\n\n\t\n\n69.52\n\n\t\n\n-0.88\n\n\n\n\nPalantir Technologies Inc.\n\n\t\n\n19,516,519\n\n\t\n\n185.33\n\n\t\n\n182.28\n\n\t\n\n183.30\n\n\t\n\n-1.07\n\n\n\n\nAmerican Airlines Group Inc.\n\n\t\n\n18,324,554\n\n\t\n\n12.9353\n\n\t\n\n12.66\n\n\t\n\n12.7199\n\n\t\n\n-0.3901\n\n\n\n\nIREN Ltd.\n\n\t\n\n18,309,693\n\n\t\n\n19.38\n\n\t\n\n17.56\n\n\t\n\n18.38\n\n\t\n\n+0.65\n\n\n\n\nSoundhound AI Inc.\n\n\t\n\n17,433,325\n\n\t\n\n16.72\n\n\t\n\n15.92\n\n\t\n\n16.285\n\n\t\n\n-0.215\n\n\n\n\nErayak Power Solut.Group Inc.\n\n\t\n\n17,090,277\n\n\t\n\n0.059\n\n\t\n\n0.055\n\n\t\n\n0.058\n\n\t\n\n-0.0024\n\n\n\n\nLucid Group Inc.\n\n\t\n\n16,859,426\n\n\t\n\n2.34\n\n\t\n\n2.27\n\n\t\n\n2.285\n\n\t\n\n-0.055\n\n\n\n\nColor Star Technology Co. Ltd.\n\n\t\n\n16,803,253\n\n\t\n\n0.1504\n\n\t\n\n0.135\n\n\t\n\n0.1443\n\n\t\n\n-0.0337\n\n\n\n\n180 Life Sciences Corp.\n\n\t\n\n16,695,724\n\n\t\n\n8.10\n\n\t\n\n6.88\n\n\t\n\n7.01\n\n\t\n\n-3.69\n\n\n\n\nMARA Holdings Inc.\n\n\t\n\n16,597,726\n\n\t\n\n15.64\n\n\t\n\n15.05\n\n\t\n\n15.25\n\n\t\n\n-0.61\n\n\n\n\nCanopy Growth Corp.\n\n\t\n\n16,520,764\n\n\t\n\n1.60\n\n\t\n\n1.49\n\n\t\n\n1.495\n\n\t\n\n-0.145\n\n\n\n\nThe Trade Desk Inc.\n\n\t\n\n16,275,265\n\n\t\n\n53.49\n\n\t\n\n50.63\n\n\t\n\n51.25\n\n\t\n\n-3.11\n\n\n\n\nRobinhood Markets Inc.\n\n\t\n\n15,889,253\n\n\t\n\n110.89\n\n\t\n\n106.31\n\n\t\n\n109.41\n\n\t\n\n+0.79\n\n\n\n\nMKD Technology Inc.\n\n\t\n\n15,155,482\n\n\t\n\n0.2133\n\n\t\n\n0.1866\n\n\t\n\n0.211\n\n\t\n\n-0.0015\n\n\n\n\nCipher Mining Inc.\n\n\t\n\n15,118,149\n\n\t\n\n5.27\n\n\t\n\n4.95\n\n\t\n\n5.11\n\n\t\n\n+0.21\n\n\n\n\nPlug Power Inc.\n\n\t\n\n14,389,591\n\n\t\n\n1.68\n\n\t\n\n1.60\n\n\t\n\n1.6133\n\n\t\n\n-0.0467\n\n\n\n\nCOREWEAVE INC.\n\n\t\n\n14,014,096\n\n\t\n\n116.8799\n\n\t\n\n104.7003\n\n\t\n\n105.77\n\n\t\n\n-11.99\n\n\n\n\nWARNER BROS. DISCOVERY INC.\n\n\t\n\n13,750,298\n\n\t\n\n12.17\n\n\t\n\n11.73\n\n\t\n\n11.855\n\n\t\n\n-0.195\n\n\n\n\nCognition Therapeutics Inc.\n\n\t\n\n13,584,704\n\n\t\n\n1.67\n\n\t\n\n1.145\n\n\t\n\n1.55\n\n\t\n\n+0.33\n\n\n\n\nSolid Power Inc.\n\n\t\n\n13,433,656\n\n\t\n\n5.62\n\n\t\n\n4.58\n\n\t\n\n5.2001\n\n\t\n\n+0.3801\n\n\n\n\nBitfarms Ltd.\n\n\t\n\n12,098,350\n\n\t\n\n1.30\n\n\t\n\n1.24\n\n\t\n\n1.2824\n\n\t\n\n+0.0124\n\n\n\n\nWang & Lee Group Inc.\n\n\t\n\n11,356,137\n\n\t\n\n0.0612\n\n\t\n\n0.0572\n\n\t\n\n0.0584\n\n\t\n\n-0.0058\n\n\n\n\nCleanspark Inc.\n\n\t\n\n11,255,550\n\n\t\n\n9.79\n\n\t\n\n9.525\n\n\t\n\n9.535\n\n\t\n\n-0.435\n\n\n\n\nTNF Pharmaceuticals Inc.\n\n\t\n\n11,240,049\n\n\t\n\n0.1034\n\n\t\n\n0.098\n\n\t\n\n0.1006\n\n\t\n\n-0.0044\n\n\n\n\nParamount Skydance Corp.\n\n\t\n\n10,940,417\n\n\t\n\n14.94\n\n\t\n\n13.67\n\n\t\n\n13.93\n\n\t\n\n-1.07\n\n\n\n\nRiot Platforms Inc.\n\n\t\n\n10,471,954\n\n\t\n\n11.80\n\n\t\n\n11.22\n\n\t\n\n11.625\n\n\t\n\n+0.035\n\n\n\n\nRivian Automotive Inc.\n\n\t\n\n10,393,198\n\n\t\n\n12.075\n\n\t\n\n11.79\n\n\t\n\n12.025\n\n\t\n\n-0.255\n\n\n\n\nSuper Micro Computer Inc.\n\n\t\n\n9,913,248\n\n\t\n\n45.5725\n\n\t\n\n44.77\n\n\t\n\n44.865\n\n\t\n\n-1.205\n\n\n\n\nRocket Lab Corp.\n\n\t\n\n9,815,572\n\n\t\n\n45.69\n\n\t\n\n42.01\n\n\t\n\n44.16\n\n\t\n\n+1.16\n\n\n\n\ndLocal Ltd.\n\n\t\n\n9,622,782\n\n\t\n\n14.66\n\n\t\n\n13.22\n\n\t\n\n14.334\n\n\t\n\n+2.644\n\n\n\n\nReShape Lifesciences Inc.\n\n\t\n\n9,534,399\n\n\t\n\n4.65\n\n\t\n\n2.80\n\n\t\n\n3.71\n\n\t\n\n+0.51\n\n\n\n\nPlus Therapeutics Inc.\n\n\t\n\n9,386,007\n\n\t\n\n0.6398\n\n\t\n\n0.5411\n\n\t\n\n0.5421\n\n\t\n\n-0.0323\n\n\n\n\nAlphabet Inc.\n\n\t\n\n9,365,012\n\n\t\n\n204.44\n\n\t\n\n201.225\n\n\t\n\n203.715\n\n\t\n\n+1.755\n\n\n\n\nALT5 Sigma Corp.\n\n\t\n\n9,296,965\n\n\t\n\n7.58\n\n\t\n\n7.07\n\n\t\n\n7.27\n\n\t\n\n+0.31\n\n\n\n\nTempus AI Inc.\n\n\t\n\n9,134,672\n\n\t\n\n74.40\n\n\t\n\n66.56\n\n\t\n\n71.73\n\n\t\n\n+2.10\n\n\n\n\nBit Origin Ltd.\n\n\t\n\n8,583,735\n\n\t\n\n0.5489\n\n\t\n\n0.47\n\n\t\n\n0.5039\n\n\t\n\n-0.0455\n\n\n\n\nFaraday Future Intel.Electric\n\n\t\n\n8,393,980\n\n\t\n\n2.94\n\n\t\n\n2.67\n\n\t\n\n2.8224\n\n\t\n\n+0.0624\n\n\n\n\nDolphin Entertainment Inc.\n\n\t\n\n8,222,054\n\n\t\n\n1.78\n\n\t\n\n1.25\n\n\t\n\n1.3429\n\n\t\n\n+0.1729\n\n\n\n\nGrab Holdings Limited\n\n\t\n\n8,137,505\n\n\t\n\n5.19\n\n\t\n\n5.08\n\n\t\n\n5.125\n\n\t\n\n+0.005\n\n\n\n\nApplied Digital Corp.\n\n\t\n\n7,973,903\n\n\t\n\n15.001\n\n\t\n\n14.41\n\n\t\n\n14.4856\n\n\t\n\n-0.3144\n\n\n\n\nBit Digital Inc.\n\n\t\n\n7,829,669\n\n\t\n\n3.14\n\n\t\n\n2.98\n\n\t\n\n3.075\n\n\t\n\n-0.095\n\n\n\n\nCSX Corp.\n\n\t\n\n7,795,860\n\n\t\n\n36.255\n\n\t\n\n35.73\n\n\t\n\n36.095\n\n\t\n\n+0.015\n\n\n\n\nMomentus Inc.\n\n\t\n\n7,447,229\n\n\t\n\n1.78\n\n\t\n\n1.565\n\n\t\n\n1.6001\n\n\t\n\n-0.3099\n\n\n\n\nViavi Solutions Inc.\n\n\t\n\n7,171,689\n\n\t\n\n10.5525\n\n\t\n\n10.30\n\n\t\n\n10.415\n\n\t\n\n-0.615\n\n\n\n\nUpexi Inc.\n\n\t\n\n6,950,344\n\n\t\n\n8.28\n\n\t\n\n6.88\n\n\t\n\n7.9553\n\n\t\n\n+0.1253\n\n\n\n\nQMMM Holdings Ltd.\n\n\t\n\n6,811,408\n\n\t\n\n2.78\n\n\t\n\n2.58\n\n\t\n\n2.685\n\n\t\n\n+0.005\n\n\n\n\nBumble Inc.\n\n\t\n\n6,762,831\n\n\t\n\n6.24\n\n\t\n\n5.765\n\n\t\n\n6.125\n\n\t\n\n-1.025\n\n\n\n\nOceanPal Inc.\n\n\t\n\n6,671,833\n\n\t\n\n0.0975\n\n\t\n\n0.0933\n\n\t\n\n0.0945\n\n\t\n\n-0.0036\n\n\n\n\nCore Scientific Inc. New\n\n\t\n\n6,642,821\n\n\t\n\n13.63\n\n\t\n\n13.18\n\n\t\n\n13.43\n\n\t\n\n-0.42\n\n\n\n\nRecursion Pharmaceuticals Inc.\n\n\t\n\n6,289,771\n\n\t\n\n5.645\n\n\t\n\n5.41\n\n\t\n\n5.575\n\n\t\n\n-0.125\n\n\n\n\nSabre Corp.\n\n\t\n\n6,135,956\n\n\t\n\n1.92\n\n\t\n\n1.79\n\n\t\n\n1.8282\n\n\t\n\n-0.1418\n\n\n\n\nQuantum Computing Inc.\n\n\t\n\n6,015,517\n\n\t\n\n15.811\n\n\t\n\n15.265\n\n\t\n\n15.285\n\n\t\n\n-0.725\n\n\n\n\nHuntington Bancshares Inc.\n\n\t\n\n6,044,050\n\n\t\n\n16.65\n\n\t\n\n16.4701\n\n\t\n\n16.6285\n\n\t\n\n-0.0915\n\n\n\n\nNavitas Semiconductor Corp.\n\n\t\n\n5,878,606\n\n\t\n\n7.29\n\n\t\n\n7.05\n\n\t\n\n7.065\n\n\t\n\n-0.295\n\n\n\n\nWestern Acquisition Vent.Corp.\n\n\t\n\n5,817,471\n\n\t\n\n0.3326\n\n\t\n\n0.2692\n\n\t\n\n0.2868\n\n\t\n\n-0.1019\n\n\n\n\nRichtech Robotics Inc.\n\n\t\n\n5,714,495\n\n\t\n\n2.23\n\n\t\n\n2.05\n\n\t\n\n2.195\n\n\t\n\n+0.045\n\n\n\n\nPeloton Interactive Inc.\n\n\t\n\n5,691,076\n\n\t\n\n8.88\n\n\t\n\n8.41\n\n\t\n\n8.54\n\n\t\n\n-0.18\n\n\n\n\nAlphabet Inc.\n\n\t\n\n5,641,613\n\n\t\n\n205.42\n\n\t\n\n202.3245\n\n\t\n\n204.685\n\n\t\n\n+1.655\n\n\n\n\nOriental Rise Holdings Ltd.\n\n\t\n\n5,629,737\n\n\t\n\n0.1111\n\n\t\n\n0.108\n\n\t\n\n0.1082\n\n\t\n\n-0.0075\n\n\n\n\nAurora Innovation Inc.\n\n\t\n\n5,426,788\n\n\t\n\n6.52\n\n\t\n\n6.26\n\n\t\n\n6.4347\n\n\t\n\n-0.0253\n\n\n\n\nMicrosoft Corp.\n\n\t\n\n5,389,571\n\n\t\n\n525.95\n\n\t\n\n520.15\n\n\t\n\n524.52\n\n\t\n\n+3.94\n\n\n\n\nSafety Shot Inc.\n\n\t\n\n5,373,941\n\n\t\n\n0.63\n\n\t\n\n0.5854\n\n\t\n\n0.6109\n\n\t\n\n-0.0181\n\n\n\n\nBroadcom Inc.\n\n\t\n\n5,265,054\n\n\t\n\n314.1651\n\n\t\n\n307.01\n\n\t\n\n310.635\n\n\t\n\n+1.545\n\n\n\n\nEos Energy Enterprises Inc.\n\n\t\n\n5,199,543\n\n\t\n\n6.605\n\n\t\n\n6.10\n\n\t\n\n6.275\n\n\t\n\n-0.065\n\n\n\n\nJetblue Airways Corp.\n\n\t\n\n5,194,289\n\n\t\n\n5.10\n\n\t\n\n4.95\n\n\t\n\n5.015\n\n\t\n\n-0.105\n\n\n\n\nPacific Biosci.of California\n\n\t\n\n5,002,699\n\n\t\n\n1.35\n\n\t\n\n1.2419\n\n\t\n\n1.245\n\n\t\n\n-0.035\n\n\n\n\nEnphase Energy Inc.\n\n\t\n\n4,737,183\n\n\t\n\n33.49\n\n\t\n\n31.6974\n\n\t\n\n31.7328\n\n\t\n\n-2.4872\n\n\n\n\nStrategy Inc.\n\n\t\n\n4,726,617\n\n\t\n\n381.00\n\n\t\n\n372.52\n\n\t\n\n373.38\n\n\t\n\n-16.52\n\n\n\n\nFLY E GROUP Inc.\n\n\t\n\n4,695,544\n\n\t\n\n8.09\n\n\t\n\n6.28\n\n\t\n\n7.6701\n\n\t\n\n+0.1701\n\n\n\n\nMicron Technology Inc.\n\n\t\n\n4,643,869\n\n\t\n\n124.79\n\n\t\n\n121.40\n\n\t\n\n123.845\n\n\t\n\n-0.425\n\n\n\n\nKraft Heinz Co., The\n\n\t\n\n4,629,830\n\n\t\n\n27.86\n\n\t\n\n27.515\n\n\t\n\n27.66\n\n\t\n\n-0.36\n\n\n\n\nHUT 8 Corp.\n\n\t\n\n4,544,448\n\n\t\n\n23.87\n\n\t\n\n21.32\n\n\t\n\n23.30\n\n\t\n\n+0.94\n\nNYSE most active stocks:\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": null,
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA Corp. experienced a +0.455 increase in its share price, reaching $182.045, amidst the list of most active stocks on the Nasdaq."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.71
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/longpoint-asset-management-inc-opens-143000148.html",
+    "title": "LongPoint Asset Management Inc. Opens the Market",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nLongPoint Asset Management Inc. Opens the Market\nNewsfile Corp.\nThu, Aug 14, 2025, 10:30 AM 1 min read\nIn this article:\nNVDD.TO\nTSLD.TO\nNVDA\nTSLA\n\nToronto, Ontario--(Newsfile Corp. - August 14, 2025) - Steve Hawkins, Chief Executive Officer, LongPoint Asset Management Inc. (\"LongPoint\") and his team, joined Graham MacKenzie, Managing Director, Exchange Traded Products, Toronto Stock Exchange (TSX), to open the market and celebrate the launch of Canada's first Double Inverse Levered Single Stock ETFs:\n\nSavvyShort (-2X) NVDA ETF (TSX: NVDD)\n\nSavvyShort (-2X) TSLA ETF (TSX: TSLD)\n\n\n\nCannot view this video? Visit:\nhttps://www.youtube.com/watch?v=eJJtO09B3Kc\n\nThese ETFs seek daily investment results that endeavour to correspond, before fees and expenses, to two times the inverse (-2X) the daily return (on a percentage basis) of the respective common stock. The ETFs do not hedge their exposure to the U.S. dollar. The ETFs only trade in Canadian Dollars.\n\nInvest in Gold\nAmerican Hartford Gold: #1 Precious Metals Dealer in the Nation\nLearn More\nThor Metals Group: Best Overall Gold IRA\nLearn More\nPriority Gold: Up to $15k in Free Silver + Zero Account Fees on Qualifying Purchase\nLearn More\nPowered by Money.com - Yahoo may earn commission from the links above.\n\nThese new ETFs offer active Canadian investors a Canadian-domiciled, TSX-listed solution-trading in Canadian dollars-that enables them to tactically position their portfolios around company-specific news, technical signals, market events, or fundamental price outlooks.\n\nWith this launch, LongPoint continues to establish itself as a leader in innovative ETF solutions. The company entered the levered ETF market in December 2024 with its crude oil and natural gas ETFs, followed in May 2025 with the launch of Canada's first triple levered index ETFs, followed in June 2025 with the launch of Canada's first double levered single stock ETFs.\n\nMEDIA CONTACT:\nSteve Hawkins\nChief Executive Officer\nSteve@LongPointETFs.com\n(416) 224-9132\n\nTo view the source version of this press release, please visit https://www.newsfilecorp.com/release/262501\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:30:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Launch of double inverse leveraged single stock ETFs targeting NVDA announced by LongPoint Asset Management, potentially impacting NVDA's share price."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/topbrand-2025-top-500-global-142600043.html",
+    "title": "The TopBrand 2025 \"Top 500 Global Brands list\" has been released, with Microsoft ranking first.",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nThe TopBrand 2025 \"Top 500 Global Brands list\" has been released, with Microsoft ranking first.\nPR Newswire\nThu, Aug 14, 2025, 10:26 AM 1 min read\nIn this article:\nMSFT\nMETA\nNVDA\nAAPL\nAMZN\n\nSHENZHEN, China, Aug. 14, 2025 /PRNewswire/ -- The 19th China Brand Festival has been successfully held in\u00a0Shenzhen from August 7\u201311, 2025. This year's theme is \"AI and Global Expansion.\" A total of 10,000 guests have been gathered in the city of innovation to participate in parallel forums, the Brand Expo, the Entrepreneurs' Sports Games, Brand Leaders Face-to-Face sessions, and other events. More than 2,000 people attended the opening ceremony.\n\nThe TopBrand 2025 \u201cTop 500 Global Brands list\u201d has been released, with Microsoft ranking first. (PRNewsfoto/BRAND UNION(BEIJING) CONSULTING CO., LTD.)\n\nDuring the event, the\u00a0TopBrand Union released the TopBrand 2025 \"Top 500 Global Brands list\", now in its fourth year. Microsoft ranked first with a brand value of USD 1,062.505 billion, followed by NVIDIA in second place with USD 1,046.760 billion, and Apple in third with USD 997.685 billion. Amazon, Alphabet (Google), Saudi Aramco, Walmart, Meta (Facebook), Berkshire Hathaway, and Broadcom ranked fourth to tenth, respectively. PetroChina ranked 14th, making it the highest-valued Chinese brand.\n\nDr. Wang Yong, Chairman of TopBrand Union and President of the China Brand Festival, noted that in the recently released \"Fortune 2025 Global 500 list\", China had 130 companies on the list, just eight fewer than the United States. However, in this TopBrand 2025 \"Top 500 Global Brands\" ranking, the number of Chinese companies is less than half that of the United States. This shows there is still a significant gap between the brand influence of Chinese companies and their economic strength, and much work remains to be done.\n\nCision\n\nView original content to download multimedia:https://www.prnewswire.com/apac/news-releases/the-topbrand-2025-top-500-global-brands-list-has-been-released-with-microsoft-ranking-first-302530303.html\n\nSOURCE TopBrand Union\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:26:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2. No direct information about NVDA found."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidias-next-challenger-intel-backed-142109304.html",
+    "title": "Nvidia's Next Challenger? Intel-Backed Rivos Eyes $500 Million to Take On AI Inference Market",
+    "detail": "Nvidia's Next Challenger? Intel-Backed Rivos Eyes $500 Million to Take On AI Inference Market\nUndercovered Deep Insights\nThu, Aug 14, 2025, 10:21 AM 1 min read\nIn this article:\nNVDA\n\nNvidia (NASDAQ:NVDA) might have a new headache on the horizon. AI chip startup Rivos, backed by Intel (NASDAQ:INTC) CEO Lip-Bu Tan is chasing up to $500 million in fresh funding, according to The Information. If the round lands, it would bring Rivos' total haul since launching in 2021 to nearly $900 million and value the company at over $2 billion.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nThe Santa Clara-based upstart hasn't shipped a mass-market chip yet, but it's aiming for 2026 to make its commercial debut. The goal? To muscle in on Nvidia's turf by building GPUs designed for AI inference, the kind of work that runs already trained modelsand is expected to account for as much as 60% to 70% of AI workloads by 2030.\n\nRivos has already sent a prototype off to TSMC for trial production. Its pitch centers on high-performance, power-efficient, secure server solutions built on RISC-V architecture. For Nvidia, which dominates the inference market, it's another reminder that competition in the AI chip space is heating up fast.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:21:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Intel-backed Rivos seeks $500M, targeting AI inference market, potentially challenging NVDA's dominance by 2026."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/deepseek-postpones-ai-model-huawei-142018962.html",
+    "title": "DeepSeek Postpones New AI Model After Huawei Chip Hurdles",
+    "detail": "DeepSeek Postpones New AI Model After Huawei Chip Hurdles\nUndercovered Deep Insights\nThu, Aug 14, 2025, 10:20 AM 1 min read\nIn this article:\nNVDA\nOPAI.PVT\nGOOGL\n\nChinese AI startup DeepSeek has hit the brakes on its next big release. The company was gearing up to debut its new large language model, R2, but ran into trouble training it on Huawei chips, the Financial Times reported.\n\nIt's the latest setback tied to U.S. export controls that keep Nvidia's (NASDAQ:NVDA) most powerful GPUs out of Chinese hands a gap that's proving hard to fill. Sources told The Information in June that the lack of top-tier Nvidia hardware was already weighing on R2's progress, and CEO Liang Wenfeng isn't happy with its current performance.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nFor now, there's no release date. DeepSeek's most recent upgrade, R1-0528, is still making waves, with the company claiming it performs close to OpenAI's o3 and Google's Gemini 2.5 Pro. But the longer R2 lingers in development, the more pressure mounts in the high-stakes race to push AI models to the cutting edge.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:20:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Delay in NVDA's GPU-dependent AI model launch due to Huawei chip issues at DeepSeek, affecting R2's performance and timeline."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.4
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/cdns-nvda-team-advance-billion-141500491.html",
+    "title": "CDNS, NVDA Team Up to Advance Billion-Gate AI Design Power Analysis",
+    "detail": "CDNS, NVDA Team Up to Advance Billion-Gate AI Design Power Analysis\nZacks Equity Research\nThu, Aug 14, 2025, 10:15 AM 4 min read\nIn this article:\nNVDA\nCDNS\n\nCadence Design Systems (CDNS) and NVIDIA Corporation (NVDA) have achieved a breakthrough with hardware-accelerated dynamic power analysis for billion-gate artificial intelligence (AI) designs, spanning billions of cycles, all completed in just a few hours with up to 97% accuracy. This advancement was made possible by combining the Cadence Palladium Z3 Enterprise Emulation Platform with the newly introduced Cadence Dynamic Power Analysis (DPA) App.\n\nFor semiconductor and system developers targeting AI, machine learning (ML) and GPU-accelerated applications, this represents a major advance, enabling unmatched power profiling capabilities and significantly speeding up time to market. Today\u2019s advanced semiconductors and systems are so intricate that designers have difficulty accurately estimating their power consumption under real-world conditions.\n\nTraditional power analysis tools cannot process more than a few hundred thousand cycles without becoming impractically slow. In collaboration with NVIDIA, Cadence has overcome this challenge using hardware-assisted power acceleration and parallel processing, achieving unprecedented accuracy across billions of cycles in early design stages.\n\nThe Palladium Z3 Platform\u2019s DPA App allows accurate power consumption estimates in real-world workloads, helping designers verify functionality, power and performance before tapeout\u2014when optimizations are still feasible. This is especially beneficial for AI, ML and GPU-accelerated applications, as early power modeling enhances energy efficiency and prevents delays caused by over- or under-designed chips. Integrated with Cadence\u2019s analysis and implementation tools, Palladium DPA supports power estimation, reduction and signoff throughout the entire design cycle, aiding in the creation of the most efficient silicon and system designs.\n\nCDNS Poised for Growth on Soaring AI & Hardware Demand\n\nBroad-based demand for its solutions, especially the AI-driven portfolio, amid strong design activity, is a key catalyst. Secular trends like 5G, increasing use of hyperscale computing and autonomous driving are influencing design activity across semiconductor and systems companies. The focus on Generative AI, Agentic AI and Physical AI is leading to an exponential increase in computing demand and semiconductor innovation. This bodes well for Cadence.\n\nTo capitalize on this opportunity, it has been collaborating with several tech giants, including Qualcomm and NVIDIA, on their next-generation AI designs for both training and inference. Cadence is targeting new AI markets like Life Sciences through its OpenEye drug discovery software.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:15:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"NVIDIA (NVDA) partners with Cadence Design Systems (CDNS) to boost AI design power analysis, offering faster time-to-market for complex AI, ML, and GPU-accelerated applications.\""
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/china-tempers-nvidia-h20-no-140812997.html",
+    "title": "China Tempers Nvidia H20 Use -- No Ban, But Heavy Scrutiny",
+    "detail": "China Tempers Nvidia H20 Use -- No Ban, But Heavy Scrutiny\nUndercovered Deep Insights\nThu, Aug 14, 2025, 10:08 AM 1 min read\nIn this article:\nNVDA\n\nChinese regulators are signaling caution but not an outright ban on Nvidia's (NASDAQ:NVDA) H20 AI chip.\n\nReuters reports the Cyberspace Administration of China and other agencies recently called in Tencent (TCEHY), ByteDance, Baidu (NASDAQ:BIDU), and others, pressing them to justify why they need the U.S.-made chips instead of local options, while voicing worries that data shared for U.S. export clearance could expose sensitive client information.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nThe companies haven't been ordered to stop buying, pushing back on earlier reports of a ban. Still, Bloomberg says officials advised against using H20 chips in government-linked projects, and The Information claimed some firms were told to pause purchases though Reuters couldn't confirm that.\n\nThe distinction is key for Nvidia, which only regained the right to sell the H20 in China last month after U.S. curbs eased. The chip was custom-built for China after 2023 restrictions and delivered $17 billion in China sales last fiscal year, 13% of Nvidia's total.\n\nYet the pressure comes as Huawei and others ramp up domestic AI chip efforts, and Beijing pushes its tech giants to cut reliance on U.S. suppliers.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:08:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Chinese regulators scrutinize Nvidia's H20 AI chip use, advising against government-linked projects, but no ban announced yet."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ai-start-cohere-raises-500mn-140002894.html",
+    "title": "AI start-up Cohere raises $500mn as it challenges OpenAI for business clients",
+    "detail": "PREMIUM\nAI start-up Cohere raises $500mn as it challenges OpenAI for business clients\nGeorge Hammond\nThu, Aug 14, 2025, 10:00 AM 3 min read\nIn this article:\nOPAI.PVT\nUBER\nMETA\nANTH.PVT\nNVDA\n\nArtificial intelligence start-up Cohere has raised $500mn, and hired former executives from Uber and Meta, as it positions itself as a more\n\nPREMIUM\nUpgrade to read this Financial Times article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nYour Privacy Choices",
+    "date": "2025-08-14T10:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI start-up Cohere raises $500mn, challenging OpenAI; hiring ex-execs from Uber & Meta; potential threat to NVDA's market share."
+    },
+    "analysis": {
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.3
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    }
+  }
+]

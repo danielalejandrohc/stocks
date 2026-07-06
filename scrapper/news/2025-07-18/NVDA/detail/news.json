@@ -1,0 +1,407 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/openai-gets-wall-street-attention-crypto-craze-rages-on-opening-bid-top-takeaways-152544999.html",
+    "title": "OpenAI gets Wall Street attention, crypto craze rages on: Opening Bid top takeaways The market's in search of its next big thing.",
+    "detail": "OpenAI gets Wall Street attention, crypto craze rages on: Opening Bid top takeaways\nBrian Sozzi \u00b7 Executive Editor\nFri, Jul 18, 2025, 9:25 AM 4 min read\nIn This Article:\nAXP\nOPAI.PVT\n^DJI\n^SPX\n^IXIC\n\nThe week has seen the market meander as it searches for its next catalyst. One possible catalyst \u2014 an interest rate cut from the Federal Reserve later this month \u2014 has been removed from the equation following sticky inflation reads.\n\nMeanwhile, strong earnings reports this week from Netflix (NFLX) and United Airlines (UAL) haven't done enough to excite investors to push valuations to even richer levels.\n\nOn the month, the Dow Jones Industrial Average (^DJI) is up 1.1% while the S&P 500 (^GSPC) has notched a 1.8% gain. The Nasdaq Composite (^IXIC) has led the way with a 2.8% advance thanks to enthusiasm on AI chip demand from the likes of Nvidia (NVDA) and Taiwan Semiconductor (TSM).\n\nHere is everything we touched on during Yahoo Finance's Opening Bid on Friday. Tune in live daily to Opening Bid at 9:30 a.m. ET.\n\nThe fight for Fed independence\n\nFed Chair Jerome Powell defended the $2.5 billion renovation to the institution's headquarters in a letter to White House budget director Russell Vought. The remodeling job has angered President Trump and given him a new piece of arsenal in his attacks against Powell and the Fed.\n\nTrump's public rebuke of the Fed is triggering growing concerns on Wall Street about the near-term outlook for bond markets.\n\n\"We would not be surprised by a knee-jerk 50bp sell-off in the long end were this to take place. Subsequent price action would depend on court rulings,\" a Barclays researcher said.\n\nOne top economist told me this week that, should Powell get fired, it would lead to a jump in inflation expectations \u2014 and subsequently reduce the chance of the rate cut Trump has demanded.\n\nNetflix streams a strong quarter and outlook\n\nThe streaming giant did everything in its power on Thursday to justify its stock's sizzling 43% run this year.\n\nHere's what I saw in the numbers:\n\nNo consumer resistance to higher prices.\n\nRevenue and operating margin guidance lifted for 2025.\n\nSequential acceleration in revenue and operating margin growth.\n\nCommitment on the earnings call to more live events. Upcoming events include an NFL double-header on Christmas Day.\n\nThe Street is bullish on Netflix's trajectory into year-end due to a slew of new content, headlined by \"Happy Gilmore 2.\"\n\n\"Given Netflix's track record of creating new hits, we are comfortable that viewership growth can continue and support future price increases and ad monetization,\" KeyBanc analyst Justin Patterson said.\n\nPatterson reiterated an Outperform rating on Netflix shares.\n\nThe year of the crypto craze rages on\n\nThe House voted overwhelmingly on Thursday to pass the GENIUS Act, the first-ever major legislative overhaul of crypto regulations. The bill now heads to Trump's desk.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.68
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Strong earnings reports from NFLX and UAL failed to excite investors; however, AI chip demand from NVDA contributed to the Nasdaq's 2.8% advance."
+    },
+    "date": "2025-07-18T09:25:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-clinch-records-as-us-economy-flashes-strength-earnings-roll-in-200059490.html",
+    "title": "Stock market today: S&P 500, Nasdaq clinch records as US economy flashes strength, earnings roll in The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama.",
+    "detail": "Stock market today: S&P 500, Nasdaq clinch records as US economy flashes strength, earnings roll in\nBrett LoGiurato and Karen Friar\nUpdated Thu, Jul 17, 2025, 2:39 PM 2 min read\nIn This Article:\n^SPX\n^DJI\n^IXIC\n2330.TW\nNVDA\n\nUS stocks notched new record highs on Thursday as Wall Street filtered through a fresh wave of earnings while keeping an eye on President Trump's campaign against Federal Reserve Chair Jerome Powell.\n\nThe Dow Jones Industrial Average (^DJI) rose 0.5%, while the S&P 500 (^GSPC) gained about 0.7% to close at a fresh record just under the 6,300 mark. The tech-heavy Nasdaq Composite (^IXIC) climbed 0.7% to also clinch a fresh all-time high.\n\nThe S&P 500 and Nasdaq continued a record-setting run as investors navigated a plethora of catalysts, including earnings, economic data, Trump's tariffs, and the president's displeasure with the Fed's stance on interest rates.\n\nRetail sales rebounded in June, an indication that Trump's tariffs are not significantly impacting consumer spending habits yet. The reading serves as another snapshot of the health of the US consumer, who big banks so far this earnings season say seem to be doing just \"fine.\"\n\nAlso out Thursday morning, data from the Department of Labor showed 221,000 initial jobless claims were filed in the week ending July 12. After picking up in May, weekly filings for unemployment claims are now at their lowest level in three months.\n\nIn earnings, TSMC (TSM) posted a record quarterly profit early on Thursday, citing stronger and stronger AI demand. The Nvidia supplier's shares popped as its results boosted other chipmaker stocks. Meanwhile, PepsiCo (PEP) reported a surprise rise in revenue and lowered its forecast drop in 2025 profit.\n\nRead more: Full earnings coverage in our live blog\n\nNetflix (NFLX) is the highlight of Thursday's docket, as it kicks off this season's Big Tech earnings reports with results due after the bell. The streaming giant's shares are on a tear so far this year.\n\nOn the back burner for now are Trump's renewed threats to attempt to fire Powell, which sparked a stock sell-off at one point on Wednesday. While the president said he was \"not planning\" to do so, he has spent months excoriating Powell and the Fed's lack of appetite for interest rate cuts.\n\nInvestor bets suggest Trump is likely to remain disappointed after the central bank's meeting in two weeks, as nearly 100% of traders expect a rate hold amid mixed signals on inflation.\n\nRead more: The latest on Trump's tariffs\n\nLIVE COVERAGE IS OVER 23 updates\nThu, July 17, 2025 at 8:39 PM UTC\nInes Ferr\u00e9\nNetflix raises full-year guidance, on track to double ad revenue in 2025\n\nNetflix (NFLX) shares were little changed in post-market trading after the streaming giant reported second quarter revenue in line with Wall Street expectations, and earnings narrowly beating estimates.\n\nNetflix's revenue was $11.08 billion for the quarter, just ahead of the $11.06 billion expected by analysts. Earnings per share (EPS) came in at $7.19, slightly better than the $7.08 Wall Street was looking for.\n\nThe company raised its full-year guidance range to $44.8\u2013$45.2 billion and said it is still on track to double its ad revenue in 2025.\n\nThu, July 17, 2025 at 8:35 PM UTC\nInes Ferr\u00e9\nHouse sends stablecoin bill to Trump's desk, capping string of 'crypto week' victories\n\nYahoo Finance's David Hollerith reports:\n\nRead more here.\n\nThu, July 17, 2025 at 8:02 PM UTC\nInes Ferr\u00e9\nS&P 500, Nasdaq notch fresh records after strong economic data, earnings\n\nStocks notched fresh record highs on Thursday as investors digested a wave of corporate earnings reports along with better-than-expected economic data.\n\nThe Dow Jones Industrial Average (^DJI) gained more than 200 points while the S&P 500 (^GSPC) gained 0.5% to close at a new record. The Nasdaq Composite (^IXIC) inched up 0.7% to also notch a fresh all-time high close.\n\nTaiwan Semiconductor Manufacturing Company (TSM) posted a record quarterly profit, sending the semiconductor index higher. PepsiCo (PEP) stock gained more than 6% after a better-than expected quarter.\n\nOn the economic front, retail sales for June rebounded while jobless claims came in at their lowest level in three months.\n\nThu, July 17, 2025 at 7:30 PM UTC\nInes Ferr\u00e9\nLarry Ellison tops Mark Zuckerberg as world's 2nd richest \u2014 here's the top 10\n\nYahoo Finance's Nina Moothedath reports:\n\nHere's the full list of the top 10 richest people in the world.\n\nThu, July 17, 2025 at 7:00 PM UTC\nInes Ferr\u00e9\nOpendoor stock explodes higher as retail piles in, hedge funder sees potential 100x rally in 'next few years'\n\nYahoo Finance's Jake Conley:\n\nRead more here.\n\nThu, July 17, 2025 at 6:15 PM UTC\nInes Ferr\u00e9\nNvidia and University of Bristol debut UK's fastest AI supercomputer in sovereign AI push\n\nYahoo Finance's Dan Howley reports:\n\nRead more here.\n\nThu, July 17, 2025 at 5:30 PM UTC\nInes Ferr\u00e9\nCrypto watchers eye possible vote on legislation in House\n\nCrypto investors were watching developments in Congress on Thursday as lawmakers debated key bills, including legislation that would create guardrails surrounding stablecoins, tokens backed by assets such as the US dollar.\n\nShares of stablecoin issuer Circle (CRCL) rose during the session as the Genius Act was likely to be voted on during the afternoon session.\n\nMeanwhile, the Clarity Act, a regulatory framework for payment stablecoins and digital assets, was also up for debate.\n\n\"This is a moment in time when the stars are aligned to pass these bills,\" said Pat Daugherty, partner at Foley & Lardner, who has commented to congressional staff and lawmakers on drafts of the legislation.\n\nMeanwhile bitcoin (BTC-USD), which touched all-time highs this week on increased inflows into spot ETFS and bullish momentum as the House debated crypto legislation, was little changed on Thursday.\n\nThe token hovered above $118,500 per token.\n\nThu, July 17, 2025 at 4:55 PM UTC\nInes Ferr\u00e9\nMortgage rates move higher again\n\nYahoo Finance's Shi Bradley reports:\n\nRead more here.\n\nThu, July 17, 2025 at 4:15 PM UTC\nInes Ferr\u00e9\nThe next Fed chair\u2019s dilemma: Maintain Fed independence while pleasing Trump\n\nYahoo Finance's Jennifer Schonberger reports:\n\nRead more here.\n\nThu, July 17, 2025 at 3:40 PM UTC\nInes Ferr\u00e9\nWhat the China export easing means for Nvidia, AMD, and other chips stocks\n\nYahoo Finance's Francisco Velasquez reports:\n\nRead more here.\n\nThu, July 17, 2025 at 3:00 PM UTC\nInes Ferr\u00e9\nCarlyle co-founder Rubenstein on Fed's Powell: He's done a very good job\n\nYahoo Finance's Brian Sozzi reports:\n\nRead more here.\n\nThu, July 17, 2025 at 2:45 PM UTC\nInes Ferr\u00e9\nWall Street is coming to the Fed's defense\n\nYahoo Finance's David Hollerith reports:\n\nRead more here.\n\nThu, July 17, 2025 at 2:16 PM UTC\nInes Ferr\u00e9\nLucid shares jump 30% on Uber deal\n\nYahoo Finance's Pras Subramanian reports:\n\nRead more here.\n\nThu, July 17, 2025 at 1:56 PM UTC\nGrace O'Donnell\nJobless claims fall for 5th straight week\n\nData from the Department of Labor out Thursday morning showed Americans filed 221,000 initial jobless claims in the week ending July 12.\n\nIt marked the fifth straight week that applications for US unemployment benefits fell. After picking up in May, weekly filings for unemployment claims are now at their lowest level in three months.\n\nRead more: What are jobless claims, and why do they matter?\n\nContinuing claims, or the total number of Americans collecting unemployment benefits, ticked up slightly to 1.96 million for the week ending July 5.\n\nThe job market has continued to show resilience despite uncertainty fueled by President Trump's trade policies. In June, the US surprisingly added 147,000 jobs, more than the 106,000 expected by economists, while the unemployment rate ticked down to 4.1%.\n\nInvestors have maintained their bets on Federal Reserve interest-rate cuts.\n\nAs of Thursday morning, traders were pricing in a 54% chance the central bank cuts interest rates by its September meeting, down from a roughly 70% chance seen just last week, according to the CME FedWatch Tool.\n\nThu, July 17, 2025 at 1:34 PM UTC\nInes Ferr\u00e9\nStocks open mostly flat as investors digest June retail sales, earnings reports\n\nStocks were little changed at the market open as investors digested a better-than-expected increase in June retail sales and a wave of corporate earnings reports.\n\nThe Dow Jones Industrial Average (^DJI) and the S&P 500 (^GSPC) traded flat, while the Nasdaq Composite (^IXIC) inched up slightly, by about 0.1%.\n\nOn the earnings front, Taiwan Semiconductor Manufacturing Company (TSM) posted a record quarterly profit, sending the stock 3% higher in early trading.\n\nPepsiCo (PEP) shares gained more than 6% after the beverage maker reported better-than-expected quarterly results.\n\nThu, July 17, 2025 at 1:05 PM UTC\nGrace O'Donnell\nTrending tickers in premarket trading: TSMC, Opendoor, Pepsi, GE Aerospace, Netflix\n\nHere are some of the most notable movers in premarket trading as more second quarter earnings roll in:\n\nCheck out more trending tickers here.\n\nThu, July 17, 2025 at 12:45 PM UTC\nInes Ferr\u00e9\nRetail sales rise more than expected in June\n\nYahoo Finance's Josh Schafer reports:\n\nRead more here.\n\nThu, July 17, 2025 at 11:57 AM UTC\nGrace O'Donnell\nPepsi stock rises on better-than-expected earnings\n\nPepsiCo (PEP) stock rose 2% after the company reported better-than-expected quarterly results.\n\nPepsi still expects a drop in annual profit, though not as severe as it expected previously. It sees its full-year core earnings per share falling 1.5% instead of the 3% previously forecast.\n\nThe Gatorade and Lay's maker benefited from favorable foreign exchange rates and greater demand for energy drinks and healthier soda brands, like its prebiotic soda brand Poppi.\n\nFor the quarter, Pepsi's adjusted earnings per share were $2.12 on revenue of $22.7 billion.\n\nRead more here or listen to Pepsi's earnings call live on its stock ticker page.\n\nThu, July 17, 2025 at 11:41 AM UTC\nGrace O'Donnell\nTSMC stock pops 3% on record quarterly earnings\n\nTaiwan Semiconductor Manufacturing Company (TSM) posted a record quarterly profit on Thursday, sending the stock 3% higher in premarket trading.\n\nThe company reported net profit of 398.3 billion new Taiwan dollars ($13.5 billion), an increase of more than 60% year over year.\n\nTSMC, which is Nvidia's (NVDA) primary chip manufacturer, said that artificial intelligence demand was growing and raised its sales outlook for the third quarter and full year.\n\nIn a policy reversal, Nvidia has been allowed to resume sales of its H20 chip in China, which could help it recoup as much as $15 billion in revenue. Nvidia shares were up half a percent on Thursday morning.\n\n\"China is a big market, and my customer can continue to supply the chip to the big market,\" TSMC CEO C.C. Wei said at a press conference. \"It's very positive news for them, and in return, it's very positive news for TSMC.\"\n\nWhile TSMC has not seen changes in customers' behavior so far, it cautioned that tariffs could affect income in the fourth quarter.\n\nThu, July 17, 2025 at 9:43 AM UTC\nKaren Friar\nNetflix earnings on deck: What Wall Street is watching\n\nNetflix (NFLX) is set to report second quarter earnings after the bell on Thursday. Shares have soared about 40% since the start of the year, with the stock's valuation a top debate on Wall Street as the streamer doubles down on live events and sports content.\n\nYahoo Finance's Allie Canal reports on what to expect:\n\nRead more here.\n\nThu, July 17, 2025 at 9:40 AM UTC\nKaren Friar\nUnited Airlines stock slides in wake of fresh profit guidance\n\nUnited Airlines shares fell in premarket after the US carrier reset its full-year profit outlook, saying travel demand has picked up thanks to an easing in economic and geopolitical uncertainty.\n\nThe airline now expects to post adjusted profit of $9 to $11 a share for 2025, compared with Wall Street expectations for $10.04 a share.\n\n\"United saw a positive shift in demand beginning in early July, and, like 2024, anticipates another inflection in industry supply in mid-August,\" United CEO Scott Kirby said in a company statement.\n\n\"The world is less uncertain today than it was during the first six months of 2025 and that gives us confidence about a strong finish to the year,\" he added.\n\nBut United's revised guidance still undershot the range of $11.50 to $13.50 a share that it laid out at the start of the year. In April, the company issued two sets of profit outlooks based on whether the US fell into recession, with a range of $7 to $9 a share in the worse scenario. At the same time, it flagged it still might meet its higher target.\n\nProfit in the second quarter beat estimates, but its revenue growth fell short.\n\nRead more on United's earnings here, from Reuters.\n\nThu, July 17, 2025 at 6:33 AM UTC\nRian Howlett\nTSMC profits soar over 60% in Q2, notching all time high\n\nTaiwan Semiconductor Manufacturing Co. (TSM), the global leader in contract chip production, delivered a blockbuster second quarter. It reported net profit of T$398.3 billion ($13.53 billion), a 60.7% year-over-year surge that shattered analyst expectations and marked an all-time high for the company.\n\nTSMC\u2019s robust momentum comes as tech giants like Apple (AAPL) and Nvidia (NVDA) ramp up chip orders to support AI advancements and next-gen devices.\n\nShares in the chip giant closed at $237.56 on Thursday, up 0.3%, before jumping more than 5.6% in overnight trading, pushing past $250 before steadying.\n\nThu, July 17, 2025 at 3:31 AM UTC\nRian Howlett\nOil prices bounce back from early week losses\n\nOil prices rose overnight Wednesday despite recent fears of oversupply by OPEC+ producers.\n\nReuters reports:\n\nRead more here.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.91
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "US stocks hit new records; S&P 500, Nasdaq climb as retail sales rebound, despite Trump's tariffs & Fed criticism. Positive for NVDA."
+    },
+    "date": "2025-07-17T14:39:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/coreweave-crwv-drops-hsbc-turns-150146956.html",
+    "title": "CoreWeave (CRWV) Drops as HSBC Turns Bearish We recently published These 10 Stocks Just Lost Their Spark. CoreWeave, Inc. (NASDAQ:CRWV) is one of the worst-performing companies on Thursday. CoreWeave dropped by 7.57 percent on Thursday to close at $132.21 apiece as investors disposed of shares following an investment firm\u2019s pessimistic outlook for the company. In a market note, CoreWeave, Inc. (NASDAQ:CRWV) earned a \u201creduce\u201d [\u2026]",
+    "detail": "CoreWeave (CRWV) Drops as HSBC Turns Bearish\nAngelica Ballesteros\nFri, Jul 18, 2025, 9:01 AM 2 min read\nIn This Article:\nCRWV\nMSFT\nNVDA\n\nWe recently published These 10 Stocks Just Lost Their Spark. CoreWeave, Inc.\u00a0(NASDAQ:CRWV) is one of the worst-performing companies on Thursday.\n\nCoreWeave dropped by 7.57 percent on Thursday to close at $132.21 apiece as investors disposed of shares following an investment firm\u2019s pessimistic outlook for the company.\n\nIn a market note, CoreWeave, Inc.\u00a0(NASDAQ:CRWV) earned a \u201creduce\u201d rating and a meager $32 price target from HSBC Global Research, marking a 76-percent downside from its latest closing price.\n\nAccording to HSBC, the rating revision was based on CoreWeave, Inc.\u2019s\u00a0(NASDAQ:CRWV) overreliance on Microsoft (NASDAQ:MSFT) and Nvidia (NASDAQ:NVDA).\n\nHowever, it noted that such clients have not adopted CoreWeave, Inc.\u2019s\u00a0(NASDAQ:CRWV) software services, weakening the company\u2019s competitiveness and customer stickiness.\n\n\u201cSelling more value-added services driven by the software stack, as is done by general-purpose clouds, may be key to achieving stronger returns,\u201d the market note said.\n\nCoreWeave (CRWV) Drops as HSBC Turns Bearish\n\nA close-up of a businesswoman using a laptop, being illuminated by the AI-enabled cloud interface sponsored by the company.\n\n\u201dBut CoreWeave would first need to successfully shift to a general-purpose cloud offering and diversify away from Microsoft and Open AI (which together accounted for more than 72% of its revenue and most of its backlog in 1Q25) towards customers that require CoreWeave\u2019s full software stack.\u201d\n\nWhile we acknowledge the potential of CRWV as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and have limited downside risk. If you are looking for an extremely cheap AI stock that is also a major beneficiary of Trump tariffs and onshoring, see our free report on the best short-term AI stock.\n\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now.\n\nDisclosure: None. This article is originally published at\u00a0Insider Monkey.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.02
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "HSBC downgrades CRWV, citing reliance on MSFT & NVDA; CRWV drops 7.57% to $132.21."
+    },
+    "date": "2025-07-18T09:01:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bc-most-active-stocks-143206422.html",
+    "title": "BC-Most Active Stocks Globavend Holdings Ltd. 55,651,212 0.0395",
+    "detail": "BC-Most Active Stocks\nThe Associated Press\nFri, Jul 18, 2025, 8:32 AM 21 min read\nIn This Article:\n^IXIC\nOPEN\nBTOG\nLCID\nNVDA\n\nNEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks.\n\nNasdaq most active stocks:\n\nStock Name\n\n\t\n\nVolume\n\n\t\n\nHigh\n\n\t\n\nLow\n\n\t\n\nLast\n\n\t\n\nChange\n\n\n\n\nOpendoor Technologies Inc.\n\n\t\n\n549,012,929\n\n\t\n\n2.31\n\n\t\n\n1.76\n\n\t\n\n2.25\n\n\t\n\n+0.60\n\n\n\n\nIncannex Healthcare Inc.\n\n\t\n\n477,355,603\n\n\t\n\n0.6587\n\n\t\n\n0.422\n\n\t\n\n0.61\n\n\t\n\n+0.2399\n\n\n\n\nBit Origin Ltd.\n\n\t\n\n358,815,969\n\n\t\n\n1.01\n\n\t\n\n0.71\n\n\t\n\n0.78\n\n\t\n\n+0.149\n\n\n\n\nLucid Group Inc.\n\n\t\n\n292,591,555\n\n\t\n\n3.21\n\n\t\n\n2.87\n\n\t\n\n3.04\n\n\t\n\n-0.08\n\n\n\n\nNVIDIA Corp.\n\n\t\n\n145,303,992\n\n\t\n\n174.25\n\n\t\n\n171.26\n\n\t\n\n172.41\n\n\t\n\n-0.59\n\n\n\n\nTelomir Pharmaceuticals Inc.\n\n\t\n\n136,119,797\n\n\t\n\n3.10\n\n\t\n\n2.04\n\n\t\n\n2.28\n\n\t\n\n+1.07\n\n\n\n\nWARNER BROS. DISCOVERY INC.\n\n\t\n\n117,760,587\n\n\t\n\n12.99\n\n\t\n\n12.57\n\n\t\n\n12.75\n\n\t\n\n-0.09\n\n\n\n\nHealthcare Triangle Inc.\n\n\t\n\n114,714,458\n\n\t\n\n0.0202\n\n\t\n\n0.0175\n\n\t\n\n0.0193\n\n\t\n\n-0.0015\n\n\n\n\nPlug Power Inc.\n\n\t\n\n102,080,932\n\n\t\n\n1.83\n\n\t\n\n1.67\n\n\t\n\n1.79\n\n\t\n\n+0.14\n\n\n\n\nGlobavend Holdings Ltd.\n\n\t\n\n99,322,899\n\n\t\n\n0.0395\n\n\t\n\n0.034\n\n\t\n\n0.0351\n\n\t\n\n-0.0119\n\n\n\n\nTesla Inc.\n\n\t\n\n93,695,004\n\n\t\n\n330.90\n\n\t\n\n321.42\n\n\t\n\n329.65\n\n\t\n\n+10.24\n\n\n\n\nSharpLink Gaming Inc.\n\n\t\n\n85,035,166\n\n\t\n\n40.455\n\n\t\n\n28.91\n\n\t\n\n28.98\n\n\t\n\n-7.42\n\n\n\n\nMullen Automotive Inc.\n\n\t\n\n83,139,603\n\n\t\n\n0.105\n\n\t\n\n0.0871\n\n\t\n\n0.0894\n\n\t\n\n-0.0134\n\n\n\n\nSarepta Therapeutics Inc.\n\n\t\n\n76,427,993\n\n\t\n\n19.18\n\n\t\n\n12.81\n\n\t\n\n14.075\n\n\t\n\n-7.895\n\n\n\n\nWang & Lee Group Inc.\n\n\t\n\n74,575,178\n\n\t\n\n0.0535\n\n\t\n\n0.0416\n\n\t\n\n0.047\n\n\t\n\n+0.0055\n\n\n\n\nBlaize Holdings Inc.\n\n\t\n\n73,122,774\n\n\t\n\n5.44\n\n\t\n\n4.13\n\n\t\n\n4.81\n\n\t\n\n+1.78\n\n\n\n\nRobinhood Markets Inc.\n\n\t\n\n72,854,705\n\n\t\n\n113.4393\n\n\t\n\n106.95\n\n\t\n\n109.74\n\n\t\n\n+4.29\n\n\n\n\nAmerican Airlines Group Inc.\n\n\t\n\n70,340,486\n\n\t\n\n12.59\n\n\t\n\n12.20\n\n\t\n\n12.51\n\n\t\n\n+0.06\n\n\n\n\nBit Digital Inc.\n\n\t\n\n69,772,507\n\n\t\n\n4.49\n\n\t\n\n3.84\n\n\t\n\n3.84\n\n\t\n\n-0.17\n\n\n\n\niShares Ethereum Trust ETF\n\n\t\n\n66,500,255\n\n\t\n\n27.8693\n\n\t\n\n26.75\n\n\t\n\n26.92\n\n\t\n\n+1.04\n\n\n\n\nIntel Corp.\n\n\t\n\n60,057,686\n\n\t\n\n23.59\n\n\t\n\n22.90\n\n\t\n\n23.10\n\n\t\n\n+0.30\n\n\n\n\nSoFi Technologies Inc.\n\n\t\n\n59,465,137\n\n\t\n\n22.74\n\n\t\n\n21.35\n\n\t\n\n21.81\n\n\t\n\n-0.28\n\n\n\n\nreAlpha Tech Corp.\n\n\t\n\n58,864,745\n\n\t\n\n0.225\n\n\t\n\n0.1641\n\n\t\n\n0.19\n\n\t\n\n+0.035\n\n\n\n\nRigetti Computing Inc.\n\n\t\n\n56,184,794\n\n\t\n\n17.39\n\n\t\n\n15.96\n\n\t\n\n17.16\n\n\t\n\n+0.02\n\n\n\n\nApplied Digital Corp.\n\n\t\n\n55,410,763\n\n\t\n\n12.15\n\n\t\n\n11.20\n\n\t\n\n11.93\n\n\t\n\n+1.02\n\n\n\n\nRiot Platforms Inc.\n\n\t\n\n54,715,407\n\n\t\n\n14.12\n\n\t\n\n13.24\n\n\t\n\n13.86\n\n\t\n\n+0.53\n\n\n\n\nExpion360 Inc.\n\n\t\n\n53,951,507\n\n\t\n\n1.60\n\n\t\n\n1.16\n\n\t\n\n1.58\n\n\t\n\n+0.54\n\n\n\n\nGibo Holdings Ltd.\n\n\t\n\n53,688,179\n\n\t\n\n0.0372\n\n\t\n\n0.0336\n\n\t\n\n0.0352\n\n\t\n\n-0.0023\n\n\n\n\nECD Automotive Design Inc.\n\n\t\n\n53,268,530\n\n\t\n\n0.3293\n\n\t\n\n0.2631\n\n\t\n\n0.2755\n\n\t\n\n-0.0055\n\n\n\n\nRecursion Pharmaceuticals Inc.\n\n\t\n\n52,722,209\n\n\t\n\n6.225\n\n\t\n\n5.57\n\n\t\n\n5.84\n\n\t\n\n+0.32\n\n\n\n\niShares Bitcoin Trust ETF\n\n\t\n\n50,231,719\n\n\t\n\n67.8375\n\n\t\n\n66.545\n\n\t\n\n66.68\n\n\t\n\n-0.97\n\n\n\n\nHuntington Bancshares Inc.\n\n\t\n\n50,140,618\n\n\t\n\n17.03\n\n\t\n\n16.36\n\n\t\n\n16.71\n\n\t\n\n-0.27\n\n\n\n\nAdvanced Micro Devices Inc.\n\n\t\n\n48,645,508\n\n\t\n\n160.83\n\n\t\n\n155.81\n\n\t\n\n156.99\n\n\t\n\n-3.42\n\n\n\n\nApple Inc.\n\n\t\n\n48,556,241\n\n\t\n\n211.79\n\n\t\n\n209.7045\n\n\t\n\n211.18\n\n\t\n\n+1.16\n\n\n\n\nWebull Corp.\n\n\t\n\n47,954,040\n\n\t\n\n17.22\n\n\t\n\n14.3812\n\n\t\n\n16.89\n\n\t\n\n+2.46\n\n\n\n\nRivian Automotive Inc.\n\n\t\n\n47,845,863\n\n\t\n\n13.86\n\n\t\n\n12.80\n\n\t\n\n13.70\n\n\t\n\n+0.80\n\n\n\n\nTerawulf Inc.\n\n\t\n\n46,828,438\n\n\t\n\n5.63\n\n\t\n\n5.00\n\n\t\n\n5.13\n\n\t\n\n-0.23\n\n\n\n\nPalantir Technologies Inc.\n\n\t\n\n45,571,358\n\n\t\n\n154.92\n\n\t\n\n151.90\n\n\t\n\n153.52\n\n\t\n\n-0.47\n\n\n\n\nGrab Holdings Limited\n\n\t\n\n45,147,805\n\n\t\n\n5.415\n\n\t\n\n5.29\n\n\t\n\n5.34\n\n\t\n\n+0.09\n\n\n\n\nEos Energy Enterprises Inc.\n\n\t\n\n41,926,003\n\n\t\n\n6.50\n\n\t\n\n5.76\n\n\t\n\n5.87\n\n\t\n\n+0.57\n\n\n\n\nSoundhound AI Inc.\n\n\t\n\n41,544,201\n\n\t\n\n13.1099\n\n\t\n\n12.35\n\n\t\n\n12.81\n\n\t\n\n+0.17\n\n\n\n\nMARA Holdings Inc.\n\n\t\n\n41,196,712\n\n\t\n\n20.99\n\n\t\n\n19.27\n\n\t\n\n19.51\n\n\t\n\n-0.46\n\n\n\n\nMEI Pharma Inc.\n\n\t\n\n41,151,919\n\n\t\n\n9.00\n\n\t\n\n5.22\n\n\t\n\n5.92\n\n\t\n\n+1.42\n\n\n\n\nBTCS Inc.\n\n\t\n\n40,625,540\n\n\t\n\n8.49\n\n\t\n\n6.54\n\n\t\n\n6.57\n\n\t\n\n+0.10\n\n\n\n\nGameSquare Holdings Inc.\n\n\t\n\n40,006,662\n\n\t\n\n1.75\n\n\t\n\n1.50\n\n\t\n\n1.52\n\n\t\n\n-0.09\n\n\n\n\nAmazon.com Inc.\n\n\t\n\n37,477,328\n\n\t\n\n226.40\n\n\t\n\n222.98\n\n\t\n\n226.13\n\n\t\n\n+2.25\n\n\n\n\nFaraday Future Intel.Electric\n\n\t\n\n35,096,312\n\n\t\n\n2.44\n\n\t\n\n1.91\n\n\t\n\n1.92\n\n\t\n\n-0.56\n\n\n\n\nAlphabet Inc.\n\n\t\n\n33,691,435\n\n\t\n\n186.42\n\n\t\n\n183.71\n\n\t\n\n185.06\n\n\t\n\n+1.48\n\n\n\n\nPop Culture Group Co. Ltd.\n\n\t\n\n32,792,700\n\n\t\n\n0.99\n\n\t\n\n0.686\n\n\t\n\n0.7375\n\n\t\n\n+0.0982\n\n\n\n\nRocket Lab Corp.\n\n\t\n\n32,786,738\n\n\t\n\n51.85\n\n\t\n\n47.91\n\n\t\n\n51.39\n\n\t\n\n+0.06\n\n\n\n\nWellgistics Health Inc.\n\n\t\n\n32,674,250\n\n\t\n\n1.74\n\n\t\n\n0.938\n\n\t\n\n1.01\n\n\t\n\n+0.09\n\n\n\n\nSuper Micro Computer Inc.\n\n\t\n\n31,733,891\n\n\t\n\n53.87\n\n\t\n\n51.27\n\n\t\n\n51.77\n\n\t\n\n-0.98\n\n\n\n\nNavitas Semiconductor Corp.\n\n\t\n\n30,224,795\n\n\t\n\n6.98\n\n\t\n\n6.33\n\n\t\n\n6.79\n\n\t\n\n+0.52\n\n\n\n\nCleanspark Inc.\n\n\t\n\n29,025,647\n\n\t\n\n13.5799\n\n\t\n\n12.375\n\n\t\n\n12.78\n\n\t\n\n-0.20\n\n\n\n\nTilray Brands Inc.\n\n\t\n\n28,697,630\n\n\t\n\n0.6583\n\n\t\n\n0.6143\n\n\t\n\n0.6213\n\n\t\n\n+0.01\n\n\n\n\nCoinbase Global Inc.\n\n\t\n\n27,910,414\n\n\t\n\n444.645\n\n\t\n\n406.50\n\n\t\n\n419.78\n\n\t\n\n+9.03\n\n\n\n\nCipher Mining Inc.\n\n\t\n\n27,589,657\n\n\t\n\n6.7397\n\n\t\n\n6.0407\n\n\t\n\n6.36\n\n\t\n\n-0.06\n\n\n\n\nUpexi Inc.\n\n\t\n\n27,435,569\n\n\t\n\n9.13\n\n\t\n\n6.90\n\n\t\n\n7.48\n\n\t\n\n+0.24\n\n\n\n\nIREN Ltd.\n\n\t\n\n27,175,951\n\n\t\n\n18.86\n\n\t\n\n17.265\n\n\t\n\n17.94\n\n\t\n\n-0.11\n\n\n\n\nSolid Power Inc.\n\n\t\n\n25,834,221\n\n\t\n\n3.86\n\n\t\n\n3.25\n\n\t\n\n3.77\n\n\t\n\n+0.55\n\n\n\n\nCSX Corp.\n\n\t\n\n24,849,095\n\n\t\n\n35.62\n\n\t\n\n34.24\n\n\t\n\n34.39\n\n\t\n\n-0.11\n\n\n\n\nHIVE Digital Technologies Ltd.\n\n\t\n\n24,644,035\n\n\t\n\n2.35\n\n\t\n\n2.18\n\n\t\n\n2.23\n\n\t\n\n+0.01\n\n\n\n\nBitfarms Ltd.\n\n\t\n\n23,584,803\n\n\t\n\n1.11\n\n\t\n\n1.03\n\n\t\n\n1.04\n\n\t\n\n-0.04\n\n\n\n\nCyclacel Pharmaceuticals Inc.\n\n\t\n\n22,204,087\n\n\t\n\n18.00\n\n\t\n\n8.00\n\n\t\n\n13.07\n\n\t\n\n+4.84\n\n\n\n\nQuantum Computing Inc.\n\n\t\n\n21,980,616\n\n\t\n\n20.105\n\n\t\n\n18.78\n\n\t\n\n19.51\n\n\t\n\n-0.26\n\n\n\n\nMicrosoft Corp.\n\n\t\n\n21,099,352\n\n\t\n\n514.6401\n\n\t\n\n507.43\n\n\t\n\n510.05\n\n\t\n\n-1.65\n\n\n\n\nAlphabet Inc.\n\n\t\n\n20,870,191\n\n\t\n\n187.36\n\n\t\n\n184.73\n\n\t\n\n185.94\n\n\t\n\n+1.24\n\n\n\n\nOndas Holdings Inc.\n\n\t\n\n20,460,057\n\n\t\n\n2.48\n\n\t\n\n2.19\n\n\t\n\n2.23\n\n\t\n\n-0.17\n\n\n\n\nGalaxy Digital Inc.\n\n\t\n\n20,002,259\n\n\t\n\n28.20\n\n\t\n\n25.32\n\n\t\n\n27.13\n\n\t\n\n+1.09\n\n\n\n\nMicron Technology Inc.\n\n\t\n\n19,276,429\n\n\t\n\n114.80\n\n\t\n\n113.28\n\n\t\n\n114.39\n\n\t\n\n+1.13\n\n\n\n\nWindtree Therapeutics Inc.\n\n\t\n\n19,112,581\n\n\t\n\n1.35\n\n\t\n\n1.09\n\n\t\n\n1.19\n\n\t\n\n+0.14\n\n\n\n\nMicroStrategy Inc.\n\n\t\n\n18,970,066\n\n\t\n\n454.33\n\n\t\n\n422.22\n\n\t\n\n423.22\n\n\t\n\n-28.12\n\n\n\n\nKraft Heinz Co., The\n\n\t\n\n18,384,140\n\n\t\n\n28.215\n\n\t\n\n27.69\n\n\t\n\n27.82\n\n\t\n\n-0.31\n\n\n\n\nLM Funding America Inc.\n\n\t\n\n16,985,635\n\n\t\n\n3.50\n\n\t\n\n2.16\n\n\t\n\n3.23\n\n\t\n\n+1.01\n\n\n\n\nMarvell Technology Inc.\n\n\t\n\n16,879,777\n\n\t\n\n75.255\n\n\t\n\n71.15\n\n\t\n\n74.65\n\n\t\n\n+2.64\n\n\n\n\nDraganfly Inc.\n\n\t\n\n16,566,683\n\n\t\n\n5.90\n\n\t\n\n5.15\n\n\t\n\n5.45\n\n\t\n\n-1.77\n\n\n\n\nSEALSQ Corp.\n\n\t\n\n16,489,209\n\n\t\n\n3.96\n\n\t\n\n3.68\n\n\t\n\n3.75\n\n\t\n\n+0.01\n\n\n\n\nAbove Food Ingredients Inc.\n\n\t\n\n16,063,230\n\n\t\n\n3.58\n\n\t\n\n2.70\n\n\t\n\n2.70\n\n\t\n\n-0.70\n\n\n\n\nCisco Systems Inc.\n\n\t\n\n15,750,645\n\n\t\n\n68.84\n\n\t\n\n67.9601\n\n\t\n\n68.05\n\n\t\n\n-0.25\n\n\n\n\nABPRO Holdings Inc.\n\n\t\n\n15,535,340\n\n\t\n\n0.2148\n\n\t\n\n0.191\n\n\t\n\n0.2039\n\n\t\n\n+0.0077\n\n\n\n\nInteractive Brokers Group Inc.\n\n\t\n\n14,971,435\n\n\t\n\n65.738\n\n\t\n\n62.53\n\n\t\n\n64.05\n\n\t\n\n+4.62\n\n\n\n\nBroadcom Inc.\n\n\t\n\n14,919,620\n\n\t\n\n287.53\n\n\t\n\n281.00\n\n\t\n\n283.34\n\n\t\n\n-3.11\n\n\n\n\natai Life Sciences B.V.\n\n\t\n\n14,835,881\n\n\t\n\n3.35\n\n\t\n\n2.81\n\n\t\n\n3.23\n\n\t\n\n+0.44\n\n\n\n\nIovance Biotherapeutics Inc.\n\n\t\n\n14,732,290\n\n\t\n\n2.4791\n\n\t\n\n2.22\n\n\t\n\n2.23\n\n\t\n\n-0.11\n\n\n\n\nJetblue Airways Corp.\n\n\t\n\n14,684,460\n\n\t\n\n4.619\n\n\t\n\n4.40\n\n\t\n\n4.41\n\n\t\n\n-0.16\n\n\n\n\nComcast Corp.\n\n\t\n\n14,460,938\n\n\t\n\n34.93\n\n\t\n\n34.43\n\n\t\n\n34.54\n\n\t\n\n-0.16\n\n\n\n\nDIH Holding US Inc.\n\n\t\n\n14,413,027\n\n\t\n\n0.2496\n\n\t\n\n0.2336\n\n\t\n\n0.248\n\n\t\n\n+0.01\n\n\n\n\nAGNC Investment Corp.\n\n\t\n\n13,845,237\n\n\t\n\n9.35\n\n\t\n\n9.23\n\n\t\n\n9.25\n\n\t\n\n-0.03\n\n\n\n\nPepsiCo Inc.\n\n\t\n\n13,726,070\n\n\t\n\n146.35\n\n\t\n\n142.94\n\n\t\n\n143.24\n\n\t\n\n-2.20\n\n\n\n\nCore Scientific Inc. New\n\n\t\n\n13,722,257\n\n\t\n\n13.63\n\n\t\n\n13.00\n\n\t\n\n13.35\n\n\t\n\n-0.12\n\n\n\n\nTNF Pharmaceuticals Inc.\n\n\t\n\n13,309,059\n\n\t\n\n0.0923\n\n\t\n\n0.0849\n\n\t\n\n0.0875\n\n\t\n\n-0.0072\n\n\n\n\nAurora Innovation Inc.\n\n\t\n\n13,084,232\n\n\t\n\n6.53\n\n\t\n\n6.21\n\n\t\n\n6.26\n\n\t\n\n-0.15\n\n\n\n\nIntuitive Machines Inc.\n\n\t\n\n12,891,200\n\n\t\n\n12.905\n\n\t\n\n12.2652\n\n\t\n\n12.41\n\n\t\n\n+0.16\n\n\n\n\nK-Tech Solutions Co. Ltd.\n\n\t\n\n12,832,286\n\n\t\n\n4.76\n\n\t\n\n2.19\n\n\t\n\n2.45\n\n\t\n\n-2.00\n\n\n\n\nCOREWEAVE INC.\n\n\t\n\n12,768,927\n\n\t\n\n132.52\n\n\t\n\n122.19\n\n\t\n\n123.02\n\n\t\n\n-9.19\n\n\n\n\nMeta Platforms Inc.\n\n\t\n\n12,722,336\n\n\t\n\n704.71\n\n\t\n\n691.65\n\n\t\n\n704.28\n\n\t\n\n+2.87\n\n\n\n\nInnoviz Technologies Ltd.\n\n\t\n\n12,328,994\n\n\t\n\n1.92\n\n\t\n\n1.71\n\n\t\n\n1.89\n\n\t\n\n+0.19\n\n\n\n\nGraphjet Technology\n\n\t\n\n12,262,533\n\n\t\n\n0.0928\n\n\t\n\n0.0846\n\n\t\n\n0.0859\n\n\t\n\n-0.0081\n\n\n\n\nBaker Hughes Co.\n\n\t\n\n12,126,414\n\n\t\n\n39.91\n\n\t\n\n38.97\n\n\t\n\n39.72\n\n\t\n\n+0.54\n\n\n\n\nRed Cat Holdings Inc.\n\n\t\n\n11,950,685\n\n\t\n\n12.73\n\n\t\n\n11.25\n\n\t\n\n11.27\n\n\t\n\n-0.94\n\nNYSE most active stocks:\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.24
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA Corp. experienced a decrease in its stock price by 0.59%, closing at $172.41 after trading 145,303,992 shares."
+    },
+    "date": "2025-07-18T08:32:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/chips-cloud-ai-golden-era-141605403.html",
+    "title": "From chips to cloud: AI\u2019s golden era is just starting, says Wedbush\u2019s Ives Investing.com -- Artificial intelligence is driving a massive transformation across the technology sector, and its momentum is only beginning, according to Wedbush analysts led by Dan Ives.",
+    "detail": "From chips to cloud: AI\u2019s golden era is just starting, says Wedbush\u2019s Ives\nSam Boughedda\nFri, Jul 18, 2025, 8:16 AM 1 min read\nIn This Article:\nNVDA\nMSFT\nTSLA\nMETA\nPLTR\n\nInvesting.com -- Artificial intelligence is driving a massive transformation across the technology sector, and its momentum is only beginning, according to Wedbush analysts led by Dan Ives.\n\nIn a note Friday, Wedbush projected that tech stocks are set for a strong second half of 2025, buoyed by a \u201cvery strong 2Q tech earnings season\u201d and accelerating AI tailwinds across semiconductors, software, and enterprise applications.\n\n\u201cWe have barely scratched the surface of this 4th Industrial Revolution,\u201d the firm wrote, calling it a \u201cgolden age\u201d for the tech world.\n\nWedbush estimates that $2 trillion will be spent on AI-related enterprise and government projects over the next three years.\n\n\u201cThe Street is underestimating the underlying AI-driven growth ahead,\u201d the analysts said, adding that \u201cuse cases are exploding\u201d as companies transition from idea to scale.\n\nEnterprise adoption of generative AI is now entering a consumption phase, they wrote, with \u201ctrue adoption\u201d becoming a catalyst for the software sector.\n\nIves named Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT), Meta (NASDAQ:META), Palantir (NASDAQ:PLTR), and Tesla (NASDAQ:TSLA) as Wedbush\u2019s top tech picks for the rest of 2025.\n\nEven amid geopolitical headwinds and tariff risks, the firm expects a supportive policy backdrop.\n\n\u201cThe Trump Administration will continue to soften its stance around tariffs,\u201d the note said, highlighting Nvidia\u2019s resumed sales of H20 chips in China as a \u201ckey strategic positive.\u201d\n\nWedbush sees a multiplier effect from AI investment. \u201cFor every $1 spent with Nvidia, we estimate the multiplier is another $8 to $10 spent throughout the rest of the tech ecosystem,\u201d the analysts wrote, underscoring the expanding impact of AI from chips to the broader digital economy.\n\nRelated articles\n\nFrom chips to cloud: AI\u2019s golden era is just starting, says Wedbush\u2019s Ives\n\nVictoria's Secret Exposed: The Warning Sign Behind the Stock's 52% Collapse\n\nRisks Rising? Smart Money Dodged 46%+ Drawdowns on These High-Flying Names\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.88
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2025 Q2 tech earnings boosted by AI growth; Wedbush projects $2T in AI spending over 3 years, benefiting NVDA and others."
+    },
+    "date": "2025-07-18T08:16:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-uae-nvidia-deal-hits-135756851.html",
+    "title": "US and UAE Nvidia Deal Hits Security Roadblock G42's share of AI GPUs remains in limbo as Commerce seeks tougher safeguards",
+    "detail": "US and UAE Nvidia Deal Hits Security Roadblock\nUndercovered Deep Insights\nFri, Jul 18, 2025, 7:57 AM 1 min read\nIn This Article:\nNVDA\n\nIn mid?July, U.S. Commerce Department officials are still withholding approval for shipments of Nvidia (NASDAQ:NVDA) AI chips to the United Arab Emirates, stalling a deal first touted by President Trump in May as a landmark trade breakthrough. What had looked like a done deal now hinges on new security guarantees.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nThe crux of the hold?up is G42, the Abu Dhabi AI firm slated to receive roughly twenty percent of the chips. Commerce leaders fear that, through G42's historical ties, China could gain indirect access to Nvidia's most advanced semiconductors. To address those concerns, G42 has agreed to divest from Chinese partners like Huawei and to build matching data centers in the U.S. for every one it operates in the UAE.\n\nThat security impasse has put the Stargate UAE data?center builda joint project backed by G42, OpenAI, Oracle, Nvidia, SoftBank and Ciscoon pause. The first 200 megawatt cluster, originally slated for 2026, now faces potential delays if chip approvals don't arrive soon. Even so, both sides say negotiations continue on tighter oversight and revised terms.\n\nInvestors and industry watchers will be watching for license approvals from the Commerce Department, revised deal language that limits G42's direct chip access, and any public statements from key players like Nvidia CEO Jensen Huang, who has been lobbying for the deal's continuation. Next up: fresh guidance on those approvals and the fate of the Stargate UAE project.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "US-UAE Nvidia deal delayed due to security concerns; G42 must divest from Chinese partners and build US data centers to proceed."
+    },
+    "date": "2025-07-18T07:57:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-rally-shows-signs-overheating-090356911.html",
+    "title": "Nvidia Rally Shows Signs of Overheating as Gains Blow Past 80% (Bloomberg) -- Nvidia Corp. traders keep getting reasons to buy the stock, but the breakneck rally is showing signs of overheating.Most Read from BloombergThe Dutch Intersection Is Coming to Save Your LifeMumbai Facelift Is Inspired by 200-Year-Old New York BlueprintAdvocates Fear US Agents Are Using \u2018Wellness Checks\u2019 on Children as a Prelude to ArrestsLA Homelessness Drops for Second YearManhattan, Chicago Murder Rates Drop in 2025, Officials SayThe chipmaker\u2019s 14-day relative strength index to",
+    "detail": "Nvidia Rally Shows Signs of Overheating as Gains Blow Past 80%\nRyan Vlastelica\nFri, Jul 18, 2025, 12:07 PM 4 min read\nIn This Article:\nNVDA\nAMZN\nAAPL\nTSM\nTSMWF\n\n(Bloomberg) -- Nvidia Corp. traders keep getting reasons to buy the stock, but the breakneck rally is showing signs of overheating.\n\nMost Read from Bloomberg\n\nThe Dutch Intersection Is Coming to Save Your Life\n\nMumbai Facelift Is Inspired by 200-Year-Old New York Blueprint\n\nHow San Jose\u2019s Mayor Is Working to Build an AI Capital\n\nMilan Corruption Probe Casts Shadow Over City\u2019s Property Boom\n\nLA Homelessness Drops for Second Year\n\nThe chipmaker\u2019s 14-day relative strength index briefly topped 80 on Friday, the highest since June 2024 when the stock dropped more than 20% over the following six weeks. The momentum gauge tracks the speed of a stock\u2019s recent price changes and a reading over 70 is a signal to some analysts that buying is at extreme levels.\n\n\u201cIt\u2019s definitely getting overbought, and while that doesn\u2019t mean a reversal is imminent, this is something to be mindful of,\u201d said Jonathan Krinsky, chief market technician at BTIG. \u201cIt feels like sentiment, which had been optimistic, is getting borderline giddy.\u201d\n\nNvidia, which dominates the market for chips used in artificial intelligence computing, has staged a dramatic reversal since April when a broad tariff-induced selloff added to fears about a potential pullback in AI spending. Since then, the firm\u2019s biggest customers have continued to plow more money into the development of AI services and investors have flocked back to the stock, pushing it up more than 80% in less than four months. The stock fell as much as 1% on Friday.\n\nThe latest leg of the rally has been driven by news that Nvidia plans to resume sales of some AI chips in China with the approval of the US government. The policy reversal from President Donald Trump\u2019s administration could help recover a large chunk of the $15 billion in Nvidia\u2019s fiscal 2026 data center revenue that had been at risk from US chip export restrictions, according to Bloomberg Intelligence analyst Kunjan Sobhani.\n\nThis week, Trump also touted more than $92 billion in commitments to invest in AI and energy infrastructure, while Meta Platforms Inc. CEO Mark Zuckerberg affirmed plans to spend \u201chundreds of billions of dollars\u201d on data center investments. The Facebook parent is Nvidia\u2019s second-largest customer, after Microsoft Corp., according to supply chain data compiled by Bloomberg.\n\nNvidia is on track for its eighth-straight week of gains and the rally from its April low has added roughly $1.9 trillion to its market value, a figure that alone exceeds the market capitalization of Meta. At more than $4.2 trillion, Nvidia is again the world\u2019s most valuable company, topping second-ranked Microsoft by about $400 billion.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.77
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "80% gains for NVDA's stock raise concerns of overheating, with RSI reaching 80, last seen in June 2024 before a 20% drop."
+    },
+    "date": "2025-07-18T12:07:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-131400535.html",
+    "title": "Zacks Investment Ideas feature highlights: Microsoft, Nvidia, Alphabet, Arm Holdings and Advanced Micro Devices MSFT, NVDA, GOOGL, ARM, and AMD rebound as Wall Street shrugs off AI shocks, tariffs, and global tensions in 2025.",
+    "detail": "Zacks Investment Ideas feature highlights: Microsoft, Nvidia, Alphabet, Arm Holdings and Advanced Micro Devices\nZacks Equity Research\nFri, Jul 18, 2025, 7:14 AM 4 min read\nIn This Article:\nMSFT\nNVDA\nGOOGL\nAMD\nARM\nFor Immediate Release\n\nChicago, IL \u2013 July 18, 2025\u2013 Today, Zacks Investment Ideas feature highlights Microsoft's MSFT, Nvidia NVDA, Alphabet GOOGL, Arm Holdings ARM and Advanced Micro Devices AMD.\n\n2025: Wall Street's Ascent Up the Wall of Worry\n\nNo two years on Wall Street are the same. However, 2025 is an extreme example of how one year can differ from the next. 2024 was marked by a dovish Federal Reserve board and a slow grind higher in the major market indices.\n\n2025 started with a returning administration in Washington DC (albeit four years later), the 'DeepSeek' scare, and the 'Liberation Day' fallout. First, a Chinese company released the 'DeepSeek\" chatbot, which had similar performance to OpenAI and Microsoft's wildly popular 'ChatGPT' large language model, and was allegedly 'trained' at a fraction of the cost, suggesting that the company had found the holy grail of AI.\n\nIn the following weeks, AI leaders such as Nvidia, Alphabet, Arm Holdings and Advanced Micro Devices would suffer swift losses as China threatened to take the lead in the high-stakes race for artificial intelligence supremacy. Then, on April 2nd, President Donald Trump announced a sweeping package of tariffs on hundreds of countries, accelerating the losses and sending stocks into bear market territory.\n\nOn April 9th, President Trump announced a 90-day pause on 'reciprocal tariffs and stocks soared. Since then, stocks reacted positively to a preliminary and unexpected trade deal between the US and its largest trading partner, China. Finally, despite rampant investor fears, stocks exhibited resilience and shook off a targeted US attack on Iranian nuclear plants.\n\n3 Trading Takeaways from 2025\n\nSavvy investors understand that there are always lessons to be learned. Three of my key takeaways include:\n\n1. Time Heals on Wall Street: Whether it was DeepSeek or the tariff fallout, the US market tends to shake off bad news as time passes.\n\n2. Headlines can be a Distraction: Nearly every economist on Wall Street predicted that the Trump tariff policy would cause rampant inflation. In reality, the inflation rate is hovering near its lowest level in multiple years.\n\n3. Price Action is Truth: The 21-day moving average is a fantastic intermediate-term guide for investors. In the first part of the year, it warned investors to stay out of the market. However, once the market regained the 21-day moving average, it never looked back.\n\nBottom Line\n\nIt's been a turbulent year, but 2025 has once again proven Wall Street's ability to climb the proverbial \"wall of worry.\" From the initial DeepSeek shock and the tariff scares, the market has demonstrated remarkable resilience.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.46
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.15
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2025: Zacks Investment Ideas feature focuses on Microsoft, Nvidia, Alphabet, Arm Holdings, and Advanced Micro Devices amidst Wall Street's unique ascent, despite DeepSeek, Liberation Day"
+    },
+    "date": "2025-07-18T07:14:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stock-split-stock-more-800-130000499.html",
+    "title": "This Stock-Split Stock Is Up More Than 800% in the Last Year. Is It a Still a Buy? Sezzle has been one of the best-performing stocks of the past year.  After soaring more than 800% over the last year, Sezzle has a market cap of roughly $4.5 billion, meaning the stock could easily be a multibagger from here.  What is Sezzle?",
+    "detail": "This Stock-Split Stock Is Up More Than 800% in the Last Year. Is It a Still a Buy?\nJeremy Bowman, The Motley Fool\nFri, Jul 18, 2025, 7:00 AM 6 min read\nIn This Article:\nSEZL\nNVDA\nPLTR\nKey Points\n\nSezzle has been one of the best-performing stocks of the past year.\n\nThe BNPL specialist has seen exploding growth over the last year.\n\nThe industry has a long runway ahead of it if it can continue grabbing share from credit and debit cards.\n\n10 stocks we like better than Sezzle \u203a\n\nBy now, investors are familiar with the big winners over the last couple of years, like Nvidia and Palantir, but there's one little-known buy-now, pay-later (BNPL) stock that has crushed the returns of both of those popular artificial intelligence (AI) stocks.\n\nI'm talking about Sezzle (NASDAQ: SEZL), a fast-growing fintech that was just a small-cap company until recently. After soaring more than 800% over the last year, Sezzle has a market cap of roughly $4.5 billion, meaning the stock could easily be a multibagger from here.\n\nThe company also recently rewarded investors with a 6-for-1 stock split in March. That doesn't change any fundamentals about the business, but it is a reflection of management's confidence in future growth, and investors tend to respond positively to stock splits.\n\nImage source: Getty Images.\nWhat is Sezzle?\n\nSezzle was founded in 2016, led by CEO and co-founder Charlie Youakim, who had experience in the payments industry after co-founding the mobile parking payments app Passport.\n\nAfter moving on from Passport, Youakim decided to target a larger corner of the payments sector, setting his sights on retail. Since it came after larger BNPL companies like Afterpay (now owned by Block), Affirm, and Klarna were well-established, Sezzle has had to be scrappy to get to where it is today.\n\nThe company initially raised capital and went public in Australia before eventually going public through a direct listing in the U.S. It then delisted its Australian listing.\n\nIn an interview with The Motley Fool, Youakim said the company, which recently filed a lawsuit against Shopify, has overcome a great deal of adversity in growing to where it is today. He said Shopify \"was basically blocking us on its site\" when the e-commerce platform made up 80% of revenue. After previously cutting headcount from 580 to 240 and making some other tough decisions, Sezzle has turned profitable and is growing rapidly. It's also diversified its merchant partners, and today, Shopify makes up less than 5% of its revenue.\n\nSezzle by the numbers\n\nAn 800% surge in a stock doesn't just happen, and Sezzle has the numbers to back that monster growth.\n\nIn the first quarter of 2025, revenue jumped 123% year over year to $104.9 million, benefiting from increased adoption of subscription programs and several quarters of accelerating momentum. In fact, Sezzle's revenue growth has accelerated for five quarters in a row, and its profits have also soared.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "800% surge in Sezzle stock over the past year; market cap at $4.5B; potential for further gains as BNPL industry continues to grow."
+    },
+    "date": "2025-07-18T07:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/1-artificial-intelligence-ai-stock-123000420.html",
+    "title": "1 Artificial Intelligence (AI) Stock to Buy Before It Jumps 37%, According to a Wall Street Analyst HSBC has doubled its price target on AMD stock.  The investment bank believes that AMD's new AI chips are powerful enough to help it close the gap with Nvidia.  The potential earnings growth that AMD is expected to clock next year could indeed help it deliver the upside that HSBC analysts are expecting.",
+    "detail": "1 Artificial Intelligence (AI) Stock to Buy Before It Jumps 37%, According to a Wall Street Analyst\nHarsh Chauhan, The Motley Fool\nFri, Jul 18, 2025, 6:30 AM 5 min read\nIn This Article:\nAMD\nNVDA\nKey Points\n\nHSBC has doubled its price target on AMD stock.\n\nThe investment bank believes that AMD's new AI chips are powerful enough to help it close the gap with Nvidia.\n\nThe potential earnings growth that AMD is expected to clock next year could indeed help it deliver the upside that HSBC analysts are expecting.\n\n10 stocks we like better than Advanced Micro Devices \u203a\n\nAdvanced Micro Devices (NASDAQ: AMD) has underperformed the broader semiconductor sector in the past year. Shares of the chipmaker have slid almost 20% during this period, but it looks like the company's fortunes could turn around in the coming year.\n\nHSBC analyst Frank Lee has doubled his price target on AMD stock to $200, which points toward 37% gains from current levels. Lee says that AMD has managed to close in on Nvidia's (NASDAQ: NVDA) lead in the artificial intelligence (AI) accelerator market with its latest series of processors, and that could help the former record a big bump in its revenue next year.\n\nLet's take a closer look at the reasons why HSBC has become so bullish on AMD stock, and check if AMD could indeed hit the $200 mark going forward.\n\nImage source: Getty Images.\nAMD's data center revenue could jump significantly thanks to its latest chips\n\nAMD launched its MI350X and MI355X data center graphics processing units (GPUs) last month. The company says that these new processors are three times more powerful than the previous MI300X accelerators, and they even outperform Nvidia's Blackwell GPUs in both AI training and inference workloads.\n\nAMD has equipped these processors with a whopping 288 gigabytes (GB) of high-bandwidth memory (HBM), which is 1.6 times higher than Nvidia's GB200 and B200 AI graphics cards. The serious performance gains and competitiveness that AMD claims to have achieved with its latest GPUs are translating into more business for the company, according to HSBC.\n\nAMD says that it is partnering with multiple AI giants such as Meta Platforms, Microsoft, Oracle, OpenAI, and xAI, among others, to build and deploy AI data centers powered by its processors. In fact, AMD claims that \"seven of the 10 largest model builders and AI companies are running production workloads\" using its AI accelerators.\n\nThis improving adoption of AMD's AI chips can be attributed to a big bump in computing power along with an improvement in energy efficiency, which enables its customers to reduce operating costs. Even better, AMD has reportedly priced its latest AI accelerators competitively so that it can eat into Nvidia's share.\n\nAccording to HSBC analysts, AMD's MI355 AI GPU is 30% cheaper than Nvidia's B200. Not surprisingly, they are expecting the price-to-performance advantage of AMD's latest chips to translate into healthy data center revenue growth. The company is now expected to achieve $15 billion in AI GPU revenue in 2026, which is higher than the consensus estimate of $9.6 billion on Wall Street.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.69
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "HSBC raises AMD price target to $200, suggesting 37% upside; analyst sees AMD narrowing gap with Nvidia via AI chips."
+    },
+    "date": "2025-07-18T06:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvda-vs-tsm-semiconductor-stock-122300742.html",
+    "title": "NVDA vs. TSM: Which Semiconductor Stock Is the Better AI Investment? Taiwan Semiconductor's soaring AI revenues, aggressive investments and lower valuation give it an edge over NVIDIA as the better AI stock bet.",
+    "detail": "NVDA vs. TSM: Which Semiconductor Stock Is the Better AI Investment?\nAnirudha Bhagat\nFri, Jul 18, 2025, 6:23 AM 5 min read\nIn This Article:\nTSM\nTSMWF\nNVDA\n2330.TW\n\nNVIDIA Corporation NVDA and Taiwan Semiconductor Manufacturing Company TSM, also known as TSMC, are two of the most important companies in the global AI chip supply chain. NVIDIA designs the powerful graphics processing units (GPUs) that run advanced AI models, while Taiwan Semiconductor manufactures those chips using its leading-edge process technologies.\n\nBoth companies are critical to AI infrastructure, but which one offers the better investment opportunity right now? Let\u2019s break it down by looking at their financial performance, challenges and growth outlook.\n\nThe Case for NVIDIA\n\nNVIDIA is at the center of AI computing, with its products widely used across data centers, gaming and autonomous vehicles. The company continues to see strong demand from cloud providers, enterprises and startups building AI systems. In the first quarter of fiscal 2026, NVIDIA\u2019s data center revenues rose 73% year over year to $39.1 billion, showing the strength of this part of its business.\n\nIts newer Hopper 200 and Blackwell GPU platforms are being adopted quickly as customers work to grow their AI infrastructure. Much of this demand comes from large cloud providers that depend on NVIDIA GPUs for their AI workloads. The Blackwell architecture promises significantly higher performance, and upcoming versions like Blackwell Ultra and Vera Rubin are expected to strengthen NVIDIA\u2019s position further as AI demand keeps growing.\n\nHowever, the company faces near-term challenges from export restrictions. New U.S. rules stopped NVIDIA from selling its H20 chips to China, leading to lost sales of $2.5 billion in the first quarter. NVIDIA expects to lose another $8 billion in H20 sales during the second quarter.\n\nThese restrictions are already slowing NVIDIA\u2019s growth. The company\u2019s revenue forecast for the second quarter is $45 billion, implying a modest 2% sequential increase, well below the double-digit growth it has posted in the previous nine quarters. While NVIDIA\u2019s long-term prospects are still strong, near-term uncertainty has clearly increased.\n\nThe Case for Taiwan Semiconductor\n\nTSM manufactures chips for the world\u2019s top tech companies, including NVIDIA, Advanced Micro Devices and Broadcom. Taiwan Semiconductor is known for its advanced production capabilities and has already moved into 3nm production, with 2nm coming soon. Its large scale allows it to handle rising AI chip demand better than most competitors.\n\nIn the second quarter of 2025, Taiwan Semiconductor Manufacturing reported a 39% increase in revenues and a 61% jump in profit. Its 3nm and 5nm chips accounted for nearly 60% of wafer sales. AI-related revenues tripled in 2024 and are expected to double again in 2025. With AI likely to be a long-term driver, TSMC\u2019s future growth potential looks strong.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.37
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA's strong demand from cloud providers, enterprises, and startups drives continued growth in AI computing."
+    },
+    "date": "2025-07-18T06:23:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/asml-stock-declines-9-q2-122100860.html",
+    "title": "ASML Stock Declines 9% After Q2 Earnings: Should You Hold or Fold? ASML Holding stock tumbles 9.5% despite strong Q2 results as weak guidance and 2026 uncertainty spook investors.",
+    "detail": "ASML Stock Declines 9% After Q2 Earnings: Should You Hold or Fold?\nAnirudha Bhagat\nFri, Jul 18, 2025, 6:21 AM 5 min read\nIn This Article:\nASML.AS\nINTC\nNVDA\nAMD\nEUR=X\n\nASML Holding ASML shares have dropped 9.5% since the company reported its second-quarter 2025 results on July 16. ASML net sales grew 23.2% year over year to \u20ac7.69 billion, while EPS surged 47.1% to \u20ac5.90.\n\nConverted to the U.S. dollar, ASML Holding\u2019s second-quarter revenues and EPS were $8.7 billion and $6.70, respectively, both surpassing analysts\u2019 expectations. The top line beat the Zacks Consensus Estimate by 1.8%, while the bottom line surpassed it by 12.8%.\n\nASML Holding N.V. Price, Consensus and EPS Surprise\nASML Holding N.V. Price, Consensus and EPS Surprise\n\nASML Holding N.V. price-consensus-eps-surprise-chart | ASML Holding N.V. Quote\n\nDespite strong quarterly results, the market reaction was negative, largely because of what the company said about 2026 uncertainty and weaker-than-expected third-quarter guidance.\n\nASML Turns Cautious About 2026 Outlook\n\nManagement backed away from earlier confidence about growth in 2026. Previously, ASML Holding had expected demand to keep rising, especially with AI fueling more chip production. However, on the second-quarter call, the company said that it \u201ccannot confirm growth in 2026,\u201d pointing to customer hesitation and ongoing market uncertainty.\n\nDuring the call, ASML Holding acknowledged that ongoing U.S.-China tariff discussions, including the Section 232 tariff review, are negatively impacting customer capital spending timelines. This hesitation may delay orders and revenue recognition in late 2025 and into 2026, casting doubt on near-term growth continuity.\n\nAdditionally, ASML Holding issued disappointing guidance for the third quarter. The company expects third-quarter revenues between \u20ac7.4 billion and \u20ac7.9 billion. As per the Euro/USD currency exchange rate as of July 16, the top-line guidance ranges from $8.6 billion to $9.2 billion, significantly lower than the Zacks Consensus Estimate of $9.81 billion.\n\nASML expects the third-quarter gross margin in the 50-52% range, depicting a significant decline from 53.7% in the second quarter. This sequential decline is expected mainly due to margin-dilutive High NA system revenues and fewer upgrade orders.\n\nAll these factors have caused near-term uncertainty about ASML Holding\u2019s prospects. However, considering the growing AI-driven demand for advanced chip-making tools, the company\u2019s long-term prospects seem bright, making the stock worth holding.\n\nEUV Technology Keeps ASML in a Strong Position\n\nASML Holding\u2019s dominance in the semiconductor manufacturing sector is unchallenged. The company maintains a near-monopoly on extreme ultraviolet (EUV) lithography, which is essential for producing advanced chips at 3nm and below. Its EUV systems are crucial for leading chipmakers such as TSMC, Samsung and Intel, positioning ASML as a key enabler of cutting-edge semiconductor manufacturing.\n\nStory continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "ASML earnings beat estimates but weak Q3 guidance causes 9.5% stock drop; NVDA unaffected."
+    },
+    "date": "2025-07-18T06:21:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvda-nvidia-ai-boom-sparks-122012543.html",
+    "title": "NVDA: Nvidia AI Boom Sparks Warning Bells as Pullback Risks Climb Nvidia's Tremendous Gains Come with Overbought Red Flags",
+    "detail": "NVDA: Nvidia AI Boom Sparks Warning Bells as Pullback Risks Climb\nNauman khan\nFri, Jul 18, 2025, 6:20 AM 1 min read\nIn This Article:\nNVDA\n\nJuly 18 Nvidia (NASDAQ:NVDA), the chipmaker powering the AI boom, is showing signs of an overheated rally, according to a Bloomberg report.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nThe stock's 14?day relative strength index briefly topped 80 on Thursday, the highest reading since June 2024. The RSI is a technical momentum gauge that tracks the speed of recent price changes, and a reading above 70 often signals that a stock may be overbought.\n\nNVDA: Nvidia AI Boom Sparks Warning Bells as Pullback Risks Climb\n\nNvidia's shares have climbed roughly 83% since early April, adding more than $1.9 trillion in market value. Yet history warns that extreme RSI levels can presage pullbacks: the last time Nvidia's RSI surpassed 80, the stock slid over 20% in the following six weeks.\n\nIt's definitely getting overbought, and while that doesn't mean a reversal is imminent, this is something to be mindful of, said Jonathan Krinsky, chief market technician at BTIG.\n\nThe recent leg of the rally was driven by news that the U.S. government approved renewed sales of some AI chips in China, a development that could recover a large portion of the roughly $15 billion in data?center revenue at risk under previous export restrictions. As Nvidia heads toward what may be its eighth straight week of gains, investors will watch upcoming Big Tech earnings for signs of sustained AI spending.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.15
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia AI growth raises warning signs; stock overbought, risk of pullback."
+    },
+    "date": "2025-07-18T06:20:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-corp-nvda-climbed-back-121943650.html",
+    "title": "Nvidia Corp. (NVDA) Climbed Back from its Declines in Q2 Patient Capital Management, a value investing firm, released its \u201cPatient Capital Opportunity Equity Strategy\u201d second-quarter 2025 investor letter. A copy of the letter can be downloaded here. The strategy generated a total return of 15.3% net of fees in the quarter compared to the strategy\u2019s unmanaged benchmark, the S&P 500 Index\u2019s 10.9% return. According to a [\u2026]",
+    "detail": "Nvidia Corp. (NVDA) Climbed Back from its Declines in Q2\nSoumya Eswaran\nFri, Jul 18, 2025, 6:19 AM 3 min read\nIn This Article:\nNVDA\n^SPX\n\nPatient Capital Management, a value investing firm, released its \u201cPatient Capital Opportunity Equity Strategy\u201d second-quarter 2025 investor letter.\u00a0A copy of the letter can be downloaded here. The strategy generated a total return of 15.3% net of fees in the quarter compared to the strategy\u2019s unmanaged benchmark, the S&P 500 Index\u2019s 10.9% return. According to a three-factor performance attribution model, the selection effect contributed positively to the portfolio\u2019s performance, which was partially offset by allocation and interaction effects. In addition, you can check the fund\u2019s top 5 holdings to know its best picks in 2025.\n\nIn its second quarter 2025 investor letter, Patient Capital Opportunity Equity Strategy highlighted stocks such as NVIDIA Corporation (NASDAQ:\u00a0NVDA). NVIDIA Corporation (NASDAQ:NVDA) offers graphics and compute, and networking solutions. The one-month return of NVIDIA Corporation (NASDAQ:NVDA) was 20.26%, and its shares gained 46.70% of their value over the last 52 weeks. On July 17, 2025, NVIDIA Corporation (NASDAQ:NVDA) stock closed at $173.00 per share, with a market capitalization of $4.219 trillion.\n\nPatient Capital Opportunity Equity Strategy stated the following regarding NVIDIA Corporation (NASDAQ:NVDA) in its second quarter 2025 investor letter:\n\n\"NVIDIA Corporation (NASDAQ:NVDA) recovered strongly in the second quarter, climbing back from earlier declines to end the quarter at an all-time high. As the undisputed leader in Graphics Processing Units (GPUs), Nvidia continues to benefit from surging demand for AI training and inference. Despite concerns over competition from TPUs and rivals like AMD, Nvidia remains in the lead. The company is rapidly releasing next-gen products, with the Blackwell line-up, its fastest architecture yet, hitting the market just 2 years after its predecessor. Moreover, Nvidia is aggressively expanding into adjacent areas including robotics, edge AI, AI cloud leasing, and AI software putting them in direct competition with some of their biggest customers. CEO Jensen Huang describes Nvidia as a \"full-stack, accelerated computing platform\", reflecting its blend of cutting-edge hardware, software (CUDA), and AI infrastructure. With leading-edge tech, a shortening innovation cycle, and robust cash flow, we believe Nvidia is well positioned to ride the accelerating wave of AI adoption.\"\n\nNVIDIA Corporation (NASDAQ:NVDA) is in 5th position on our list of\u00a030 Most Popular Stocks Among Hedge Funds. As per our database, 212 hedge fund portfolios held NVIDIA Corporation (NASDAQ:NVDA) at the end of the first quarter, which was 223 in the previous quarter. NVIDIA Corporation (NASDAQ:NVDA)\u00a0reported another record quarter in fiscal first quarter of 2026 with $44 billion in revenues, representing a 69% year-over-year increase. While we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Investment firm Patient Capital Management's Q2 report shows Nvidia Corp. (NVDA) rebounding after declines, contributing positively to the portfolio's performance."
+    },
+    "date": "2025-07-18T06:19:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/analyst-says-nvidia-nvda-see-120219949.html",
+    "title": "Analyst Says NVIDIA (NVDA) Will See Rising Competition in Future \u2013 \u2018There\u2019s Going to Be Other Solutions\u2019 NVIDIA Corp (NASDAQ:NVDA) is one of the 10 Buzzing Stocks to Watch as AI Trade Makes a Comeback. Lo Toney from Plexo Capital said in a recent program on CNBC that NVIDIA Corp (NASDAQ:NVDA) is a leader in the industry, but it will start seeing rising competition in the future. \u201cYou know, obviously there\u2019s going [\u2026]",
+    "detail": "Analyst Says NVIDIA (NVDA) Will See Rising Competition in Future \u2013 \u2018There\u2019s Going to Be Other Solutions\u2019\nFahad Saleem\nFri, Jul 18, 2025, 6:02 AM 3 min read\nIn This Article:\nNVDA\n\nNVIDIA Corp (NASDAQ:NVDA) is one of the 10 Buzzing Stocks to Watch as AI Trade Makes a Comeback.\n\nLo Toney from Plexo Capital said in a recent program on CNBC that NVIDIA Corp (NASDAQ:NVDA) is a leader in the industry, but it will start seeing rising competition in the future.\n\n\u201cYou know, obviously there\u2019s going to be other solutions that are available. We\u2019re starting to see that. I think there\u2019s going to be other options available for folks. But nonetheless, I think NVIDIA Corp (NASDAQ:NVDA) at this point, clear leader and setting the tone for things to come.\n\nToney believes NVIDIA Corp (NASDAQ:NVDA) will keep benefiting from strong demand despite competition:\n\n\u201cIt would if it were the case that we believe that the growth was stalling out for AI. In fact, it\u2019s actually increasing. So, I think with that bigger pie, NVIDIA Corp (NASDAQ:NVDA) will still play an important role, albeit even with increased competition.\u201d\n\nNvidia shares rose after the company said it will soon resume selling H20 chips in China. With this update, the company has removed yet another hurdle to its stock growth. The demand for Nvidia chips is growing worldwide. Saudi Arabia\u2019s Humain plans to buy more than 200,000 AI GPUs from Nvidia, potentially generating $15 billion in sales. The UAE reportedly has an agreement for up to 500,000 GPUs. Even without China\u2019s involvement, Nvidia said nearly 100 AI factories are under construction. These factories have hyperscalers deploying 1,000 GB200 NVL72 racks weekly, each with 72,000 Blackwell GPUs.\n\nPhoto by Javier Esteban on Unsplash\n\nLongriver Partners Fund stated the following regarding NVIDIA Corporation (NASDAQ:NVDA) in its\u00a0second quarter 2025 investor letter:\n\n\u201cThis shift in capex priorities has reopened the debate over compute architectures. Custom silicon promises a way out of\u00a0NVIDIA Corporation\u2019s\u00a0(NASDAQ:NVDA) pricing power, especially for inference. But the path is not straightforward.\n\nStory continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.77
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite being a current industry leader, NVIDIA Corp (NVDA) may face increased competition in the future, according to Lo Toney from Plexo Capital. However, he expects continued strong demand for NVDA's products due to"
+    },
+    "date": "2025-07-18T06:02:00"
+  }
+]

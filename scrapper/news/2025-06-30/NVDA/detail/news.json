@@ -1,0 +1,450 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/robinhood-launches-tokens-allowing-eu-150833193.html",
+    "title": "Robinhood launches tokens allowing EU users to trade in US stocks The company's shares surged 5.5% and hit a record high after the trading platform said the commission-free tokens can be traded around-the-clock, five days a week.  With the move, Robinhood stands to benefit from rising global interest in the U.S. stock market - home to some of the world's most influential tech giants and leading beneficiaries of the AI boom.  In a January opinion piece for The Washington Post, Robinhood CEO Vlad Tenev wrote tokenization could also open the door for retail investors to access private companies' stocks.",
+    "detail": "Robinhood launches tokens allowing EU users to trade in US stocks\nNiket Nishant and Manya Saini\nMon, Jun 30, 2025, 9:08 AM 2 min read\nIn This Article:\nHOOD\nNVDA\nAAPL\nMSFT\nOPAI.PVT\n\nBy Niket Nishant and Manya Saini\n\n(Reuters) -Robinhood said on Monday it has launched tokens that will allow its customers in the European Union to trade more than 200 U.S. stocks and exchange-traded funds, including Nvidia, Apple and Microsoft.\n\nThe commission-free tokens can be traded around-the-clock, five days a week. Robinhood also plans to offer tokens linked to stocks of privately-held companies, starting with Sam Altman's OpenAI and Elon Musk's SpaceX, the trading platform's top executives said at its keynote event in France.\n\nRobinhood's shares hit a record high and were last up nearly 10%. The tokens will be issued through a partnership with blockchain firm Arbitrum.\n\nWith the move, the company stands to benefit from rising global interest in the U.S. stock market \u2014 home to some of the world's most influential tech giants and leading beneficiaries of the AI boom.\n\nTokenized equities mix traditional finance with crypto-like trading, and have been gaining traction among international investors due to better access, flexible trading hours and lower costs.\n\nExperts believe such tokens could dramatically alter the securities investing landscape, though they currently lack regulatory clarity in the United States.\n\nMenlo Park, California-based Robinhood plans to eventually develop its own blockchain that will expand trading hours for tokens to 24/7 from 24/5 currently.\n\nThe company will also expand the number of available stock tokens to \"thousands\" by the end of the year, Tenev said at the event.\n\n\"Tokenization is going to open the door to a massive trading revolution,\" he said.\n\nLast month, crypto exchange Kraken also launched equities-linked tokens for non-U.S. investors.\n\nEXPANDING CRYPTO TOOLS\n\nRobinhood also announced several new product offerings, including crypto perpetual futures for its EU customers and staking for U.S. users.\n\nThe perpetual futures will allow users to make leveraged bets on the prices of cryptocurrencies. Unlike traditional futures, they have no expiry date.\n\nRival Coinbase will also begin offering similar tools to U.S. customers from next month.\n\nMeanwhile, staking lets customers lock up their cryptocurrency to help validate transactions on the blockchain, earning rewards in return.\n\nThe practice had been controversial in recent years, until the Securities and Exchange Commission's staff last month said some forms of staking are not securities offerings.\n\n(Reporting by Niket Nishant and Manya Saini in Bengaluru; Editing by Leroy Leo)\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.37
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.88
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Robinhood launches tokens enabling EU users to trade in US stocks like NVDA, AAPL, MSFT; shares hit record high.",
+      "gemma4:e4b": "The launch of trading tokens for NVDA increases market access, potentially boosting the stock's visibility."
+    },
+    "date": "2025-06-30T09:08:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/really-think-were-going-rid-144708977.html",
+    "title": "'Do You Really Think We're Going To Get Rid Of Lawyers?' Says Ex-Google CEO Eric Schmidt \u2014 Predicts AI Will Only Make Jobs More Complex \"Do you really think we're going to get rid of lawyers?\" former Google CEO Eric Schmidt recently asked, warning that artificial intelligence will complicate legal work\u2014not eliminate it. During a TED interview in Vancouver in April , he called AI a \"career-defining\" shift. Schmidt urged every industry to \"adopt it, and adopt it fast.\" He argued that AI is already transforming office environments, clinics and courtrooms by making jobs \"more sophisticated, not quickly obsolete.\" Don't Miss: GoSun's",
+    "detail": "'Do You Really Think We're Going To Get Rid Of Lawyers?' Says Ex-Google CEO Eric Schmidt \u2014 Predicts AI Will Only Make Jobs More Complex\nCasey B. Renner\nMon, Jun 30, 2025, 8:47 AM 3 min read\nIn This Article:\nNVDA\nRESP.PVT\n\n\"Do you really think we're going to get rid of lawyers?\" former Google CEO Eric Schmidt recently asked, warning that artificial intelligence will complicate legal work\u2014not eliminate it.\n\nDuring a TED interview in Vancouver in April , he called AI a \"career-defining\" shift. Schmidt urged every industry to \"adopt it, and adopt it fast.\" He argued that AI is already transforming office environments, clinics and courtrooms by making jobs \"more sophisticated, not quickly obsolete.\"\n\nDon't Miss:\n\nGoSun's breakthrough rooftop EV charger already has 2,000+ units reserved \u2014 become an investor in this $41.3M clean energy brand today.\n\nInvest early in CancerVax's breakthrough tech aiming to disrupt a $231B market. Back a bold new approach to cancer treatment with high-growth potential.\n\nAI Adoption Accelerates Across Industries\n\nSchmidt pointed to his March investment in Relativity Space, a California-based rocket startup, as an example of AI's learning potential. \"It's an area that I'm not an expert in, and I want to be an expert,\" he told the audience, noting that large-language models helped him quickly grasp propulsion concepts\n\n\"You are not going to lose your job to AI, but you are going to lose your job to somebody who uses AI,\" chipmaker Nvidia (NASDAQ:NVDA) CEO Jensen Huang echoed that message in May at the Milken Institute Global Conference. Huang added that companies are already building gigawatt-scale \"AI factories\" that will affect every role.\n\nLegal Sector Faces Major Changes\n\nHarvey,the company behind the generative AI assistant being tested by law firms and PwC's legal team, recently closed a $300 million Series E round, valuing the company at $5 billion.\n\nSchmidt said studies predict AI could boost productivity by 30% annually\u2014figures he said economists \"have no models for.\"\n\nTrending: This Jeff Bezos-backed startup will allow you to become a landlord in just 10 minutes, with minimum investments as low as $100.\n\nAdoption Grows, But Transformation Lags\n\nAccording to McKinsey, 78% of organizations had rewired operations around AI as of last year, though only 5% have fully transformed even a single business domain.\n\nThe Wall Street Journal reported the trend is less about hype and more about staying ahead before it\u2019s too late. PepsiCo's (NASDAQ: PEP) chief strategy and transformation officer, Athina Kanioura, told the Journal that company leaders aren't pouring money into AI just because it's exciting\u2014they're doing it because they worry it could reshape the entire way they do business.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.74
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI may complicate legal work rather than eliminating it, according to ex-Google CEO Eric Schmidt; AI could potentially boost NVDA's technology relevance in various industries.",
+      "gemma4:e4b": "No direct information about NVDA found."
+    },
+    "date": "2025-06-30T08:47:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/xpeng-becomes-only-chinese-automaker-140600037.html",
+    "title": "XPENG becomes the only Chinese automaker invited to present at the 2025 CVPR autonomous driving workshop XPENG invited to attend CVPR WAD, a top global autonomous driving workshopXPENG was the sole Chinese automaker invited by the conference this year to share its autonomous driving R&D progress, sharing the stage with industry leaders like Waymo and NVIDIAXPENG delivered a speech titled \"Scaling up Autonomous Driving via Large Foundation Models\". On the same day, XPENG announced the launch of the world\u2019s first AI-powered car, the G7, equipped with an L3 computing platform, in ChinaXPENG has also p",
+    "detail": "XPENG becomes the only Chinese automaker invited to present at the 2025 CVPR autonomous driving workshop\nXmotors Limited\nMon, Jun 30, 2025, 8:06 AM 3 min read\nIn This Article:\nXPEV\nNVDA\nXmotors Limited\n\nXPENG invited to attend CVPR WAD, a top global autonomous driving workshop\n\nXPENG was the sole Chinese automaker invited by the conference this year to share its autonomous driving R&D progress, sharing the stage with industry leaders like Waymo and NVIDIA\n\nXPENG delivered a speech titled \"Scaling up Autonomous Driving via Large Foundation Models\". On the same day, XPENG announced the launch of the world\u2019s first AI-powered car, the G7, equipped with an L3 computing platform, in China\n\nXPENG has also proposed two key standards for L3 computing platforms: Effective computing power exceeding 2000 TOPS and Onboard deployment of \"VLA + VLM models\"\n\nGUANGZHOU, China, June 30, 2025 (GLOBE NEWSWIRE) -- XPENG Motors (\u201cXPENG\u201d or the \u201cCompany,\u201d NYSE: XPEV and HKEX: 9868), a leading China-based high-tech company, was invited to present its advancements in foundational models for autonomous driving at the 2025 Conference on Computer Vision and Pattern Recognition (CVPR), the sole Chinese automotive company to receive this industry recognition.\n\nOn June 11, the CVPR 2025 was held in Nashville, Tennessee, the US. XPENG engaged in discussions with leading industry and academic experts, including Waymo, NVIDIA, UCLA, and the University of Tuebingen, to explore cutting-edge autonomous driving technologies. XPENG was the only Chinese automaker invited to participate in WAD. Past participants include Head of Tesla Autopilot, Former Tesla AI & Autopilot Lead, OpenAI Founding Member, Co-founder & CEO of Wayve.\n\nXPENG\n\n\n\n\nXPENG delivered a speech titled \"Scaling up Autonomous Driving via Large Foundation Models\", offering peers some of the industry\u2019s most substantial practical insights. On the same day, XPENG also announced G7, the world\u2019s first AI-powered production car equipped with an L3-grade computing platform. XPENG introduced two key standards for next-generation L3 autonomous systems: Effective computing power exceeding 2000 TOPS and onboard deployment of \"VLA (Vision-Language Action) + VLM (Vision-Language Motion) models\".\n\nXPENG\n\n\n\n\nThe frontier of autonomous driving research is shifting to automakers with large-scale fleets and vast real-world data in this data-driven era. XPENG's participation in CVPR exemplifies how automakers are contributing practical expertise back to academic research.\n\nAbout XPENG\nFounded in 2014, XPENG is a leading Chinese AI-driven mobility company that designs, develops, manufactures, and markets Smart EVs, catering to a growing base of tech-savvy consumers. With the rapid advancement of AI, XPENG aspires to become a global leader in AI mobility, with a mission to drive the Smart EV revolution through cutting-edge technology, shaping the future of mobility.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.41
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "XPENG invited to attend CVPR WAD, shares autonomous driving R&D progress with industry leaders; launches AI-powered car, proposes L3 computing platform standards.",
+      "gemma4:e4b": "No direct information about NVDA found."
+    },
+    "date": "2025-06-30T08:06:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-3-long-call-plays-134129618.html",
+    "title": "Nvidia: 3 Long Call Plays \u2013 One Was Clearly Built for Profit Long calls profit from upside moves, but time is key. Longer-dated options reduce decay and improve odds.",
+    "detail": "Nvidia: 3 Long Call Plays \u2013 One Was Clearly Built for Profit\nRick Orford\nMon, Jun 30, 2025, 7:41 AM 6 min read\nIn This Article:\nNVDA\nThe words call option spelled out with white tiles on black background by Larry1235 via Shutterstock\n\nLong calls are perfect for betting on an asset\u2019s future upside price movement, though I would argue that\u00a0time is the better asset when it comes to buying options contracts.\u00a0Without enough time untill expiration, even a massive upward price movement will only generate intrinsic value - if the option is in-the-money.\n\nAs a result, calls with longer time horizons tend to perform better than those that are shorter dated.\n\nMore News from Barchart\n\nOptions Flow Alert: Bulls Making Their Move in GOOGL Stock\n\nJeff Bezos Unloads $5.4B in Amazon Shares: Should You Buy or Sell AMZN Stock Now?\n\nNvidia: 3 Long Call Plays \u2013 One Was Clearly Built for Profit\n\nStop Missing Market Moves: Get the FREE Barchart Brief \u2013 your midday dose of stock movers, trending sectors, and actionable trade ideas, delivered right to your inbox. Sign Up Now!\n\nToday, I'd like to share a few examples based on one of my favorite stocks, NVIDIA Corp. (NVDA).\n\nLong Call Basics\n\nCalls are contracts that give the buyer the right but not the obligation to buy a specified asset at a specific strike price at or before the expiration date.\u00a0But if you boil it down to its very basics, at least in terms of\u00a0how\u00a0most trades make money off of them, a long call is a leveraged bet on the stock moving up before your expiration date.\u00a0\n\nSince option contracts are time-bound, a portion of their value is derived from the remaining days to expiration, also known as DTE.\u00a0This concept is commonly referred to as the time value.\u00a0\n\nThe time value decreases as the expiration date approaches, and it decreases faster as the option gets closer to expiration - a phenomenon known as time decay.\u00a0That\u2019s great news for option sellers, but not much for option buyers. Having more time on the clock means your bet has more time to work in your favor. That extra breathing room can make all the difference between a winning trade and a frustrating loss.\n\nIntroduction to Delta\n\nDelta is the options Greek that indicates the relationship between the option\u2019s value or premium and the asset\u2019s price, or, more exactly, how much an option\u2019s premium is expected to change for every $1 move in the price of the underlying asset.\n\nLong calls have positive delta.\u00a0Therefore, if a long call has a 0.20 delta, the premium is expected to increase by 20 cents for every $1 increase in the underlying asset.\n\nMore interestingly, delta is often used as a shorthand predictor of the probability of the option expiring in the money. The same 0.20 delta option has a 20% chance of expiring in the money. While it\u2019s not a 100% accurate predictor, delta is based on factors that include\u00a0how close the option is to the current stock price, which makes it a good indicator of risk.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Investors bet on Nvidia's long-term price rise with three call options, one designed for potential profit.",
+      "gemma4:e4b": "No direct information about NVDA found."
+    },
+    "date": "2025-06-30T07:41:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvda-insiders-unload-1-billion-131719414.html",
+    "title": "NVDA: Insiders Unload $1 Billion in Nvidia Shares -- Here's Why Nvidia's AI Rally Triggers Insider Selling Spree",
+    "detail": "NVDA: Insiders Unload $1 Billion in Nvidia Shares -- Here's Why\nNauman khan\nMon, Jun 30, 2025, 7:17 AM 1 min read\nIn This Article:\nNVDA\n\nJune 30 - Nvidia (NASDAQ:NVDA) insiders, including CEO Jensen Huang, sold more than $1 billion worth of company stock in the past year, with over $500 million of that sold in June alone.\n\nThe increased selling coincided with Nvidia's share price rising to a record high on Wednesday as investor enthusiasm for artificial intelligence returned. The company briefly reclaimed its status as the world's most valuable firm, driven by a rebound of more than 60 % from its April low, aided by renewed optimism around trade policies.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nHuang resumed share sales this week, the first time since September, under a pre-scheduled March trading plan approved by the U.S. Securities and Exchange Commission. The plan allows him to sell up to six million shares this year, though he retains the majority of his holdings.\n\nNvidia's stock edged about 1% higher on Monday, continuing its five-day winning streak that has pushed it past rivals like Microsoft.\n\nInvestors may interpret the insider sales as a sign of confidence in the stock's valuation at elevated levels, even as executives capitalize on the AI-driven rally.\n\nThe ongoing insider activity and fresh high mark further highlight Nvidia's central role in the booming AI chip market.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.49
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.4997
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "3. Increased selling coincides with AI investor",
+      "gemma4:e4b": "NVDA's price rose over 60% due to sector optimism, despite insider selling of over $1 billion."
+    },
+    "date": "2025-06-30T07:17:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jim-cramer-super-micro-no-131516095.html",
+    "title": "Jim Cramer on Super Micro: \u201cNo Denying the Stock is Doing Quite Well\u201d Super Micro Computer, Inc. (NASDAQ:SMCI) is one of the top 10 S&P 500 winners of the day that Jim Cramer highlighted. During the episode, Cramer said that he prefers another stock but SMCI is also doing well. He commented: \u201cThere was another data center play. This time, it\u2019s Super Micro, an important partner of NVIDIA. [\u2026]",
+    "detail": "Jim Cramer on Super Micro: \u201cNo Denying the Stock is Doing Quite Well\u201d\nSyeda Seirut Javed\nMon, Jun 30, 2025, 7:15 AM 2 min read\nIn This Article:\nSMCI\nDELL\nNVDA\n\nSuper Micro Computer, Inc. (NASDAQ:SMCI) is one of the top 10 S&P 500 winners of the day that Jim Cramer highlighted. During the episode, Cramer said that he prefers another stock but SMCI is also doing well. He commented:\n\n\u201cThere was another data center play. This time, it\u2019s Super Micro, an important partner of NVIDIA. Now I think that\u2026 Not Super Micro, I think Dell is the right investment in the space, but there\u2019s no denying the stock is doing quite well.\u201d\n\nJim Cramer on Super Micro: \"No Denying the Stock is Doing Quite Well\"\n\nA team of technicians in a server room, testing and managing the newest server solutions.\n\nSuper Micro (NASDAQ:SMCI) designs and sells high-performance server and storage systems built on modular, open architecture, and it provides a range of hardware, software, and support services. The company\u2019s products serve markets such as data centers, cloud computing, AI, 5G, and edge computing through various sales channels. During a May episode of Mad Money, Cramer said that the stock is cheap compared to other stocks related to the industry, but he prefers Dell more. He commented:\n\n\u201cNo, no. To tell you the truth, I mean, this one had some accounting issues. They do seem to be now long enough behind them that analysts are starting to recommend the stock again. It\u2019s relatively cheap versus the whole cohort. If you want to consider the cohort\u2026 like a CoreWeave or, of course, an NVIDIA, and I would tell you, it is more expensive than Dell. I do like Dell more, but I think you could do a lot more\u2026 with Super Micro. But let me tell you something, you\u2019ve got more product knowledge than I do, and I like what you had to say.\u201d\n\nWhile we acknowledge the potential of SMCI as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you\u2019re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock. READ NEXT: The Best and Worst Dow Stocks for the Next 12 Months and 10 Unstoppable Stocks That Could Double Your Money. Disclosure: None.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Jim Cramer highlights Super Micro as a top S&P 500 winner; despite preferring DELL, he acknowledges SMCI's strong performance, being an important partner of NVDA.",
+      "gemma4:e4b": "No direct information about NVDA found."
+    },
+    "date": "2025-06-30T07:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-insiders-dumped-shares-worth-125602733.html",
+    "title": "Nvidia Insiders Dumped Shares Worth $557M in June. Should You Sell NVDA Stock, Too? CEO Jensen Huang is just one of the NVDA insiders unloading the stock at new highs.",
+    "detail": "Nvidia Insiders Dumped Shares Worth $557M in June. Should You Sell NVDA Stock, Too?\nElizabeth H. Volk\nMon, Jun 30, 2025, 6:56 AM 2 min read\nIn This Article:\nNVDA\nNvidia logo on phone screen with stock chart by xalien via Shutterstock\n\nRecent insider selling activity at Nvidia (NVDA) has reached unprecedented levels, with executives and board members\u00a0collectively selling over $1 billion worth of company stock in the past 12 months - and more than half of these sales occurring in June 2025 as the stock hit new all-time highs. CEO Jensen Huang initiated his first stock sales since September 2024 under a pre-arranged 10b5-1 trading plan established in March, which could result in sales of up to 6 million shares worth approximately $900 million by year-end.\n\nOther major sellers include board member Mark Stevens, who disclosed plans to sell up to 4 million shares valued at roughly $550 million, while Executive Vice President Jay Puri sold approximately $25 million in stock. Board members Tench Coxe and Brooke Seawell collectively sold about $191 million this month, contributing to the substantial wave of insider selling.\n\nMore News from Barchart\n\nHoliday Trading, Trade Negotiations and Other Key Things to Watch this Week\n\nAlphabet's Strong Free Cash Flow Makes GOOG Stock a Value Buy\n\nOptions Flow Alert: Bulls Making Their Move in GOOGL Stock\n\nStop Missing Market Moves: Get the FREE Barchart Brief \u2013 your midday dose of stock movers, trending sectors, and actionable trade ideas, delivered right to your inbox. Sign Up Now!\n\nwww.barchart.com\nWill Heavy Insider Selling Sink NVDA Stock?\n\nDespite these significant transactions, the insider sales represent only a small fraction of Nvidia's massive $3.8 trillion market capitalization, which has nearly quadrupled over the past two years, driven by surging artificial intelligence (AI) demand. The semiconductor company's stock has demonstrated remarkable resilience,\u00a0rising 17.5% year-to-date in 2025 and positioning itself as the frontrunner to become the world's first $4 trillion company.\n\nwww.barchart.com\n\nThe timing of the recent insider stock sales coincides with Nvidia's continued dominance in the AI chip market, where it maintains an estimated 95% market share. The company's upcoming Blackwell chip rollout is expected to hit full speed in July and build momentum through August and September, potentially driving higher revenue and stronger guidance.\n\nWhat Does Wall Street Say About Nvidia?\n\nWhile the volume of insider selling could raise some concerns, the trades were executed through pre-arranged trading plans, which establish sale parameters in advance. In that context, the\u00a0substantial insider sales on NVDA appear to be primarily driven by the stock's dramatic appreciation rather than any apparent concerns about the company's business prospects, as corporate and government spending on AI infrastructure continues to surge.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.41
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Executives and board members at NVDA sold $557M worth of shares in June, raising concerns; CEO Jensen Huang sold $900M under a 10b5-1 plan.",
+      "gemma4:e4b": "Insider selling of over $1 billion negatively impacts NVDA."
+    },
+    "date": "2025-06-30T06:56:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/avenue-z-wins-ai-breakthrough-124500148.html",
+    "title": "Avenue Z Wins AI Breakthrough Award for AI Search Optimization Solution for Brands Award-Winning AI Optimization Solution Puts Brands at the Top of AI Search where Visibility Drives Trust, Traffic, and Growth NEW YORK CITY, NY / ACCESS Newswire / June 30, 2025 /Avenue Z, a tech-driven marketing and communications agency leading ...",
+    "detail": "Avenue Z Wins AI Breakthrough Award for AI Search Optimization Solution for Brands\nACCESS Newswire \u00b7 Avenue Z\nAvenue Z\nMon, Jun 30, 2025, 6:45 AM 4 min read\nIn This Article:\nNVDA\nMSFT\nMETA\nDATB.PVT\nHON\n\nAward-Winning AI Optimization Solution Puts Brands at the Top of AI Search where Visibility Drives Trust, Traffic, and Growth\n\n&nbsp;\n\nNEW YORK CITY, NY / ACCESS Newswire / June 30, 2025 / Avenue Z, a tech-driven marketing and communications agency leading AI Optimization, today announced it has been named \"Cognitive Communications Solution of the Year\" by the AI Breakthrough Awards, honoring its first-to-market AI Optimization (AIO) Solution.\n\nThe prestigious award - selected from more than 5,000 global nominations - recognizes Avenue Z's AIO Solution, and its ability to place brands at the top of AI Search. With this award, Avenue Z joins a powerhouse cohort of 2025 winners including NVIDIA, Microsoft, Meta, HPE, EY, Databricks, Honeywell, Arcade, Juniper Networks, and other global innovators.\n\n\"We launched AIO to solve one of the most important shifts in the history of digital communications: the move from keywords to questions, from links to answers,\" said Jeffrey Herzog, Founder and CEO of Avenue Z. \"Influence today is more powerful when it's invisible-architected with strategy, technology, and precision to ensure brands speak the language of generative AI and show up as trusted authorities in the conversations that drive modern decision-making. It's simple - consumers have shifted to AI search, and we're helping brands get there.\"\n\nAIO is the first solution purpose-built for generative search - not a bolt-on to legacy SEO. As platforms like ChatGPT, Gemini, and Perplexity shift from listing links to delivering synthesized answers, AI-powered search is surging. By 2027, over 90 million American adults are expected to use generative AI as their primary search tool, with Gen Z and Millennials leading in AI trust. While AI is reportedly set to complement - not fully replace - traditional search, it's already driving a sharp decline in organic traffic, forcing publishers and marketers to rethink how visibility is earned.\n\nAvenue Z's AI Optimization (AIO) solution solves this challenge for brands with a three-pronged approach:\n\nHigh-authority media placement to establish brand trust in sources large language models (LLMs) cite;\n\nConversational content creation aligned with AI-first query formats and voice;\n\nTechnical LLM optimization using semantic schema, metadata, and structure designed for machine interpretation.\n\nWhat makes this AI Optimization Solution unique is its cognitive model - a communications framework that ensures clients are not just searchable, but selected, when AI platforms synthesize responses for consumers.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.56
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI Breakthrough Award win boosts NVDA's AI optimization solution visibility, driving potential growth for clients.",
+      "gemma4:e4b": "No direct information about NVDA found."
+    },
+    "date": "2025-06-30T06:45:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-welcomes-centml-aboard-123704356.html",
+    "title": "Nvidia Welcomes CentML Aboard CentML acquisition brings compiler wizards and engineers under Nvidia's wing",
+    "detail": "Nvidia Welcomes CentML Aboard\nUndercovered Deep Insights\nMon, Jun 30, 2025, 6:37 AM 1 min read\nIn This Article:\nNVDA\n\nNvidia(NASDAQ:NVDA) snaps up Canadian AI optimizer CentML, folding its talent and tech into its software ranks as the chipmaker extends its leadand eyes a $5 trillion market cap.\n\nThe Logic reports that Nvidia has acquired Toronto-based CentML, bringing onboard CEO Gennady Pekhimenko as a senior AI software director and transitioning other founders and at least 15 engineers into new roles.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nCentML will cease operations on July 17, after raising roughly $30.9 million in venture funding. The purchase follows Nvidia's prior backing of CentML in its $27 million seed round and the startup's participation in Nvidia's accelerator program.\n\nCentML's compiler and optimization tools slotted neatly between AI models and GPU hardware, squeezing extra performance and cost efficiency out of existing chips. By integrating this IP and engineering team directly into its software arm, Nvidia can enhance its software stackfuelling broader adoption of its GPUs and reinforcing its end-to-end AI ecosystem.\n\nWith NVDA up about 17% year-to-date and Wedbush projecting a run toward $5 trillion in market value over the next 18 months, this bolt-on deal underscores Nvidia's strategy of buying both capabilities and people to stay ahead in the AI arms race.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia acquires AI optimizer CentML, adding talent & tech to software ranks; aims for $5T market cap.",
+      "gemma4:e4b": "NVDA's acquisition of an AI optimizer positively strengthens its market lead, targeting a $5 trillion market cap."
+    },
+    "date": "2025-06-30T06:37:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stock-best-way-play-chinese-121000136.html",
+    "title": "Is This Stock the Best Way to Play Chinese AI? While restricted from the latest and greatest chips for now, over half the world's AI researchers are in China.  Here's how a South African stock may offer the best way to play Chinese AI.  Would you believe that the best way to play China's AI ambitions may be a South African stock?",
+    "detail": "Is This Stock the Best Way to Play Chinese AI?\nBilly Duberstein, The Motley Fool\nMon, Jun 30, 2025, 6:10 AM 6 min read\nIn This Article:\nNVDA\nKey Points\n\nWhile restricted from the latest and greatest chips for now, over half the world's AI researchers are in China.\n\nAs such, growth investors should try to have some China-related AI exposure in their portfolios.\n\nHere's how a South African stock may offer the best way to play Chinese AI.\n\n10 stocks we like better than Naspers \u203a\n\nWould you believe that the best way to play China's AI ambitions may be a South African stock?\n\nArtificial intelligence has the potential to change the economy. As such, investors should have exposure to some AI companies in their portfolios -- and that includes Chinese exposure. Even Nvidia CEO Jensen Huang recently noted that China is home to half of the world's AI researchers. And the January unveiling of the groundbreaking DeepSeek R1 model showed how China is able to innovate cutting-edge AI, even with limited silicon access.\n\nNevertheless, investing in China carries risks pertaining to its economy, its government, and the market mechanics of owning Chinese stocks. That's why the best way to expose oneself to Chinese AI may be South African holding company Naspers (OTC: NPSNY).\n\nTencent may be the best Chinese AI company in the long run\n\nIt's still very early in the AI races, and in truth, it's hard to know who is going to win out. It could be an upstart AI lab such as DeepSeek in China or OpenAI in the U.S., or one of the existing big tech giants.\n\nIn this investor's opinion, the existing incumbents are the best bet. These companies have huge technological and financial resources to invest in AI, and AI should also enable existing large businesses to boost revenue and lower costs through better automation and data science.\n\nThat's why Tencent (OTC: TCEHY) seems like good bet to be a big winner from Chinese AI. Tencent has the largest social media platform in China in WeChat, with more than 1.4 billion users. It's also the largest video game publisher in the China, the largest video and music streaming company, one of the two large digital payments companies, and one of China's cloud computing giants.\n\nIn addition, Tencent is building its own large model, called Hunyuan, which could lead to vast new AI opportunities if it ends being more performant than DeepSeek and other competitors over time.\n\nAnd Prosus/Naspers is the better way to play Tencent\n\nTencent stock doesn't trade on U.S. stock exchanges, but it does trade over the counter as an American depositary receipt. However, a better way to play Tencent may be through its largest shareholder, European-domiciled Prosus (OTC: PROSY), which owns more than 23% of Tencent's stock. And the best way to invest in Prosus may be in its largest shareholder, Naspers, which owns 43% of Prosus.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.25
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Investors seeking China-AI exposure may find a South African stock as the best option, given China's AI research dominance.",
+      "gemma4:e4b": "No direct information about NVDA found."
+    },
+    "date": "2025-06-30T06:10:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-114500780.html",
+    "title": "These 2 Artificial Intelligence (AI) Stocks Are Undervalued Right Now Micron Technology is growing rapidly, and yet its shares trade at a P/E of just 16.  AMD has emerged as the closest challenger to Nvidia in the data center GPU market.  Less than three months after the stock market plunged on President Donald Trump's \"Liberation Day\" tariffs announcement, major indexes are back near all-time highs.",
+    "detail": "These 2 Artificial Intelligence (AI) Stocks Are Undervalued Right Now\nJeremy Bowman, The Motley Fool\nMon, Jun 30, 2025, 5:45 AM 5 min read\nIn This Article:\nMU\nNVDA\nAMD\nKey Points\n\nStocks are back at an all-time-high, but some AI stocks are still a good deal.\n\nMicron Technology is growing rapidly, and yet its shares trade at a P/E of just 16.\n\nAMD has emerged as the closest challenger to Nvidia in the data center GPU market.\n\n10 stocks we like better than Advanced Micro Devices \u203a\n\nLess than three months after the stock market plunged on President Donald Trump's \"Liberation Day\" tariffs announcement, major indexes are back near all-time highs.\n\nInvestors have shrugged off concerns around tariffs and a potential economic slowdown as businesses adjusted to the new trade regime and as economic data so far around unemployment and inflation has been stable, showing that tariffs have not yet had a significant impact on the economy.\n\nDespite the resurgence, which has led to stocks like Nvidia hitting all-time highs again, there are still deals to be found among artificial intelligence (AI) stocks. Keep reading to learn about two of them.\n\nImage source: Getty Images.\n1. Micron Technology\n\nFresh off its latest earnings report, Micron Technology (NASDAQ: MU) just delivered another strong round of results in the fiscal third quarter, beating estimates on the top and bottom lines and offering better-than-expected guidance for the fourth quarter.\n\nThere was one blemish in the report, which was that pricing declined slightly on a sequential basis, which led to the stock falling less than 1% on Thursday. However, Micron still looks well-positioned to capitalize on the AI boom.\n\nIts data center business is surging, more than doubling on a year-over-year basis, pacing overall revenue growth of 37%. It also reported nearly 50% revenue growth in high-bandwidth memory (HBM), and reached record DRAM revenue, which includes HBM.\n\nMicron's margins also improved. Its gross margin jumped from 26.9% to 37.7%, and operating margin increased from 10.6% to 23.3%. Adjusted earnings per share more than tripled from $0.62 to $1.91.\n\nIn addition to its ramping financials, Micron finds itself in an advantageous position because it's the only U.S. manufacturer of advanced memory chips, meaning it's strategically important to the country at a time when the government is focused on reshoring chip production and ensuring adequate supply. Micron was awarded $6.2 billion from the CHIPS Act, and also agreed to invest $200 billion in new foundries in R&D in the U.S., though the timeline on that is unclear.\n\nLooking at valuation, Micron looks cheap. Based on its latest guidance, the stock trades at a forward P/E of less than 16, and analysts expect earnings per share to hit $12 in fiscal 2026, giving the stock a P/E of roughly 10 based on that forecast. Micron does face cyclical risk, but if the company can hit those numbers, the stock is a good bet to move higher.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.38
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite market recovery, AI stocks Micron Technology and AMD remain undervalued; AMD challenges Nvidia in data center GPU market, trading at lower P/E ratios.",
+      "gemma4:e4b": "Increased competition from a challenger in the data center GPU market could negatively impact NVDA's market share."
+    },
+    "date": "2025-06-30T05:45:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/latest-news-ai-chips-ai-113734661.html",
+    "title": "Latest News In AI Chips - AI Robotics Innovation Boosted by Strategic Partnership Richtech Robotics Inc. and Beijing City of Design Development Co., Ltd. have announced a strategic partnership through their joint venture, Boyu AI Technology, to advance AI-powered service robotics. This collaboration aims to enhance research and development efforts, focusing on creating cutting-edge autonomous robotic systems and integrated platforms for diverse service industries. The agreement includes plans to establish a Beijing Foreign-Invested R&D Center dedicated to exploring...",
+    "detail": "Latest News In AI Chips - AI Robotics Innovation Boosted by Strategic Partnership\nSimply Wall St\nMon, Jun 30, 2025, 5:37 AM 1 min read\nIn This Article:\nQCOM\nAMD\nRR\nALAB\nNVDA\n\nRichtech Robotics Inc. and Beijing City of Design Development Co., Ltd. have announced a strategic partnership through their joint venture, Boyu AI Technology, to advance AI-powered service robotics. This collaboration aims to enhance research and development efforts, focusing on creating cutting-edge autonomous robotic systems and integrated platforms for diverse service industries. The agreement includes plans to establish a Beijing Foreign-Invested R&D Center dedicated to exploring domain-specific AI models and autonomous decision-making systems. This partnership highlights the ongoing innovation and commercialization within the AI chips and robotics space, targeting applications across high-growth sectors such as hospitality, healthcare, and retail.\n\nIn other trading, TongweiLtd was a standout up 7.0% and finishing the session at CN\u00a516.75. Meanwhile, Astera Labs lagged, down 7.1% to close at $91.02. Two days ago, Astera Labs was dropped from multiple Russell indexes.\n\nAstera Labs is rapidly expanding in AI infrastructure and CXL technology to capture a growing market. Discover more about their strategic positioning and growth potential in our full narrative.\n\nDon't miss our previously discussed Market Insights article on AI Chips, exploring sector dynamics and investment opportunities\u2014essential for staying ahead.\n\nBest AI Chip Stocks\n\nNVIDIA ended the day at $157.75 up 1.8%, not far from its 52-week high.\n\nQUALCOMM finished trading at $158.54 up 0.2%. Two days ago, Qualcomm was added to multiple Russell 1000 indices, including Growth-Defensive, Defensive, and Value-Defensive.\n\nAdvanced Micro Devices finished flat at, $143.81.\n\nSeize The Opportunity\n\nNavigate through the entire inventory of 54 AI Chip Stocks including NAURA Technology Group, Infineon Technologies and Applied Materials here.\n\nReady To Venture Into Other Investment Styles? The best AI stocks today may lie beyond giants like Nvidia and Microsoft. Find the next big opportunity with these 23 smaller AI-focused companies with strong growth potential through early-stage innovation in machine learning, automation, and data intelligence that could fund your retirement.\n\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.74
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.82
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.02
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVDA's prospects brighten with AI robotics innovation via strategic partnership between Richtech Robotics and Beijing City of Design Development Co. (Boyu AI Tech), aiming to boost research & development efforts in autonomous robotic",
+      "gemma4:e4b": "No direct information about NVDA found."
+    },
+    "date": "2025-06-30T05:37:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/sonim-technologies-provides-letter-intent-113000319.html",
+    "title": "Sonim Technologies Provides Update on Letter of Intent for Reverse Takeover San Diego, California--(Newsfile Corp. - June 30, 2025) - Sonim Technologies, Inc. (NASDAQ: SONM), a leading provider of rugged mobile solutions, today issued an update regarding the Letter of Intent (LOI) for a proposed reverse takeover (RTO), as originally announced via press release dated June 25, 2025. The RTO is with a private US-based company (the \"Target\") that is building out Nvidia-based High-Performance Computing (HPC) AI factories to support the hyper growth of cloud-based ...",
+    "detail": "Sonim Technologies Provides Update on Letter of Intent for Reverse Takeover\nNewsfile Corp.\nMon, Jun 30, 2025, 5:30 AM 7 min read\nIn This Article:\nSONM\nNVDA\n\nSan Diego, California--(Newsfile Corp. - June 30, 2025) - Sonim Technologies, Inc. (NASDAQ: SONM), a leading provider of rugged mobile solutions, today issued an update regarding the Letter of Intent (LOI) for a proposed reverse takeover (RTO), as originally announced via press release dated June 25, 2025. The RTO is with a private US-based company (the \"Target\") that is building out Nvidia-based High-Performance Computing (HPC) AI factories to support the hyper growth of cloud-based artificial intelligence (AI) workloads.\n\nUnder the LOI, upon completion, Sonim shareholders will receive equity ownership in the combined company. While this equity ownership is currently valued at $17.5 million, Sonim shareholders will benefit from any future value appreciation of the combined entity.\n\nThis announcement reflects Sonim's commitment to transparency as the transaction progresses. Further updates will be shared as more information becomes available.\n\nAbout Sonim Technologies\nSonim Technologies is a leading U.S. provider of rugged mobile solutions, including phones, wireless internet data devices, accessories and software designed to provide extra protection for users that demand more durability in their work and everyday lives. Trusted by first responders, government, and Fortune 500 customers since 1999, we currently sell our ruggedized mobility solutions through tier one wireless carriers and distributors in North America, EMEA, and Australia/New Zealand. Sonim devices and accessories connect users with voice, data, workflow and lifestyle applications that enhance the user experience while providing an extra level of protection. For more information, visit www.sonimtech.com.\n\nMedia contact:\nAnette Gaven\nanette.gaven@sonimtech.com\nP: 619-993-3058\n\nImportant Information and Where to Find It\nThis press release may be considered to be a soliciting material in connection with the 2025 Annual Meeting of Stockholders. Sonim has filed with the SEC a definitive proxy statement on Schedule 14A, containing a form of WHITE proxy card, with respect to its solicitation of proxies for the 2025 Annual Meeting of Stockholders.\nSonim's stockholders are strongly encouraged to read Sonim's definitive proxy statement (including any amendments or supplements thereto) and any other documents to be filed with the SEC carefully and in their entirety when they become available because they will contain important information.\nStockholders may obtain a free copy of the definitive proxy statement, any amendments or supplements to the proxy statement, and other documents that Sonim files with the SEC at no charge from the SEC's website at www.sec.gov. Copies will also be available at no charge on Sonim's website at https://ir.sonimtech.com/sec-filings/all-sec-filings.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Sonim announces RTO with Nvidia-based AI factory builder, offering potential $17.5M equity to Sonim shareholders.",
+      "gemma4:e4b": "The development of AI factories using NVDA technology suggests positive market demand for the sector."
+    },
+    "date": "2025-06-30T05:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/3-no-brainer-artificial-intelligence-104500278.html",
+    "title": "3 No-Brainer Artificial Intelligence Stocks to Buy Right Now Nvidia's semiconductors are the key to AI proliferation in the coming years.  Meta sees a future with ad processes simplified through AI.  Amazon is building a comprehensive platform for AI app development.",
+    "detail": "3 No-Brainer Artificial Intelligence Stocks to Buy Right Now\nJennifer Saibil, The Motley Fool\nMon, Jun 30, 2025, 4:45 AM 5 min read\nIn This Article:\nAMZN\nNVDA\nMETA\nKey Points\n\nNvidia's semiconductors are the key to AI proliferation in the coming years.\n\nMeta sees a future with ad processes simplified through AI.\n\nAmazon is building a comprehensive platform for AI app development.\n\n10 stocks we like better than Nvidia \u203a\n\nIt looks like artificial intelligence (AI) is here to stay. Unlike many catch phrases and buzzwords that have come and gone in the markets over the past few years, AI is driving real-world progress and generating billions of dollars in sales for top companies.\n\nCan it go on? According to Statista, the AI market is expected to increase at a rate of 26.6% annually through 2031, reaching more than $1 trillion. Many of today's best tech companies are giving it their all, developing competitive AI businesses to grab a chunk of that market as it grows. Nvidia (NASDAQ: NVDA), Meta Platforms (NASDAQ: META), and Amazon (NASDAQ: AMZN) are all leading the way, and they're three no-brainer AI stocks to buy today.\n\nImage source: Getty Images.\n1. Nvidia\n\nNvidia is a huge company that's still growing by leaps and bounds. It's a very rare situation for a company that already has $148 billion in trailing-12-month revenue to report growth of 69%, but that's what Nvidia did in its 2026 fiscal first quarter (ended April 27).\n\nIt's expecting to slow down, guiding for sales to increase 50% in the second quarter. That's still an unusual and amazing feat for a company of its size.\n\nNvidia is the leader in its industry, which is semiconductors, or the chips that drive most of today's technology. According to some estimates, it has 95% of the AI chip market. As AI grows, Nvidia gets a huge share of that growth. It's constantly upgrading its technology with new products that can handle higher workloads, ensuring that it stays in the leading position.\n\nAlthough it has products in multiple categories, it's the AI chips that have catapulted it to the top of the tech heap, brought it to broad market attention, and briefly made it the most valuable company in the world. As it continues to lead and create improved products that all of its partners need, it could get there again soon.\n\nConsidering its position and opportunities, it might surprise you that Nvidia stock isn't very expensive. It trades at a forward 1-year P/E ratio of 27, making it a no-brainer buy today.\n\n2. Meta Platforms\n\nMeta is a social media giant, owning brands including Facebook, Instagram, and WhatsApp. It uses AI in many important ways to drive business, from feeding users content they're looking for to keep them scrolling (and viewing ads) to providing a chatbot fueled by its own powerful large-language model.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.92
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's semiconductors vital for AI growth; AI market expected to reach $1T by 2031.",
+      "gemma4:e4b": "NVDA is positively positioned by AI proliferation, as the sector's market is expected to increase at a rate of 26%."
+    },
+    "date": "2025-06-30T04:45:00"
+  }
+]

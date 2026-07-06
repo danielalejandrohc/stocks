@@ -1,0 +1,326 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/nvda-nvidia-poised-smash-records-144948367.html",
+    "title": "NVDA: Nvidia Smashes New Records as Microsoft, Meta Ramp Up Spending Nvidia Charges Ahead on Wave of AI Infrastructure Spending",
+    "detail": "NVDA: Nvidia Smashes New Records as Microsoft, Meta Ramp Up Spending\nNauman khan\nThu, Jul 31, 2025, 8:07 AM 2 min read\nIn This Article:\nNVDA\n\nJuly 31 - NVIDIA (NVDA, Financial) hits a new all-time high after climbing about 2% on Thursday morning. Investors see its GPUs as the go-to for AI model training.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nNVDA: Nvidia Smashes New Records as Microsoft, Meta Ramp Up Spending\n\nMicrosoft (MSFT, Financial) reinforced that view by reporting fourth-quarter capital expenditures of $24 billion, well above the $21.4 billion analysts expected. Meta Platforms (META, Financial) also boosted its 2025 capex floor to $66 billion-$72 billion from $64 billion-$72 billion, signaling continued AI hardware spending.\n\nThose hefty budgets point straight back to NVIDIA's processors, with demand for its H100 and A100 chips surging in cloud data centers. A new European project, Stargate Norway, a partnership of OpenAI, Nscale and Akerplans to deploy 100,000 NVIDIA GPUs in Narvik by end-2026, running AI workloads on renewable energy.\n\nRival chipmakers felt the lift too: Advanced Micro Devices (AMD, Financial) inched up about 2%, while Broadcom (AVGO, Financial) added 1% before the opening bell. With AI investments accelerating, NVIDIA's rally underscores its central role in powering next-gen computing.\n\nIs NVDA Stock a Buy?\nNVDA: Nvidia Smashes New Records as Microsoft, Meta Ramp Up Spending\n\nBased on the one year price targets offered by 53 analysts, the average target price for NVIDIA Corp is $184.95 with a high estimate of $372.87 and a low estimate of $100.00. The average target implies a upside of +3.17% from the current price of $179.27.\n\nBased on GuruFocus estimates, the estimated GF Value for NVIDIA Corp in one year is $280.31, suggesting a upside of +56.36% from the current price of $179.27. Gf value is Gurufocus' estimate of the fair value that the stock should be traded at. It is calculated based on the historical multiples the stock has traded at previously, as well as past business growth and the future estimates of the business' performance. For deeper insights, visit the forecast page.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.4999
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-07-31T08:07:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "1. NVIDIA sets new record high amid increased AI spending by Microsoft ($24B) and Meta ($66B-$72B); demand for H100 and A100 chips rises due to cloud data center"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/chatgpt-everything-know-ai-powered-172758212.html",
+    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot A timeline of ChatGPT product updates and releases, starting with the latest, which we\u2019ve been updating throughout the year.",
+    "detail": "ChatGPT: Everything you need to know about the AI-powered chatbot\nKyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park\nThu, Jul 31, 2025, 7:52 AM 39 min read\nIn This Article:\nOPAI.PVT\nGOOGL\nAAPL\nSMWB\nNVDA\nThe ChatGPT logo appears on a smartphone screen in this illustration photo in Reno, United States, on January 3, 2025. (Photo Illustration by Jaque Silva/NurPhoto via Getty Images) | Image Credits:Jaque Silva/NurPhoto / Getty Images\n\nChatGPT, OpenAI\u2019s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users.\n\n2024 was a big year for OpenAI, from its partnership with Apple for its generative AI offering, Apple Intelligence, the release of GPT-4o with voice capabilities, and the highly-anticipated launch of its text-to-video model Sora.\n\nOpenAI also faced its share of internal drama, including the notable exits of high-level execs like co-founder and longtime chief scientist Ilya Sutskever and CTO Mira Murati. OpenAI has also been hit with lawsuits from Alden Global Capital-owned newspapers alleging copyright infringement, as well as an injunction from Elon Musk to halt OpenAI\u2019s transition to a for-profit.\n\nIn 2025, OpenAI is battling the perception that it\u2019s ceding ground in the AI race to Chinese rivals like DeepSeek. The company has been trying to shore up its relationship with Washington as it simultaneously pursues an ambitious data center project, and as it reportedly lays the groundwork for one of the largest funding rounds in history.\n\nBelow, you\u2019ll find a timeline of ChatGPT product updates and releases, starting with the latest, which we\u2019ve been updating throughout the year. If you have any other questions, check out our ChatGPT FAQ here.\n\nTo see a list of 2024 updates, go here.\n\nTimeline of the most recent ChatGPT updates\nJuly 2025\nChatGPT now has study mode\n\nOpenAI unveiled Study Mode, a new ChatGPT feature designed to promote critical thinking by prompting students to engage with material rather than simply receive answers. The tool is now rolling out to Free, Plus, Pro, and Team users, with availability for Edu subscribers expected in the coming weeks.\n\nAltman warns that ChatGPT therapy isn\u2019t confidential\n\nChatGPT users should be cautious when seeking emotional support from AI, as the AI industry lacks safeguards for sensitive conversations, OpenAI CEO Sam Altman said on a recent episode of This Past Weekend w/ Theo Von. Unlike human therapists, AI tools aren\u2019t bound by doctor-patient confidentiality, he noted.\n\nChatGPT hits 2.5B prompts daily\n\nChatGPT now receives 2.5 billion prompts daily from users worldwide, including roughly 330 million from the U.S. That\u2019s more than double the volume reported by CEO Sam Altman just eight months ago, highlighting the chatbot\u2019s explosive growth.\n\nOpenAI launches a general-purpose agent in ChatGPT\n\nOpenAI has introduced ChatGPT Agent, which completes a wide variety of computer-based tasks on behalf of users and combines several capabilities like Operator and Deep Research, according to the company. OpenAI says the agent can automatically navigate a user\u2019s calendar, draft editable presentations and slideshows, run code, shop online, and handle complex workflows from end to end, all within a secure virtual environment.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-31T07:52:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "300M weekly active users for ChatGPT; Partnership with Apple for generative AI offering; Release of GPT-4o with voice capabilities; Launch of text-to-video model Sora; Internal drama at OpenAI"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-crosshairs-china-just-escalated-144830633.html",
+    "title": "Nvidia in the Crosshairs: China Just Escalated the AI Chip War Regulators question H20 chip as Beijing plays hardball in U.S.--China tech tug-of-war",
+    "detail": "Nvidia in the Crosshairs: China Just Escalated the AI Chip War\nKhac Phu Nguyen\nThu, Jul 31, 2025, 7:48 AM 2 min read\nIn This Article:\nNVDA\nMSFT\nMETA\n0700.HK\n\nNvidia (NASDAQ:NVDA) just hit another speed bump in China. Days after the U.S. rolled back export restrictions on its H20 chipdesigned specifically to comply with sanctionsChinese regulators summoned Nvidia to address alleged serious security vulnerabilities. The Cyberspace Administration of China (CAC) raised concerns tied to U.S. lawmakers' comments suggesting these chips may carry location-tracking or shutdown features. The agency demanded internal documentation and clarification from Nvidia's local team. No official details were shared beyond that, but investors are watching closely. The stock gained 2.5% on Germany's Tradegate, supported in part by strong earnings from Microsoft and Meta, but this probe introduces fresh uncertainty.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nThe timing couldn't be more delicate. CEO Jensen Huang had just wrapped up a high-profile China visit, spotlighting local champions like DeepSeek and Tencent while calling China a global AI powerhouse. Meanwhile, U.S. officials had been framing the H20 green light as a goodwill gesturehoping it would unlock better access to China's rare earths. But now, Chinese regulators are signaling they're not quite sold. Local chipmakers like SMIC and Cambricon popped more than 5% following the CAC's statement, suggesting markets see this as a tailwind for China's self-reliance push. As Forrester's Charlie Dai put it: H20 sales could now face delays, just as China doubles down on homegrown tech.\n\nUnderneath all this is a bigger chessboard. The U.S. had loosened chip export rules after trade talks in London, and in return, China allowed more outbound flow of rare-earth minerals. But the CAC's sudden scrutiny of the H20 chipespecially one already stripped down to meet U.S. compliancefeels like a move to keep pressure in the trade negotiations. At the same time, domestic players like Huawei are rolling out rivals like the Ascend 910C, which are already being compared to Nvidia's chips for inference workloads. As trade officials sidestep direct comment, one thing is clear: Nvidia's foothold in China remains fragile, and investors will need to watch how this unfoldsone regulatory move at a time.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.56
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.4
+      }
+    },
+    "date": "2025-07-31T07:48:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Chinese probe raises fresh uncertainty for Nvidia amidst strong earnings from MSFT and META; stock gains 2.5% on Tradegate."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bc-most-active-stocks-143017614.html",
+    "title": "BC-Most Active Stocks Gibo Holdings Ltd. 49,798,993 0.0709",
+    "detail": "BC-Most Active Stocks\nThe Associated Press\nThu, Jul 31, 2025, 7:30 AM 21 min read\nIn This Article:\n^IXIC\nHCTI\nSNGX\nVRME\nAPLD\n\nNEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks.\n\nNasdaq most active stocks:\n\nStock Name\n\n\t\n\nVolume\n\n\t\n\nHigh\n\n\t\n\nLow\n\n\t\n\nLast\n\n\t\n\nChange\n\n\n\n\nHealthcare Triangle Inc.\n\n\t\n\n250,806,800\n\n\t\n\n0.0379\n\n\t\n\n0.0327\n\n\t\n\n0.0361\n\n\t\n\n+0.0059\n\n\n\n\nErayak Power Solut.Group Inc.\n\n\t\n\n236,338,932\n\n\t\n\n0.177\n\n\t\n\n0.1512\n\n\t\n\n0.1552\n\n\t\n\n+0.0272\n\n\n\n\nIncannex Healthcare Inc.\n\n\t\n\n161,167,762\n\n\t\n\n0.71\n\n\t\n\n0.61\n\n\t\n\n0.648\n\n\t\n\n-0.232\n\n\n\n\nSoligenix Inc.\n\n\t\n\n117,234,020\n\n\t\n\n2.49\n\n\t\n\n1.66\n\n\t\n\n2.475\n\n\t\n\n+1.225\n\n\n\n\nBollinger Innovations Inc.\n\n\t\n\n103,214,790\n\n\t\n\n0.0477\n\n\t\n\n0.041\n\n\t\n\n0.0414\n\n\t\n\n-0.0166\n\n\n\n\nVerifyMe Inc.\n\n\t\n\n84,876,587\n\n\t\n\n1.27\n\n\t\n\n1.04\n\n\t\n\n1.1289\n\n\t\n\n+0.4427\n\n\n\n\nApplied Digital Corp.\n\n\t\n\n62,505,070\n\n\t\n\n14.05\n\n\t\n\n12.20\n\n\t\n\n13.9988\n\n\t\n\n+3.9688\n\n\n\n\nNVIDIA Corp.\n\n\t\n\n52,596,083\n\n\t\n\n183.30\n\n\t\n\n180.40\n\n\t\n\n182.0751\n\n\t\n\n+2.8051\n\n\n\n\nGibo Holdings Ltd.\n\n\t\n\n49,798,993\n\n\t\n\n0.0709\n\n\t\n\n0.0622\n\n\t\n\n0.0622\n\n\t\n\n-0.0123\n\n\n\n\nSoFi Technologies Inc.\n\n\t\n\n35,375,139\n\n\t\n\n23.8051\n\n\t\n\n22.65\n\n\t\n\n23.5693\n\n\t\n\n+1.6993\n\n\n\n\nOceanPal Inc.\n\n\t\n\n32,758,299\n\n\t\n\n0.152\n\n\t\n\n0.1377\n\n\t\n\n0.1386\n\n\t\n\n-0.0363\n\n\n\n\nGrab Holdings Limited\n\n\t\n\n31,882,158\n\n\t\n\n5.12\n\n\t\n\n4.80\n\n\t\n\n5.0492\n\n\t\n\n-0.2408\n\n\n\n\nTNF Pharmaceuticals Inc.\n\n\t\n\n29,448,036\n\n\t\n\n0.113\n\n\t\n\n0.1005\n\n\t\n\n0.1093\n\n\t\n\n-0.0157\n\n\n\n\nPsyence Biomedical Ltd.\n\n\t\n\n28,620,599\n\n\t\n\n9.50\n\n\t\n\n7.21\n\n\t\n\n7.91\n\n\t\n\n+2.51\n\n\n\n\nOpendoor Technologies Inc.\n\n\t\n\n24,681,432\n\n\t\n\n2.10\n\n\t\n\n2.00\n\n\t\n\n2.03\n\n\t\n\n-0.04\n\n\n\n\nOnconetix Inc.\n\n\t\n\n22,721,634\n\n\t\n\n4.59\n\n\t\n\n3.82\n\n\t\n\n4.17\n\n\t\n\n+0.96\n\n\n\n\nRobinhood Markets Inc.\n\n\t\n\n21,918,611\n\n\t\n\n109.06\n\n\t\n\n101.07\n\n\t\n\n106.79\n\n\t\n\n+0.69\n\n\n\n\nAmazon.com Inc.\n\n\t\n\n19,292,405\n\n\t\n\n235.92\n\n\t\n\n231.40\n\n\t\n\n233.4903\n\n\t\n\n+3.3003\n\n\n\n\nAdvanced Micro Devices Inc.\n\n\t\n\n19,047,608\n\n\t\n\n182.50\n\n\t\n\n178.35\n\n\t\n\n181.98\n\n\t\n\n+2.47\n\n\n\n\nMicrosoft Corp.\n\n\t\n\n18,461,645\n\n\t\n\n555.45\n\n\t\n\n535.66\n\n\t\n\n539.1566\n\n\t\n\n+25.9166\n\n\n\n\nWang & Lee Group Inc.\n\n\t\n\n17,104,040\n\n\t\n\n0.0572\n\n\t\n\n0.0505\n\n\t\n\n0.0507\n\n\t\n\n-0.0094\n\n\n\n\nConfluent Inc.\n\n\t\n\n16,884,569\n\n\t\n\n19.12\n\n\t\n\n17.51\n\n\t\n\n18.245\n\n\t\n\n-8.155\n\n\n\n\nMeta Platforms Inc.\n\n\t\n\n15,921,717\n\n\t\n\n784.75\n\n\t\n\n765.51\n\n\t\n\n779.74\n\n\t\n\n+84.53\n\n\n\n\nIndivior PLC\n\n\t\n\n15,728,921\n\n\t\n\n21.01\n\n\t\n\n19.55\n\n\t\n\n19.63\n\n\t\n\n+2.23\n\n\n\n\nTesla Inc.\n\n\t\n\n14,533,205\n\n\t\n\n321.37\n\n\t\n\n316.88\n\n\t\n\n318.06\n\n\t\n\n-0.98\n\n\n\n\nRigetti Computing Inc.\n\n\t\n\n14,537,030\n\n\t\n\n15.72\n\n\t\n\n14.60\n\n\t\n\n15.72\n\n\t\n\n+1.55\n\n\n\n\nEnsysce Biosciences Inc.\n\n\t\n\n13,305,865\n\n\t\n\n2.3699\n\n\t\n\n2.00\n\n\t\n\n2.18\n\n\t\n\n+0.10\n\n\n\n\nPlug Power Inc.\n\n\t\n\n13,264,646\n\n\t\n\n1.58\n\n\t\n\n1.50\n\n\t\n\n1.535\n\n\t\n\n-0.015\n\n\n\n\nSmart Powerr Corp.\n\n\t\n\n12,953,123\n\n\t\n\n1.9399\n\n\t\n\n1.74\n\n\t\n\n1.84\n\n\t\n\n-0.05\n\n\n\n\nIntel Corp.\n\n\t\n\n12,742,278\n\n\t\n\n20.2288\n\n\t\n\n20.03\n\n\t\n\n20.085\n\n\t\n\n-0.255\n\n\n\n\nSuper Micro Computer Inc.\n\n\t\n\n11,911,330\n\n\t\n\n62.34\n\n\t\n\n60.72\n\n\t\n\n62.30\n\n\t\n\n+1.59\n\n\n\n\nPalantir Technologies Inc.\n\n\t\n\n11,641,143\n\n\t\n\n160.89\n\n\t\n\n158.30\n\n\t\n\n160.16\n\n\t\n\n+1.55\n\n\n\n\nAEye Inc.\n\n\t\n\n11,588,513\n\n\t\n\n3.82\n\n\t\n\n3.55\n\n\t\n\n3.5912\n\n\t\n\n+0.0812\n\n\n\n\nAlphabet Inc.\n\n\t\n\n11,612,298\n\n\t\n\n195.99\n\n\t\n\n191.93\n\n\t\n\n194.165\n\n\t\n\n-2.365\n\n\n\n\nComcast Corp.\n\n\t\n\n11,232,812\n\n\t\n\n34.10\n\n\t\n\n33.07\n\n\t\n\n33.115\n\n\t\n\n+0.615\n\n\n\n\nChanson International Holding\n\n\t\n\n10,947,591\n\n\t\n\n0.099\n\n\t\n\n0.0742\n\n\t\n\n0.0822\n\n\t\n\n-0.0299\n\n\n\n\nGarden Stage Ltd.\n\n\t\n\n10,903,134\n\n\t\n\n0.143\n\n\t\n\n0.132\n\n\t\n\n0.136\n\n\t\n\n+0.0101\n\n\n\n\nMARA Holdings Inc.\n\n\t\n\n10,789,207\n\n\t\n\n16.54\n\n\t\n\n16.065\n\n\t\n\n16.29\n\n\t\n\n-0.26\n\n\n\n\nPlus Therapeutics Inc.\n\n\t\n\n10,756,424\n\n\t\n\n0.5498\n\n\t\n\n0.50\n\n\t\n\n0.5201\n\n\t\n\n+0.0628\n\n\n\n\nAmerican Airlines Group Inc.\n\n\t\n\n10,497,143\n\n\t\n\n11.64\n\n\t\n\n11.44\n\n\t\n\n11.4915\n\n\t\n\n-0.0185\n\n\n\n\niShares Bitcoin Trust ETF\n\n\t\n\n10,230,793\n\n\t\n\n67.47\n\n\t\n\n66.895\n\n\t\n\n67.23\n\n\t\n\n+0.86\n\n\n\n\nApple Inc.\n\n\t\n\n9,651,870\n\n\t\n\n209.62\n\n\t\n\n207.82\n\n\t\n\n209.52\n\n\t\n\n+0.47\n\n\n\n\nEos Energy Enterprises Inc.\n\n\t\n\n9,371,481\n\n\t\n\n6.55\n\n\t\n\n5.41\n\n\t\n\n6.49\n\n\t\n\n+0.57\n\n\n\n\nLucid Group Inc.\n\n\t\n\n9,081,963\n\n\t\n\n2.53\n\n\t\n\n2.49\n\n\t\n\n2.50\n\n\t\n\n0.00\n\n\n\n\nCOREWEAVE INC.\n\n\t\n\n8,245,045\n\n\t\n\n118.98\n\n\t\n\n111.50\n\n\t\n\n114.09\n\n\t\n\n+11.20\n\n\n\n\nSNDL Inc.\n\n\t\n\n8,037,951\n\n\t\n\n1.835\n\n\t\n\n1.67\n\n\t\n\n1.775\n\n\t\n\n+0.335\n\n\n\n\niShares Ethereum Trust ETF\n\n\t\n\n7,929,115\n\n\t\n\n28.895\n\n\t\n\n28.64\n\n\t\n\n28.705\n\n\t\n\n+0.225\n\n\n\n\nSharpLink Gaming Inc.\n\n\t\n\n7,839,903\n\n\t\n\n20.20\n\n\t\n\n18.83\n\n\t\n\n19.82\n\n\t\n\n+0.26\n\n\n\n\nAlphabet Inc.\n\n\t\n\n7,643,019\n\n\t\n\n196.83\n\n\t\n\n192.81\n\n\t\n\n195.11\n\n\t\n\n-2.33\n\n\n\n\nMicron Technology Inc.\n\n\t\n\n7,547,638\n\n\t\n\n112.27\n\n\t\n\n109.22\n\n\t\n\n111.09\n\n\t\n\n-3.65\n\n\n\n\nLam Research Corp.\n\n\t\n\n7,283,791\n\n\t\n\n93.7965\n\n\t\n\n90.73\n\n\t\n\n93.72\n\n\t\n\n-5.37\n\n\n\n\nNebius Group N.V.\n\n\t\n\n7,204,501\n\n\t\n\n56.25\n\n\t\n\n52.90\n\n\t\n\n55.825\n\n\t\n\n+4.535\n\n\n\n\nReplimune Group Inc.\n\n\t\n\n7,198,071\n\n\t\n\n7.23\n\n\t\n\n6.67\n\n\t\n\n7.16\n\n\t\n\n-0.39\n\n\n\n\nRiot Platforms Inc.\n\n\t\n\n6,891,664\n\n\t\n\n13.84\n\n\t\n\n13.36\n\n\t\n\n13.57\n\n\t\n\n+0.05\n\n\n\n\nSoundhound AI Inc.\n\n\t\n\n6,825,039\n\n\t\n\n10.96\n\n\t\n\n10.53\n\n\t\n\n10.865\n\n\t\n\n+0.475\n\n\n\n\nTerawulf Inc.\n\n\t\n\n6,708,124\n\n\t\n\n5.28\n\n\t\n\n5.025\n\n\t\n\n5.16\n\n\t\n\n+0.15\n\n\n\n\nOndas Holdings Inc.\n\n\t\n\n6,606,359\n\n\t\n\n2.18\n\n\t\n\n2.0401\n\n\t\n\n2.0726\n\n\t\n\n+0.0026\n\n\n\n\nCore Scientific Inc. New\n\n\t\n\n6,449,474\n\n\t\n\n13.94\n\n\t\n\n13.40\n\n\t\n\n13.485\n\n\t\n\n+0.43\n\n\n\n\nAlignment Healthcare Inc.\n\n\t\n\n6,310,366\n\n\t\n\n16.24\n\n\t\n\n14.50\n\n\t\n\n14.58\n\n\t\n\n+1.58\n\n\n\n\nIREN Ltd.\n\n\t\n\n6,263,907\n\n\t\n\n17.095\n\n\t\n\n16.41\n\n\t\n\n16.45\n\n\t\n\n+0.31\n\n\n\n\nNavitas Semiconductor Corp.\n\n\t\n\n6,027,134\n\n\t\n\n7.785\n\n\t\n\n7.36\n\n\t\n\n7.6926\n\n\t\n\n+0.4826\n\n\n\n\nTilray Brands Inc.\n\n\t\n\n5,956,109\n\n\t\n\n0.6347\n\n\t\n\n0.598\n\n\t\n\n0.6291\n\n\t\n\n+0.0167\n\n\n\n\nPalo Alto Networks Inc.\n\n\t\n\n5,901,201\n\n\t\n\n183.94\n\n\t\n\n174.75\n\n\t\n\n174.88\n\n\t\n\n-8.15\n\n\n\n\nNVNI Group Ltd.\n\n\t\n\n5,631,685\n\n\t\n\n0.6095\n\n\t\n\n0.4988\n\n\t\n\n0.5975\n\n\t\n\n+0.1055\n\n\n\n\nOstin Tech.Group Co. Ltd.\n\n\t\n\n5,491,352\n\n\t\n\n0.0856\n\n\t\n\n0.0811\n\n\t\n\n0.0833\n\n\t\n\n+0.0049\n\n\n\n\neBay Inc.\n\n\t\n\n5,506,380\n\n\t\n\n91.15\n\n\t\n\n87.75\n\n\t\n\n89.985\n\n\t\n\n+12.425\n\n\n\n\nQUALCOMM Inc.\n\n\t\n\n5,362,293\n\n\t\n\n156.8039\n\n\t\n\n151.39\n\n\t\n\n152.6519\n\n\t\n\n-6.4081\n\n\n\n\nBit Digital Inc.\n\n\t\n\n5,351,593\n\n\t\n\n2.92\n\n\t\n\n2.79\n\n\t\n\n2.875\n\n\t\n\n+0.035\n\n\n\n\nAurora Innovation Inc.\n\n\t\n\n5,209,570\n\n\t\n\n6.33\n\n\t\n\n6.00\n\n\t\n\n6.25\n\n\t\n\n+0.46\n\n\n\n\nAGNC Investment Corp.\n\n\t\n\n5,168,912\n\n\t\n\n9.5095\n\n\t\n\n9.37\n\n\t\n\n9.47\n\n\t\n\n-0.13\n\n\n\n\nHIVE Digital Technologies Ltd.\n\n\t\n\n5,072,259\n\n\t\n\n2.22\n\n\t\n\n2.15\n\n\t\n\n2.1994\n\n\t\n\n+0.0094\n\n\n\n\nRecursion Pharmaceuticals Inc.\n\n\t\n\n5,032,532\n\n\t\n\n6.09\n\n\t\n\n5.82\n\n\t\n\n5.9803\n\n\t\n\n+0.1703\n\n\n\n\nHumacyte Inc.\n\n\t\n\n4,997,227\n\n\t\n\n2.54\n\n\t\n\n2.40\n\n\t\n\n2.43\n\n\t\n\n0.00\n\n\n\n\nBitfarms Ltd.\n\n\t\n\n4,979,361\n\n\t\n\n1.275\n\n\t\n\n1.2094\n\n\t\n\n1.2666\n\n\t\n\n+0.0666\n\n\n\n\nGraphjet Technology\n\n\t\n\n4,777,655\n\n\t\n\n0.1199\n\n\t\n\n0.1084\n\n\t\n\n0.1123\n\n\t\n\n+0.0006\n\n\n\n\nMarvell Technology Inc.\n\n\t\n\n4,672,108\n\n\t\n\n83.25\n\n\t\n\n81.53\n\n\t\n\n82.12\n\n\t\n\n+0.38\n\n\n\n\nRezolve AI PLC\n\n\t\n\n4,515,967\n\n\t\n\n2.95\n\n\t\n\n2.84\n\n\t\n\n2.9111\n\n\t\n\n+0.1011\n\n\n\n\nWestern Digital Corp.\n\n\t\n\n4,411,275\n\n\t\n\n76.91\n\n\t\n\n73.25\n\n\t\n\n76.835\n\n\t\n\n+5.405\n\n\n\n\nSirius XM Holdings Inc.\n\n\t\n\n4,287,773\n\n\t\n\n22.75\n\n\t\n\n20.36\n\n\t\n\n20.705\n\n\t\n\n-2.225\n\n\n\n\nWARNER BROS. DISCOVERY INC.\n\n\t\n\n4,265,143\n\n\t\n\n13.29\n\n\t\n\n13.115\n\n\t\n\n13.165\n\n\t\n\n-0.095\n\n\n\n\nQuantum Computing Inc.\n\n\t\n\n4,346,437\n\n\t\n\n15.79\n\n\t\n\n15.01\n\n\t\n\n15.79\n\n\t\n\n+1.06\n\n\n\n\nCleanspark Inc.\n\n\t\n\n4,256,518\n\n\t\n\n11.74\n\n\t\n\n11.3037\n\n\t\n\n11.411\n\n\t\n\n-0.009\n\n\n\n\nBroadcom Inc.\n\n\t\n\n4,070,773\n\n\t\n\n306.949\n\n\t\n\n300.6773\n\n\t\n\n301.48\n\n\t\n\n-1.14\n\n\n\n\nFaraday Future Intel.Electric\n\n\t\n\n4,059,401\n\n\t\n\n2.4699\n\n\t\n\n2.25\n\n\t\n\n2.3468\n\n\t\n\n+0.0068\n\n\n\n\nRivian Automotive Inc.\n\n\t\n\n3,799,116\n\n\t\n\n13.12\n\n\t\n\n12.95\n\n\t\n\n13.035\n\n\t\n\n+0.005\n\n\n\n\nJ-STAR Holding Co. Ltd.d.\n\n\t\n\n3,623,764\n\n\t\n\n4.51\n\n\t\n\n4.13\n\n\t\n\n4.39\n\n\t\n\n+0.31\n\n\n\n\nAlign Technology Inc.\n\n\t\n\n3,622,169\n\n\t\n\n149.75\n\n\t\n\n139.10\n\n\t\n\n140.01\n\n\t\n\n-63.56\n\n\n\n\nSarepta Therapeutics Inc.\n\n\t\n\n3,527,914\n\n\t\n\n17.135\n\n\t\n\n16.11\n\n\t\n\n16.84\n\n\t\n\n+0.09\n\n\n\n\nDatadog Inc.\n\n\t\n\n3,504,966\n\n\t\n\n143.00\n\n\t\n\n137.675\n\n\t\n\n140.45\n\n\t\n\n-8.43\n\n\n\n\nKraft Heinz Co., The\n\n\t\n\n3,332,930\n\n\t\n\n28.055\n\n\t\n\n27.64\n\n\t\n\n27.815\n\n\t\n\n-0.675\n\n\n\n\natai Life Sciences B.V.\n\n\t\n\n3,321,408\n\n\t\n\n3.99\n\n\t\n\n3.69\n\n\t\n\n3.82\n\n\t\n\n+0.35\n\n\n\n\nCipher Mining Inc.\n\n\t\n\n3,295,364\n\n\t\n\n5.7088\n\n\t\n\n5.56\n\n\t\n\n5.625\n\n\t\n\n+0.175\n\n\n\n\nHost Hotels & Resorts Inc.\n\n\t\n\n3,197,007\n\n\t\n\n16.51\n\n\t\n\n15.85\n\n\t\n\n16.22\n\n\t\n\n+0.09\n\n\n\n\nPrime Medicine Inc.\n\n\t\n\n3,189,007\n\n\t\n\n3.845\n\n\t\n\n3.52\n\n\t\n\n3.785\n\n\t\n\n-0.135\n\n\n\n\nLa Rosa Holdings Corp.\n\n\t\n\n3,161,541\n\n\t\n\n5.28\n\n\t\n\n4.51\n\n\t\n\n4.65\n\n\t\n\n-0.09\n\n\n\n\nIovance Biotherapeutics Inc.\n\n\t\n\n3,037,436\n\n\t\n\n2.64\n\n\t\n\n2.51\n\n\t\n\n2.58\n\n\t\n\n-0.09\n\n\n\n\nHuntington Bancshares Inc.\n\n\t\n\n2,971,024\n\n\t\n\n16.62\n\n\t\n\n16.43\n\n\t\n\n16.585\n\n\t\n\n+0.005\n\n\n\n\nApplied Materials Inc.\n\n\t\n\n2,882,631\n\n\t\n\n181.27\n\n\t\n\n174.51\n\n\t\n\n180.62\n\n\t\n\n-8.77\n\n\n\n\nCisco Systems Inc.\n\n\t\n\n2,891,472\n\n\t\n\n69.14\n\n\t\n\n68.195\n\n\t\n\n69.07\n\n\t\n\n+0.795\n\n\n\n\nXBP Global Holdings Inc.\n\n\t\n\n2,880,830\n\n\t\n\n1.2601\n\n\t\n\n1.06\n\n\t\n\n1.0884\n\n\t\n\n-0.5416\n\nNYSE most active stocks:\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.28
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.16
+      }
+    },
+    "date": "2025-07-31T07:30:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA Corp. saw a rise in trading volume with a last price of $182.0751, an increase of $2.8051."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/most-markets-down-fed-holds-083249739.html",
+    "title": "AI gives stocks a lift, dollar mixed tracking Fed, tariffs Investor enthusiasm for artificial intelligence helped lift Wall Street Thursday as Microsoft surfed a tech wave to pass $4 trillion in market value even as traders weighed Federal Reserve rates caution.After a broadly negative session Wednesday on Wall Street, Asian markets struggled.",
+    "detail": "AI gives stocks a lift, dollar mixed tracking Fed, tariffs\nAFP\nThu, Jul 31, 2025, 7:25 AM 3 min read\nIn This Article:\nMSFT\n^SPX\nNVDA\n^IXIC\n^DJI\nDonald Trump announced a trade deal that will see 15 percent tariffs applied on South Korean goods entering the United States (ROSLAN RAHMAN)\n\nInvestor enthusiasm for artificial intelligence helped lift Wall Street Thursday as Microsoft surfed a tech wave to pass $4 trillion in market value even as traders weighed Federal Reserve rates caution.\n\nUS tariffs and a Fed decision Wednesday to hold rates steady as inflation stays stubbornly high in the United States could not dampen down the bulls piling into tech.\n\nShares of Microsoft vaulted around five percent after it reported $27.2 billion in quarterly profits as it touted massive investments in AI, joining fellow AI star Nvidia in leaping the $4 trillion value barrier.\n\nAbout 25 minutes into trading, the tech-rich Nasdaq Composite Index was up 1.3 percent at 21,396.04 while the S&P 500 and the Dow touted more modest gains with both the S&P 500 and Nasdaq above their all-time closing highs.\n\nEurope was unable to match its US peers -- London barely in the green and eurozone indices Paris and Frankfurt slightly off two hours from the close.\n\nAhead of US jobs data Friday, focus was on company earnings, with Microsoft and Facebook owner Meta posting better-than-expected earnings, the latter seeing its shares soar 12 percent.\n\nWith US rates on pause for now, \"often, that might have been enough to send traders scurrying for cover -- but strong earnings results from some of the leading US tech companies have kept sentiment strong, allowing markets to make new gains this morning,\" said Steve Clayton, head of equity funds at Hargreaves Lansdown.\n\nThe latest developments on the tariffs front saw US President Donald Trump announce a deal that sees 15 percent levies on South Korean goods and a commitment from Seoul to invest $350 billion in the United States.\n\nThe president Thursday said his sweeping tariffs were making the US \"great & rich again\".\n\nEarlier, he revealed India would face 25-percent tolls, coupled with an unspecified penalty over New Delhi's purchases of Russian weapons and energy.\n\nTrump has also signed an executive order implementing an additional tax on Brazilian products, as he lambasts what he calls Brazil's \"witch hunt\" against his far-right ally, former president Jair Bolsonaro, on coup charges.\n\nTraders are keeping tabs on talks with other countries that are yet to sign deals with Washington ahead of Trump's self-imposed Friday deadline.\n\nAfter a broadly negative session Wednesday on Wall Street, Asian markets struggled.\n\nHong Kong, Shanghai, Sydney, Singapore, Seoul, Manila, Wellington and Jakarta closed lower, while Tokyo, Taipei, Mumbai and Bangkok climbed.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.8
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.25
+      }
+    },
+    "date": "2025-07-31T07:25:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2. No direct information about NVDA found."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/microsoft-joins-nvidia-4-trillion-141629769.html",
+    "title": "Microsoft Joins Nvidia in $4 Trillion Club Microsoft on Thursday became the second company in history to reach a $4 trillion market value as tech stocks surge on booming AI demand.",
+    "detail": "Microsoft Joins Nvidia in $4 Trillion Club\nColin Laidley\nThu, Jul 31, 2025, 7:16 AM 1 min read\nIn This Article:\nMSFT\nNVDA\n\nJASON REDMOND / AFP via Getty Images\n\nMicrosoft CEO Satya Nadella speaks during the Microsoft Build 2025 conference in May.\n\nThe $4 trillion club is now a party of two.\n\nMicrosoft (MSFT) on Thursday\u00a0became the second company in history to reach a $4 trillion market value as tech stock prices continued to climb on booming AI demand.\n\nMicrosoft's stock popped 7% at the open, putting its market capitalization at $4.09 trillion, after the company\u2019s fiscal fourth-quarter results blew past expectations on strong growth in all of its businesses, but especially in its cloud computing and AI services.\n\nMicrosoft\u2019s entry into the $4 trillion club comes just weeks after Nvidia (NVDA) became the first company to reach the milestone. Its market cap briefly crossed $4 trillion in intraday trading on July 9, but it wasn\u2019t until July 10 that it closed above the threshold.\n\nMicrosoft was already America\u2019s second most valuable company, worth nearly $2 trillion, when the launch of ChatGPT in late 2022 sparked an AI frenzy in Silicon Valley and on Wall Street. But surging demand for AI and cloud computing has turbocharged Microsoft\u2019s growth in the last three years. The company on Wednesday reported 2025 fiscal-year revenue of close to $282 billion, up from $198 billion in the fiscal year before ChatGPT, and net income of $102 billion, up from $73 billion.\n\nWith about 7.4 billion shares outstanding, Microsoft stock will need to close at or above $538.13 to stay in the $4 trillion club. Shares were up 5% just above $539 in recent trading.\n\nRead the original article on Investopedia\n\n\u689d\u6b3e \u53ca \u79c1\u96b1\u653f\u7b56\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-31T07:16:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Microsoft enters $4 trillion club, boosted by AI demand; Nvidia previously reached this milestone."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/teradyne-upgraded-morgan-stanley-nvidia-140836199.html",
+    "title": "Teradyne upgraded by Morgan Stanley on Nvidia optimism Investing.com -- Shares of Teradyne Inc (NASDAQ:TER) were upgraded by Morgan Stanley to equal weight from underweight, saying stronger-than-expected commentary on opportunities with Nvidia (NASDAQ:NVDA) had bolstered investor sentiment.",
+    "detail": "Teradyne upgraded by Morgan Stanley on Nvidia optimism\nPratyush Thakur\nThu, Jul 31, 2025, 7:08 AM 1 min read\nIn This Article:\nTER\nNVDA\n6857.T\n\nInvesting.com -- Shares of Teradyne Inc (NASDAQ:TER) were upgraded by Morgan Stanley to equal weight from underweight, saying stronger-than-expected commentary on opportunities with Nvidia (NASDAQ:NVDA) had bolstered investor sentiment.\n\nThe brokerage anticipated that Teradyne\u2019s quarterly results would be overshadowed by earnings pressure, but said market reaction suggests investors are giving more credit to the company\u2019s potential role in Nvidia\u2019s growing compute supply chain.\n\nWhile second-quarter revenue and earnings were broadly in line with expectations, the stock rose as much as 18% after executives highlighted Teradyne\u2019s expanded opportunity in GPU testing, describing a \u201clevel playing field\u201d with rival Advantest and a shift toward a dual-supplier model by Nvidia.\n\nMorgan Stanley, which had previously expressed skepticism over Teradyne\u2019s ability to gain share beyond switches and Mellanox (NASDAQ:MLNX) products, acknowledged that the upbeat tone from management may delay estimate cuts and support the stock near term.\n\nStill, the brokerage maintained a cautious view on the longer-term upside, noting that Advantest continues to dominate the GPU testing market, and said it would need further evidence of meaningful share gains by Teradyne to become more bullish.\n\nMorgan Stanley raised its price target on the stock to $100 from $74.\n\n\n\u201cWe thought cuts would outweigh commentary, but the commentary on compute opportunity was more bullish than expected. We take a conservative stance but the optionality should support shares near term,\u201d analysts at Morgan Stanley said.\n\nTeradyne forecast third-quarter revenue of $740 million at the midpoint, ahead of consensus, but guided margins and earnings per share slightly below analysts\u2019 estimates.\n\nRelated articles\n\nTeradyne upgraded by Morgan Stanley on Nvidia optimism\n\nThese Under-the-Radar Stocks Offer Better Risk-Reward Ratio Than Nvidia\n\nSurge of 50% since our AI selection, this chip giant still has great potential\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "date": "2025-07-31T07:08:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Morgan Stanley upgrades Teradyne on Nvidia's growing GPU test opportunities, boosting investor sentiment. Stock rises 18%, with Teradyne highlighting a level playing field with Advantest in Nvidia'"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nebius-stock-buy-aug-7-140700240.html",
+    "title": "Is Nebius Stock A Buy Before Aug. 7? Nebius is scheduled to report second-quarter earnings on Aug. 7.",
+    "detail": "Is Nebius Stock A Buy Before Aug. 7?\nAdam Spatacco, The Motley Fool\nThu, Jul 31, 2025, 7:07 AM 4 min read\nIn This Article:\nNBIS\n+8.91%\nCRWV\n+12.75%\nORCL\n+3.24%\nNVDA\n+0.88%\nAMD\nKey Points\n\nNebius has emerged as a formidable player in the AI infrastructure market, competing with giants such as CoreWeave and Oracle.\n\nNebius' management previously guided for annualized run rate revenue between $750 million and $1 billion by the end of December.\n\nWith cloud hyperscalers continuing to double down on their AI infrastructure spending, will Nebius is benefit from these tailwinds?\n\n10 stocks we like better than Nebius Group \u203a\n\nThroughout 2025, a number of data center stocks have emerged beyond the incumbent players such as Nvidia and Advanced Micro Devices. One company that's witnessed a significant rise in popularity is neocloud provider Nebius Group (NASDAQ: NBIS).\n\nNebius is scheduled to report earnings for the second calendar quarter of 2025 on Aug. 7. Let's detail what investors should be on the lookout for as earnings season comes into full bloom. Is Nebius stock a buy before Aug. 7?\n\nWhat is Nebius guiding for Q2?\n\nNebius primarily serves as a neocloud. At its core, the company helps outfit data centers with various Nvidia GPU architectures and provides access to this infrastructure via the cloud.\n\nAt the end of the first quarter, Nebius reported an annualized run rate revenue (ARR) of $249 million for the core infrastructure services segment. According to the company's management, momentum from Q1 carried over into the second quarter -- as April ARR landed around $310 million.\n\nThe big-picture update that investors should be on the lookout for is whether or not Nebius remains on pace to hit its full-year 2025 ARR guidance in the range of $750 million and $1 billion while achieving positive earnings before interest, taxes, depreciation, and amortization (EBITDA) in the second half of the year.\n\nImage source: Getty Images.\nWhy is this an important earnings call for investors?\n\nOne of the major pillars supporting the artificial intelligence (AI) revolution this year is ongoing investment in capital expenditures (capex) from tech's biggest developers.\n\nDuring the first quarter, cloud hyperscalers Microsoft, Amazon, and Alphabet guided toward a collective capex spend of $260 billion in 2025 alone. Just recently, however, Alphabet notified investors that it is raising its infrastructure spend by $10 billion this year. Of note, Meta Platforms increased its 2025 capex forecast during its own first-quarter call a few months ago.\n\nThese secular trends should bode well for Nebius. The company is an integral partner to Nvidia's ecosystem, and is helping the chip king roll out its newest Blackwell GPUs all over the world.\n\nIf Nebius reports further robust growth from its infrastructure business, I think investors will see this as a positive sign that the company is benefiting handsomely from these rising capex trends.\n\nStory Continues\nView Comments\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.7
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-07-31T07:07:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nebius Group (NBIS) set to report Q2 earnings on Aug. 7; competition with AI infrastructure market giants; projected annualized run rate revenue between $750M-$1B by Dec. end."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mark-cuban-says-keeps-large-180042189.html",
+    "title": "Mark Cuban Says He Keeps a Large Part of His Portfolio in Cash \u2014 Here\u2019s Why Why experts like Buffett and Cuban say holding cash in 2025 can protect your wealth and unlock smart investing opportunities.",
+    "detail": "Mark Cuban Says He Keeps a Large Part of His Portfolio in Cash \u2014 Here\u2019s Why\nPeter Burns\nThu, Jul 31, 2025, 10:03 AM 3 min read\nIn This Article:\nNVDA\nGage Skidmore/ZUMA Press Wire / SplashNews.com / Gage Skidmore/ZUMA Press Wire / SplashNews.com\n\nIf you regularly tune in to the blogs, podcasts and videos of popular personal finance influencers, you\u2019ll hear a lot of advice that they all seem to agree upon. One area of overlap is that you should invest a certain portion of your income. While this is solid financial advice, some finance experts, like entrepreneur Mark Cuban, think a large portion of your portfolio should be in cash.\n\nLearn More: How To Turn $100K Into a Million: Your Step-by-Step Guide\n\nFind Out: 10 Genius Things Warren Buffett Says To Do With Your Money\n\nHere are some of the reasons for keeping cash on hand.\n\nFinancial Opportunities\n\nWhen it comes to investing, few can match the accomplishments of Berkshire Hathaway CEO Warren Buffett. Over the years, Buffett has made a name for himself as a top investor who preaches patience and holding for the long term. However, Buffett doesn\u2019t just invest; he also holds a lot of cash.\n\nToward the end of 2024, Berkshire Hathaway\u2019s cash reserves reached $325 billion, doubling the amount of cash it had at the end of 2023. Having cash on hand gives Buffett the upper hand in terms of flexibility. When a stock\u2019s price dips and he determines it\u2019s undervalued, other companies might not have the liquidity to buy it up on the spot. However, Buffett\u2019s cash reserve allows him to jump at the chance and maximize his profits.\n\nNot everyone runs a multinational conglomerate like Berkshire Hathaway, but holding cash can still give you the chance to take advantage of opportunities that may later arise. Whether it\u2019s an undervalued stock, a property or a rare watch, if you have enough cash on hand, you won\u2019t need to rush to sell any other investments to acquire it.\n\nRead Next: Suze Orman: 3 Biggest Mistakes You Can Make as an Investor\n\nMarket Volatility\n\nBuying low and selling high may be the most common investing advice out there. However, market volatility isn\u2019t always great. Cuban, a successful entrepreneur, investor and TV personality, always keeps a large portion of his portfolio in cash because, whether it be political unpredictability, a global event or a new innovation, he isn\u2019t a fan of losing money and doesn\u2019t want to take big risks.\n\nOn Jan. 27, 2025, Nvidia\u2019s stock dropped 17%, dropping its market cap by almost $600 billion \u2014 the largest plunge for a U.S. company in history. While the company quickly rebounded, Cuban didn\u2019t feel right about buying in as he thought there was still too much uncertainty. Other market-shaking events, such as President Donald Trump\u2019s tariff announcements, have also kept Cuban from investing. By keeping his money in cash, he\u2019s been unaffected by the market swings and can stay confident about preserving his wealth.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.93
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "date": "2025-07-31T10:03:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Entrepreneur Mark Cuban advocates for substantial cash reserves in portfolios; potential investment opportunities cited as reason. No direct information about NVDA found."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/knit-secures-16-1m-series-140000121.html",
+    "title": "Knit Secures $16.1M Series A to Redefine Enterprise Insights with Researcher-Driven AI Knit, the AI-powered platform transforming how enterprises conduct consumer research, today announced it has raised $16.1 million in Series A funding. The round was led by GFT Ventures and Ashton Kutcher's Sound Ventures with continued participation from Silicon Road Ventures, Osage Ventures, Rise of the Rest, and others. Notable angel investors such as David Kirk, former Chief Scientist at NVIDIA, and Gokul Rajaram, founding partner of Marathon Management, also participated in this round.",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nKnit Secures $16.1M Series A to Redefine Enterprise Insights with Researcher-Driven AI\nPR Newswire\nThu, Jul 31, 2025, 7:00 AM 4 min read\nIn This Article:\nAMZN\nNVDA\n\nWith $30M+ in total funding, Knit delivers human and AI-powered insights to leading enterprises including Amazon, NASCAR, Mars Wrigley, and Overtime to make smarter, faster data-powered decisions\n\nAUSTIN, Texas, July 31, 2025 /PRNewswire/ --\u00a0Knit, the AI-powered platform transforming how enterprises conduct consumer research, today announced it has raised $16.1 million in Series A funding. The round was led by GFT Ventures and Ashton Kutcher's Sound Ventures with continued participation from Silicon Road Ventures, Osage Ventures, Rise of the Rest, and others. Notable angel investors such as David Kirk, former Chief Scientist at NVIDIA, and Gokul Rajaram, founding partner of Marathon Management, also participated in this round.\n\nKnit\n\nKnit's platform enables users to run custom research and receive \"report-ready\" insights within days that are driven by generative AI and human expertise. Traditional research solutions like market research agencies often provide industry insight but can be slow and costly. Meanwhile, new AI tools promise speed and affordability, but frequently lack depth and substance. Knit addresses these challenges by elevating, not replacing, the researcher to deliver high-quality insights at the pace modern teams demand.\n\n\"Today's enterprise researchers are being asked to do more with less,\" said Aneesh Dhawan, Co-Founder and CEO of Knit. \"Knit empowers them to deliver fast, cost-efficient insights without sacrificing quality or control. This funding accelerates our vision for a human + AI platform that makes research accessible, contextual, and decision-ready.\"\n\nEach research project on Knit is powered by a unique combination of human researcher expertise and AI. Knit's team of expert researchers works closely with customers to capture the nuance and context behind their research approach, ensuring that every study reflects both their specific goals and unique research style. That context is then embedded into the platform, where AI delivers fast, structured, and tailored outputs for use cases such as rapid concept testing or strategic customer segmentation. This human and AI approach transforms research from a bottleneck into a strategic advantage, helping teams run more studies, uncover sharper insights, and make a bigger impact, faster.\n\n\"Enterprise research is a massive market that's ripe for AI disruption,\" said Jeff Herbst, Founding Managing Partner at GFT Ventures. \"Knit has built technology that truly meets the needs of modern research teams. Their traction with some of the world's largest and most forward-thinking brands, standout team, and clear vision for where this market is headed position them to lead the new era of enterprise insights.\"\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "date": "2025-07-31T07:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI-funded Knit secures $16.1M Series A, backed by GFT Ventures & Sound Ventures; Amazon, NASCAR, Mars Wrigley, Overtime among clients using AI-powered insights for data"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/amd-stock-hit-210-2025-131824088.html",
+    "title": "Can AMD Stock Hit $210 in 2025? AMD is riding high on AI momentum and analyst upgrades. Will the chipmaker power its way to $210 this year?",
+    "detail": "Can AMD Stock Hit $210 in 2025?\nAdvanced Micro Devices Inc_ logo and chart data-by Poetra_ RH via Shutterstock\nSubhasree Kar\nThu, Jul 31, 2025, 6:18 AM 4 min read\nIn This Article:\nAMD\n\nAdvanced Micro Devices (AMD) has captured investors\u2019 attention once again as optimism builds around its potential in the booming\u00a0artificial intelligence (AI) and\u00a0data center markets. With shares currently trading around $179, one of the most bullish voices on Wall Street, UBS, has\u00a0lifted its 12-month price target to $210 from $150 while maintaining a \u201cBuy\u201d rating.\n\nSome analysts believe AMD\u2019s expanding AI chip lineup and strengthening position in server solutions could drive significant upside. However, others remain cautious, pointing to stiff competition, macroeconomic uncertainty, and high expectations already priced into the stock. As excitement grows, is AMD stock poised to maintain its momentum and hit the $210 mark in 2025?\n\nMore News from Barchart\n\nMorgan Stanley Says Nvidia Has \u2018Exceptional\u2019 Strength. Should You Buy NVDA Stock Here?\n\nDear MicroStrategy Stock Fans, Mark Your Calendars for July 31\n\n2 Growth Stocks Wall Street Predicts Will Soar 74% to 159%\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nAbout Advanced Micro Devices Stock\n\nBased in Santa Clara, California, Advanced Micro Devices is a fabless semiconductor firm known for high-performance computing solutions including its Ryzen, EPYC, Threadripper, Radeon, and Instinct product lines. Since its founding, AMD has evolved into a major player in CPUs, GPUs, adaptive SoCs, FPGAs, and AI accelerators. AMD\u2019s market capitalization currently stands at around $291 billion, placing it among the top semiconductor firms globally.\n\nAMD has delivered a remarkable price performance through 2025, signaling a powerful comeback. As of the last session, AMD closed at $179.51, after hitting its\u00a052\u2011week high of $182.31 on July 29, marking an impressive recovery from its April low of $76.48. Its year\u2011to\u2011date (YTD) gains\u00a0stand at 49%, catalyzed by strong AI and data-center demand, particularly surrounding the\u00a0Instinct MI350/MI355X GPU series and analyst upgrades.\n\nwww.barchart.com\n\nAMD stock is currently priced at 56 times forward earnings, trading at a lofty valuation compared to the sector median and its historical average.\n\nAMD Delivered Robust Q1 Performance\n\nAMD reported its\u00a0first-quarter 2025 earnings on May 6, delivering a strong start to the year with revenue of $7.4 billion,\u00a0up 36% year-over-year (YOY), and surpassing expectations. On a non\u2011GAAP basis, net income rose 55% YOY to $1.6 billion, with EPS of $0.96, also marking a 55% increase. Gross margin expanded to 54%, while operating income on a non-GAAP basis rose 57% to reach $1.8 billion, translating into an operating margin of 24%.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.49
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "date": "2025-07-31T06:18:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AMD's AI and data center market growth drives optimism; UBS raises 12-month price target to $210, but competition and economic uncertainties remain concerns for some."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/think-too-buy-nvidia-heres-131300710.html",
+    "title": "Think It's Too Late to Buy Nvidia? Here's the Biggest Reason Why There's Still Time. As artificial intelligence (AI) adoption grows, Nvidia is one of the premier companies that stands to gain from it.",
+    "detail": "Think It's Too Late to Buy Nvidia? Here's the Biggest Reason Why There's Still Time.\nStefon Walters, The Motley Fool\nThu, Jul 31, 2025, 6:13 AM 3 min read\nIn This Article:\nNVDA\n^SPX\nKey Points\n\nNvidia's stock has increased by more than 16 times the S&P 500's gains since the start of 2023.\n\nThe company holds a commanding market share in the data center GPU market.\n\nSome estimates suggest the global data center GPU market could have a compound annual growth rate of around 35% through 2023.\n\n10 stocks we like better than Nvidia \u203a\n\nWith the artificial intelligence (AI) boom in full force, it's safe to say that no company has benefited more than Nvidia (NASDAQ: NVDA). Since the start of 2023, the stock is up over 1,100% -- over 16 times the S&P 500's (SNPINDEX: ^GSPC) gains in that span.\n\nWhen a stock experiences generational gains like that in such a short period, it's natural for investors to wonder if they missed the train. In Nvidia's case, I wouldn't expect 1,100% gains over the next three years, but the company is still positioned to be a great growth opportunity for investors. And it all comes to the expected growth of data centers.\n\nAt the heart of data centers are graphics processing units (GPUs), of which Nvidia is the main supplier. It commands around a 92% market share in the data center GPU market. In its fiscal year first quarter (ended April 27), Nvidia's data center revenue increased 73% year over year to $39.1 billion.\n\nThe core of Nvidia's cash machine\n\nAs AI adoption grows, so will the importance of data centers, because they power AI workloads (training, deploying, and scaling). The global data center GPU market is estimated to have a compound annual growth rate (CAGR) of around 35% from 2025 to 2033, according to Grand View Research.\n\nImage source: Nvidia.\n\nOther competitors will likely make up ground on Nvidia in the industry, but its stronghold means that it stands to gain significantly from this growth. Financial growth doesn't always equate to stock price growth, but Nvidia investors have shown that they put a lot of emphasis on the company's data center revenue and business growth.\n\nShould you invest $1,000 in Nvidia right now?\n\nBefore you buy stock in Nvidia, consider this:\n\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the\u00a010 best stocks for investors to buy now\u2026 and Nvidia wasn\u2019t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\n\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation,\u00a0you\u2019d have $638,629!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you\u2019d have $1,098,838!*\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.98
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "date": "2025-07-31T06:13:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "16x S&P 500 gains since 2023; Nvidia leads data center GPU market with potential 35% CAGR market growth."
+    }
+  }
+]

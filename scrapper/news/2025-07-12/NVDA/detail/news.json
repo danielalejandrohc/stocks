@@ -1,0 +1,492 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/trump-ends-whirlwind-week-with-billions-in-new-tariff-revenue-and-a-more-complicated-trade-war-195745056.html",
+    "title": "Trump ends whirlwind week with billions in new tariff revenue and a more complicated trade war Donald Trump capped off a whirlwind series of tariff threats with confirmation that he has broken yet another tariff revenue record, ending a week where his trade war got more complicated than ever.",
+    "detail": "Trump ends whirlwind week with billions in new tariff revenue and a more complicated trade war\nBen Werschkul \u00b7 Washington Correspondent\nUpdated Sat, Jul 12, 2025, 7:50 AM 4 min read\nIn This Article:\nHG=F\n^SPX\nNVDA\n\nDonald Trump capped off a whirlwind week of tariff threats and actions with the announcement Saturday of plans for 30% tariffs on both the European Union (EU) and Mexico as well as with confirmation Friday that he has broken yet another monthly tariff revenue record, ending a stretch where his trade war got more complicated than ever.\n\nThis latest frenetic series of headlines began last Sunday with the president promising a mix of \"Letters, and/or Deals\" and then talking of being \"done\" with trade talks this week.\n\nBut observers surveyed the landscape this weekend seeing more than two dozen letters \u2014 and no deals \u2014 with perhaps the only certainty for the weeks ahead in that talks are likely to intensify in the coming weeks as negotiators (not to mention markets) refocus on a new Aug. 1 deadline.\n\nRead more: What Trump's tariffs mean for the economy and your wallet\n\nBut in the meantime \u2014 as Trump himself often touts \u2014 tariff revenues are clearly coming in. New data from the Treasury Department released Friday afternoon confirmed that June was yet another record month on the revenue front, with $26.6 billion in customs duties coming into US coffers.\n\nIt was another step up from May's total of $22.2 billion. It brings the total for the fiscal year, which began in November, to $108 billion, with the majority of that money coming in recent months as Trump's tariffs began to bite.\n\nBut the Friday afternoon data also confirmed that Trump still has a way to go before tariff revenues make up a major piece of US government receipts; this latest Treasury monthly statement also showed that total government receipts for the month topped $526 billion.\n\nThe new Friday data and Saturday letters were only the latest in a nonstop series of tariff headlines throughout the week \u2014 from surprise escalations and promises of 35% tariffs on Canada to 50% duties on Brazil to letters to 20+ additional nations and unveiling of 50% duties on copper.\n\nTrade observers couldn\u2019t keep up, but markets more often than not shrugged off the threats, with apparent plans to wait and see what the landscape looks like closer to that deadline next month.\n\nIn the meantime, Trump says no more extensions are in the offing and added at a recent Cabinet meeting that \"the big money will start coming in on Aug. 1.\"\n\nIn total, Trump is now promising to impose blanket tariffs of about 15% to 20% on most trading partners, with others going much higher.\n\nBrazil was perhaps the biggest surprise of the week when that South American nation saw a letter with a possible 50% tariff over what Trump describes as a witch hunt of the former president, a Trump ally who faces accusations of trying to overturn the will of voters after losing a reelection bid in 2022.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -0.2238
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "30% EU, Mexico tariffs announced; Trump breaks monthly tariff revenue record. Implications uncertain for NVDA's trade outlook."
+    },
+    "date": "2025-07-12T07:50:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-falls-250-points-sp-500-nasdaq-retreat-from-record-as-trump-escalates-tariff-threats-200042843.html",
+    "title": "Stock market today: Dow falls 250 points, S&P 500, Nasdaq retreat from record as Trump escalates tariff threats Markets are shaking off President Trump's renewed tariff threats and hitting fresh records.",
+    "detail": "Stock market today: Dow falls 250 points, S&P 500, Nasdaq retreat from record as Trump escalates tariff threats\nBrett LoGiurato and Ines Ferr\u00e9\nUpdated Fri, Jul 11, 2025, 5:09 PM 2 min read\nIn This Article:\n^SPX\n^IXIC\n^DJI\nNVDA\nBTC-USD\n\nUS stocks retreated Friday after President Trump threatened Canada with a 35% tariff on its imports to the US and floated higher blanket levies on most trading partners.\n\nThe S&P 500 (^GSPC) fell 0.3%, while the tech-heavy Nasdaq Composite (^IXIC) dipped 0.2%, both dipping from Thursday's record highs. The Dow Jones Industrial Average (^DJI) declined 0.6%, dropping over 250 points to lead the way down.\n\nOther parts of the market remained upbeat, however: AI chip maker Nvidia (NVDA) notched a fresh record, while bitcoin (BTC-USD) rose above $118,000 per token to also hover at new highs, continuing a furious crypto rally.\n\nMarkets once again mostly took Trump's tariff threats in stride, without any major negative reaction that typified his tariff salvos earlier this year.\n\nLate Thursday, Trump on Truth Social posted a letter to Canadian Prime Minister Mark Carney, telling him that Canadian goods imported to the US would face a 35% tariff starting in August. The White House has since clarified that many of the carveouts currently in place for Canada tariffs would remain, likely exempting a slew of goods from those punitive duties.\n\nTrump's renewed tariff threats this week have culminated in nearly two-dozen letters to trading partners dictating the duties their country's imports will face beginning Aug. 1. In an interview with NBC News, Trump also floated 15% to 20% blanket tariffs on most trading partners, higher than the 10% level currently in effect. Eyes are on what happens next with the European Union, India, and other large trade partners.\n\nRead more: The latest on Trump's tariffs\n\nFor his part, Trump brushed off concerns about inflation and touted the stock market highs reached on Thursday. Wall Street has rallied over the last few months, though that has come after he decided to pause his most sweeping duties on trade partners announced in April's \"Liberation Day\" event.\n\n\"I think the tariffs have been very well-received. The stock market hit a new high today,\" he said.\n\nBut at least one prominent investor had said Thursday that markets need to start taking the tariff threats a bit more seriously.\n\n\"Unfortunately, I think there is complacency in the markets,\" JPMorgan CEO Jamie Dimon said Thursday.\n\nLIVE COVERAGE IS OVER 20 updates\nFri, July 11, 2025 at 8:04 PM UTC\nInes Ferr\u00e9\nS&P 500, Nasdaq retreat from highs, but Nvidia and bitcoin climb to fresh records\n\nThe major averages dipped on Friday after President Trump threatened Canada with more tarrifs on imports from the neighboring country.\n\nThe S&P 500 (^GSPC) fell 0.3% from its closing record in the prior session. The tech-heavy Nasdaq Composite (^IXIC) wavered throughout the session but dipped 0.2%. The Dow Jones Industrial Average (^DJI) declined about 0.6%, dropping over 250 points.\n\nStocks declined after President Trump said he would impose 35% tariffs on imports from Canada starting Aug. 1, escalating the trade war.\n\nIn other corners of the market, AI chipmaker Nvidia (NVDA) inched higher to notch another record close, while bitcoin (BTC-USD) rose above $118,000 per token to hover at new highs, continuing a furious crypto rally.\n\nFri, July 11, 2025 at 7:15 PM UTC\nAllie Canal\nNvidia humming toward another record after $4 trillion milestone\n\nNvidia (NVDA) rose about 0.8% on Thursday, on pace to secure yet another record close.\n\nThe AI giant closed at a $4 trillion valuation on Thursday, the first publicly traded company in history to do so. With that milestone, Nvidia now ranks ahead of Apple (AAPL), Microsoft (MSFT), and even Saudi Aramco (2223.SR) in terms of valuation. It's also worth more than Germany\u2019s entire economy.\n\nTo put the size in perspective: Nvidia is nearly double the value of the entire Russell 2000 index (^RUT). You\u2019d need to triple Meta's (META) valuation to match it. And it\u2019s worth more than Disney (DIS), Netflix (NFLX), and Comcast (CMCSA) combined.\n\nNvidia\u2019s rise has been powered by its near-monopoly on AI chips, with surging demand from hyperscalers and companies building massive data centers. That demand has translated into explosive earnings growth.\n\nThe stock is up around 23% since the start of the year.\n\nFri, July 11, 2025 at 6:30 PM UTC\nAllie Canal\nBitcoin pulls back from records but still flying high\n\nBitcoin prices retreated Friday afternoon after briefly surging above $118,000 earlier in the day. The cryptocurrency was last trading just above $17,500 a coin.\n\nThe move comes as AI giant Nvidia (NVDA) hit a $4 trillion market cap, underscoring the continued link between crypto and the broader tech rally. Both the tech-heavy Nasdaq Composite (^IXIC) and the benchmark S&P 500 (^GSPC) notched fresh records on Thursday, before pulling back Friday as investors digested new trade signals out of the White House.\n\nCrypto has been lifted by a range of catalysts, including renewed momentum from President Trump, who has backed the creation of a strategic bitcoin reserve and called for building a broader national stockpile of digital assets. The asset is up over 25% since the start of the year.\n\nRead more about bitcoin's stunning run here.\n\nFri, July 11, 2025 at 5:45 PM UTC\nInes Ferr\u00e9\nSilver is getting squeezed, reaches highest level since 2011\n\nSilver (SI=F) futures jumped more than 3% on Friday, touching their highest level since 2011.\n\nThe metal touched $39 per ounce during the session. Silver has been on a tear over the past six months - rising more than 33% year-to-date.\n\nGold (GC=F) also rose on Friday as investors flocked to the safe haven after President Trump announced 25% tariffs on Canada, raising uncertainty over trade policy with US partners.\n\nFri, July 11, 2025 at 5:00 PM UTC\nInes Ferr\u00e9\nWhat goods may (and may not) be affected by Trump's 35% tariff on Canada\n\nYahoo Finance's Ben Werschkul reports:\n\nRead more here.\n\nFri, July 11, 2025 at 4:15 PM UTC\nInes Ferr\u00e9\nOne tech giant is getting buried in the record-setting stock market\n\nYahoo Finance's Francisco Velasquez reports:\n\nRead more here.\n\nFri, July 11, 2025 at 3:45 PM UTC\nInes Ferr\u00e9\nEnergy only sector in green as rest of market slumps\n\nEnergy (XLE) was the only sector in green territory on Friday as the overall market pulled back following President Trump's 35% tariff announcement on Canada.\n\nOil prices rose during the session on worries of supply tightness \u2014 sending energy-related stocks higher.\n\nMeanwhile Healthcare (XLV), Materials (XLB) and Financials (XLF) all declined. Tech and Industrials also pulled back as the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC) pulled back from record highs.\n\nFri, July 11, 2025 at 3:15 PM UTC\nGrace O'Donnell\n401(k) investors rushed to safe havens in the second quarter\n\nYahoo Finance's Kerry Hannon reports:\n\nRead more here.\n\nFri, July 11, 2025 at 2:50 PM UTC\nGrace O'Donnell\nWedbush upgrades AMC, lifting the stock\n\nAMC (AMC) stock jumped 9.5% in early trading after Wedbush upgraded shares to Outperform from Neutral.\n\nAnalyst Alicia Reese raised her price target on the stock to $4, writing that the movie theater chain is poised to benefit from more consistent releases over the next several quarters and has relieved \"near-term uncertainty\" by restructuring its debt that was due in 2026.\n\nEarlier this month, AMC signed an agreement to raise $223.3 million in new financing and convert at least $143 million of debt into equity.\n\nThe industry has benefited from a stronger box office in the second quarter, and Reese said she sees that recovery continuing with more consistent numbers in the coming quarters.\n\nHowever, she noted, \"We do not see substantial growth in the movie theater industry over the next few years.\"\n\nFri, July 11, 2025 at 2:27 PM UTC\nGrace O'Donnell\nOil rises with focus on Trump plan for Russia, Saudi output hike\n\nOil gained on Friday as energy traders focused on new tariffs, potential Russia sanctions, and short-term supply hike from Saudi Arabia.\n\nBrent crude futures (BZ=F) rose 1.5% to trade at just under $70 per barrel after falling on Thursday. West Texas Intermediate futures (CL=F) rose 1.6% to $67 per barrel.\n\nBloomberg reported that Saudi Arabia raised its crude output last month above the quota agreed upon by the Organization of Petroleum Exporting Countries and its allies (OPEC+). OPEC+ agreed to a larger-than-expected production increase for August as well.\n\nAt the same time, President Trump said he plans to make a \u201cmajor statement\u201d on Monday regarding Russia. Trump had criticized Russian President Vladimir Putin at a Cabinet meeting earlier this week, saying \"it\u2019s at my option\" to impose new sanctions.\n\nTrump also announced a new tariffs of 35% on Canadian imports on Thursday.\n\nRead more here.\n\nFri, July 11, 2025 at 1:33 PM UTC\nInes Ferr\u00e9\nStocks open lower after Trump announces 35% tariffs against Canada\n\nStocks opened lower after President Trump announced a 35% tariff on Canadian goods.\n\nThe S&P 500 (^GSPC) dropped roughly 0.5% from its record high. The Nasdaq Composite (^IXIC) ticked down 0.3%. The Dow Jones Industrial Average (^DJI) declined by about 260 points, or 0.6%.\n\nFri, July 11, 2025 at 1:16 PM UTC\nGrace O'Donnell\nSilver soars to highest since 2011\n\nSpot silver prices rose 1.8% to $37.63 an ounce on Friday morning, reaching their highest level since 2011, as tariff concerns fueled a rally in precious metals, including gold (GC=F).\n\nMeanwhile, silver futures (SI=F) climbed even higher, advancing 3% to $38.45 an ounce.\n\nBloomberg reports that it's unusual to have such a wide price gap between the two markets, as it's typically resolved through arbitrage:\n\nRead more here.\n\nFri, July 11, 2025 at 12:56 PM UTC\nGrace O'Donnell\nUS-listed Canadian companies tick lower after Trump announces 35% tariffs on Canada\n\nUS-listed shares of Canadian companies traded modestly lower on Friday morning ahead of the opening bell after President Trump announced a 35% tariff on Canadian goods late Thursday.\n\nTrump did not indicate whether a current tariff exclusion for USMCA-compliant goods would continue to apply post-August.\n\nHere's how some Canadian stocks were trading Friday morning:\n\nFri, July 11, 2025 at 12:10 PM UTC\nGrace O'Donnell\nBitcoin surges to fresh record high of $118,000, lifting crypto stocks\n\nBitcoin (BTC-USD) surged on Friday to a fresh record high, breaking above $118,000 amid broader momentum for crypto and tech stocks.\n\nThe rally also lifted crypto stocks. Strategy (MSTR), the largest corporate holder of bitcoin, gained 3% in premarket trading. The Michael Saylor-led company holds 597,325 bitcoins in its treasury, worth roughly $70 billion.\n\nCoinbase (COIN) also rose 1.3%, while Robinhood (HOOD) dipped by about 1%.\n\nYahoo Finance's Ines Ferr\u00e9 reports:\n\nRead more here.\n\nFri, July 11, 2025 at 11:45 AM UTC\nJenny McCall\nTrending tickers: Performance Foods, AMC and Strategy\n\nPerformance Food's (PFGC) stock rose over 8% on Friday before the bell after news broke that it had attracted takeover interest from US Foods Holding Corp. (USFD). According to Bloomberg, this is a potential deal that would create a food distribution company with combined sales of roughly $100 billion, people familiar with the matter said.\n\nAMC (AMC) stock rose 8% premarket. The US movie theater recently announced that its order management platform would be purchased by Atlas VMS.\n\nFri, July 11, 2025 at 11:19 AM UTC\nJenny McCall\nGood morning. Here's what's happening today.\n\nEarnings: No notable earnings releases..\n\nEconomic data: No notable economic releases.\n\nHere are some of the biggest stories you may have missed overnight and early this morning:\n\nTrump hits Canada with 35% tariffs, threatens more\n\nDelta's premium play is taking advantage of the growing economic split\n\nHigh-priced stocks and bonds raise tariff threat for markets\n\nBitcoin hits fresh record as risk-on mood continues\n\nTrump's tariffs risk upending trade from Starbucks coffee to beef\n\nRealSense spins out from Intel, secures $50M to drive AI robotics\n\nLevi stock rises as revenue growth offsets most of tariff impact\n\nSellers are vanishing as US stocks smash record\n\nFri, July 11, 2025 at 9:50 AM UTC\nJenny McCall\nLevi's rises after lifting annual forecasts on steady denim demand in Europe despite tariff pain\n\nShares in online retailer Levi's (LEVI) rose on Friday before the bell by 7% after it raised its annual revenue and profit forecasts after beating quarterly estimates on Thursday, betting on strong demand for its denims in regions such as Europe in the face of tariff uncertainty.\n\nReuters reports:\n\nRead more here.\n\nFri, July 11, 2025 at 9:30 AM UTC\nJenny McCall\nGold holds two-day rise with tariffs and interest rates in focus\n\nGold (GC=F) maintained its two-day rise as traders focused on tariff threats from President Trump and the outlook for US monetary policy.\n\nBloomberg News reports:\n\nRead more here.\n\nFri, July 11, 2025 at 5:50 AM UTC\nRian Howlett\nAsian markets mixed as tariffs shake global economy, Chinese stocks lead gains\n\nAsian equities traded mixed overnight Thursday as investors took a cautious stance despite a record-setting session on Wall Street. US stock futures fell overnight following President Trump's announcement of a broad 35% tariff on Canadian imports to come into effect on August 1.\n\nMainland Chinese and Hong Kong stocks led regional gains. The Hang Seng Index (^HSI) advanced 1.6%, while the Shanghai Composite (000888.SS) rose 1.1%, reflecting optimism around China's economic recovery efforts.\n\nElsewhere in Asia, performance was more subdued. Japan\u2019s Nikkei 225 (^N225) inched down 0.1% while South Korea\u2019s Kospi (^KS11) edged up 0.1%. Australia\u2019s S&P/ASX 200 (^AXJO) slipped 0.1%,\n\nFri, July 11, 2025 at 1:00 AM UTC\nBrett LoGiurato\nStock futures take a leg lower after Trump's tariff threats\n\nPresident Trump late Thursday said Canada would face a 35% tariff on goods imported to the US, and he floated higher blanket rates for most trading partners.\n\nThe dollar (DX=F) gained in immediate reaction:\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0006
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.8
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "mixed",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite Trump's tariff threats, US stocks retreated; S&P 500, Nasdaq dipped from record highs. However, AI chip maker Nvidia (NVDA) hit a new record, and bit"
+    },
+    "date": "2025-07-11T17:09:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jim-cramer-says-likes-datadog-152041865.html",
+    "title": "Jim Cramer Says He Likes Datadog but its not \u201cWhat I Want to Recommend Anymore\u201d Datadog, Inc. (NASDAQ:DDOG) is one of the stocks that Jim Cramer shed light on. A caller asked why Cramer assigned a Sell rating on the stock during Squawk on the Street, and he replied: \u201cAlright, I am no longer a believer in the enterprise software group. I think that we\u2019ve become convinced, and we knew [\u2026]",
+    "detail": "Jim Cramer Says He Likes Datadog but its not \u201cWhat I Want to Recommend Anymore\u201d\nSyeda Seirut Javed\nSat, Jul 12, 2025, 9:20 AM 2 min read\nIn This Article:\nDDOG\nNVDA\nAMD\n\nDatadog, Inc. (NASDAQ:DDOG) is one of the stocks that Jim Cramer shed light on. A caller asked why Cramer assigned a Sell rating on the stock during Squawk on the Street, and he replied:\n\n\u201cAlright, I am no longer a believer in the enterprise software group. I think that we\u2019ve become convinced, and we knew this from NVIDIA, we knew this\u2026 from AMD, that the enterprise software business, which has always had a very high multiple, has kind of stalled out, and I think that Datadog\u2019s part of that. I\u2019m tired of companies that give me observability into my operation. There\u2019s too many of them. I don\u2019t want to do it anymore. I don\u2019t want to see them anymore, and that\u2019s why. I do, I like the company, they\u2019re good guys, but that\u2019s not what I want to recommend anymore. But thank you for seeing that that\u2019s what I was saying this morning, because it is important.\u201d\n\nJim Cramer Says He Likes Datadog but its not \"What I Want to Recommend Anymore\"\n\nA close-up of a laptop with a software engineer coding on the monitor.\n\nDatadog (NASDAQ:DDOG) provides a cloud-based platform that monitors application performance, infrastructure, and security. The company\u2019s tools help organizations track system health, manage incidents, optimize costs, and ensure cloud and data security.\n\nWhile we acknowledge the potential of DDOG as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now.\n\nDisclosure: None. This article is originally published at Insider Monkey.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.36
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Jim Cramer downgrades Datadog, citing enterprise software stall-out; NVDA, AMD impact unclear."
+    },
+    "date": "2025-07-12T09:20:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/dividend-etf-near-highest-level-133300478.html",
+    "title": "This Dividend ETF Is Near Its Highest Level Ever -- Is It Too Late to Invest in It? The Vanguard International High Dividend Yield ETF just reached an all-time high.  This ETF provides exposure to high-quality international stocks as well as reliable income.  International stocks have also delivered excellent performances recently.",
+    "detail": "This Dividend ETF Is Near Its Highest Level Ever -- Is It Too Late to Invest in It?\nMatt Frankel, The Motley Fool\nSat, Jul 12, 2025, 7:33 AM 5 min read\nIn This Article:\n^SPX\nNVDA\nKey Points\n\nThe Vanguard International High Dividend Yield ETF just reached an all-time high.\n\nDespite its strong performance, the ETF still looks like a rather attractive buy.\n\nThis ETF provides exposure to high-quality international stocks as well as reliable income.\n\n10 stocks we like better than Vanguard International High Dividend Yield ETF \u203a\n\nIt isn't just the S&P 500 that is near its all-time high. International stocks have also delivered excellent performances recently. In fact, one of my favorite dividend-focused exchange-traded funds (ETFs) -- the Vanguard International High Dividend Yield ETF (NASDAQ: VYMI) -- recently reached its highest level ever, and is up by nearly 20% through the first half of 2025 alone.\n\nOne important investment concept to learn is that just because a stock, ETF, or index has reached a new all-time high, that doesn't necessarily mean it's expensive. For example, many investors thought Nvidia was expensive after it rose by 175% in 2021 to what was then its all-time high. Since that time, the company's market cap has quadrupled.\n\nTo be sure, I don't necessarily think the Vanguard International High Dividend Yield ETF is going to deliver Nvidia-like returns over the next few years. But I also think that even with the ETF at a peak, it still could be an attractive place to put money to work.\n\nImage source: Getty Images.\nThe Vanguard International High Dividend Yield ETF\n\nThe Vanguard International High Dividend Yield ETF tracks an index -- specifically, the FTSE All-World ex US High Dividend Yield index, which is managed by a subsidiary of the London Stock Exchange. As both their names would suggest, they include only stocks based outside the United States that pay above-average dividends. As of this writing, the ETF has a dividend yield of about 4.1% and a relatively low expense ratio of 0.17%.\n\nThere are about 1,550 stocks in the portfolio. About 44% of the ETF's assets are invested in European companies, 26% in developed Asia-Pacific markets, and 21% in emerging markets. It's a weighted ETF, which means that larger companies make up larger percentages of the fund's assets, although no single company accounts for more than 2% of the fund.\n\nSpeaking of the companies in the Vanguard International High Dividend Yield ETF, don't assume that just because it's an \"international\" ETF, it will be full of companies you've never heard of. Though there's certainly apt to be an element of that, you might be surprised at how many familiar names you'd be investing in with this fund. Its top 10 holdings include Nestle, Novartis, Toyota, Shell, and Royal Bank of Canada, just to name a few.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Vanguard International High Dividend Yield ETF reaches new high; despite strong performance, remains an attractive buy for investors seeking international stocks and reliable income."
+    },
+    "date": "2025-07-12T07:33:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/penny-stock-ai-powerhouse-soun-130002770.html",
+    "title": "From Penny Stock to AI Powerhouse, Is SOUN Stock a Buy Now? SoundHound stock has soared 40% in the last three months. How high can it go from here?",
+    "detail": "From Penny Stock to AI Powerhouse, Is SOUN Stock a Buy Now?\nSushree Mohanty\nSat, Jul 12, 2025, 7:00 AM 4 min read\nIn This Article:\nSOUN\nNVDA\nBusinessman touching the brain working of Artificial Intelligence (AI) Automation by Suttiphong Chandaeng via Shutterstock\n\nSoundHound AI\u2019s (SOUN) journey, from a modest penny stock to a company with a market cap now nearing $5 billion, is nothing short of remarkable.\u00a0SOUN has emerged as a serious contender in the conversational and agentic AI space.\n\nNvidia\u2019s (NVDA) investment in the company in late\u00a02023 sparked investor interest in this penny stock. Nvidia\u2019s approval was like gold, and SOUN stock skyrocketed following the news. Shares have returned a staggering 249% over the last three years,\u00a0outperforming the broader market.\n\nMore News from Barchart\n\nShopify Stock is a Bargain - How to Make a 3.2% One-Month Yield with SHOP\n\nTariffs, Inflation and Other Key Things to Watch this Week\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nOver the last three months alone, SOUN stock has climbed 40%. While Nvidia is no longer invested in SoundHound AI, is the stock still a buy?\n\nwww.barchart.com\nMomentum Is Building, Path to Profitability in Sight\n\nSoundHound AI is a pure-play voice AI technology company.\u00a0The company\u2019s technology is not only exciting, but also proven in a variety of industries, including restaurants, automotive, healthcare, financial services, energy, telecom, information technology, travel, and hospitality. Because of real-world deployments in major industries, the company\u2019s total addressable market (TAM) is rapidly expanding.\n\nThe company reported $29.1 million in revenue in the\u00a0first quarter, a robust 151% year-over-year increase.\u00a0This reflects the compound effects of new business lines, improved technology, and three smart acquisitions in 2024: Synq3 (restaurants and hospitality), Allset (voice commerce integration), and Amelia (Agentic AI platform). \u00a0Management emphasized that no single customer accounted for more than 10% of revenue in the quarter, significantly reducing concentration risk and improving long-term revenue durability.\n\nCFO Nitesh Sharan described the first quarter as another \u201cmile marker\u201d for SoundHound, noting that enterprise momentum is growing across multiple industries, including financial services, healthcare, hospitality, and, most notably, restaurants. Notably, the restaurant vertical emerged as a breakout growth driver, with SoundHound activating over 1,000 new live restaurant locations in the quarter, a tenfold increase over the previous year.\nThe company is developing agentic AI and voice commerce platforms, which are increasing customer interest and delivering better results. Enterprises can therefore expect faster resolution times, higher automation rates, and massive query volume growth.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.02
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Investment in SoundHound AI (SOUN) by Nvidia (NVDA) sparks growth; shares return 249% over 3 years, outperforming broader market."
+    },
+    "date": "2025-07-12T07:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/five-themes-investors-watch-earnings-130000132.html",
+    "title": "Five Themes for Investors to Watch as Earnings Season Kicks Off (Bloomberg) -- In just three months, US stocks have swung from a dramatic April selloff to new heights. Now, traders are about to see if Corporate America\u2019s report cards justify the optimism priced into equity markets.Most Read from BloombergSinger Akon\u2019s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortWhy Did Cars Get So Hard to See Out Of?Can Americans Just Stop Building New Highways?How German Cities Are Rethinking Women\u2019s Safety \u2014 With TaxisPhiladelphia Trash Piles Up as Garbage",
+    "detail": "Five Themes for Investors to Watch as Earnings Season Kicks Off\n1 / 5\nFive Themes for Investors to Watch as Earnings Season Kicks Off\nAlexandra Semenova and Sagarika Jaisinghani\nSat, Jul 12, 2025, 7:00 AM 6 min read\nIn This Article:\nMSFT\nAMZN\nAAPL\nMETA\nTSLA\n\n(Bloomberg) -- In just three months, US stocks have swung from a dramatic April selloff to new heights. Now, traders are about to see if Corporate America\u2019s report cards justify the optimism priced into equity markets.\n\nMost Read from Bloomberg\n\nSinger Akon\u2019s Failed Futuristic City in Senegal Ends Up a $1 Billion Resort\n\nWhy Did Cars Get So Hard to See Out Of?\n\nHow German Cities Are Rethinking Women\u2019s Safety \u2014 With Taxis\n\nPhiladelphia Trash Piles Up as Garbage Workers\u2019 Strike Drags On\n\nPhiladelphia Reaches Pact With Workers to End Garbage Strike\n\nExpectations aren\u2019t high: Wall Street is bracing for the weakest earnings season since mid-2023. Analysts see second-quarter profits on the S&P 500 Index rising 2.5% year-on-year, Bloomberg Intelligence data show. Six of 11 sectors are projected to post profit declines, while the full-year growth forecast for the benchmark index has dropped to 7.1% from 9.4% in early April.\n\nThe S&P 500 is trading near a record high even as earnings forecasts wane and companies navigate President Donald Trump\u2019s trade policies. However, lower estimates could be easier for companies to beat. Based on recent guidance, BI strategists Gina Martin Adams and Wendy Soong say companies could handily exceed those modest estimates.\n\n\u201cThe bar is now so low,\u201d said Kevin Gordon, senior investment strategist at Charles Schwab & Co. \u201cThat of course makes it easy for companies to beat, but I think the emphasis will be on gross margins, especially because that\u2019s where we should see tariff pressure show up if it exists.\u201d\n\nEarnings season unofficially kicks off on Wednesday, led by financial giants JPMorgan Chase & Co., Citigroup Inc., and BlackRock Inc. Heavyweights like JB Hunt Transport Services Inc. and Netflix Inc. also report next week.\n\nHere\u2019s a look at five key themes to watch as the results roll in.\n\nTrade War Impact Yet to Show\n\nTariffs are poised to disrupt supply chains and raise costs, which market watchers see weighing on America\u2019s profit engine. However, those impacts may not be pronounced in second-quarter earnings just yet.\n\nThere is scant evidence of material demand destruction related to tariffs at this point, but also no big rebound in macroeconomic conditions since many of the harshest levies were announced and then paused, according to a recent industry survey led by Bank of America Corp. analyst Andrew Obin.\n\nEarnings revision momentum \u2014 the difference between upward and downward adjustments to forecasts \u2014 turned positive for the second quarter after dropping in the last reporting cycle, according to BI data.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.02
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2Q2025 earnings season kicks off; analysts predict 2.5% yoy profit growth for S&P 500, but weakest since mid-2023; NVDA's performance uncertain"
+    },
+    "date": "2025-07-12T07:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-stock-way-cheaper-think-111500713.html",
+    "title": "Nvidia Stock Is Way Cheaper Than You Think. Here's 1 Reason Why. Nvidia's profits will grow for years to come.  Factoring this growth into Nvidia's forward price-to-earnings multiple makes this stock look very cheap.  Nvidia (NASDAQ: NVDA) is one of the hottest stocks on the market today.",
+    "detail": "Nvidia Stock Is Way Cheaper Than You Think. Here's 1 Reason Why.\nRyan Vanzo, The Motley Fool\nSat, Jul 12, 2025, 5:15 AM 4 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia's profits will grow for years to come.\n\nFactoring this growth into Nvidia's forward price-to-earnings multiple makes this stock look very cheap.\n\n10 stocks we like better than Nvidia \u203a\n\nNvidia (NASDAQ: NVDA) is one of the hottest stocks on the market today. Over the past five years, Nvidia shares have soared in value by nearly 1,500%, including another 20% in the last 12 months.\n\nThink the run is over? Think again. Nvidia stock remains far cheaper than most investors realize due to one critical factor.\n\nNvidia's profits will rise for decades to come\n\nThe artificial intelligence (AI) revolution is in full swing. But we're still in the early innings. In 2023, the United Nations estimated the global artificial intelligence market to be worth roughly $190 billion. By 2033, the organization believes the AI market's value will soar to nearly $5 trillion. That's a compound annual growth rate of more than 30%.\n\nThus far, Nvidia's growth rates have exceeded the AI market's growth rate. Last year, Nvidia's sales more than doubled. This year, analysts expect sales to jump again by more than 50%.\n\nNVDA Revenue Growth Estimate for Current Fiscal Year data by YCharts\n\nWhy is Nvidia growing faster than the market overall? Because it rapidly gained market share due to its superior hardware and software offerings. Right now, Nvidia is estimated to have more than 90% of the AI GPU market. Its new Blackwell chips were at one time sold out for more than 12 months. Essentially every cloud computing infrastructure business on the planet is racing to buy more Nvidia products. Nvidia's CUDA developer platform, meanwhile, keeps customers locked in to its hardware and software ecosystem.\n\nIn summary, through early investment, Nvidia has the best AI GPUs on the market from a performance standpoint. Its software integration, meanwhile, ensures developers are locked in to their products for the long haul. All of this has allowed Nvidia to post an industry-leading gross margin -- more than double that of competitors like Intel. While competition will emerge, Nvidia has gained a critical capital and reputational advantage -- an advantage that should persist for years to come, allowing it to charge more for its products than the competition.\n\nImage source: Getty Images.\nPatient NVDA investors will profit most\n\nTrading at 27 times sales, Nvidia stock looks incredibly pricey for a $4 trillion business. On an earnings basis, shares trade at 53 times trailing earnings. Again, this looks expensive at first glance. But sales have a strong potential to grow by more than 30% per year for a decade or more. And given Nvidia's competitive advantages, profits should closely track this growth, even if margins do compress somewhat due to rising competition.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Artificial Intelligence market growth drives Nvidia's profit increase, making its stock appear undervalued."
+    },
+    "date": "2025-07-12T05:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/wall-street-hits-record-highs-110203021.html",
+    "title": "Wall Street hits record highs as Nvidia tops $4T and Trump ramps up trade tensions The chipmaker extended its winning streak to a seventh consecutive week \u2014 and the 11th in the last 12 \u2014 nearly doubling its share price from early April lows in just over three months.",
+    "detail": "Wall Street hits record highs as Nvidia tops $4T and Trump ramps up trade tensions\nBenzinga\nSat, Jul 12, 2025, 5:02 AM 2 min read\nIn This Article:\nNVDA\n^SPX\nAAPL\nMSFT\nAMZN\n\nWall Street posted fresh all-time highs the week of July 7, powered by a relentless rally in Nvidia, which became the first company globally to surpass $4 trillion in market capitalization, igniting optimism across tech and AI stocks.\n\nThe chipmaker extended its winning streak to a seventh consecutive week \u2014 and the 11th in the last 12 \u2014 nearly doubling its share price from early April lows in just over three months.\u00a0The S&P 500 and Nasdaq saw record highs July 10.\n\nThis surge propelled the collective market value of the so-called Magnificent Seven, which includes Apple, Microsoft, Amazon, Meta Platforms, Alphabet and Tesla, to a staggering $18.3 trillion.\n\nFILE PHOTO: Nvidia logo is seen in this illustration created on January 27, 2025.\n\nPresident Donald Trump reignited trade war concerns, announcing a 35% tariff on Canadian imports starting Aug. 1. He also floated 15% to 20% blanket tariffs on most other U.S. trading partners. Additionally, the administration unveiled 50% duties on copper and Brazilian goods, all set to kick in the same day.\n\nMeanwhile, Trump intensified his feud with the Federal Reserve. On July 9, he urged a 3-percentage-point rate cut, claiming high interest rates cost the U.S. $360 billion annually per point.\n\nMore: Wall Street extends records, labor market shows resilience in June: This week in markets\n\nThe central bank remains cautious. Minutes from the June 17-18 Federal Open Market Committee meeting revealed most officials see a rate cut as likely later this year. Still, Chicago Fed President Austan Goolsbee rejected the idea that policy should focus on debt servicing costs, reiterating the Fed's dual mandate: price stability and full employment.\n\nAirlines, Bitcoin soar\n\nAirlines led the S&P 500 this past week. Delta Air Lines soared 12% July 10 after beating earnings and reaffirming its full-year profit forecast. Optimism spilled over to United Airlines, Southwest Airlines and American Airlines, as investors bet on a strong summer quarter for the travel sector.\n\nBitcoin also broke records, climbing past $118,000. The iShares Bitcoin Trust \u2014 the world\u2019s largest crypto-related exchange traded fund \u2014 saw inflows in 12 of the past 13 weeks, reflecting renewed enthusiasm for the largest cryptocurrency amid rising institutional interest.\n\nReuters contributed to this report.\n\nBenzinga is a financial news and data company headquartered in Detroit.\u00a0\n\nThis article originally appeared on Detroit Free Press: Wall Street hits record highs as Nvidia tops $4 trillion\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.98
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.4987
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2. Nvidia's share price almost dou"
+    },
+    "date": "2025-07-12T05:02:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-microsoft-alphabet-ai-stock-102039717.html",
+    "title": "Nvidia, Microsoft, or Alphabet: Which AI Stock Giant Holds the Highest Upside? Analysts Weigh In Generative AI exploded onto the scene at the end of 2022, and forever changed our perception \u2013 and use \u2013 of AI technology. From a predictive model, based on classification and automation, AI shifted to a more creative mode, capable of closely mimicking human expressions. The boom in generative AI has brought diffusion models and large language models (LLMs) into our consciousness, and pushed chip makers, data centers, and data analytics into the limelight. Given this rapid evolution, it\u2019s no sur",
+    "detail": "Nvidia, Microsoft, or Alphabet: Which AI Stock Giant Holds the Highest Upside? Analysts Weigh In\nTipRanks\nSat, Jul 12, 2025, 4:20 AM 12 min read\nIn This Article:\nNVDA\nGOOG\nMSFT\n\nGenerative AI exploded onto the scene at the end of 2022, and forever changed our perception \u2013 and use \u2013 of AI technology. From a predictive model, based on classification and automation, AI shifted to a more creative mode, capable of closely mimicking human expressions. The boom in generative AI has brought diffusion models and large language models (LLMs) into our consciousness, and pushed chip makers, data centers, and data analytics into the limelight.\n\nElevate Your Investing Strategy:\n\nTake advantage of TipRanks Premium at 50% off! Unlock powerful investing tools, advanced data, and expert analyst insights to help you invest with confidence.\n\nMake smarter investment decisions with TipRanks' Smart Investor Picks, delivered to your inbox every week.\n\nGiven this rapid evolution, it\u2019s no surprise that the market for generative AI is expanding at a breakneck pace. According to Markets and Markets, the spend on genAI is estimated at $71.36 billion this year, with projections reaching as high as $890 billion by 2032, implying a staggering CAGR of 43.4%.\n\nYet, while the growth story is compelling, it\u2019s important to recognize that many AI stocks have already soared, meaning much of the \u201ceasy\u201d upside has likely been captured. For investors eyeing the sector today, the challenge isn\u2019t simply finding exposure, but rather identifying which opportunities \u2013 if any \u2013 still offer some room for gains, rather than piling into names that have already run up sharply.\n\nThis brings the focus to three tech titans that have dominated both the AI conversation and investor interest. Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT), and Alphabet (NASDAQ:GOOGL) \u2013 each a Magnificent 7 megacap and a recognized leader in AI \u2013 provide distinct avenues for those hoping to ride the next leg of the generative AI wave. But with valuations stretched for many top performers, which of these giants presents the most attractive upside from here? Let\u2019s find out.\n\nNvidia\n\nFirst up is Nvidia, a tech company that is a giant in all ways. Nvidia is a leader in the semiconductor field, and its GPU chips, originally designed for high-end computer gaming, have been essential in the enabling hardware for AI and its related applications. The company has been singularly successful in recent years, and its top-end AI-capable chipsets are in high demand. Strong sales have pushed Nvidia to the top of the heap, not just as the largest chip maker on Wall Street, but as the largest company of any sort: Nvidia currently boasts a market cap of $3.97 trillion, having recently been the first company to ever cross the $4 trillion threshold.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.88
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Generative AI growth boosts chip makers, data centers, and data analytics; Nvidia benefits from AI tech advancements."
+    },
+    "date": "2025-07-12T04:20:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-makes-history-first-4-093000080.html",
+    "title": "Nvidia Makes History as the First $4 Trillion Company. Will It Reach $5 Trillion? Nvidia briefly eclipsed a $4 trillion valuation on Wednesday.  Nvidia's growth is closely tied to the expansion of AI data centers.  Investors need to see Nvidia's growth stay rapid to justify its stock price.",
+    "detail": "Nvidia Makes History as the First $4 Trillion Company. Will It Reach $5 Trillion?\nKeithen Drury, The Motley Fool\nSat, Jul 12, 2025, 3:30 AM 5 min read\nIn This Article:\nNVDA\nAAPL\nKey Points\n\nNvidia briefly eclipsed a $4 trillion valuation on Wednesday.\n\nNvidia's growth is closely tied to the expansion of AI data centers.\n\nInvestors need to see Nvidia's growth stay rapid to justify its stock price.\n\n10 stocks we like better than Nvidia \u203a\n\nOn July 9, Nvidia (NASDAQ: NVDA) made history by briefly becoming the world's first company to reach a market capitalization of $4 trillion. On July 10, Nvidia closed the day above a $4 trillion market cap. No other company has done this before, marking a huge milestone for both Nvidia and the market. It also underscores how bullish the market is about AI buildout, as Nvidia is heavily tied to this trend.\n\nSo, is the $4 trillion a ceiling for the stock? Or is there more room to run? Let's take a look and see if Nvidia could be headed to the next mark: $5 trillion.\n\nImage source: Nvidia.\nNvidia is the first company to beat Apple to a trillion-dollar milestone\n\nNvidia's rise to a $4 trillion market cap has been nothing short of incredible, especially considering that it eclipsed the $1 trillion mark for the first time in company history a mere two years ago.\n\nNVDA Market Cap data by YCharts\n\nIt's also the first company not named Apple to break various trillion-dollar valuation points. Apple was the first to reach $1 trillion, $2 trillion, and $3 trillion marks. With Nvidia reaching $4 trillion first, it's a monumental occasion.\n\nHowever, these thresholds will continue to be broken at a quicker pace, as the rise from $4 trillion to $5 trillion is only 25%, compared to the 33% needed to rise from $3 trillion to $4 trillion. So, Nvidia's pursuit of the $5 trillion mark may not take long, especially considering the company's rapid growth rate.\n\nNvidia still has multiple years of rapid growth in store\n\nThe demand for Nvidia's graphics processing units (GPUs) has been unprecedented. GPUs have become the computing unit of choice for many AI hyperscalers due to their flexibility, performance, and the best-in-class software that helps operate them. For future growth, there are two primary drivers.\n\nFirst, the AI hyperscalers have announced record data center capital expenditures for this year. This supports a third-party projection that Nvidia cited during its 2025 GTC event, stating that global data center capital expenditures will rise from $400 billion in 2024 to $1 trillion by 2028. Data centers typically take more than a year to build, so next year's total will likely surpass the record capital expenditures announced, as this is a multi-year process. Should that projection come true, Nvidia will be slated to deliver monster growth for the next few years.\n\nStory continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia briefly surpasses $4 trillion market cap; investors await sustained growth to justify high stock price."
+    },
+    "date": "2025-07-12T03:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-just-084700058.html",
+    "title": "This Artificial Intelligence (AI) Stock Just Hit a New High -- and It's Still a Buy The graphics processing and AI specialist has recently climbed to record highs. Is it too late to buy?",
+    "detail": "This Artificial Intelligence (AI) Stock Just Hit a New High -- and It's Still a Buy\nDanny Vena, The Motley Fool\nSat, Jul 12, 2025, 2:47 AM 6 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia stock has rebounded from its slump earlier this year, hitting a record high on Friday.\n\nThe company has cornered the data center GPU market and is the gold standard for AI processing.\n\nNvidia stock remains attractively priced, especially when considered in light of its market-beating growth.\n\n10 stocks we like better than Nvidia \u203a\n\nArtificial intelligence (AI) is widely recognized as a game-changing technology, and the number of potential applications grows with each passing day. While it might seem like these advanced algorithms are everywhere, the truth is that it's still early days for the adoption of AI, which some experts contend currently stands at less than 1%. This suggests the proliferation of AI is far from over, and the opportunity ahead remains vast.\n\nArguably, one of the biggest beneficiaries of the advent of AI has been Nvidia (NASDAQ: NVDA). The company invented the graphics processing units (GPUs) that facilitate this groundbreaking technology, and its chips are the top choice for AI processing. The impact has been undeniable, as the stock has gained 950% over the past three years (as of this writing), hitting a new all-time high midday on Friday.\n\nLet's take a step back and look at the opportunity, what Nvidia brings to the table, and why the stock is still a buy.\n\nImage source: Getty Images.\nThe gold standard for AI processing\n\nGamers have long hailed Nvidia's graphics cards as best-in-breed and the introduction of the GPU in 1999 revolutionized the gaming industry. What set its chips apart was parallel processing, or the ability to conduct a multitude of complex mathematical calculations simultaneously by allocating processing resources across the breadth of the chips' multiple cores. This turned the standard wisdom on its head, creating lifelike images in video games.\n\nNoted AI researcher and adjunct professor of AI at Stanford University, Andrew Ng, published a revolutionary research paper in 2009 that detailed the potential application of GPUs in machine learning, an earlier branch of AI. Word spread quickly, and these chips became the gold standard for processing these early, yet cutting-edge, algorithms, controlling 95% of the GPU market for machine learning.\n\nThis early dominance of the market positioned Nvidia for the AI advancements to come.\n\nCornering the data center market\n\nWhen generative AI made a splash back in early 2023, it was only natural that data scientists and researchers would turn to GPUs to facilitate the latest advancements in AI. The magnitude of the processing involved means that most generative AI takes place in data centers and the cloud, and Nvidia dominates the space, controlling an estimated 92% of the data center GPU market, according to IoT Analytics.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia stock hits new high; AI market growth fuels continued investment."
+    },
+    "date": "2025-07-12T02:47:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jensen-huangs-nvidia-owns-6-083000592.html",
+    "title": "Jensen Huang's Nvidia Owns 6 Stocks. Here's the Best of the Bunch. Nvidia and its CEO, Jensen Huang, invest firm capital in artificial intelligence stocks.  Given Nvidia's leadership in AI, it makes sense, considering the company's expertise and knowledge.  Most of Nvidia's investments are in partners, major customers, or companies that can grow the sector.",
+    "detail": "Jensen Huang's Nvidia Owns 6 Stocks. Here's the Best of the Bunch.\nBram Berkowitz, The Motley Fool\nSat, Jul 12, 2025, 2:30 AM 6 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia and its CEO, Jensen Huang, invest firm capital in artificial intelligence stocks.\n\nGiven Nvidia's leadership in AI, it makes sense, considering the company's expertise and knowledge.\n\nMost of Nvidia's investments are in partners, major customers, or companies that can grow the sector.\n\n10 stocks we like better than Nebius Group \u203a\n\nNvidia (NASDAQ: NVDA) is widely considered the ultimate pick-and-shovel play in the artificial intelligence (AI) space. The company's graphics processing units (GPUs) have become the standard for training the large language models (LLMs) that make AI possible. And so far, Nvidia seems to hold somewhat of a monopoly, considering its sky-high margins.\n\nWith its market leadership, Nvidia and its CEO, Jensen Huang, have also used the company's capital to invest in other AI-related stocks that they either partner with or that may help grow and expand the sector. As of April 27, 2025 (the end of fiscal 2026's first quarter), Nvidia owned six stocks. Here's the best of the bunch.\n\nImage source: Getty Images.\nWhat Nvidia owns\n\nNvidia's total portfolio of six stocks amounted to roughly $1.14 billion. Here are the six holdings:\n\nCoreWeave (NASDAQ: CRWV): CoreWeave went public at the end of March, and while the initial public offering (IPO) disappointed, the stock has been a moonshot ever since and is now up 286% (as of July 8) in just a few short months. As the AI sector picks up steam, many companies will want to build AI applications and offer AI solutions. But building all the infrastructure could be a heavy lift, and this is where CoreWeave comes in.\n\nThe company offers software and cloud services that companies can use to develop and manage LLMs. CoreWeave's clients already include AI giants like Microsoft and Nvidia. Nvidia's position totaled nearly $897 million at the end of the first quarter and was by far the company's largest stock holding.\n\nArm Holdings (NASDAQ: ARM): Arm is another company that has done well since its IPO in 2023 and is now up 146%, with a market cap of close to $158 billion. Arm builds intellectual property solutions needed for computer processing units (CPUs), GPUs, and neural processing units (NPUs). Nvidia uses Arm's intellectual property (IP) in many of its products and actually tried to buy the company in 2020. The acquisition ultimately fell apart, but Nvidia participated in the company's IPO.\u00a0Nvidia's $117.6 million stake is the second-largest in its portfolio.\n\nApplied Digital Corp (NASDAQ: APLD): Applied Digital offers products and services similar to the companies mentioned above. The company builds digital infrastructure solutions and offers cloud services, specifically aimed at high-performance computing (HPC) and AI solutions.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.73
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.4
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia invests in AI-related stocks, reflecting its market leadership in AI technology."
+    },
+    "date": "2025-07-12T02:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stock-outperformed-nvidia-palantir-first-081000963.html",
+    "title": "This Stock Outperformed Nvidia and Palantir in the First Half. Is It Still a Buy? The company is benefiting from high demand for computing power to support AI training and inferencing.  Over the past couple of years, Nvidia (NASDAQ: NVDA) and Palantir Technologies (NASDAQ: PLTR) have both shown their strengths in artificial intelligence (AI) -- and as a result, their earnings and stock performance have soared.  Last year, Nvidia was the best-performing component in the Dow Jones Industrial Average (though it only was added to the venerable blue chip index in November), and Palantir posted the biggest gain in the S&P 500.",
+    "detail": "This Stock Outperformed Nvidia and Palantir in the First Half. Is It Still a Buy?\nAdria Cimino, The Motley Fool\nSat, Jul 12, 2025, 2:10 AM 5 min read\nIn This Article:\nNVDA\nPLTR\nCRWV\n^DJI\n^SPX\nKey Points\n\nCoreWeave stock surged by 300% in just a few months.\n\nThe company is benefiting from high demand for computing power to support AI training and inferencing.\n\n10 stocks we like better than CoreWeave \u203a\n\nOver the past couple of years, Nvidia (NASDAQ: NVDA) and Palantir Technologies (NASDAQ: PLTR) have both shown their strengths in artificial intelligence (AI) -- and as a result, their earnings and stock performance have soared. Last year, Nvidia was the best-performing component in the Dow Jones Industrial Average (though it only was added to the venerable blue chip index in November), and Palantir posted the biggest gain in the S&P 500.\n\nBoth of these players have continued to advance, and considering that we're in the early stages of the AI boom, more earnings growth and stock price gains could be on the way. But, in the first half of 2025, another company emerged as a potential AI powerhouse. In fact, this particular stock actually outperformed Nvidia and Palantir in the period, climbing by a mind-boggling 300%. Now you may be wondering whether this high flyer is still a buy.\n\nImage source: Getty Images.\nA company with close ties to Nvidia\n\nThis top-performing AI stock actually is new to the market, completing its initial public offering in late March, so its triple-digit gains took place over a period of only three months. I'm referring to CoreWeave (NASDAQ: CRWV), a company that is closely linked to Nvidia. This is because CoreWeave generates most of its revenue by renting out access to its vast collection of Nvidia graphics processing units (GPUs). The company has more than 250,000 of them deployed across its cloud infrastructure platform, and it specializes in handling AI workloads, offering customers the configurations they need to accomplish their goals faster.\n\nCRWV data by YCharts.\n\nNvidia owns a 7% stake in CoreWeave, and made it possible for the young company to be the first to launch its latest GPUs. In February, CoreWeave became the first hyperscaler to make Nvidia's new Blackwell architecture broadly available -- and it just did the same recently with the latest iteration, Blackwell Ultra.\n\nSo, a bet on CoreWeave is a bet on demand for Nvidia's latest chips. Its first-quarter earnings report showed this demand is going strong, as its revenue climbed by more than 400% year over year, and Nvidia's own Q1 earnings report offered additional clues: For example, Nvidia said it saw a leap in demand for inferencing computing power in the quarter. This sort of trend is likely to benefit CoreWeave.\n\nGPUs to fuel inferencing\n\nInferencing is the process an AI model goes through when attempting to answer complex questions -- and it takes significant parallel processing power of the type provided by GPUs and other AI accelerators. As more people and organizations apply AI to real-world problems, inferencing could drive a whole new era of growth for companies like Nvidia and CoreWeave. It's important to remember that the need for GPUs doesn't end once a model is trained. CoreWeave's fleet of cloud servers may have plenty of busy days ahead over the long term.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.76
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "CoreWeave stock surged by 300%, outperforming NVDA and PLTR due to high demand for computing power supporting AI training and inferencing."
+    },
+    "date": "2025-07-12T02:10:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/gen-z-men-still-obsessed-080300295.html",
+    "title": "Gen Z men are still obsessed with Pok\u00e9mon cards\u2014using \u2018boy math\u2019 to argue that they\u2019ll beat Nvidia stock and the S&P 500. But there\u2019s a catch Pok\u00e9mon and sports cards may be outpacing the stock market on paper, but while some collectors are cashing in\u2014others are going broke.",
+    "detail": "Gen Z men are obsessed with Pok\u00e9mon cards\u2014they\u2019re using \u2018boy math\u2019 to argue that they\u2019ll beat Nvidia stock and the S&P 500\nPreston Fore\nSat, Jul 12, 2025, 2:03 AM 7 min read\nIn This Article:\n^SPX\nNVDA\n\nPok\u00e9mon and sports trading cards are outperforming the S&P 500 with upwards of 46% annual returns, and it\u2019s driving mania among Gen Z and Millennial men to collect top cards. While most fans aren\u2019t getting rich off a reselling side gig, there\u2019s no sign the boom is letting up\u2014especially with big names like Logan Paul joining in on the frenzy.\n\nGen Z and Millennials are in agreement: their obsession with Pok\u00e9mon may never let up.\n\nDespite the Japanese franchise nearing its 30-year anniversary, young men in particular continue to be on a lifelong mission to \u201ccatch \u2018em all\u201d\u2014and are spending hundreds, sometimes even millions of dollars, collecting trading cards.\n\nPart of the \u201cboy math\u201d is that investing in cards could yield significant returns, and there might be some truth to the matter.\n\nPok\u00e9mon cards have seen the largest long-term increase in value among all card categories: up 3,261% over 20 years, according to data provided to Fortune from Card Ladder. Even looking at a one-year investment, the average Pok\u00e9mon card is increasing at nearly 46%\u2014a pace far exceeding hot stocks like Nvidia so far in 2025 or the S&P 500\u2019s average 12% annual return rate.\n\nWhile cards have to be rare and in pristine condition to make significant profit, the industry frenzy has left the shelves of retailers like Walmart and Target bare\u2014and even caused some stores to enact limits or pauses on selling altogether. And online, it\u2019s pushing the resale market to new heights.\n\nUsers on eBay searched for \u201cPokemon\u201d nearly 14,000 times per hour in 2024, according to Adam Ireland, VP and GM of global collectibles at eBay. And pairing the Pok\u00e9mania with continued demand in the sports card world (thanks to athletes like Caitlin Clark and Michael Jordan), it\u2019s created a perfect storm of opportunity for the trading card industry. The total gross value of cards on eBay has increased for nine consecutive quarters.\n\n\u201cThe trading card hobby has entered a new era, driven by technology, innovation, community, and a great balance of modern creativity\u2013with new sets, storylines and characters\u2013alongside good old nostalgia,\u201d Ireland tells Fortune.\n\nSocial media is driving a trading card craze\u2014and some poor financial decisions\n\nNo other influencer may have driven continued interest in Pok\u00e9mon cards in particular than Logan Paul. The YouTuber, who is also known for his ventures into professional wrestling, boxing, and entrepreneurship, has spent millions of dollars purchasing cards\u2014and then profiting off the millions of views generated from his content.\n\n\u201cNostalgia + business = the new art,\u201d he wrote on social media after spending $200,000 on cards.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Gen Z men's obsession with Pok\u00e9mon cards drives potential competition against NVDA stock and S&P 500 due to high annual returns, with no signs of slowing down."
+    },
+    "date": "2025-07-12T02:03:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-074500496.html",
+    "title": "2 Artificial Intelligence (AI) Stocks to Buy Before They Soar 150% and 735%, According to Certain Wall Street Analysts Nvidia and Tesla shareholders could see substantial gains in the coming years if these Wall Street analysts are correct.",
+    "detail": "2 Artificial Intelligence (AI) Stocks to Buy Before They Soar 150% and 735%, According to Certain Wall Street Analysts\nTrevor Jennewine, The Motley Fool\nSat, Jul 12, 2025, 1:45 AM 6 min read\nIn This Article:\nNVDA\nTSLA\n^SPX\nKey Points\n\nNvidia and Tesla are two of the three best-performing stocks in the S&P 500 since January 2020, notching returns of 2,690% and 1,010%, respectively.\n\nNvidia has a dominant market position in data center GPUs and generative AI networking equipment, and the rise of physical artificial intelligence (AI) should be a major tailwind.\n\nTesla's electric car business is struggling with market share losses, but CEO Elon Musk says the company will dominate the robotaxi market in the future.\n\n10 stocks we like better than Nvidia \u203a\n\nNvidia (NASDAQ: NVDA) and Tesla (NASDAQ: TSLA) rank among the three best-performing stocks in the S&P 500 (SNPINDEX: ^GSPC) so far this decade, and artificial intelligence (AI) has been a major tailwind for both companies.\n\nSince January 2020, Nvidia shares have added 2,690% due to soaring demand for AI chips. Meanwhile, Tesla shares have added 1,010% due to excitement about self-driving cars and autonomous robots. In both cases, some Wall Street analysts expect more fireworks in the years ahead.\n\nBeth Kindig at the I/O Fund thinks Nvidia stock will reach $410 per share by 2030. That implies 150% upside from its current share price of $164.\n\nTasha Keeney at Ark Invest thinks Tesla stock will reach $2,600 per share by 2029. That implies about 735% upside from its current share price of $310.\n\nHere's what investors should know about these companies.\n\nImage source: Getty Images.\nNvidia: 150% implied upside\n\nBeth Kindig, lead technology analyst at the I/O Fund, thinks Nvidia will trade at $410 per share by 2030, which implies a market value of $10 trillion. The investment thesis centers on rapidly growing demand for artificial intelligence (AI) hardware and software in data centers, as well as edge devices like autonomous cars and robots.\n\nNvidia is best known for its graphics processing units (GPUs), chips also known as artificial intelligence accelerators. It holds over 90% market share in data center GPUs, and analysts at TD Cowen expect the company to maintain the same level of dominance through the end of the decade, with AI chip sales increasing 160% during that period.\n\nHowever, investors need to understand Nvidia is more than a chipmaker. The company also leads the market for generative AI networking gear and it has a burgeoning cloud services business. \"We stopped thinking of ourselves as a chip company long ago,\" CEO Jensen Huang told attendees at the annual shareholder meeting in June.\n\nImportantly, while generative AI is currently the largest source of demand for Nvidia AI infrastructure, the company is well positioned to benefit as the physical AI boom unfolds. Physical AI refers to autonomous machines like cars and robots that understand, interact with, and navigate the real world.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia dominates data center GPU and generative AI networking markets, poised for growth as physical AI rises."
+    },
+    "date": "2025-07-12T01:45:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/wall-street-giant-issues-stark-180300056.html",
+    "title": "Wall Street giant shares bold message on S&P 500's Magnificent 7 Trouble is brewing beneath the record highs.",
+    "detail": "Wall Street giant shares bold message on S&P 500's Magnificent 7\nMoz Farooque\nFri, Jul 11, 2025, 10:32 PM 3 min read\nIn This Article:\n^SPX\nAAPL\nMSFT\nNVDA\nAMZN\n\nWall Street giant shares bold message on S&P 500's Magnificent 7 originally appeared on TheStreet.\n\nThe S&P 500 is back notching up all-time highs, capping off what\u2019s been a remarkable rebound.\n\nThings look very different for investors now, who are breathing easier after a rough start to the year.\n\n\ud83d\udcb5\ud83d\udcb0Don't miss the move: Subscribe to TheStreet's free daily newsletter\ud83d\udcb0\ud83d\udcb5\n\nHowever, under the surface of this optimism, there is a hidden imbalance that continues to grow quietly. This risk is likely to turn today\u2019s party into tomorrow\u2019s headache if the momentum swings the other way.\n\nImage source: Triballeau/Getty Images\nThe Magnificent 7\u2019s hold on Wall Street\n\nOver the past couple of years in particular, the \u201cMagnificent 7\u201d, which includes Apple, Microsoft, Nvidia, Amazon, Alphabet, Meta, and Tesla, have turned the S&P 500 into their personal growth machine.\n\nBack in mid-2023, these mega-caps accounted for a whopping one-third of the index\u2019s market value.\n\nBy early 2024, that number grew even more, creeping up to 35%.\n\nThat figure is now pushing toward 40%, the highest concentration level in more than 50 years.\n\nIt's not hard to gauge, though, if we look at the scoreboard.\n\nNvidia is up an eye-popping 936% over the past three years, Meta\u2019s up 326%, Amazon popped 93%, and Apple notched a 44% gain, beating the broader index by a country mile.\n\nRelated: Cathie Wood drops bold message on Apple, Tesla stock\n\nNevertheless, those blockbuster runs supercharged passive portfolios but also rewired the S&P 500.\n\nCritics say index investors aren\u2019t getting true diversification anymore. Instead, they\u2019re loaded by a select few pricey tech stocks that could switch gears in a regulatory crackdown or if earnings miss following a major stumble.\n\nThe risks are too real to ignore for savvy investors.\n\nNvidia\u2019s sky-high valuations continue raising eyebrows (having flirted with $4 trillion market cap recently). Apple faces antitrust probes in Europe. Google\u2019s ad business is under fresh scrutiny. Also, EV giant Tesla\u2019s once-torrid growth has cooled off.\n\nMore Tech Stock News:\n\nTesla\u2019s next bet could flip the robotaxi race\n\nCathie Wood shells out $13.9 million for one high-stakes biotech stock\n\nApple\u2019s quiet shake-up could redefine its future\n\nIt\u2019s giving investors flashbacks to the \u201cNifty Fifty\u201d collapse of the 1970s, when overconfidence in a few blue chips ended in major pain.\n\nBig tech\u2019s sway over the S&P 500 is getting risky\n\nWall Street giant Apollo has just put out a fresh warning on those holding the S&P 500.\n\nAccording to\u00a0Apollo Chief Economist\u00a0Torsten Sl\u00f8k, investors looking for the traditional \u201cbroad diversification\u201d from the S&P 500 are essentially betting on the Mag 7, which continues powering ahead.\n\nLa historia contin\u00faa\nCondiciones y Pol\u00edtica de privacidad\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.38
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "mixed",
+        "value": 0.15
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "S&P 500 hits new highs; Nvidia part of \"Magnificent 7\" driving growth, but underlying imbalance may lead to future volatility."
+    },
+    "date": "2025-07-11T22:32:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/big-tech-survive-trump-tariffs-230509846.html",
+    "title": "Big Tech will survive Trump tariffs, CEO of $4 trillion NVIDIA says NVIDIA CEO Jensen Huang spoke to USA TODAY about tariffs, trade and his trip to China after a meeting with President Donald Trump at the White House.",
+    "detail": "World's first $4 trillion company unruffled by Trump tariff threat\nFrancesca Chambers, USA TODAY\nFri, Jul 11, 2025, 5:05 PM 4 min read\nIn This Article:\nNVDA\nAAPL\nMSFT\n\nWASHINGTON \u2212 U.S. tech companies will survive President Donald Trump's tariffs, just like they have survived previous disruptions to the market, Jensen Huang, CEO of the world\u2019s most valuable corporation, said in an interview, stressing the importance of ramping up American production of computer chips.\n\n\"Nobody likes disruptions and no one likes abrupt changes, but these settlements will \u2212 President Trump will settle these deals and countries will reorganize and resettle, and we'll work through it,\u201d Huang told USA TODAY.\n\nHuang leads advanced chip-maker NVIDIA, which this week became the first company to reach a stock market value of $4 trillion, making it worth more than better-known tech rivals like Apple and Microsoft. He met with Trump at the White House on July 10 where, he said, the president was jubilant over NVIDIA\u2019s milestone.\n\nMore: Nvidia becomes first company to reach $4 trillion market cap. What are the top 5?\n\nAs Trump negotiates with China and other top trading partners, Huang\u2019s business sits dead center at the intersection of potentially costly United States tariffs, a boom in artificial intelligence \u2013 and the computer chips that power it.\n\nThe California-based company makes advanced chips, which are then mass-produced by companies like the Taiwan-based TSMC that would be heavily affected by a possible Trump tariff on semiconductor imports.\n\nBut Huang showed no signs of panic. Tariffs, taxes and all kinds of rules and regulations were in place long before he founded NVIDIA, said Huang. And if Trump moves ahead with steep semiconductor tariffs, it will be no different.\n\nMore: Nvidia becomes first company to reach $4 trillion market cap. What are the top 5?\n\nNvidia founder and CEO Jensen Huang on Friday, July 11, 2025 in Nvidia offices in Washington, D.C.\n\n\"Every single year there were rules and taxes and tariffs and policies and regulations, and we survived,\" Huang said. \"I have every confidence that the world is going to survive this, companies will survive this and whatever it turns out to be, we'll make the best of it.\"\n\nNVIDIA became the first publicly-traded company to reach a $4 trillion market value this week. It has gained 22% in value this year alone during an artificial intelligence boom. Huang's own net worth, which Forbes estimates to be $143.6 billion, makes him one of the richest men in the world.\n\nMore: Is that product really made in the USA? FTC cracks down on deceptive claims\n\n\"This is the GPU that essentially started the AI revolution,\" NVIDIA CEO Jensen Huang told USA TODAY. An NVIDIA GPU, known as \"the Hopper\" is displayed on Friday, July 11, 2025 in Nvidia offices in Washington, D.C.\n\nHuang\u2019s July 10 meeting with Trump was his fifth in almost as many months, and he sat down with Treasury Secretary Scott Bessent the next day.\n\nIn an interview with USA TODAY on July 11, Huang said he \"absolutely\" believes America needs to produce more semiconductors.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"NVIDIA becomes first $4T company; CEO optimistic about surviving Trump tariffs, emphasizing domestic chip production.\""
+    },
+    "date": "2025-07-11T17:05:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/veteran-analyst-drops-massive-call-220700783.html",
+    "title": "Veteran analyst drops massive call on AMD stock The fresh target could shake up the AI chip race.",
+    "detail": "Veteran analyst drops massive call on AMD stock\nMoz Farooque\nFri, Jul 11, 2025, 4:07 PM 4 min read\nIn This Article:\nAMD\nNVDA\n\nVeteran analyst drops massive call on AMD stock originally appeared on TheStreet.\n\nA decade ago, few would have bet on Advanced Micro Devices\u00a0 (AMD) surviving, let alone challenging Nvidia\u2019s\u00a0 (NVDA) AI chip dominance.\n\nHowever, through relentless execution and smart tech bets, AMD\u2019s not just in the fight, but also rattling the pecking order in the red-hot AI arms race.\n\n\ud83d\udcb5\ud83d\udcb0Don't miss the move: Subscribe to TheStreet's free daily newsletter\ud83d\udcb0\ud83d\udcb5\n\nAMD\u2019s big bet on bold designs and faster chips is paying off and then some, as AI reshapes everything from cloud servers to supercomputers.\n\nThat said, one heavyweight analyst note suggests that Wall Street is misreading AMD\u2019s next big chapter, an upside that\u2019s a lot bigger than investors think.\n\nAMD stock just got a fresh jolt from an unexpected analyst call.Image source: Cheng/Getty Images\nHow AMD went from nearly bankrupt to an AI powerhouse\n\nIt\u2019s easy to forget how close AMD came to disappearing altogether.\n\nBack in 2015, the chipmaker was hanging by a thread, losing out to Intel\u2019s stronger CPUs and watching Nvidia dominate GPUs.\n\nThen Lisa Su stepped in as CEO that October, changing everything.\n\nSu bet big on new ideas, approving a massive redesign of AMD\u2019s CPUs called Zen. By 2017, Zen-based Ryzen chips were winning back PC buyers, and AMD\u2019s EPYC server processors started chipping away at Intel\u2019s data center business share.\n\nRelated: Cathie Wood drops bold message on Apple, Tesla stock\n\nThat turnaround set the stage for AMD\u2019s breakthrough push into AI.\n\nIn 2020 and 2021, it rolled out its first real AI chips, the Instinct MI100 and MI200. Those helped propel AMD in the AI race, while still lagging behind Nvidia\u2019s powerful GPUs.\n\nFast-forward to 2024, and AMD surprised one and all with its MI300 series. For the first time, AMD\u2019s chips matched Nvidia\u2019s in key AI tests.\n\nNow, the new Instinct MI350 could be the real game-changer.\n\nThe MI350 is packed with next-generation technology, including 56 compute units, a massive 288 GB of high-speed memory, and 8 TB per second of bandwidth to handle AI workloads.\n\nAlso, it uses new data types, including the FP6 and FP4, that boost speed for training AI models and running them globally.\n\nMore Tech Stock News:\n\nTesla\u2019s next bet could flip the robotaxi race\n\nCathie Wood shells out $13.9 million for one high-stakes biotech stock\n\nApple\u2019s quiet shake-up could redefine its future\n\nEarly tests show the MI350 can potentially match or even surpass Nvidia\u2019s latest Blackwell B200 chips on some AI jobs.\n\nAlso, it can do that with 30% less money, which makes many big tech buyers think twice about sticking only with Nvidia.\n\nLayer that with AMD\u2019s open-source software platform, ROCm 7.0, and its smart chiplet design keeps costs down.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.71
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AMD's AI chip challenge to NVDA's dominance gains momentum; analyst predicts significant upside for AMD stock."
+    },
+    "date": "2025-07-11T16:07:00"
+  }
+]

@@ -1,0 +1,40 @@
+name: Run Stocks Scraper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 16 * * *' # 8 AM Pacific Time (PDT is UTC-7, cron is UTC)
+
+permissions:
+  contents: write
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Set execute permission on main.sh
+        run: chmod +x scripts/main.sh
+
+      - name: Run stocks scraper in Docker
+        run: |
+          docker run --rm -v ${{ github.workspace }}:/app/local/stocks danielahcardona/stocks-scrapper:latest /app/local/stocks/scripts/main.sh
+
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git diff --cached --quiet || git commit -m "Automated update from stocks scraper"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}

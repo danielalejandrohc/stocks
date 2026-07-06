@@ -1,0 +1,278 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/trump-calls-for-intel-ceo-to-resign-immediately-122344189.html",
+    "title": "Trump calls for Intel CEO to 'resign immediately' President Trump on Thursday called for Intel CEO Lip-Bu Tan to resign.",
+    "detail": "Trump calls for Intel CEO to 'resign immediately'\nMyles Udland and Laura Bratton\nUpdated Thu, Aug 7, 2025, 6:29 AM 2 min read\nIn This Article:\nINTC\nAMD\nAVGO\nNVDA\n2330.TW\n\nPresident Trump early Thursday called for the resignation of Intel (INTC) CEO Lip-Bu Tan in a post on social media.\n\n\"The CEO of INTEL is highly CONFLICTED and must resign, immediately,\" Trump wrote on Truth Social, the social media platform he owns. \"There is no other solution to this problem. Thank you for your attention to this problem!\"\n\nTan was named Intel's CEO back in March, taking over from Pat Gelsinger's tumultuous tenure that saw the company's stock plummet and the chipmaker fall behind in the AI race. Investors cheered Tan's appointment, with the stock rising as much as 15% after the news, and Wall Street analysts as well as current and former executives and employees saw Tan as the best possibility to succeed in turning around the troubled company.\n\nIntel stock fell over 3% following Trump's post.\n\nIn April, a Reuters report detailed Tan's wide-ranging investments in Chinese companies made through his VC firm, Walden International. The outlet found that the firm \"remains invested in 20 funds and companies alongside Chinese government funds or state-owned enterprises, according to Chinese corporate databases.\"\n\nTan has served on boards and in various executive roles at 14 firms in the semiconductor space, most notably including his tenure as CEO of Cadence Design Systems, a chip design software company.\n\nTrump's post came a day after one of his top Senate allies, Republican Tom Cotton, wrote a letter to Intel's board chair questioning Tan's China ties.\n\n\"Intel is required to be a responsible steward of American taxpayer dollars and to comply with applicable security regulations,\" Cotton wrote, pointing to Intel's nearly $8 billion grant from the CHIPS Act. \"Mr. Tan's associations raise questions about Intel's ability to fulfill these obligations.\"\n\nIntel did not immediately respond to Yahoo Finance's request for comment.\n\nIntel CEO Lip-Bu Tan appears at an event organized by the company in San Jose, Calif, on April 29, 2025. (Andrej Sokolow/picture alliance via Getty Images) \u00b7 picture alliance via Getty Images\n\nShares of Intel are up just 1.8% for the year, lagging other chip stocks such as AMD (AMD), Broadcom (AVGO), and market leader Nvidia (NVDA).\n\nIn late July, Intel shares sank after the company reported that it would cut its workforce by 15% in an attempt to pare costs as it struggles to revive its ailing chip manufacturing business.\n\nIntel both designs and manufactures chips for itself and has, in recent years, tried to produce chips for third-party customers to boost its manufacturing business. So far, efforts have fallen short. The company said in its latest earnings report that it's scrapping an attempt to make its latest manufacturing process technology, called 18A, available to its customers, something analysts had been calling crucial to its turnaround efforts and ability to catch up to rival chip manufacturer TSMC (TSM).\n\nStory continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": -0.0029
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.75
+      }
+    },
+    "date": "2025-08-07T06:29:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Trump calls for Intel CEO to resign; Intel stock falls 3%. Tan's appointment seen as best chance to turnaround troubled company. No direct impact on NVDA."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-ai-bets-lift-softbank-143215322.html",
+    "title": "Nvidia, AI Bets Lift SoftBank To Profit After Brutal Year-Ago Loss Japanese investment holding company SoftBank Group (OTC:SFTBF) (OTC:SFTBY) reported first-quarter results on Thursday. The company reported quarterly net sales of 1.82 trillion Japanese yen ($12.54 billion), up from 1.70 trillion yen ($11.71 billion) a year ago. SoftBank segment net sales grew 8% to 1.66 trillion yen ($11.43 billion). Arm (NASDAQ:ARM) net sales rose 4% to 152.9 billion yen ($1.05 billion). The division incurred a loss of 8.7 billion yen ($60 million) compared to a profit of 10.2",
+    "detail": "Nvidia, AI Bets Lift SoftBank To Profit After Brutal Year-Ago Loss\nNvidia, AI Bets Lift SoftBank To Profit After Brutal Year-Ago Loss\nAnusuya Lahiri\nThu, Aug 7, 2025, 7:32 AM 2 min read\nIn This Article:\n9984.T\nNVDA\nTMUS\nBABA\nCPNG\n\nJapanese investment holding company SoftBank Group (OTC:SFTBF)\u00a0(OTC:SFTBY) reported first-quarter results on Thursday. The company reported quarterly net sales of 1.82 trillion Japanese yen ($12.54 billion), up from 1.70 trillion yen ($11.71 billion) a year ago.\n\nSoftBank segment\u00a0net sales grew\u00a08% to 1.66 trillion yen ($11.43 billion).\n\nArm (NASDAQ:ARM)\u00a0net sales rose 4% to 152.9 billion yen ($1.05 billion). The division incurred a loss of 8.7 billion yen ($60 million) compared to a profit of 10.2 billion yen a year ago due to higher research and development expenses.\n\nAlso Read: SoftBank May Want To Outdo Microsoft With $40 Billion Investment in OpenAI\u2019s Latest Funding Round\n\nThe income before tax for SoftBank was 689.9 billion yen.\n\nSoftBank\u2019s net income was 421.8 billion yen (or $2.91 billion), compared to a loss of 174.3 billion yen a year ago. The gain on investments was 486.9 billion yen (or $3.35 billion), as investment losses on T-Mobile US (NASDAQ:TMUS) shares and Alibaba (NYSE:BABA) shares were partially offset by a gain on Nvidia (NASDAQ:NVDA) shares.\n\nView more earnings on SFTBY\n\nVision Fund investments reported a 660.2 billion yen profit (or $4.55 billion), compared to 32.4 billion yen a year ago. This was driven by higher share prices of some public portfolio companies, including Coupang (NYSE:CPNG), Symbotic (NASDAQ:SYM), and Auto1.\n\nSoftBank reported a segment income of 278.5 billion yen (or $1.92 billion) compared to 279.9 billion yen a year ago.\n\nSoftBank is aggressively investing in AI, leading a $40 billion funding round into ChatGPT developer OpenAI and awaiting the closure of its proposed $6.5 billion acquisition of AI chip firm Ampere Computing.\n\nSoftBank said it and other investors have already committed $10 billion to OpenAI, with the remaining $30 billion expected by December.\n\nSoftBank plays a key role in the massive $500 billion Stargate project in the U.S., which aims to build data centers and AI infrastructure. Investors are awaiting details on how SoftBank plans to finance this investment.\n\nPrice Action: ARM stock is trading higher by 2.4% to $139.38 at last check Thursday.\n\nRead Next:\n\nNvidia Holds Near Highs As AMD, Super Micro Disappoint\n\nPhoto by Michael Vi via Shutterstock\n\nUNLOCKED: 5 NEW TRADES EVERY WEEK. Click now to get top trade ideas daily, plus unlimited access to cutting-edge tools and strategies to gain an edge in the markets.\n\nGet the latest stock analysis from Benzinga?\n\nThis article Nvidia, AI Bets Lift SoftBank To Profit After Brutal Year-Ago Loss originally appeared on Benzinga.com\n\n\u00a9 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.5
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "date": "2025-08-07T07:32:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "1st Qtr net sales up 8% at SoftBank; Arm net sales rise 4%, but incur a loss due to R&D expenses. Income before tax stands at 689.9 billion yen."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bc-most-active-stocks-143016445.html",
+    "title": "BC-Most Active Stocks Gibo Holdings Ltd. 25,023,998 0.0424",
+    "detail": "BC-Most Active Stocks\nThe Associated Press\nThu, August 7, 2025 at 7:30 AM PDT 21 min read\nIn This Article:\nGOOGL\n^IXIC\nIMG\nPALI\nBTOG\n\nNEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks.\n\nNasdaq most active stocks:\n\nStock Name\n\n\t\n\nVolume\n\n\t\n\nHigh\n\n\t\n\nLow\n\n\t\n\nLast\n\n\t\n\nChange\n\n\n\n\nCIMG Inc.\n\n\t\n\n470,278,391\n\n\t\n\n0.6923\n\n\t\n\n0.44\n\n\t\n\n0.6225\n\n\t\n\n+0.4225\n\n\n\n\nLQR House Inc.\n\n\t\n\n97,477,171\n\n\t\n\n1.78\n\n\t\n\n1.28\n\n\t\n\n1.34\n\n\t\n\n+0.14\n\n\n\n\nPalisade Bio Inc.\n\n\t\n\n77,819,155\n\n\t\n\n1.90\n\n\t\n\n1.08\n\n\t\n\n1.09\n\n\t\n\n+0.09\n\n\n\n\nBit Origin Ltd.\n\n\t\n\n54,831,079\n\n\t\n\n0.5104\n\n\t\n\n0.3899\n\n\t\n\n0.4621\n\n\t\n\n+0.1287\n\n\n\n\nIntel Corp.\n\n\t\n\n54,468,927\n\n\t\n\n20.44\n\n\t\n\n19.79\n\n\t\n\n19.93\n\n\t\n\n-0.48\n\n\n\n\nOpendoor Technologies Inc.\n\n\t\n\n50,651,844\n\n\t\n\n1.93\n\n\t\n\n1.76\n\n\t\n\n1.8501\n\n\t\n\n-0.0499\n\n\n\n\nNVIDIA Corp.\n\n\t\n\n42,444,778\n\n\t\n\n183.88\n\n\t\n\n181.30\n\n\t\n\n182.615\n\n\t\n\n+3.195\n\n\n\n\nProcessa Pharmaceuticals Inc.\n\n\t\n\n31,622,533\n\n\t\n\n0.2497\n\n\t\n\n0.2251\n\n\t\n\n0.247\n\n\t\n\n+0.0195\n\n\n\n\nBrilliant Earth Group Inc.\n\n\t\n\n30,871,523\n\n\t\n\n2.7299\n\n\t\n\n1.61\n\n\t\n\n2.2099\n\n\t\n\n+0.8299\n\n\n\n\nIncannex Healthcare Inc.\n\n\t\n\n29,851,236\n\n\t\n\n0.395\n\n\t\n\n0.365\n\n\t\n\n0.3678\n\n\t\n\n+0.0228\n\n\n\n\nAdvanced Micro Devices Inc.\n\n\t\n\n27,520,814\n\n\t\n\n172.4899\n\n\t\n\n166.70\n\n\t\n\n171.45\n\n\t\n\n+8.33\n\n\n\n\nApple Inc.\n\n\t\n\n27,197,721\n\n\t\n\n220.33\n\n\t\n\n216.58\n\n\t\n\n218.1868\n\n\t\n\n+4.9368\n\n\n\n\nSharpLink Gaming Inc.\n\n\t\n\n25,952,275\n\n\t\n\n23.48\n\n\t\n\n21.53\n\n\t\n\n22.35\n\n\t\n\n+0.21\n\n\n\n\nGibo Holdings Ltd.\n\n\t\n\n25,023,998\n\n\t\n\n0.0424\n\n\t\n\n0.0395\n\n\t\n\n0.0409\n\n\t\n\n+0.0009\n\n\n\n\nSunrun Inc.\n\n\t\n\n21,165,947\n\n\t\n\n12.33\n\n\t\n\n10.81\n\n\t\n\n11.97\n\n\t\n\n+2.90\n\n\n\n\nNebius Group N.V.\n\n\t\n\n20,635,908\n\n\t\n\n70.54\n\n\t\n\n63.38\n\n\t\n\n68.295\n\n\t\n\n+13.205\n\n\n\n\nSabre Corp.\n\n\t\n\n20,580,153\n\n\t\n\n2.25\n\n\t\n\n1.80\n\n\t\n\n1.875\n\n\t\n\n-1.125\n\n\n\n\nBit Digital Inc.\n\n\t\n\n19,511,352\n\n\t\n\n3.59\n\n\t\n\n3.31\n\n\t\n\n3.325\n\n\t\n\n-0.115\n\n\n\n\nFortinet Inc.\n\n\t\n\n19,520,016\n\n\t\n\n75.29\n\n\t\n\n70.12\n\n\t\n\n72.61\n\n\t\n\n-23.97\n\n\n\n\nPalantir Technologies Inc.\n\n\t\n\n18,426,735\n\n\t\n\n183.2083\n\n\t\n\n179.03\n\n\t\n\n182.84\n\n\t\n\n+3.30\n\n\n\n\nSmart Powerr Corp.\n\n\t\n\n17,945,053\n\n\t\n\n2.09\n\n\t\n\n1.77\n\n\t\n\n1.90\n\n\t\n\n+0.35\n\n\n\n\nPeloton Interactive Inc.\n\n\t\n\n17,158,459\n\n\t\n\n7.99\n\n\t\n\n7.25\n\n\t\n\n7.815\n\n\t\n\n+0.745\n\n\n\n\nWARNER BROS. DISCOVERY INC.\n\n\t\n\n16,913,027\n\n\t\n\n13.23\n\n\t\n\n11.84\n\n\t\n\n11.875\n\n\t\n\n-0.915\n\n\n\n\nTesla Inc.\n\n\t\n\n15,606,817\n\n\t\n\n322.40\n\n\t\n\n318.10\n\n\t\n\n319.1551\n\n\t\n\n-0.7549\n\n\n\n\nSoFi Technologies Inc.\n\n\t\n\n15,395,871\n\n\t\n\n22.40\n\n\t\n\n21.68\n\n\t\n\n22.26\n\n\t\n\n+0.80\n\n\n\n\nSafe & Green Holdings Corp.\n\n\t\n\n15,239,796\n\n\t\n\n0.3865\n\n\t\n\n0.321\n\n\t\n\n0.335\n\n\t\n\n-0.032\n\n\n\n\nSuper Micro Computer Inc.\n\n\t\n\n14,001,029\n\n\t\n\n48.82\n\n\t\n\n47.015\n\n\t\n\n48.07\n\n\t\n\n+1.28\n\n\n\n\nRobinhood Markets Inc.\n\n\t\n\n13,519,771\n\n\t\n\n111.558\n\n\t\n\n107.40\n\n\t\n\n110.44\n\n\t\n\n+4.79\n\n\n\n\niShares Ethereum Trust ETF\n\n\t\n\n13,490,484\n\n\t\n\n29.31\n\n\t\n\n28.99\n\n\t\n\n29.03\n\n\t\n\n+1.12\n\n\n\n\nLucid Group Inc.\n\n\t\n\n13,305,366\n\n\t\n\n2.22\n\n\t\n\n2.18\n\n\t\n\n2.18\n\n\t\n\n-0.005\n\n\n\n\nCreative Media+Com.Trust Corp.\n\n\t\n\n12,313,445\n\n\t\n\n9.00\n\n\t\n\n7.79\n\n\t\n\n8.41\n\n\t\n\n+1.7038\n\n\n\n\nOndas Holdings Inc.\n\n\t\n\n12,145,607\n\n\t\n\n3.50\n\n\t\n\n3.21\n\n\t\n\n3.3946\n\n\t\n\n+0.0646\n\n\n\n\nAmazon.com Inc.\n\n\t\n\n11,899,912\n\n\t\n\n226.22\n\n\t\n\n220.95\n\n\t\n\n225.105\n\n\t\n\n+2.795\n\n\n\n\niShares Bitcoin Trust ETF\n\n\t\n\n11,315,332\n\n\t\n\n66.39\n\n\t\n\n66.08\n\n\t\n\n66.12\n\n\t\n\n+0.61\n\n\n\n\nErayak Power Solut.Group Inc.\n\n\t\n\n11,059,617\n\n\t\n\n0.0633\n\n\t\n\n0.06\n\n\t\n\n0.0606\n\n\t\n\n-0.0044\n\n\n\n\nSana Biotechnology Inc.\n\n\t\n\n11,177,876\n\n\t\n\n3.32\n\n\t\n\n2.92\n\n\t\n\n3.035\n\n\t\n\n-1.215\n\n\n\n\nSolid Power Inc.\n\n\t\n\n10,525,458\n\n\t\n\n4.54\n\n\t\n\n3.50\n\n\t\n\n4.295\n\n\t\n\n+0.865\n\n\n\n\nLyft Inc.\n\n\t\n\n10,480,969\n\n\t\n\n14.5179\n\n\t\n\n13.5902\n\n\t\n\n14.505\n\n\t\n\n+0.515\n\n\n\n\nCelsius Holdings Inc.\n\n\t\n\n9,545,479\n\n\t\n\n53.0728\n\n\t\n\n50.13\n\n\t\n\n51.725\n\n\t\n\n+8.985\n\n\n\n\nDraftKings Inc.\n\n\t\n\n8,197,925\n\n\t\n\n47.40\n\n\t\n\n43.49\n\n\t\n\n45.06\n\n\t\n\n-0.30\n\n\n\n\nPlug Power Inc.\n\n\t\n\n8,287,708\n\n\t\n\n1.56\n\n\t\n\n1.50\n\n\t\n\n1.525\n\n\t\n\n+0.065\n\n\n\n\nRigetti Computing Inc.\n\n\t\n\n7,978,214\n\n\t\n\n16.055\n\n\t\n\n15.42\n\n\t\n\n15.75\n\n\t\n\n-0.24\n\n\n\n\nNavitas Semiconductor Corp.\n\n\t\n\n7,843,513\n\n\t\n\n6.96\n\n\t\n\n6.47\n\n\t\n\n6.745\n\n\t\n\n+0.395\n\n\n\n\nBitfarms Ltd.\n\n\t\n\n7,718,746\n\n\t\n\n1.33\n\n\t\n\n1.2819\n\n\t\n\n1.295\n\n\t\n\n+0.025\n\n\n\n\nApplovin Corp.\n\n\t\n\n7,754,020\n\n\t\n\n447.59\n\n\t\n\n385.10\n\n\t\n\n446.7701\n\n\t\n\n+56.2001\n\n\n\n\nGrab Holdings Limited\n\n\t\n\n7,436,706\n\n\t\n\n4.86\n\n\t\n\n4.77\n\n\t\n\n4.8346\n\n\t\n\n+0.0646\n\n\n\n\nTNF Pharmaceuticals Inc.\n\n\t\n\n7,354,973\n\n\t\n\n0.1019\n\n\t\n\n0.0959\n\n\t\n\n0.099\n\n\t\n\n-0.0055\n\n\n\n\nRiot Platforms Inc.\n\n\t\n\n7,269,443\n\n\t\n\n12.32\n\n\t\n\n11.73\n\n\t\n\n11.755\n\n\t\n\n+0.095\n\n\n\n\nChanson International Holding\n\n\t\n\n7,213,866\n\n\t\n\n0.089\n\n\t\n\n0.079\n\n\t\n\n0.0867\n\n\t\n\n+0.0032\n\n\n\n\nRivian Automotive Inc.\n\n\t\n\n6,876,111\n\n\t\n\n12.18\n\n\t\n\n11.715\n\n\t\n\n12.095\n\n\t\n\n+0.455\n\n\n\n\nApplied Digital Corp.\n\n\t\n\n6,850,871\n\n\t\n\n15.36\n\n\t\n\n14.55\n\n\t\n\n14.6519\n\n\t\n\n-0.1381\n\n\n\n\nBioXcel Therapeutics Inc.\n\n\t\n\n6,597,661\n\n\t\n\n3.70\n\n\t\n\n3.06\n\n\t\n\n3.4398\n\n\t\n\n+0.1198\n\n\n\n\nAlphabet Inc.\n\n\t\n\n6,527,862\n\n\t\n\n197.54\n\n\t\n\n195.46\n\n\t\n\n196.67\n\n\t\n\n+0.58\n\n\n\n\nHertz Global Holdings Inc.\n\n\t\n\n6,405,862\n\n\t\n\n6.55\n\n\t\n\n5.87\n\n\t\n\n6.11\n\n\t\n\n+0.54\n\n\n\n\nMARA Holdings Inc.\n\n\t\n\n6,308,233\n\n\t\n\n16.50\n\n\t\n\n16.0127\n\n\t\n\n16.035\n\n\t\n\n+0.145\n\n\n\n\nAveanna Healthcare Holdings In\n\n\t\n\n6,305,680\n\n\t\n\n6.09\n\n\t\n\n5.32\n\n\t\n\n5.708\n\n\t\n\n+1.818\n\n\n\n\nMicron Technology Inc.\n\n\t\n\n6,264,823\n\n\t\n\n115.28\n\n\t\n\n111.97\n\n\t\n\n113.095\n\n\t\n\n+4.315\n\n\n\n\nSarepta Therapeutics Inc.\n\n\t\n\n6,229,302\n\n\t\n\n19.26\n\n\t\n\n17.71\n\n\t\n\n18.358\n\n\t\n\n+2.098\n\n\n\n\nExact Sciences Corp.\n\n\t\n\n6,181,696\n\n\t\n\n43.28\n\n\t\n\n38.8118\n\n\t\n\n42.23\n\n\t\n\n-4.68\n\n\n\n\nAmerican Airlines Group Inc.\n\n\t\n\n6,043,964\n\n\t\n\n11.80\n\n\t\n\n11.69\n\n\t\n\n11.7013\n\n\t\n\n-0.0387\n\n\n\n\nOceanPal Inc.\n\n\t\n\n5,999,176\n\n\t\n\n0.1092\n\n\t\n\n0.1057\n\n\t\n\n0.1073\n\n\t\n\n-0.0009\n\n\n\n\nMarqeta Inc.\n\n\t\n\n6,015,162\n\n\t\n\n6.84\n\n\t\n\n6.39\n\n\t\n\n6.7101\n\n\t\n\n+1.0301\n\n\n\n\nCipher Mining Inc.\n\n\t\n\n5,890,076\n\n\t\n\n5.29\n\n\t\n\n4.97\n\n\t\n\n5.015\n\n\t\n\n-0.195\n\n\n\n\nSoundhound AI Inc.\n\n\t\n\n5,849,000\n\n\t\n\n11.06\n\n\t\n\n10.825\n\n\t\n\n10.89\n\n\t\n\n+0.09\n\n\n\n\nTerawulf Inc.\n\n\t\n\n5,788,426\n\n\t\n\n5.28\n\n\t\n\n5.04\n\n\t\n\n5.0582\n\n\t\n\n-0.0918\n\n\n\n\nFaraday Future Intel.Electric\n\n\t\n\n5,704,714\n\n\t\n\n2.54\n\n\t\n\n2.33\n\n\t\n\n2.45\n\n\t\n\n+0.16\n\n\n\n\nIREN Ltd.\n\n\t\n\n5,716,410\n\n\t\n\n18.96\n\n\t\n\n18.32\n\n\t\n\n18.47\n\n\t\n\n+0.15\n\n\n\n\nDatadog Inc.\n\n\t\n\n5,586,633\n\n\t\n\n149.00\n\n\t\n\n140.78\n\n\t\n\n141.60\n\n\t\n\n+4.64\n\n\n\n\nAPA Corp.\n\n\t\n\n5,455,616\n\n\t\n\n20.375\n\n\t\n\n19.04\n\n\t\n\n19.49\n\n\t\n\n+1.43\n\n\n\n\nCrocs Inc.\n\n\t\n\n5,186,494\n\n\t\n\n81.6899\n\n\t\n\n75.10\n\n\t\n\n79.565\n\n\t\n\n-25.565\n\n\n\n\nAkebia Therapeutics Inc.\n\n\t\n\n5,141,632\n\n\t\n\n3.28\n\n\t\n\n2.92\n\n\t\n\n3.175\n\n\t\n\n-0.61\n\n\n\n\nAirbnb Inc.\n\n\t\n\n5,112,920\n\n\t\n\n123.3899\n\n\t\n\n118.57\n\n\t\n\n122.19\n\n\t\n\n-8.31\n\n\n\n\nHonest Co. Inc.\n\n\t\n\n5,083,734\n\n\t\n\n4.12\n\n\t\n\n3.50\n\n\t\n\n3.825\n\n\t\n\n-0.695\n\n\n\n\nAgriforce Growing Systems Ltd.\n\n\t\n\n4,885,073\n\n\t\n\n3.48\n\n\t\n\n2.97\n\n\t\n\n3.3202\n\n\t\n\n+0.1902\n\n\n\n\nWang & Lee Group Inc.\n\n\t\n\n4,839,325\n\n\t\n\n0.0482\n\n\t\n\n0.041\n\n\t\n\n0.0436\n\n\t\n\n-0.0012\n\n\n\n\nOxford Lane Capital Corp.\n\n\t\n\n4,824,763\n\n\t\n\n3.34\n\n\t\n\n3.24\n\n\t\n\n3.27\n\n\t\n\n-0.09\n\n\n\n\nIntuitive Machines Inc.\n\n\t\n\n4,659,801\n\n\t\n\n11.12\n\n\t\n\n10.01\n\n\t\n\n10.375\n\n\t\n\n-0.125\n\n\n\n\nPlus Therapeutics Inc.\n\n\t\n\n4,608,391\n\n\t\n\n0.7359\n\n\t\n\n0.6969\n\n\t\n\n0.7046\n\n\t\n\n-0.0552\n\n\n\n\nBroadcom Inc.\n\n\t\n\n4,551,915\n\n\t\n\n310.34\n\n\t\n\n305.10\n\n\t\n\n307.84\n\n\t\n\n+6.17\n\n\n\n\nCOREWEAVE INC.\n\n\t\n\n4,573,127\n\n\t\n\n118.8699\n\n\t\n\n115.02\n\n\t\n\n118.78\n\n\t\n\n+8.54\n\n\n\n\nLiveperson Inc.\n\n\t\n\n4,566,063\n\n\t\n\n1.27\n\n\t\n\n1.0901\n\n\t\n\n1.2303\n\n\t\n\n+0.0503\n\n\n\n\nCoinbase Global Inc.\n\n\t\n\n4,440,104\n\n\t\n\n316.7799\n\n\t\n\n309.60\n\n\t\n\n314.405\n\n\t\n\n+10.825\n\n\n\n\nTilray Brands Inc.\n\n\t\n\n4,421,909\n\n\t\n\n0.6526\n\n\t\n\n0.6222\n\n\t\n\n0.6439\n\n\t\n\n+0.0267\n\n\n\n\nRemitly Global Inc.\n\n\t\n\n4,405,503\n\n\t\n\n19.83\n\n\t\n\n18.72\n\n\t\n\n19.365\n\n\t\n\n+2.895\n\n\n\n\nEos Energy Enterprises Inc.\n\n\t\n\n4,383,608\n\n\t\n\n6.84\n\n\t\n\n6.565\n\n\t\n\n6.8399\n\n\t\n\n+0.3799\n\n\n\n\nCleanspark Inc.\n\n\t\n\n4,354,762\n\n\t\n\n11.44\n\n\t\n\n10.87\n\n\t\n\n10.885\n\n\t\n\n-0.115\n\n\n\n\nShopify Inc.\n\n\t\n\n4,326,245\n\n\t\n\n155.80\n\n\t\n\n151.51\n\n\t\n\n155.40\n\n\t\n\n+0.50\n\n\n\n\nKaival Brands Innovations Grp\n\n\t\n\n4,302,846\n\n\t\n\n0.6199\n\n\t\n\n0.5004\n\n\t\n\n0.5658\n\n\t\n\n+0.0921\n\n\n\n\nADMA Biologics Inc.\n\n\t\n\n4,217,987\n\n\t\n\n16.78\n\n\t\n\n14.62\n\n\t\n\n16.50\n\n\t\n\n-2.04\n\n\n\n\nKrispy Kreme Inc.\n\n\t\n\n3,944,634\n\n\t\n\n3.46\n\n\t\n\n2.90\n\n\t\n\n3.165\n\n\t\n\n-0.255\n\n\n\n\nXeris Biopharma Holdings Inc.\n\n\t\n\n3,781,743\n\n\t\n\n7.085\n\n\t\n\n6.10\n\n\t\n\n6.9748\n\n\t\n\n+1.4848\n\n\n\n\nRecursion Pharmaceuticals Inc.\n\n\t\n\n3,755,595\n\n\t\n\n5.69\n\n\t\n\n5.52\n\n\t\n\n5.615\n\n\t\n\n+0.135\n\n\n\n\nSolarEdge Technologies Inc.\n\n\t\n\n3,669,352\n\n\t\n\n27.94\n\n\t\n\n23.01\n\n\t\n\n23.97\n\n\t\n\n-1.82\n\n\n\n\nCisco Systems Inc.\n\n\t\n\n3,599,087\n\n\t\n\n70.14\n\n\t\n\n69.475\n\n\t\n\n69.515\n\n\t\n\n+0.305\n\n\n\n\nParamount Skydance Corp.\n\n\t\n\n3,509,943\n\n\t\n\n12.79\n\n\t\n\n10.90\n\n\t\n\n11.22\n\n\t\n\n-0.42\n\n\n\n\nPagaya Technologies Ltd.\n\n\t\n\n3,450,753\n\n\t\n\n41.48\n\n\t\n\n34.80\n\n\t\n\n35.785\n\n\t\n\n+4.425\n\n\n\n\nAlphabet Inc.\n\n\t\n\n3,387,251\n\n\t\n\n198.37\n\n\t\n\n196.30\n\n\t\n\n197.38\n\n\t\n\n+0.46\n\n\n\n\nQuantum Computing Inc.\n\n\t\n\n3,367,070\n\n\t\n\n16.42\n\n\t\n\n15.75\n\n\t\n\n16.22\n\n\t\n\n+0.05\n\n\n\n\nHuntington Bancshares Inc.\n\n\t\n\n3,356,197\n\n\t\n\n16.24\n\n\t\n\n15.88\n\n\t\n\n15.8901\n\n\t\n\n-0.1499\n\n\n\n\nTSS Inc.\n\n\t\n\n3,289,377\n\n\t\n\n23.15\n\n\t\n\n20.5506\n\n\t\n\n21.98\n\n\t\n\n-6.77\n\nNYSE most active stocks:\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.017
+      }
+    },
+    "date": null,
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA Corp. saw an increase of +3.195 in its share price, reaching 182.615."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/si2-announces-creation-si2-llm-143000598.html",
+    "title": "Si2 Announces Creation of the Si2 LLM Benchmarking Coalition AUSTIN, Texas, August 07, 2025--Si2 announced creation of the LLM benchmarking coalition to expedite development of high-quality large language models for semiconductor design.",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nSi2 Announces Creation of the Si2 LLM Benchmarking Coalition\nBusiness Wire\nThu, Aug 7, 2025, 7:30 AM 2 min read\nIn This Article:\nNVDA\n\nExpediting the development of high-quality LLMs for semiconductor design\n\nAUSTIN, Texas, August 07, 2025--(BUSINESS WIRE)--The Silicon Integration Initiative (Si2) announced today the creation of the LLM benchmarking coalition (LBC) to expedite the development of high-quality large language models (LLMs) for semiconductor design problems. Si2 also announced that NVIDIA is joining as a founding member of the new coalition and that the coalition will build on the company\u2019s open-source Comprehensive Verilog Design Problems (CVDP) benchmark that provides an LLM evaluation framework for LLMs used for Register-transfer level (RTL) design and verification problems.\n\nThe Si2 Large Language Model Benchmarking Coalition is one of four Coalitions supported by Si2, a not-for-profit member organization whose members innovate on trusted standards and share solutions that lower development costs and increase design productivity.\n\nThe Si2 LLM Benchmarking Coalition\u2019s corporate and academic members will build upon the RTL design and verification benchmarks provided in CVDP by extending problems to cover new categories and design domains, monitoring a leaderboard of results, refining benchmarking methods and metrics, and providing an interpretation of the results.\n\nLeigh Anne Clevenger, Si2 vice president of technology, said, \"The motivation for LBC came from the 2024 IEEE International Workshop on LLM-Aided Design (LAD\u201924) which highlighted a lack of benchmarks to evaluate the quality-of-results for Verilog for hardware design. Many current Si2 AI/ML in EDA SIG member companies and universities plan to participate, with experts already providing important input for enhancing and expanding the benchmarks in CVDP to make it an industry and academia-wide effort.\"\n\nRobert Aslett, Si2 CEO, stated, \"We are excited about the very positive reaction received during initial discussions with representatives from several semiconductor companies and academic institutions. We are now in the process of signing up members of the coalition.\"\n\nLearn more about Si2 and becoming a member of the LLM Benchmarking Coalition by visiting Si2 or Si2 contact.\n\nView source version on businesswire.com: https://www.businesswire.com/news/home/20250806010450/en/\n\nContacts\n\nMedia Contact\nTerry Berke\n737-326-7590\ntberke@si2.org\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "date": "2025-08-07T07:30:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA joins Si2's new LLM Benchmarking Coalition, aiming to accelerate high-quality LLM development for semiconductor design using NVIDIA's open-source CVDP benchmark"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/coral-protocol-outperforms-microsoft-34-140000108.html",
+    "title": "Coral Protocol Outperforms Microsoft by 34% With Top GAIA Benchmark for AI Mini-Model Coral Protocol's multi-agent system has outperformed the Microsoft-backed Magnetic-UI by an unprecedented 34% on the GAIA Benchmark, demonstrating a productive alternative to vertical scaling in AI. The protocol has vowed to surpass modern AI performance limits by scaling systems horizontally, favoring intelligent orchestration over constant parameter extension.",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nCoral Protocol Outperforms Microsoft by 34% With Top GAIA Benchmark for AI Mini-Model\nPR Newswire\nThu, Aug 7, 2025, 7:00 AM 3 min read\nIn This Article:\nMSFT\nNVDA\n\nLONDON, Aug. 7, 2025 /PRNewswire/ -- Coral Protocol's multi-agent system has outperformed the Microsoft-backed Magnetic-UI by an unprecedented 34% on the GAIA Benchmark, demonstrating a productive alternative to vertical scaling in AI. The protocol has vowed to surpass modern AI performance limits by scaling systems horizontally, favoring intelligent orchestration over constant parameter extension.\n\nCoral Protocol\n\nCoral achieved the highest score on the GAIA Benchmark for verified systems using mini agents, validating NVIDIA's thesis that smaller models \u2013 when orchestrated intelligently \u2013 represent the industry's future. However, the team say the result had less to do with building a powerful system than altering the way we think about scaling AI systems themselves.\n\nAn open protocol, Coral is designed to push AI beyond its typical capacity. Rather than scaling up general models, it facilitates the scaling of intelligence by layering in focused, specialized agents from around the world. Through secure, parallel, multi-agent coordination, Coral enables any language model \u2013 large or small \u2013 to operate more effectively, delivering superior reasoning, planning, and problem-solving.\n\n\"This breakthrough marks a turning point in AI infrastructure,\" says Coral CTO Caelum Forder. \"It's proof that horizontal scaling isn't just possible \u2013 it's practical, and Coral is the most effective way to do it. The Internet of Agents is now a working reality. If you are an agent developer, just Coralise it. If you are an application developer, build it better for less using our infrastructure.\"\n\nCompetition between entities looking to create the most advanced agentic system has intensified, with the trend towards building larger models to handle ever more complex tasks. Coral's results, however, fly in the face of convention and bear out the findings of a recent NVIDIA paper showing that smaller systems are sufficiently powerful \u2013 and do not sacrifice on speed, security, and cost.\n\nA multi-layered evaluation suite for advanced AI capabilities, the GAIA Benchmark is used to determine the ability of AI systems to solve real-world tasks requiring significant time and effort for skilled humans. It takes the form of 450 non-trivial questions demanding intensive research, data analysis, and reasoning. Developed to evaluate LLM agents on their ability to act as general-purpose AI assistants, GAIA is the industry standard for measuring model performance.\n\nCoral's GAIA Agent System used in the test is an application built on the eponymous protocol and heavily inspired by CAMEL's OWL. It deploys specialized agents for a multitude of tasks such as answer finding, assistance, critique, image analysis, planning, problem solving, search, video processing, and web browsing. Agents interface with one another using the Coral server's MCP communication tools.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-08-07T07:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Coral Protocol outperforms Microsoft by 34% on GAIA Benchmark, favoring horizontal scaling; NVIDIA-backed thesis validated."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/reeltimes-reel-intelligence-ri-reports-140000864.html",
+    "title": "ReelTime's Reel Intelligence (RI) Update - Reports Significant Progress, Surpassing Industry Peers in Performance and Efficiency RI outpaces AI's Backed by Tech Giants Like Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), - heralded as smarter, more capable, higher quality, more efficient, and significantly more environmentally friendly\" than any ...",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nReelTime's Reel Intelligence (RI) Update - Reports Significant Progress, Surpassing Industry Peers in Performance and Efficiency\nReelTime Rentals, Inc.\nThu, Aug 7, 2025, 7:00 AM 4 min read\nIn This Article:\nRLTR\nMSFT\nNVDA\nGOOGL\nAMZN\n\nRI outpaces AI's Backed by Tech Giants Like Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), - heralded as smarter, more capable, higher quality, more efficient, and significantly more environmentally friendly\" than any AI.\n\nBOTHELL, WASHINGTON / ACCESS Newswire / August 7, 2025 / ReelTime Media (OTCID:RLTR) today released a corporate update on its flagship AI platform, Reel Intelligence (RI), highlighting a series of significant milestones and accolades achieved since RI's public launch on March 20, 2025. In just a few months, RI has surpassed industry-leading AI systems across multiple domains, including language fluency, hyper-specific image generation, Grammy-eligible music composition, and native 4K video creation, all while utilizing a fraction of the resources required by traditional AIs.\n\nExperts have described RI as \"smarter, more capable, higher quality, more efficient, and significantly more environmentally friendly\" than any AI on the market today.\n\nKey Milestones Since Launch (March 2025):\n\nMarch 2025- Initial Launch: RI Beta was introduced to the public, achieving fluency in over 50 languages within its first month. It demonstrated accelerated learning and adaptive reasoning beyond what legacy models from OpenAI, Google, and Anthropic have achieved. This early progress showcased RI's exponential learning capacity, driven by user interaction rather than large-scale retraining cycles.\n\nMay 2025 - Advanced Image Generation: RI released a major update enabling hyper-specific, contextually accurate image generation. The system now produces detail-rich, realistic visuals, such as specific vehicle models or street scenes with accurate local signage, surpassing competitors dependent on static datasets.\n\nJuly 2025 - 4K Video and Multimedia Superiority: RI became the first AI platform to support native 4K video generation at cinematic quality. As of July, RI is the only all-in-one AI platform delivering professional-grade image, audio, and video creation. External benchmarks have shown RI outperforming top models in code generation (comparable to GPT-4 and Claude), music composition (rivaling Google's MusicLM), and complex logical reasoning. Competitors such as OpenAI's Sora, Pika Labs, Runway ML, and DeepSeek have yet to match these capabilities.\n\nJuly 2025 - Mobile Availability: RI was rolled out to 83 million Samsung devices across North America, followed by 2.8 billion Android devices globally, and then expanded to 118 million iPhones and iPads in North America-none of which required App Store installation. RI delivers its robust functionality while using less than 1% of the storage space required by platforms like ChatGPT, Gemini, or Claude.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "date": "2025-08-07T07:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI system RI from ReelTime Media outperforms tech giants' AI, boasting superior language fluency, efficiency, and environmental friendliness."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/hold-sell-crwv-stock-q2-134600238.html",
+    "title": "Should You Hold or Sell CRWV Stock Before Q2 Earnings Release? CoreWeave heads into Q2 earnings with strong demand trends but competition, high capex, and valuation weighing on sentiment.",
+    "detail": "Should You Hold or Sell CRWV Stock Before Q2 Earnings Release?\nVaishali Doshi\nThu, Aug 7, 2025, 6:46 AM 6 min read\nIn This Article:\nCRWV\nMSFT\nAMZN\nOPAI.PVT\nNVDA\n\nCoreWeave, Inc. CRWV will report its second-quarter 2025 results on Aug. 12, after market close.\n\nThe Zacks Consensus Estimate for the bottom line in the to-be-reported quarter is pegged at a loss of 23 cents. The estimate has been unchanged in the past 60 days. The consensus estimate for total revenues is pinned at $1.08 billion.\n\nThis is CoreWeave\u2019s second earnings release since it started trading as a listed company on March 28, 2025. CoreWeave is an AI-focused infrastructure company and its cloud platform has been developed to scale, support, and accelerate GenAI.\n\nIn the last reported quarter, CRWV reported a loss of $1.49 per share, which was much wider than a loss of 62 cents in the year-ago quarter. Loss per share includes $177 million of stock-based compensation expense for awards with a liquidity-event performance-based vesting condition, which was satisfied at IPO. Adjusted net loss for the quarter was $149.6 million compared with $23.6 million a year ago.\n\nWhat Our Model Predicts for CRWV\u2019s Q2\n\nOur proven model does not conclusively predict an earnings beat for CRWV this time around. The combination of a positive Earnings ESP and a Zacks Rank #1 (Strong Buy), 2 (Buy) or 3 (Hold) increases the chances of an earnings beat. But that is not the case here. You can uncover the best stocks to buy or sell before they are reported with our Earnings ESP Filter.\n\nCRWV has an Earnings ESP of 0.00% and a Zacks Rank #4 (Sell). You can see the complete list of today\u2019s Zacks #1 Rank stocks here.\n\nFactors to Focus on Ahead of CRWV\u2019s Q2 Earnings\n\nAmid the AI infrastructure boom, increasing demand for CoreWeave\u2019s cloud software and infrastructure services is likely to have driven the top-line performance. In the last reported quarter, CRWV\u2019s revenues jumped 420% year over year, ending the quarter with a backlog of $25.9 billion.\n\nBesides a $11.9 billion deal with OpenAI, CRWV has added several new enterprise customers and a hyperscaler client in the last reported quarter. It also signed expansion agreements with many customers, including a $4 billion expansion with a big AI-enterprise customer. CRWV added that the $4 billion expansion agreement signed with a big AI client will be reflected in revenue backlog beginning in the second quarter.\n\nIn addition to scaling capacity and getting adequate financing for infrastructure, CRWV is also expanding its go-to-market capabilities. Moreover, the buyout of the Weights and Biases acquisition has added 1,400 AI labs and enterprises as clients for CoreWeave. Building on this, the company unveiled three major offerings in June, which aim to help AI teams develop, deploy and iterate faster by combining CoreWeave\u2019s cloud infrastructure with Weights & Biases\u2019 developer platform.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-08-07T06:46:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"CoreWeave, Inc. (CRWV) to report Q2 2025 results on Aug 12; Zacks Consensus estimates a loss of 23 cents and $1.08B revenue.\""
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/think-nvidia-stock-expensive-2-134500750.html",
+    "title": "Think Nvidia Stock Is Expensive? These 2 Charts Might Change Your Mind. Is now the time to buy Nvidia stock?",
+    "detail": "Think Nvidia Stock Is Expensive? These 2 Charts Might Change Your Mind.\nHoward Smith, The Motley Fool\nThu, Aug 7, 2025, 6:45 AM 3 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia's relatively high price-to-sales (P/S) ratio has proven to be justified.\n\nData center revenue is still climbing.\n\nNvidia also has multiple growth opportunities in another segment.\n\nThese 10 stocks could mint the next wave of millionaires \u203a\n\nLast month, Nvidia (NASDAQ: NVDA) became the first company to be valued at more than $4 trillion, as artificial intelligence (AI) has become the future of technology. The stock is trading a tiny bit under its recent record high on Thursday morning, and investors may be wondering if the stock is too expensive to buy. A look at how Nvidia became the AI leader might give investors more comfort in buying shares now.\n\nImage source: Nvidia.\nIt started with data center GPU sales\n\nNvidia stock does look relatively expensive right now. Its price-to-sales (P/S) ratio based on expected 2025 revenue is about 21.5. That's above its three-year average of 18.5, which itself is very high. But an elevated P/S valuation has thus far proven justified. That's because sales have soared exponentially, led by Nvidia's data center segment.\n\nData source: Nvidia. Chart by author.\n\nNvidia's stock price has risen along with those sales, and there looks to be more room to run for both. Data center sales continue to increase every quarter, and the company's next-generation graphics processing unit (GPU) Rubin architecture is slated for release in 2026.\n\nWhat's next beyond data centers\n\nNvidia has growth potential beyond data centers, too. Revenue from its automotive and robotics segment is also growing quickly, as shown below. It could have a longer runway for growth, too.\n\nData source: Nvidia. Chart by author.\n\nCompanies around the world are working to make driverless cars a reality. There could be a massive market for self-driving ridesharing and taxi services. Nvidia is partnering with legacy automakers as well as start-ups like autonomous driving company Nuro to advance AI-driven autonomous vehicles.\n\nBeyond automotive applications, robotics could also become a large market as companies seek more efficient and safer ways to operate. Nvidia's future looks bright. The stock may look expensive now, but that can quickly change as the business soars.\n\nDon\u2019t miss this second chance at a potentially lucrative opportunity\n\nEver feel like you missed the boat in buying the most successful stocks? Then you\u2019ll want to hear this.\n\nOn rare occasions, our expert team of analysts issues a \u201cDouble Down\u201d stock recommendation\u00a0for companies that they think are about to pop. If you\u2019re worried you\u2019ve already missed your chance to invest, now is the best time to buy before it\u2019s too late. And the numbers speak for themselves:\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "date": "2025-08-07T06:45:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite high P/S ratio, Nvidia's data center revenue growth justifies valuation; AI leader status, multiple growth opportunities boost outlook."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/heres-why-nvidia-partners-stock-130507685.html",
+    "title": "Here's Why This Nvidia Partner's Stock Soared in July There's no sign of any slowdown in the AI/data center market in 2025.",
+    "detail": "Here's Why This Nvidia Partner's Stock Soared in July\nLee Samaha, The Motley Fool\nThu, Aug 7, 2025, 6:05 AM 3 min read\nIn This Article:\nVRT\nNVDA\nKey Points\n\nStrong revenue growth has more than offset margin pressures coming from headwinds on costs from tariffs.\n\nVertiv's management continues to invest in growing the business.\n\nThese 10 stocks could mint the next wave of millionaires \u203a\n\nShares in data center equipment company and Nvidia partner Vertiv Holdings (NYSE: VRT) rose by 13.4% in July, according to data provided by S&P Global Market Intelligence. The move comes in a month when the company released an excellent set of second-quarter earnings, raised full-year guidance across the board, and confirmed that the artificial intelligence (AI)/data center capital spending market has a long pathway of growth ahead.\n\nVertiv's hot second quarter\n\nEarlier in the year, the market had, understandably, been concerned that the data center infrastructure stocks had gotten ahead of events. A combination of trade tariff uncertainty, power generation concerns, the regulatory environment in Europe, and the usual concerns over a hot market overheating led to the sell-off in the stock.\n\nDespite the rise since then, the concerns still linger, not least as companies like Nvidia face controls on what technology they can sell to China. Fast-forward to the latest results from Vertiv, and it's clear that there's no sign of any slowdown in the market. Vertiv's trailing-12-month orders rose 11% compared to the same period a year ago. Moreover, its European orders pipeline (the company's weak spot in the fourth quarter of 2024) is growing sequentially, \"providing optimism for 2026 and beyond,\" according to CEO Giordano Albertazzi on the earnings call.\n\nTurning to the guidance hike, tariffs are hurting margins, but that's more than made up for by stronger-than-expected revenue growth. For example, management increased the midpoint of its full-year net sales guidance to $10 billion compared to $9.45 billion previously. However, management lowered the midpoint of its full-year adjusted operating profit guidance to 20% from 20.5% previously. The end result is that adjusted operating profit guidance was increased to $1.99 billion from $1.935 billion previously.\n\nImage source: Getty Images.\nVertiv isn't standing still\n\nThe good news is the company continues to invest in its future. That's pretty much what you might expect with David Cote (a 15-year CEO of Honeywell, responsible for its growth transformation) as chairman. Not only is Vertiv increasing its investment in research and development, but it's also acquiring Great Lakes Data Racks & Cabinets, a data center rack enclosure business, for $200 million, further enhancing its strength in power and cooling systems.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "date": "2025-08-07T06:05:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Strong Q2 results boost Vertiv shares (+13.4%) as AI/data center spending market growth continues; Nvidia partner Vertiv raises full-year guidance."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidias-overlooked-networking-segment-grows-124140576.html",
+    "title": "Nvidia's Overlooked Networking Segment Grows at Lightning Speed Analysts see rising importance of NVLink and InfiniBand as AI inferencing scales",
+    "detail": "Nvidia's Overlooked Networking Segment Grows at Lightning Speed\nFaizan Farooque\nThu, Aug 7, 2025, 5:41 AM 1 min read\nIn This Article:\nNVDA\n\nWhen Nvidia (NVDA, Financials) publishes its earnings on Aug. 27, most people will be interested in its AI processors. But what really ties them might be the tale. Nvidia's networking business, which is based on technologies like NVLink and InfiniBand, is becoming a silent force behind the scenes.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nLast year, networking made $12.9 billion, more than gaming for the first time. In the most recent quarter, it brought in $4.9 billion of the company's $39.1 billion in data center revenues. That's a lot of money, and it's expanding quickly as businesses rush to deploy AI infrastructure.\n\nPeople used to think that operating AI models, or \"inference,\" wouldn't take as much work as training them. That's not the case anymore. Fast connections between chips are just as critical as the chips themselves now. Nvidia's tools help make that happen.\n\nNvidia's head start and integrated strategy are hard to beat, even while competitors like AMD (AMD, Financials) and big cloud companies are working on their own solutions. Networking may not get a lot of attention, but it's becoming more and more important for making AI systems quick, stable, and scalable.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-08-07T05:41:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's networking segment, driven by technologies like NVLink and InfiniBand, surpassed gaming for the first time last year, generating $12.9B, and accounting for $4.9B of $3"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/inod-focus-q2-earnings-beat-120100391.html",
+    "title": "INOD in Focus on Q2 Earnings Beat and Huge Short-Term Price Upside INOD beats Q2 estimates, raises 2025 outlook, and eyes major AI gains with strong momentum and a 72% price upside.",
+    "detail": "INOD in Focus on Q2 Earnings Beat and Huge Short-Term Price Upside\nNalak Das\nThu, Aug 7, 2025, 5:01 AM 3 min read\nIn This Article:\nINOD\n\nInnodata Inc. INOD has established itself as a crucial partner in the artificial intelligence (AI) revolution providing high-quality data needed to train advanced language models. This mid-cap data engineering service provider for AI applications reported second-quarter 2025 adjusted earnings per share of $0.20, beating the Zacks Consensus Estimate of $0.11.\n\nQuarterly revenues of $58.39 million jumped 79% year over year, outpacing the Zacks Consensus Estimate by 3.6%. Buoyed by the strong second-quarter performance, INOD raised its 2025 revenue growth guidance to 45%+ year over year, from its previous forecast of 40%.\n\nGrowing AI Applications\n\nINOD is expected to benefit from the massive demand for supplying state-of-the-art data engineering to large language model building and maintenance over the long term. Innodata currently supports five of the seven hyperscalers within the Magnificent 7 domain. Five of these companies raised their 2025 AI-centric capital expenditure on the last-reported earnings conference call.\n\nThe long-term growth of Innodata\u2019s business model is set to be backed by big techs, other big enterprises, industry-specific demand, federal agencies, public relations and healthcare. One of the most promising aspects of INOD\u2019s strategy is its successful customer diversification efforts.\n\nINOD has launched a GenAI Test and Evaluation Platform focused on Large Language Model validation and risk benchmarking. The platform, built on NVIDIA Corp.\u2019s NVDA NIM microservices, enables testing for hallucination, prompt-level adversaries and reliability scoring.\n\nWith MasterClass as the first customer and a broader rollout planned through a global consulting partner in the second half of 2025, the platform positions Innodata to deepen integration with Big Tech\u2019s next wave of GenAI investment.\n\nFavorable Estimate Revisions for INOD Stock\n\nInnodata has an expected revenue and earnings growth rate of 41.9% and -23.6%, respectively, for the current year. The Zacks Consensus Estimate for current-year earnings has remained the same over the last 30 days.\n\nINOD has an expected revenue and earnings growth rate of 3.4% and 54.8%, respectively, for next year. The Zacks Consensus Estimate for next-year earnings has improved 2.9% over the last 30 days.\n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\nINOD Stock at Huge Discount to 52-Week High\n\nThe stock price of Innodata is currently trading at a discount of 38.6% from its 52-week high. Despite facing tough competition from TaskUs Inc. TASK and Palantir Technologies Inc. PLTR, the stock price of INOD has provided double-digit returns (10.3%) year to date beating the broad-market benchmark \u2014 the S&P 500 index.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-08-07T05:01:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2Q25 earnings beat, +79% YoY revenue growth, raises 2025 revenue guidance to 45%, benefiting from growing AI applications."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/deutsche-telekom-partnering-nvida-brookfield-115939292.html",
+    "title": "Deutsche Telekom partnering with Nvida, Brookfield on AI data centre -CEO \"We have partnerships with Brookfield and also with Nvidia \u2013 these are our big partners for this gigabit factory,\" CEO Tim Hoettges said in a call with reporters following the company's second quarter results.  Although discussions with North Rhine-Westphalia about building the data processing center in the state are ongoing, a final decision has yet to be made.",
+    "detail": "Deutsche Telekom partnering with Nvida, Brookfield on AI data centre -CEO\nGerman Telekom CEO Hoettges attends the annual results news conference in Bonn \u00b7 Reuters\nReuters\nThu, Aug 7, 2025, 4:59 AM 1 min read\nIn This Article:\nBAM.TO\nNVDA\nDTE.DE\n\n(Reuters) -Deutsche Telekom is partnering with Nvidia and Canadian private equity fund Brookfield in a bid to build one of the EU's AI \"gigafactories\" in North Rhine-Westphalia, Germany, its chief executive said on Thursday.\n\n\"We have partnerships with Brookfield and also with Nvidia \u2013 these are our big partners for this gigabit factory,\" CEO Tim Hoettges said in a call with reporters following the company's second quarter results.\n\nAlthough discussions with North Rhine-Westphalia about building the data processing center in the state are ongoing, a final decision has yet to be made.\n\n\"This is where we currently see our factory. But, of course, that could still change during the selection process,\" Hoettges said, adding that the company would proceed as quickly as possible once a decision is reached.\n\nThe company is looking at existing production sites where electricity and water regulatory approvals are already in place, Hoettges said.\n\n\"Discussions are happening here, for example with RWE,\" he said.\n\nIn May, the Bonn-based company said it had teamed up with SAP, web hosting firm Ionos, and unlisted retailer Schwarz, but in June it was reported the companies would submit separate EU bids instead.\n\nHoettges dismissed media reports that it had been in talks to join such a consortium.\n\n\"It's a good thing that there is competition in Germany,\" he said.\n\n(Reporting by Marleen Kaesebier and Maria Rugamer in Gdansk; Editing by Matt Scuffham)\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      }
+    },
+    "date": "2025-08-07T04:59:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Deutsche Telekom partners with Nvidia, Brookfield for AI data center construction in Germany. No immediate financial impact mentioned."
+    }
+  }
+]

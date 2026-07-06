@@ -1,0 +1,461 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/speculative-frenzy-raises-risk-of-stock-market-downturn-goldman-sachs-170158384.html",
+    "title": "Speculative frenzy raises risk of stock market downturn: Goldman Sachs Goldman Sachs analysts are sounding the alarm on speculative trades. They could be signaling a market pullback ahead.",
+    "detail": "Speculative frenzy raises risk of stock market downturn: Goldman Sachs\nInes Ferr\u00e9 \u00b7 Senior Business Reporter\nFri, Jul 25, 2025, 1:01 PM 2 min read\nIn This Article:\n^SPX\nNVDA\nTSLA\nBBAI\nLCID\n\nInvestors beware.\n\nWith the S&P 500 (^GSPC) at all-time highs, some on Wall Street are warning that a rise in speculative trades could increase the risk of a market pullback.\n\nGoldman Sachs analysts said their Speculative Trading Indicator has risen sharply during the past few months. The gauge now sits at its highest level on record, outside of the 1998-2001 dot-com bubble era and 2020-2021 during COVID, though it still remains well below those peaks.\n\nThe indicator shows an elevated recent share of trading volumes in unprofitable stocks, penny stocks, and stocks with rich valuations compared to revenue.\n\nApart from \"Magnificent Seven\" heavyweights Nvidia (NVDA) and Tesla (TSLA), some of the stocks with the highest trading volumes over the past month include speculative plays like BigBear.ai (BBAI), Lucid (LCID), and Plug Power (PLUG).\n\n\"The recent rise in speculative trading activity signals near-term upside risk for the broad equity market but also increases the risk of an eventual downturn,\" Goldman's Ben Snider and his team wrote on Thursday.\n\nThe analysts noted that over the past 35 years, similar spikes in speculative trading often led to stronger-than-usual returns over the next three, six, and 12 months. But those returns faltered over a two-year horizon.\n\nSpeculative trading has also been accompanied by a sharp short squeeze. That's when investors who bet that a stock will go lower are forced to buy back shares to cover their positions, and that rush to buy drives the stock price even higher.\n\n\"Like in 2021, the recent short squeeze has occurred alongside an improvement in social media sentiment and a rally in stocks popular with retail traders,\" the analysts wrote.\n\nThe recent highfliers in the latest meme-stock rally noted by Wall Streeters \u2014 Krispy Kreme (DNUT), Opendoor (OPEN), and Kohl's (KSS) \u2014 all have one key thing in common: They are heavily shorted stocks.\n\nSince President Trump reversed his broad-based tariff stance on April 9, betting against the market has proven costly, as stocks rebounded in a V-shape recovery.\n\nGoldman Sachs analysts also note that call option volumes, or bets that an asset's price will go up, have recently surged.\n\nBeware the meme: A dozen Krispy Kreme Doughnuts (Getty) \u00b7 ASSOCIATED PRESS\n\nMeanwhile, investor appetite for investments such as initial public offerings (IPOs) has also risen, along with special-purpose acquisition companies (SPACs).\n\n\"The median US IPO in June rose by 37% in its first trading day, the best month since early 2024 and a top decile return relative to the past 3 decades,\" the analysts wrote.\n\nStory continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "date": "2025-07-25T13:01:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Rising speculative trades may heighten market volatility; NVDA, TSLA, BBAI among top traded stocks."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/alphabet-just-gave-nvidia-investors-143600218.html",
+    "title": "Alphabet Just Gave Nvidia Investors Some Great News The tech giant amped up its AI infrastructure spending plans for 2025.",
+    "detail": "Alphabet Just Gave Nvidia Investors Some Great News\nAdam Spatacco, The Motley Fool\nSat, Jul 26, 2025, 10:36 AM 4 min read\nIn This Article:\nGOOGL\nNVDA\nKey Points\n\nAlphabet now expects to lay out $85 billion in capital expenditures this year -- up from a previously planned $75 billion -- and expects to further accelerate that spending next year.\n\nAlphabet's AI capex will be allocated toward servers, accelerated data center buildouts, and cloud computing infrastructure.\n\nRising AI infrastructure spending from hyperscalers such as Alphabet bodes well for Nvidia and its thriving GPU business.\n\n10 stocks we like better than Nvidia \u203a\n\nOver the next several weeks, companies will report financial and operating results for the second quarter of 2025. As usual, technology investors will be focused on one thing: artificial intelligence (AI).\n\n\"Magnificent Seven\" member Alphabet kicked things off earlier this week, reporting robust results across its search, advertising, and cloud computing divisions.\n\nWhile Alphabet shareholders should be encouraged by the internet giant's strong performance, I saw Nvidia (NASDAQ: NVDA) as the real winner from the company's second-quarter performance.\n\nLet's dig into some of the important moves Alphabet is making and assess how Nvidia is benefiting from them.\n\nAlphabet is picking up the pace on AI infrastructure construction\n\nDuring the Q2 earnings call, Alphabet's management updated some details of its financial guidance. Alphabet now plans to spend around $85 billion on capital expenditures (capex) in 2025. Of note, this is a $10 billion increase over the company's prior guidance.\n\nAnd there's more. \"Looking out to 2026, we expect a further increase in capex due to the demand we're seeing from customers as well as growth opportunities across the company,\" said Chief Financial Officer Anat Ashkenazi.\n\nDespite its increasingly aggressive spending on AI infrastructure over the last few years, Alphabet has stated that it doesn't plan on slowing down anytime soon. This should be music to Nvidia's ears.\n\nGOOGL Capital Expenditures (TTM) data by YCharts.\nWhy is this good for Nvidia?\n\nManagement consulting juggernaut McKinsey & Company is forecasting that AI infrastructure spending could reach $6.7 trillion by 2030. And its research suggests that almost half of that money will be allocated toward AI hardware for further data center construction.\n\nIn addition, research from Goldman Sachs and JPMorgan indicates that generative AI could add between $7 trillion and $10 trillion to global gross domestic product in the long run.\n\nFrom a macroeconomic perspective, these secular trends bode well for Nvidia's compute and networking empire. Moreover, I think that Alphabet's decision to bump up its AI infrastructure spending again adds some credibility to those industry forecasts.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-07-26T10:36:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Alphabet boosts AI capex to $85B in 2025, benefiting Nvidia's GPU business."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-141500348.html",
+    "title": "2 Artificial Intelligence (AI) Stocks With High Conviction Are these two AI stocks good buys?",
+    "detail": "2 Artificial Intelligence (AI) Stocks With High Conviction\nRyan Vanzo, The Motley Fool\nSat, Jul 26, 2025, 10:15 AM 4 min read\nIn This Article:\nNVDA\nAMZN\nKey Points\n\nSpending on artificial intelligence could reach an astounding $4.8 trillion by 2033.\n\nNvidia's GPUs are critical for the training and deployment of complex AI models.\n\nAI developers want the best cloud infrastructure, and Amazon leads in this area.\n\n10 stocks we like better than Nvidia \u203a\n\nFortunes have been made by investing in artificial intelligence (AI) stocks. But there's still a lot of room left to go. The United Nations, for instance, believes that the AI market will grow from $189 billion worldwide in 2023 to nearly $5 trillion by 2033. Want to make sure your portfolio benefits? The two AI stocks below are for you.\n\nNvidia remains the smartest AI investment\n\nWhen it comes to AI stocks, Nvidia (NASDAQ: NVDA) is king. Even if you're already familiar with this stock, there's a good chance that shares are much cheaper than you realize.\n\nIf you've been following the AI market, you'll know that Nvidia is the most valuable GPU maker in the world. GPUs sit at the heart of the AI revolution. They're critical for training and deploying complex AI models. They also make it possible for end users to access these models en masse from anywhere in the world.\n\nRight now, Nvidia's GPUs dominate the market. The firm has an estimated 90% market share for AI GPUs. Its performance and ecosystem advantages have granted the company the highest gross margins in the industry. Wall Street analysts are unsurprisingly excited.\n\nWedbush Securities analyst Dan Ives believes Nvidia's market cap will surge to $5 trillion within months. The biggest near-term catalyst: the decision by the U.S. government to allow Nvidia's new GPUs to be exported to China, a country that previously accounted for around 13% of the company's sales.\n\nWhile shares are expensive based on trailing earnings, the stock trades at just 39 times forward earnings. Considering the AI boom is expected to persist for a decade or more, expect Nvidia to maintain double-digit annual growth rates for years to come. This should quickly eat into the upfront valuation premium, making shares a relative bargain for patient investors.\n\nImage source: Getty Images.\nAmazon is an artificial intelligence powerhouse\n\nApart from Nvidia, Amazon (NASDAQ: AMZN) stock looks like one of the best ways to invest in the AI revolution over the long term. That's because its most profitable business segment, Amazon Web Services, sits at the center of everything AI.\n\nWe've already discussed how Nvidia's GPUs sit between AI developers and the end users themselves. But there's one other industry that also sits at the center of the action: cloud infrastructure providers. Most estimates believe Amazon's AWS division is the largest cloud infrastructure provider in the world. Data compiled by Statista gives AWS a 30% global market share, nearly as much as the next two competitors combined.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "date": "2025-07-26T10:15:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI spending projected at $4.8T by 2033; Nvidia's GPUs crucial for AI model deployment, Amazon leads in cloud infrastructure."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/everyones-watching-nvidia-ai-supplier-134500604.html",
+    "title": "Everyone's Watching Nvidia -- but This AI Supplier Is the Real Power Player Nvidia gets the spotlight, but this behind-the-scenes AI chipmaker is the real force powering the industry.",
+    "detail": "Everyone's Watching Nvidia -- but This AI Supplier Is the Real Power Player\nHarsh Chauhan, The Motley Fool\nSat, Jul 26, 2025, 9:45 AM 6 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia has played a pioneering role in the proliferation of AI, but it wouldn't have been possible without this company.\n\nNvidia, along with many other chip designers and consumer electronics companies, relies on the manufacturing expertise of this Taiwan-based giant.\n\nThe wide range of industries that this Nvidia partner caters to makes it one of the best ways to play the global AI boom.\n\n10 stocks we like better than Taiwan Semiconductor Manufacturing \u203a\n\nNvidia (NASDAQ: NVDA) is considered a pioneer in the artificial intelligence (AI) hardware market, and rightly so, as the chip designer's graphics processing units (GPUs) have allowed cloud computing companies and others to train AI models and run inference applications.\n\nThe parallel computing power of Nvidia's GPUs makes them ideal for performing a large number of calculations simultaneously, which is precisely what's required for training AI models. Also, these chips are now gaining traction in AI inference as well, thanks to their ability to quickly make predictions and decisions using the trained model.\n\nNot surprisingly, Nvidia has established a solid foothold in the AI chip market. It towers above its competitors with an estimated market share of 80% in AI data center accelerators. However, Nvidia's dominance wouldn't have been possible without its foundry partner Taiwan Semiconductor Manufacturing (NYSE: TSM), which is the real kingpin of the AI chip market.\n\nLet's look at the reasons why TSMC is a bigger power player than Nvidia in AI chips.\n\nImage source: Getty Images.\nTSMC's dominant foundry position makes it the go-to manufacturer of AI chips\n\nTSMC operates semiconductor fabrication plants across the globe, which are used to manufacture chips based on designs provided by its customers. It is worth noting that TSMC doesn't design its own chips. It simply makes chips for fabless semiconductor companies that don't have production facilities of their own.\n\nNvidia is one such company that utilizes TSMC's facilities for manufacturing its AI chips. Equity research and brokerage firm Bernstein estimates that Nvidia could account for over a fifth of TSMC's top line this year, up significantly from around 5% to 10% a couple of years ago. That's not surprising, as Nvidia has been aggressively looking to secure more of TSMC's chipmaking capacity.\n\nTaiwan-based business newspaper Economic Daily News pointed out earlier this year that Nvidia has reportedly secured more than 70% of TSMC's advanced chip packaging capacity for 2025 in a bid to meet the robust demand for its AI GPUs. However, Nvidia is not the only company that's in line to utilize TSMC's fabs.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-26T09:45:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's success in AI depends on a Taiwanese manufacturer; this partner serves various industries, making it an attractive investment for the AI boom."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-big-123000286.html",
+    "title": "This Artificial Intelligence (AI) Stock Has Big Potential and a Surprisingly Low Price This AI giant dominates the market, and despite its explosive growth, the stock might be cheaper than you think.",
+    "detail": "This Artificial Intelligence (AI) Stock Has Big Potential and a Surprisingly Low Price\nRyan Vanzo, The Motley Fool\nSat, Jul 26, 2025, 8:30 AM 5 min read\nIn This Article:\nNVDA\nKey Points\n\nArtificial intelligence (AI) spending could reach $4.8 trillion by 2033, and this company stands to benefit.\n\nIt's a major AI player and still trading at an attractive valuation for long-term investors.\n\n10 stocks we like better than Nvidia \u203a\n\nIf you're looking for massive growth potential, check out artificial intelligence (AI) stocks. According to the U.N., the AI market is set to explode from a $189 billion valuation in 2023 to nearly $5 trillion by 2033. However, despite these massive projections, one of the most popular AI stocks on the market today remains surprisingly cheap.\n\nThis popular AI stock is cheaper than you think\n\nLooking for an AI stock that can directly benefit from a massive jump in demand over the next decade and beyond? Check out Nvidia (NASDAQ: NVDA). While many investors are already familiar with the company, you may not realize how cheap the stock actually is. Fortunes have already been made with Nvidia stock. But there's still plenty of room left to run.\n\nBefore we jump into Nvidia's surprisingly cheap valuation, let's quickly review what makes this stock so special.\n\nNvidia is the largest GPU stock in the world. Its hardware powers data centers worldwide -- data centers that AI developers rely on to build, train, and deploy their models. End users, too, rely on data centers to use AI services, putting Nvidia's GPUs at the center of the AI value chain. Recent estimates suggest that the company may have a market share of 90% or more for GPUs designed for AI use cases.\n\nHow did Nvidia get so dominant? According to William Blair analyst Sebastien Naji, Nvidia invested heavily to develop \"the broadest ecosystem\" of software tools and developers, which essentially allows it to control both the hardware and software components of its GPUs. \"And so it's just so much easier to build an application, build an AI model on top of those chips,\" Naji adds.\n\nImage source: Getty Images.\n\nNvidia got a lead on the AI GPU market through early investment. Its software focus, meanwhile, allowed users to customize their chips, creating a \"stickiness\" to its products. Switching to a competing chip isn't just a matter of hardware, but also software integration, providing Nvidia with a durable moat around its business model.\n\nNvidia's sales have grown in the heavy double digits for years. And its gross margins lead the industry. And yet, as we'll see, shares remain surprisingly cheap.\n\nIs now the time to invest in Nvidia?\n\nOn the surface, Nvidia stock looks expensive. Shares trade at nearly 30 times sales -- a huge premium for a multitrillion-dollar stock. But on a profit basis, the situation improves dramatically.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.8
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "date": "2025-07-26T08:30:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI market projected to reach $4.8T by 2033; Nvidia, a major AI player, remains attractively priced for long-term investment."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/alphabet-had-standout-quarter-buy-110002246.html",
+    "title": "Alphabet Had a \u2018Standout Quarter.\u2019 Should You Buy GOOG Stock Here? Alphabet stock rose only slightly yesterday despite the company posting stellar Q2 results. Here\u2019s what drove the divergence and whether the stock is a good buy after the report.",
+    "detail": "Alphabet Had a \u2018Standout Quarter.\u2019 Should You Buy GOOG Stock Here?\nMohit Oberoi\nSat, Jul 26, 2025, 7:00 AM 4 min read\nIn This Article:\nGOOGL\nMSFT\nNVDA\nAAPL\n005930.KS\nAlphabet (Google) Image by Markus Mainka via Shutterstock\n\nAlphabet (GOOG) stock rose by just over 1% on July 24, despite the company beating Q2 estimates on nearly all metrics. In this article, we\u2019ll look at the key takeaways from Alphabet\u2019s Q2 earnings and examine whether it is a good buy.\n\nAlphabet\u2019s Q2 revenues rose 14% year-over-year to $96.4 billion, which easily surpassed the $94 billion that analysts were expecting. The company\u2019s per-share earnings came in at $2.31, which was also ahead of the $2.15 that analysts were modeling.\n\nMore News from Barchart\n\nWith a 5.6% Yield, This Dividend Aristocrat Pays Monthly. Is It a Buy Here?\n\nDear Palantir Stock Fans, Mark Your Calendars for August 4\n\nThe 3 Buffett-Backed Dividend Stocks That Beat the Market in 2025\n\nTired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!\n\nwww.barchart.com\nAlphabet Beat on Most Metrics\n\nWhile it\u2019s customary for company management to say that they are \u201cproud\u201d of their performance, Alphabet CEO Sundar Pichai began his commentary by classifying Q2 a \u201cstandout quarter for us with robust growth across the company.\u201d He added, \u201cAs you saw at IO, we are leading at the frontier of AI and shipping at an incredible pace. AI is positively impacting every part of the business, driving strong momentum.\u201d\n\nHere are some of the other key takeaways from the report.\n\nGoogle Search Reported Double-Digit Increase in Revenues: With all the talk of Google losing its dominance in search, the company\u2019s Search revenues rose 11.7% in Q2, and if anything, the growth rate accelerated from the previous quarter.\n\nYouTube\u2019s Performance Improved: During the earnings call, Alphabet said that it now earns as much revenue per watch hour in the U.S. on YouTube shorts as traditional in-stream. In some regions, the balance is actually in favor of shorts over the long-form videos. During the quarter, YouTube ad revenues increased 13% YoY to $9.8 billion, which comfortably beat the consensus estimate of $9.56 billion. As I have noted previously, YouTube remains an unappreciated asset in Alphabet\u2019s arsenal even though it is the market leader in U.S. streaming for the last several years, per Nielsen data.\n\nGemini User Count Swells: Alphabet said that Gemini\u2019s monthly active user is now more than 450 million, and it saw a 50% increase in daily requests in Q2, as compared to Q1.\n\nCloud Growth Gets a Boost from AI: Google\u2019s cloud revenues rose 32% YoY to $13.62 billion, well ahead of the $13.11 billion that analysts were expecting. AI is driving the growth of that business. Microsoft-backed (MSFT) OpenAI has also partnered with Google\u2019s cloud infrastructure, a partnership CEO Sundar Pichai said the company is \u201cvery excited\u201d about.\n\nAI Monetization: As expected, questions related to the monetization of AI investments did pop up during the Q2 earnings call. Responding to the question, Pichai pointed to the strong operating margins despite the rise in AI capex, while reassuring, \u201cWe'll be able to have a healthy ROI on our investments.\u201d\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-07-26T07:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "14% revenue growth boosts Alphabet's Q2 results; stock rises 1%, despite beating estimates."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/huawei-shows-off-ai-computing-101116334.html",
+    "title": "Huawei shows off AI computing system to rival Nvidia's top product SHANGHAI (Reuters) -China's Huawei Technologies showed off an AI computing system on Saturday that one industry expert has said rivals Nvidia's most advanced offering, as the Chinese technology giant seeks to capture market share in the country's growing artificial intelligence sector.  The CloudMatrix 384 system made its first public debut at the World Artificial Intelligence Conference (WAIC), a three-day event in Shanghai where companies showcase their latest AI innovations, drawing a large crowd to the company's booth.  The system has drawn close attention from the global AI community since Huawei first announced it in April.",
+    "detail": "Huawei shows off AI computing system to rival Nvidia's top product\nReuters\nUpdated Sat, Jul 26, 2025, 8:15 AM 2 min read\nIn This Article:\nNVDA\n\nSHANGHAI (Reuters) -China's Huawei Technologies showed off an AI computing system on Saturday that one industry expert has said rivals Nvidia's most advanced offering, as the Chinese technology giant seeks to capture market share in the country's growing artificial intelligence sector.\n\nThe CloudMatrix 384 system made its first public debut at the World Artificial Intelligence Conference (WAIC), a three-day event in Shanghai where companies showcase their latest AI innovations, drawing a large crowd to the company's booth.\n\nThe system has drawn close attention from the global AI community since Huawei first announced it in April. Industry analysts view it as a direct competitor to Nvidia's GB200 NVL72, the U.S. chipmaker's most advanced system-level product currently available in the market.\n\nDylan Patel, founder of semiconductor research group SemiAnalysis, said in an April article that Huawei now had AI system capabilities that could beat Nvidia.\n\nHuawei staff at its WAIC booth declined to comment when asked to introduce the CloudMatrix 384 system. A spokesperson for Huawei did not respond to questions.\n\nHuawei has become widely regarded as China's most promising domestic supplier of chips essential for AI development, even though the company faces U.S. export restrictions. Nvidia CEO Jensen Huang told Bloomberg in May that Huawei had been \"moving quite fast\" and named the CloudMatrix as an example.\n\nThe CloudMatrix 384 incorporates 384 of Huawei's latest 910C chips and outperforms Nvidia's GB200 NVL72 on some metrics, which uses 72 B200 chips, according to SemiAnalysis.\n\nThe performance stems from Huawei's system design capabilities, which compensate for weaker individual chip performance through the use of more chips and system-level innovations, SemiAnalysis said.\n\nHuawei says the system uses \"supernode\" architecture that allows the chips to interconnect at super-high speeds and in June, Huawei Cloud CEO Zhang Pingan said the CloudMatrix 384 system was operational on Huawei's cloud platform.\n\n(Reporting by Brenda Goh and Liam Mo; Editing by Hugh Lawson)\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.71
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "date": "2025-07-26T08:15:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Huawei unveils AI system challenging Nvidia's GB200 NVL72 at WAIC."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/heres-nvidia-amd-could-help-085600685.html",
+    "title": "Here's How Nvidia and AMD Could Help This Super Semiconductor ETF Turn $500 Per Month Into $1 Million The biggest names in artificial intelligence (AI) hardware are packed into this unique exchange-traded fund.",
+    "detail": "Here's How Nvidia and AMD Could Help This Super Semiconductor ETF Turn $500 Per Month Into $1 Million\nAnthony Di Pizio, The Motley Fool\nSat, Jul 26, 2025, 4:56 AM 6 min read\nIn This Article:\nNVDA\nAMD\nKey Points\n\nNvidia CEO Jensen Huang predicts annual spending on data center infrastructure and chips will top $1 trillion by 2028.\n\nArtificial intelligence (AI) models are becoming more powerful, which means they need more computing capacity to function.\n\nThe iShares Semiconductor ETF holds many of the top suppliers of AI chips and components, and it's delivering exceptional returns right now.\n\n10 stocks we like better than iShares Trust - iShares Semiconductor ETF \u203a\n\nDeveloping artificial intelligence (AI) requires substantial computing power, especially as the latest reasoning models spend an increasing amount of time \"thinking\" to refine their outputs. In fact, Nvidia (NASDAQ: NVDA) CEO Jensen Huang thinks data center operators will spend $1 trillion per year on infrastructure and chips by 2028 to meet demand from those new-age models.\n\nNvidia is a leading supplier of graphics processing units (GPUs), which are the primary chips used in AI development, so it's perfectly positioned to benefit from any increase in data center spending. But demand for more computing capacity will also be a tailwind for competitors like Advanced Micro Devices (NASDAQ: AMD)\u00a0and every company that supplies data center networking equipment and other critical hardware.\n\nThe iShares Semiconductor ETF (NASDAQ: SOXX) is an exchange-traded fund (ETF) that exclusively invests in the suppliers of chips and other computing hardware. Nvidia and AMD are two of the ETF's largest holdings, and their performance has propelled it to market-crushing returns over the last few years. Here's how the fund could turn an investment of $500 per month into $1 million over the long term.\n\nImage source: Getty Images.\nThe ultimate AI hardware ETF\n\nThe iShares Semiconductor ETF holds just 30 stocks, so it's highly concentrated. It specifically focuses on companies that design, manufacture, and distribute semiconductors and components, but especially those with the potential to benefit from powerful themes like AI.\n\nAMD is the largest holding in the ETF with a portfolio weighting of 9.35%, closely followed by Nvidia with a weighting of 8.27%, and Broadcom (NASDAQ: AVGO) at 7.70%. Each of those three stocks has crushed the S&P 500 since the beginning of 2023, which is when the AI boom really started to gather momentum:\n\nNVDA data by YCharts\n\nNvidia had a market capitalization of $360 billion on Jan. 1, 2023, but it has since exploded to $4.2 trillion on the back of surging sales of its data center GPUs. Its new Blackwell and Blackwell Ultra chips are designed specifically for AI reasoning models, and demand continues to outstrip supply. But Nvidia is also expanding into other AI segments. Its Drive platform, for instance, is an increasingly popular hardware and software solution for automotive brands that want to install self-driving capabilities into their new vehicles.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "date": "2025-07-26T04:56:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia CEO predicts $1T annual spending on data centers and chips by 2028; AI chip supplier iShares Semiconductor ETF delivers strong returns."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tech-giant-best-artificial-intelligence-080000777.html",
+    "title": "This Tech Giant Is the Best Artificial Intelligence (AI) Chip Stock to Buy Right Now With a dominant market share and soaring profits, there is still more upside for this semiconductor stock.",
+    "detail": "This Tech Giant Is the Best Artificial Intelligence (AI) Chip Stock to Buy Right Now\nHarsh Chauhan, The Motley Fool\nSat, Jul 26, 2025, 4:00 AM 4 min read\nIn This Article:\n2330.TW\nAVGO\nNVDA\nAMD\nINTC\nKey Points\n\nTSMC delivered terrific results on July 17 and raised its full-year guidance.\n\nThe company's earnings growth is expected to accelerate going forward.\n\nTSMC's valuation and healthy growth make the stock an attractive buy right now.\n\n10 stocks we like better than Taiwan Semiconductor Manufacturing \u203a\n\nTaiwan Semiconductor Manufacturing (NYSE: TSM) has been at the center of the artificial intelligence (AI) chip boom by virtue of its status as the world's largest semiconductor foundry. The company, commonly known as TSMC, reported second quarter results on July 17, only to remind the market why it is one of the best ways to capitalize on the growth in AI semiconductor demand.\n\nAll the major chip companies, such as Broadcom, Marvell, Nvidia, AMD, and Intel, have been using TSMC's fabrication plants to manufacture their AI chips. Moreover, the chips that go into AI-enabled smartphones are manufactured at TSMC's facilities since it counts the likes of Qualcomm and Apple as customers too.\n\nThis world-class client base and the secular growth of the AI chip market allowed TSMC to deliver outstanding Q2 results and boost its full-year guidance as well. Take a closer look at the latest numbers, and you'll see why it's not too late for investors to buy this hot AI stock.\n\nImage source: Getty Images.\nTSMC's AI-fueled growth is here to stay\n\nTSMC reported an impressive 44% year-over-year increase in its Q2 revenue to $30.1 billion, exceeding the high end of its guidance range. Meanwhile, the company's adjusted earnings per share shot up at a much faster pace of 61%, a testament to its solid pricing power.\n\nTSMC controls 68% of the global semiconductor foundry market, well ahead of its closest rival, Samsung, which has a market share of just under 8%. The company has managed to build such a huge gap over the competition thanks to the technological lead of its process nodes. As a result, TSMC has the ability to raise the prices of its services, and that explains why its gross margin increased by more than five percentage points last quarter from the prior-year period.\n\nImportantly, TSMC is now anticipating its full-year revenue will grow 30% in 2025, up from its earlier estimate of mid-20% growth. But TSMC could end the year with an even bigger top-line jump as it has already achieved 40% year-over-year growth in the first half of 2025, and it is expecting a 38% spike in revenue in the current quarter (at the midpoint of guidance).\n\nWhat's worth noting here is that TSMC says its guidance takes into account the potential impact of tariffs on its business. Even then, the company has raised its full-year outlook, and it won't be surprising to see it end 2025 with a bigger-than-expected jump in revenue and earnings. In fact, TSMC's red-hot growth seems sustainable for a long time to come, considering the secular growth opportunity presented by AI.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "date": "2025-07-26T04:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "25th July report highlights TSMC's Q2 success, raising full-year guidance, and accelerating earnings growth, making TSMC an attractive AI chip stock, with Nvidia (NVDA) among its clients."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/best-artificial-intelligence-ai-stock-071500724.html",
+    "title": "The Best Artificial Intelligence (AI) Stock to Buy With the Market At All-Time Highs Some pundits are underplaying the big picture when it comes to shares of Alphabet.",
+    "detail": "The Best Artificial Intelligence (AI) Stock to Buy With the Market At All-Time Highs\nBrett Schafer, The Motley Fool\nSat, Jul 26, 2025, 3:15 AM 4 min read\nIn This Article:\nGOOGL\n^SPX\nNVDA\nMSFT\nKey Points\n\nAlphabet stock is still trading at a cheap multiple.\n\nIt has many growth vectors to benefit from artificial intelligence.\n\nMargin can help the company's profits explode in the next few years.\n\nThese 10 stocks could mint the next wave of millionaires \u203a\n\nThe S&P 500 keeps soaring to new highs, making it feel impossible to find a cheap large-cap stock to buy today. This is especially true in technology and artificial intelligence (AI). Stocks such as Nvidia and Microsoft have price-to-earnings (P/E) ratios approaching 40 or higher, making them risky for investors. Growth expectations are high for many companies, which can make it increasingly difficult to buy stocks for your investment portfolio, especially if you care about value investing.\n\nThat isn't the case with every AI stock. Here's why Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) is the one AI stock you can buy right now with stocks at all-time highs.\n\nImage source: Getty Images.\nAlphabet's matrix of growth\n\nSome pundits have deemed Alphabet -- parent company of Google -- an AI loser because of competition from ChatGPT. I think this underplays the big picture. Alphabet has perhaps the most to gain from AI through its various subsidiaries, while also employing the best data advantage of any big technology player because of all the user data from Google, YouTube, and other properties.\n\nAI is not going to eliminate Google Search -- it will take it to the next level. AI overviews are already growing like a weed for Google Search results, while the Gemini chatbot is helping with advanced conversational queries. An explosion in new AI technologies will greatly expand the addressable market for Google and its related properties. That's why revenue is growing at a 10% annual rate for Google Services, even though it generated $77 billion in revenue just in the first quarter.\n\nAnother way Alphabet can benefit from AI demand is Google Cloud, which is growing revenue at an astonishing 28% year-over-year clip, and is close to surpassing $50 billion in annualized revenue (it may surpass that mark next quarter). AI workloads will need huge amounts of specialized computing power to function, which Google Cloud is set to provide.\n\nLet's not forget self-driving start-up Waymo, which is taking over the streets of America's big cities, using Alphabet's infrastructure, engineering, and AI expertise.\n\nIt is an entire matrix of growth for Alphabet that can be supercharged by AI.\n\nProfit margin expansion?\n\nAI requires a lot of upfront spending on data centers and computer chips in order to train and operate. Alphabet is planning to spend $75 billion on capital expenditures in 2025, mostly related to AI. This will increase depreciation and require steady growth in order to get a return on this investment, which some investors are skeptical about. Google Cloud used to be unprofitable, but it posted an 18% operating margin last quarter, a number that can keep expanding as it reaches larger scale.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.36
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "date": "2025-07-26T03:15:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite S&P 500's all-time highs, Alphabet offers cheaper P/E ratio for AI growth potential, benefiting from various growth vectors and improving margins, potentially boosting profits in upcoming years."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/eaton-corporation-plc-etn-gained-024726071.html",
+    "title": "Eaton Corporation plc (ETN) Has Gained Over 12% In The Past Month. Here is Why Eaton Corporation plc (NYSE:ETN) is among the 13 Best Global Stocks to Buy Right Now. The company\u2019s shares have gained 12.50% over the past month, as of the close of business on July 22, driven by recent developments that have encouraged investor sentiment. On July 16, the company announced that it had signed an agreement [\u2026]",
+    "detail": "Eaton Corporation plc (ETN) Has Gained Over 12% In The Past Month. Here is Why\nAshar Jawad\nFri, Jul 25, 2025, 10:47 PM 2 min read\nIn This Article:\nETN\nNVDA\n\nEaton Corporation plc (NYSE:ETN) is among the 13 Best Global Stocks to Buy Right Now. The company\u2019s shares have gained 12.50% over the past month, as of the close of business on July 22, driven by recent developments that have encouraged investor sentiment.\n\nEaton Corporation plc (ETN) Has Gained Over 12% In The Past Month. Here is Why\n\nStock market data showing an upward trajectory. Photo by Burak The Weekender on Pexels\n\nOn July 16, the company announced that it had signed an agreement to acquire Resilient Power Systems Inc., a Texas-based developer and manufacturer of innovative energy solutions, including solid-state transformer-based technology. The transaction is set to close during the third quarter of the year and is expected to provide Eaton Corporation plc (NYSE:ETN) with increased exposure to fast-growing markets.\n\nThe intelligent power management company also recently announced a collaboration with NVIDIA to enable the shift to HVDC power infrastructure in AI data centers. The partnership is focused on designing best practices, innovative power management solutions, and reference architectures suitable for high-density GPU deployments.\n\nInvestor sentiment has also been strengthened by analyst rating updates in July, which have seen leading firms, including Wells Fargo, Goldman Sachs, Barclays, and Citigroup, lifting their price targets for Eaton Corporation plc (NYSE:ETN). Overall, Wall Street analysts maintain a positive outlook for the stock, with a consensus Buy rating.\n\nWhile we acknowledge the potential of ETN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT:\u00a010 Best Small Cap Defense Stocks to Buy According to Hedge Funds\u00a0and\u00a013 Best Booming Stocks to Buy Now.\n\nDisclosure: None.\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.41
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      }
+    },
+    "date": "2025-07-25T22:47:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "12.50% gain for Eaton Corporation plc (ETN) in the last month; acquisition of Resilient Power Systems Inc. to expand in growing markets."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jensen-huang-says-hes-created-003112130.html",
+    "title": "Jensen Huang Says He's Created More Billionaires Than Any CEO: 'Don't Feel Sad For Anybody At My Layer' As the Donald Trump administration unveiled its AI policy plan, Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang joined top Silicon Valley figures to weigh in on the cutthroat battle for AI talent and compensation during a live podcast in Washington, ...",
+    "detail": "Jensen Huang Says He's Created More Billionaires Than Any CEO: 'Don't Feel Sad For Anybody At My Layer'\nAnanya Gairola\nFri, Jul 25, 2025, 8:31 PM 2 min read\nIn This Article:\nNVDA\nMETA\n\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\n\nAs the Donald Trump administration unveiled its AI policy plan, Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang joined top Silicon Valley figures to weigh in on the cutthroat battle for AI talent and compensation during a live podcast in Washington, D.C.\n\nWhat Happened: Earlier this week, appearing on the All-in podcast alongside venture capitalists Chamath Palihapitiya and Jason Calacanis, Huang pushed back on concerns about executive-level compensation amid billion-dollar offers for AI researchers.\n\nDuring the conversation, Palihapitiya raised the point that AI researchers were being offered unprecedented contracts\u2014one reportedly as high as $1 billion over four years from Meta Platforms Inc. (NASDAQ:META).\n\nHe asked why similar valuations weren't seen at the CEO level, despite their role in enabling breakthroughs.\n\n\"First of all, I've created more billionaires on my management team than any CEO in the world. They're doing just fine,\" Huang said. \"Don't feel sad for anybody at my layer.\"\n\nTrending: 7,000+ investors have joined Timeplast's mission to eliminate microplastics\u2014now it's your turn to invest in the future of sustainable plastic before time runs out.\n\nHuang also underscored the efficiency of small, well-funded teams in AI. \"The impact of 150 or so AI researchers can probably create, with enough funding, an OpenAI. There's something about the elegance of small teams,\" he said.\n\nLater, Calacanis added levity, teasing Huang about rumors of a secret stash of stock options. \"Somebody told me you just drop RSUs on people if they do a great job,\" he joked.\n\n\"That's nuts,\" Huang responded, adding, \"I review everyone's comp myself ... and I 100% of the time increase opex because you take care of people and everything else takes care of itself.\"\n\n\n\n\nSee Also: This AI-Powered Trading Platform Has 5,000+ Users, 27 Pending Patents, and a $43.97M Valuation \u2014 You Can Become an Investor for Just $500.25\n\nWhy It's Important: The discussion came during the Trump administration's unveiling of its AI Action Plan, a strategic initiative backed by a new wave of Silicon Valley.\n\nThe fierce competition for AI talent has driven record compensation and high-profile hires across companies like Meta, Microsoft Corp. (NASDAQ:MSFT), OpenAI and Alphabet Inc.'s (NASDAQ:GOOG) (NASDAQ:GOOGL) Google DeepMind\u2014often eclipsing executive salaries and reshaping the power dynamics in the tech world.\n\n\u7e7c\u7e8c\u95b1\u8b80\n\u689d\u6b3e \u53ca \u79c1\u96b1\u653f\u7b56\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.39
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.4
+      }
+    },
+    "date": "2025-07-25T20:31:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia CEO Jensen Huang defends high exec pay amid AI talent war; billion-dollar offers from Meta discussed."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/mag-7-earnings-loom-investors-230700499.html",
+    "title": "Mag 7 Earnings Loom: What Can Investors Expect? The Mag 7 stocks have led the market's rebound from the April lows to new all-time highs, with this week's results giving market participants the most relevant pulse check to validate the group's recent performance.",
+    "detail": "Mag 7 Earnings Loom: What Can Investors Expect?\nSheraz Mian\nFri, Jul 25, 2025, 7:07 PM 7 min read\nIn This Article:\nMSFT\nAAPL\nAMZN\nMETA\nGOOGL\n\nWe get into the heart of the Q1 earnings season this week, with more than 850 companies reporting results, including four of the Magnificent 7 members and almost a third of S&P 500 members. We have Microsoft MSFT and Meta Platform META on deck to report results on Wednesday, July 30th, and Apple AAPL and Amazon AMZN on Thursday, July 31st.\n\nThe Mag 7 stocks have led the market\u2019s rebound from the April lows to new all-time highs, with this week\u2019s results giving market participants the most relevant pulse check to validate the group\u2019s recent performance.\n\nAs you can see in the chart below of the group\u2019s performance from the April 8 lows, Apple shares not only lag Microsoft, Meta, Amazon & Alphabet, but also the S&P 500 index.\n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\nThe group still leads the market when we change the starting point of the above performance chart by a year. But while Apple still remains a laggard in that period, Microsoft and Alphabet change their positions. The chart below shows the one-year performance of the Mag 7 group (up +26.8%), the S&P 500 index (up +18.6%), Meta, Microsoft, Amazon, Alphabet, and Apple.\n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\nExcept for Apple, the four Mag 7 members reporting this week, along with Alphabet GOOGL that reported strong results already and Nvidia NVDA whose results will not be out for another month, are all leaders in the artificial intelligence space and actively investing in setting up datacenters and related infrastructure that will enable them to run the large-language models.\n\nA significant marker in the AI debate surrounding these companies has been the ever-rising level of capital expenditures, a trend that Apple has not participated in, which explains a substantial part of the stock\u2019s underperformance in the two earlier charts we shared.\n\nAlphabet, which reported very strong results last Wednesday, raised its capital expenditures (capex) guidance for this year by $10 billion to $85 billion. The sentiment in the market is that Amazon, Meta, and Microsoft will also raise their capex outlays as they report results this week.\n\nA couple of points about the Alphabet report that provides us with read-throughs about what to expect from Microsoft, Amazon, and Meta this week.\n\nWe saw a clear acceleration in the Google cloud business, which has traditionally been seen as behind Amazon and Microsoft. Google Cloud revenues increased +32% from the year-earlier period, accelerating from the preceding quarter\u2019s +28% growth pace. Management\u2019s commentary around the cloud business was very positive, likely indicative of a very favorable demand backdrop and some market share gains. Amazon has experienced some capacity issues in its Amazon Web Services business lately, but it will be interesting to see if it and Microsoft perform as well on the cloud front as Alphabet did. Revenues in advertising, search, and YouTube came in better than expected, with +10.4% ad revenue growth providing strong momentum from Meta as well.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.49
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-25T19:07:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "4 tech giants, including NVDA, set to release Q1 earnings; Apple's underperformance vs peers noted since April rebound."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/reeltimes-rltr-outperforms-major-ai-213500859.html",
+    "title": "ReelTime's RLTR Outperforms All Major AI Stocks for Second Week in a Row - Two-Week Surge Hits 73% as RI Gains Traction with Samsung Launch, National Media Campaign, and Green Stock News Recognition RLTR remains the top-performing AI stock for a second consecutive week, surpassing tech heavyweights Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), Advanced Micro Devices (AMD), and Palantir (PLTR). BOTHELL, WASHINGTON ...",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nReelTime's RLTR Outperforms All Major AI Stocks for Second Week in a Row - Two-Week Surge Hits 73% as RI Gains Traction with Samsung Launch, National Media Campaign, and Green Stock News Recognition\nReelTime Rentals, Inc.\nFri, Jul 25, 2025, 5:35 PM 3 min read\nIn This Article:\nRLTR\nMSFT\nNVDA\nGOOGL\nAMZN\n\nRLTR remains the top-performing AI stock for a second consecutive week, surpassing tech heavyweights Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), Advanced Micro Devices (AMD), and Palantir (PLTR).\n\nBOTHELL, WASHINGTON / ACCESS Newswire / July 25, 2025 / ReelTime Media (OTCID:RLTR) announced today that its stock closed at $0.01626, up 12.1% from last week's close of $0.0145. This follows a 54% surge the previous week, bringing RLTR's two-week gain to approximately 73%-outperforming every major AI stock for two consecutive weeks.\n\nWhile industry leaders such as Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), AMD, and Palantir (PLTR) posted small gains or modest declines, RLTR has become the standout in the AI sector. The surge reflects growing excitement surrounding Reel Intelligence (RI), ReelTime's groundbreaking AI platform, after a series of major announcements and media exposure.\n\nPerformance Snapshot (July 21 - July 25, 2025)\n\nCompany\n\n\t\n\nTicker\n\n\t\n\n07/21 Close\n\n\t\n\n07/25 Close\n\n\t\n\n% Change\n\n\n\n\nReelTime Media\n\n\t\n\nRLTR\n\n\t\n\n$0.0145\n\n\t\n\n$0.0163\n\n\t\n\n+12.1%\n\n\n\n\nMicrosoft\n\n\t\n\nMSFT\n\n\t\n\n$509.97\n\n\t\n\n~$513\n\n\t\n\n+0.6%\n\n\n\n\nNVIDIA\n\n\t\n\nNVDA\n\n\t\n\n$172.39\n\n\t\n\n~$174\n\n\t\n\n+0.9%\n\n\n\n\nAlphabet (Google)\n\n\t\n\nGOOGL\n\n\t\n\n$185.06\n\n\t\n\n~$193.22\n\n\t\n\n+4.4%\n\n\n\n\nAmazon\n\n\t\n\nAMZN\n\n\t\n\n$226.12\n\n\t\n\n~$231.90\n\n\t\n\n+2.6%\n\n\n\n\nMeta Platforms\n\n\t\n\nMETA\n\n\t\n\n$704.21\n\n\t\n\n~$718.16\n\n\t\n\n+2.0%\n\n\n\n\nAMD\n\n\t\n\nAMD\n\n\t\n\n$156.99\n\n\t\n\n~$160\n\n\t\n\n+1.9%\n\n\n\n\nPalantir\n\n\t\n\nPLTR\n\n\t\n\n$153.53\n\n\t\n\n~$155\n\n\t\n\n+1.0%\n\n\"The market is validating what we've always known, RI represents one future of AI,\" said Barry Henthorn, CEO of ReelTime Media. \"Smarter, more capable, more efficient, and environmentally sustainable, RI is now available to millions of consumers instantly, and we are just getting started.\"\n\nThis momentum follows ReelTime's national media campaign introducing Reel Intelligence (RI) to the public. Hailed by experts as \"smarter, more capable, more efficient, and significantly more environmentally friendly than any AI today,\" RI delivers a full suite of capabilities-from 4K video and photorealistic images to music creation and advanced coding-in one platform.\n\nRecently featured in Green Stock News as \"the most powerful AI ever conceived,\" RI's breakthrough lies in its distributed architecture, eliminating energy-hungry data centers in favor of a global computing network. This design makes RI not only astonishingly efficient but also the greenest AI solution on the market, a key advantage attracting sustainability-focused investors.\n\nRI's accessibility is equally disruptive: it's now instantly available on 83 million Samsung devices across North America, no app store, no downloads, just a direct link at TryRINow.com. This frictionless deployment has rapidly expanded RI's user base and reinforces its status as the most powerful and most accessible AI available today.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.09
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "date": "2025-07-25T17:35:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "ReelTime's RLTR outperforms major AI stocks like MSFT, NVDA, GOOGL, AMZN, META, AMD, and PLTR for a second week, with a 73% surge"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/where-nvidia-stock-5-years-211700332.html",
+    "title": "Where Will Nvidia Stock Be in 5 Years? Even after an impressive climb over the past few years, Nvidia still has more room to run than you might think.",
+    "detail": "Where Will Nvidia Stock Be in 5 Years?\nHarsh Chauhan, The Motley Fool\nFri, Jul 25, 2025, 5:17 PM 6 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia is now the largest company in the world following a remarkable jump in its share price in the past five years.\n\nInvestors may now be wondering if the semiconductor giant has the ability to deliver more gains to investors over the next five years.\n\nAnalysts are possibly underestimating Nvidia's growth potential, and that's likely to result in more upside for investors going forward.\n\n10 stocks we like better than Nvidia \u203a\n\nAn investment of just $1,000 in shares of Nvidia (NASDAQ: NVDA) five years ago is now worth $16,000 as of this writing. The stock's outstanding jump during this period is justified as Nvidia has delivered a remarkable increase in its revenue and earnings, thanks to artificial intelligence (AI).\n\nInvestors, however, may now be wondering if Nvidia can continue to remain a top growth stock over the next five years as well. After all, it is now the largest company in the world with a market cap of more than $4 trillion. This huge market cap makes it difficult for Nvidia to replicate its multibagger returns over the next five years, as a 16x jump in its share price would send its market cap beyond $64 trillion.\n\nThe global economy is expected to be worth $144.5 trillion in 2028. So, Nvidia accounting for nearly 45% of the global gross domestic product (GDP) seems absurd as compared to its current share of around 3.5%.\n\nHowever, don't be surprised to see Nvidia's market cap rise higher despite the stunning gains it has delivered in the past five years. Let's look at the potential upside this semiconductor giant could deliver by 2030.\n\nImage source: Getty Images.\nNvidia's business still has a lot of room for growth\n\nAnalysts are expecting Nvidia to deliver $200 billion in revenue in the current fiscal year (which will end in January 2026). That would be an improvement of 53% from the previous fiscal year. This huge revenue base that Nvidia has already achieved explains why analysts are projecting a slowdown in Nvidia's revenue growth over the next couple of fiscal years.\n\nNVDA Revenue Estimates for Current Fiscal Year data by YCharts\n\nBut then, analysts are probably overlooking the huge opportunity in data centers that could help Nvidia easily exceed expectations. A lot of money is set to be spent on data centers through 2030 to support both AI and non-AI workloads. Consulting firm McKinsey is forecasting total spending of $6.7 trillion on data center infrastructure through 2030, with three-fourths of that expected to be spent on AI-specific workloads.\n\nAgain, of the $5.2 trillion that's projected to be allocated toward AI-focused data center spending, $3.1 trillion will go toward \"technology developers and designers, which produce chips and computing hardware for data centers,\" as per McKinsey. Nvidia's leadership position in the AI chip market means that it is in a solid position to capitalize on this huge end-market opportunity going forward.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.8
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "date": "2025-07-25T17:17:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "In the last five years, Nvidia's share price skyrocketed due to AI advancements, making it the world's largest company. Analysts predict further growth potential, suggesting continued upside for investors."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-investors-betting-big-quantum-210000050.html",
+    "title": "Why Some Investors Are Betting Big on Quantum Computing as a Moonshot Artificial Intelligence (AI) Play Quantum technology has become an emerging opportunity for artificial intelligence (AI) investors over the last several months.",
+    "detail": "Why Some Investors Are Betting Big on Quantum Computing as a Moonshot Artificial Intelligence (AI) Play\nAdam Spatacco, The Motley Fool\nFri, July 25, 2025 at 5:00 PM EDT 5 min read\n2\nIn This Article:\nNVDA\nKey Points\n\nQuantum technology is forecast to become a $200 billion market over the coming decades.\n\nOne of the hottest stocks in the quantum movement is a company called Quantum Computing, which has seen its stock soar by nearly 3,000%.\n\nWhile it can be tempting to follow the enthusiasm, Quantum Computing's business deserves a thorough look before investing.\n\n10 stocks we like better than Quantum Computing \u203a\n\nWhile there are several major players fueling the artificial intelligence (AI) movement, perhaps none is more important than Nvidia. The company's industry-leading chipsets and sophisticated CUDA software application provide an end-to-end, tightly integrated ecosystem for many of the world's largest AI developers. The company's visionary CEO, Jensen Huang, has metaphorically referenced the rise of AI to that of an industrial revolution -- paving the way for a vast, ongoing runway of upside.\n\nWithin the AI realm, a new pocket known as quantum computing is beginning to receive quite a bit of attention. While it's not commercially scaled today, quantum computing is believed by many technologists to contain transformative potential -- from accelerating drug discovery to enhancing machine learning capabilities.\n\nOne company that has benefited greatly from the bullish rhetoric surrounding quantum applications is a company fittingly called Quantum Computing (NASDAQ: QUBT). With shares up nearly 3,000% over the last year, could Quantum Computing be the next big moonshot to pay off during the AI-themed industrial revolution?\n\nQuantum computing could completely revolutionize the AI storyline, but...\n\nGlobal management consulting firm McKinsey & Company categorizes quantum technology across three major applications: quantum computing, quantum communication, and quantum sensing. According to its forecasts, the quantum computing market could be worth up to $72 billion by 2035, while the total quantum technology market could reach closer to $200 billion by 2040.\n\nWith the potential to disrupt end markets across robotics, climate tech, cybersecurity, healthcare, and cryptography, it's not entirely surprising that AI's leading developers, such as Nvidia, Microsoft, Amazon, Alphabet, and IBM, are all exploring quantum computing in various ways -- from developing next-generation chips to supercomputers.\n\nImage source: Getty Images.\n... investors should be very careful as to which companies deserve attention\n\nAnytime a stock rises as sharply as Quantum Computing's has -- and seemingly out of nowhere to boot -- it's usually a good idea to investigate why.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.62
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "date": null,
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia (NVDA) leads AI movement; Quantum Computing stock surges, but investors should scrutinize before investing."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-equity-indexes-rise-week-205736276.html",
+    "title": "US Equity Indexes Rise This Week as Japan Trade Deal, Corporate Earnings Boost Investors' Sentiment US equity indexes rose this week, with the S&P 500 and the Nasdaq Composite claiming new records aft",
+    "detail": "PREMIUM\nUS Equity Indexes Rise This Week as Japan Trade Deal, Corporate Earnings Boost Investors' Sentiment\nMT Newswires\nFri, Jul 25, 2025, 4:57 PM 2 min read\nIn This Article:\n^SPX\n^IXIC\n^DJI\nNVDA\nMSFT\n\nUS equity indexes rose this week, with the S&P 500 and the Nasdaq Composite claiming new records aft\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      }
+    },
+    "date": "2025-07-25T16:57:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "S&P 500, Nasdaq Composite reach new highs due to Japan trade deal, corporate earnings boosting investor sentiment; NVDA among gainers."
+    }
+  }
+]

@@ -1,0 +1,1 @@
+docker run --rm -it -v $(pwd):/app/local/stocks --network host danielahcardona/stocks:latest  bash

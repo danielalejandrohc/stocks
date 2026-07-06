@@ -1,0 +1,467 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/the-5-hottest-startups-from-robotics-to-ai-have-gained-393-in-private-market-value-in-2025-120751336.html",
+    "title": "The 5 hottest startups, from robotics to AI, have gained 393% in private market value in 2025 Top startups competing in key areas have seen their private market share prices surge.",
+    "detail": "The 5 hottest startups, from robotics to AI, have gained 393% in private market value in 2025\nFrancisco Velasquez\nUpdated Thu, Jul 3, 2025, 6:07 AM 3 min read\nIn This Article:\nGOOG\nTSLA\nXAAI.PVT\nFIGR.PVT\nXRP-USD\n\nIt's not just the Nvidias (NVDA) of the world that have seen an atmospheric rise as investors piled into the AI trade over the past year. Top startups competing in key areas, from humanoid robots to AI search, have also seen their private market share prices surge.\n\n\"In today's VC landscape, there's a clear split between the 'haves' and the 'have-nots,'\" Emily Zheng, senior VC analyst at PitchBook, told Yahoo Finance. According to Zheng, a handful of breakout AI startups are driving the majority of valuation growth. Some are raising capital at astonishing prices while attracting intense demand from primary and secondary investors.\n\nThat demand \u2014 often fueled by a mix of FOMO, conviction in AI tech, and limited liquidity options \u2014 has helped push the US VC secondary market to an estimated $60 billion in size this year, up from $50 billion in 2024, according to PitchBook. But this sharp rise doesn't mean venture is booming across the board \u2014 most of the activity is concentrated in a small, highly sought-after cohort.\n\nAmong the top five private-market gainers this year, the average year-to-date share price is up a staggering 393%. Together, these startups have added over $68 billion in estimated valuation so far in 2025, per Yahoo Finance data.\n\nHere are the top 52-week gainers in private markets according to Yahoo Finance data, provided by Forge and EquityZen.\n\n1. Figure AI\n\nEstimated valuation: $35.26B\n\nYear founded: 2022\n\nYTD share price: +1,012%\n\nThe humanoid robots startup aims to bring AI-powered robots that can work in factories and homes alike to the mass market. Enthusiasm around AI and robotics, such as Tesla's (TSLA) Optimus, has continued to rise. Figure AI recently raised $1.5 billion in a May funding round, bringing its total raise to $2.25 billion.\n\n2. Ripple\n\nEstimated valuation: $15.64B\n\nYear founded: 2012\n\nYTD share price: +286.16%\n\nRipple, the blockchain-based payments platform, has seen renewed investor enthusiasm amid broader interest in crypto infrastructure and decentralized finance. CEO Brad Garlinghouse recently announced that Ripple would drop its years-long cross-appeals with the SEC, following the agency's claim that Ripple sold its XRP token as an unregistered security.\n\n3. Perplexity\n\nEstimated valuation: $10.99B\n\nYear founded: 2022\n\nYTD share price: +260.16%\n\nPerplexity, the buzzy AI-powered search engine, has positioned itself as a serious challenger to Google (GOOG) by delivering real-time answers with cited sources. Backed by investors like Nvidia and Amazon (AMZN) founder Jeff Bezos, the startup has seen rapid adoption. It's reportedly in talks to raise up to $1 billion, which could push its valuation to $18 billion.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.69
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI startups gain 393%, boosting investor interest; NVDA among beneficiaries."
+    },
+    "date": "2025-07-03T06:07:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/dell-technologies-partners-lowe-ai-145736336.html",
+    "title": "Dell Technologies Partners With Lowe to Provide Its AI and PC Technology Solutions Dell Technologies Inc. (NYSE:DELL) is one of the 10 Most Undervalued AI Stocks to Buy According to Analysts. On June 19, Dell Technologies Inc. (NYSE:DELL) announced its partnership with Lowe\u2019s Companies Inc. to help the home improvement firm transform customer and associate experiences through AI and PC technology solutions. Dell Technologies will assist Lowe in [\u2026]",
+    "detail": "Dell Technologies Partners With Lowe to Provide Its AI and PC Technology Solutions\nAli Hassan\nThu, Jul 3, 2025, 8:57 AM 2 min read\nIn This Article:\nDELL\nLOW\nNVDA\n\nDell Technologies Inc. (NYSE:DELL) is one of the 10 Most Undervalued AI Stocks to Buy According to Analysts. On June 19, Dell Technologies Inc. (NYSE:DELL) announced its partnership with Lowe\u2019s Companies Inc. to help the home improvement firm transform customer and associate experiences through AI and PC technology solutions.\n\nDell Technologies will assist Lowe in improving shopping capabilities and store management. Through the Dell AI Factory with Nvidia, Lowe will be equipping its 1,700 stores and corporate offices with Dell PCs and devices to support seamless operations.\n\nDell Technologies Partners With Lowe to Provide Its AI and PC Technology Solutions\n\nRose Carson/Shutterstock.com\n\n\u201cFor 40 years, Dell Technologies has championed transformative innovation. Through our advanced AI solutions and a comprehensive IT ecosystem, we\u2019re helping Lowe\u2019s redefine retail experiences. Together, we\u2019re turning ideas into tangible progress, enhancing both operations and customer engagement like never before,\u201d said John Roese, global chief technology officer and chief AI officer, at Dell Technologies.\n\nLowe will be transforming its operations by setting the foundation for powerful AI solutions. Using Dell\u2019s PowerEdge XE8640 server and Nvidia\u2019s accelerated computing and AI software, Lowe will innovate multiple areas, including computer vision, data processing at the edge, and data center optimization.\n\nDell Technologies Inc. (NYSE:DELL), historically a major PC and computer hardware manufacturer, is now a critical player in the AI industry. Dell has become an AI infrastructure and solutions powerhouse, enabling its customers to train, manage, and deploy AI systems at scale.\n\nWhile we acknowledge the potential of DELL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you\u2019re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT:\u00a0The Best and Worst Dow Stocks for the Next 12 Months\u00a0and\u00a010 Unstoppable Stocks That Could Double Your Money.\n\nDisclosure: None.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.56
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Dell partners with Lowe to enhance AI and PC tech, boosting DELL's AI potential; NVDA-powered Dell AI Factory to equip Lowe's 1,700 stores."
+    },
+    "date": "2025-07-03T08:57:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-lifts-chip-design-curbs-023538836.html",
+    "title": "Chip Design Software Makers Win US Reprieve in China Trade Deal (Bloomberg) -- President Donald Trump\u2019s administration has lifted recent export license requirements for chip design software sales in China, as Washington and Beijing implement a trade deal for both countries to ease some restrictions on critical technologies.Most Read from BloombergNYC Commutes Resume After Midtown Bus Terminal Crash ChaosStruggling Downtowns Are Looking to Lure New CrowdsMassachusetts to Follow NYC in Making Landlords Pay Broker FeesWhat Gothenburg Got Out of Congestion Prici",
+    "detail": "Chip Design Software Makers Win US Reprieve in China Trade Deal\nMackenzie Hawkins\nThu, Jul 3, 2025, 8:57 AM 4 min read\nIn This Article:\nNVDA\nSIEGY\nSMAWF\nSNPS\nCDNS\n\n(Bloomberg) -- President Donald Trump\u2019s administration has lifted recent export license requirements for chip design software sales in China, as Washington and Beijing implement a trade deal for both countries to ease some restrictions on critical technologies.\n\nMost Read from Bloomberg\n\nNYC Commutes Resume After Midtown Bus Terminal Crash Chaos\n\nStruggling Downtowns Are Looking to Lure New Crowds\n\nMassachusetts to Follow NYC in Making Landlords Pay Broker Fees\n\nForeign Buyers Swoop on Cape Town Homes, Pricing Out Locals\n\nWhat Gothenburg Got Out of Congestion Pricing\n\nThe US Commerce Department informed the world\u2019s three leading semiconductor design software providers \u2014 Synopsys Inc., Cadence Design Systems Inc. and Germany\u2019s Siemens AG \u2014 that requirements to seek government licenses for business in China are no longer in place, according to company statements.\n\nSynopsys and Cadence each rose as much as 6% Thursday in New York trading, while Siemens climbed as much as 3%.\n\nSiemens has restored full access to its software and technology for Chinese customers, the company said, while Synopsys and Cadence said they\u2019re in the process of resuming such services in the Asian country. Synopsys gets about 16% of its revenue from China, while Cadence gets about 12%.\n\nThe Commerce Department didn\u2019t immediately respond to a request for comment about its notices that lifted the curbs, which were also imposed on smaller makers of electronic design automation, or EDA, tools.\n\nWhite House officials cracked down on EDA sales to China in May as part of a raft of measures responding to Beijing\u2019s limits on shipments of essential rare earths. Under a trade agreement finalized last week, Washington promised to allow shipments of EDA software, as well as ethane and jet engines, to China \u2014 provided Beijing first honor its pledge to speed export approvals for critical minerals used in everything from wind turbines to airplanes.\n\nThe move to lift EDA curbs is a sign that the accord reached in London \u2014 which would bring the countries back to the terms of a deal struck the previous month in Geneva \u2014 is indeed being implemented. In addition to chip software sales, the US last week allowed makers of a critical petroleum product to transport gas tankers to Chinese ports, and then fully removed those license requirements this week, ethane companies said Wednesday.\n\nBeijing also achieved a higher-level longtime goal: Washington has now put export controls, a national security tool historically treated as non-negotiable, on the table in trade talks.\n\nWhen the EDA controls were first imposed, industry officials saw little reason to question whether they\u2019d stick. The US for years used export controls to limit China\u2019s access to advanced chips and the equipment needed to make them, in an effort to prevent Beijing from developing advanced AI that could benefit its military. Expanding that campaign to encompass EDA software \u2014 used to design everything from high-end Nvidia Corp. and Apple Inc. processors to simple parts like power-regulation components \u2014 was a longtime priority for some China hawks in Washington. And the Trump administration had just shown it would intensify China chip curbs by tightening restrictions on Nvidia\u2019s sales.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.56
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "U.S. lifts export restrictions for chip design software sales in China, benefiting NVDA and peers."
+    },
+    "date": "2025-07-03T08:57:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-set-become-worlds-most-142512077.html",
+    "title": "Nvidia set to become world's most valuable company in history (Reuters) -Nvidia hit a market value of $3.92 trillion on Thursday, on track to become the most valuable company in history, as Wall Street doubled down on optimism about AI.  Shares of the leading designer of high-end AI chips rose as much as 2.4% to $160.98 in morning trading, giving the company a higher market capitalization than Apple's record closing value of $3.915 trillion on December 26, 2024.  Nvidia's newest chips have made gains in training the largest artificial-intelligence models, fueling demand for products by the Santa Clara, California, company.",
+    "detail": "Nvidia briefly on track to become world's most valuable company ever\nNoel Randewich and Shashwat Chauhan\nThu, Jul 3, 2025, 8:25 AM 4 min read\nIn This Article:\nNVDA\nFB\nMETA\nAMZN\nTSLA\n\nBy Noel Randewich and Shashwat Chauhan\n\n(Reuters) -Nvidia hit a market value of $3.92 trillion on Thursday, briefly putting it on track to become the most valuable company in history, as Wall Street doubled down on optimism about AI.\n\nShares of the leading designer of high-end AI chips rose as much as 2.4% to $160.98 in morning trading, giving the company a higher market capitalization than Apple's record closing value of $3.915 trillion on December 26, 2024.\n\nThe shares were last up 1.5% at $159.60, leaving Nvidia's stock market value at $3.89 trillion, just short of Apple's record.\n\nNvidia's newest chips have made gains in training the largest artificial-intelligence models, fueling demand for products by the Santa Clara, California, company.\n\nMicrosoft is currently the second-most valuable company on Wall Street, with a market capitalization of $3.7 trillion as its shares rose 1.7% to $499.56.\n\nApple rose 0.8%, giving it a market value of $3.19 trillion, in third place.\n\nA race among Microsoft, Amazon.com, Meta Platforms, Alphabet and Tesla to build AI data centers and dominate the emerging technology has fueled insatiable demand for Nvidia's high-end processors.\n\n\"When the first company crossed a trillion dollars, it was amazing. And now you're talking four trillion, which is just incredible. It tells you that there's this huge rush with AI spending and everybody's chasing it right now,\" said Joe Saluzzi, co-manager of trading at Themis Trading.\n\nThe stock market value of Nvidia, whose core technology was developed to power video games, has increased nearly eight-fold over the past four years, from $500 billion in 2021 to now near $4 trillion.\n\nNvidia is now worth more than the combined value of the Canadian and Mexican stock markets, according to LSEG data. The tech company also exceeds the total value of all publicly listed companies in the United Kingdom.\n\nNvidia recently traded at about 32 times analysts' expected earnings for the next 12 months, below its average of about 41 over the past five years, according to LSEG data. That relatively modest price-to-earnings valuation reflects steadily increasing earnings estimates that have outpaced Nvidia's sizable stock gains.\n\nThe company's stock has now rebounded more than 68% from its recent closing low on April 4, when Wall Street was reeling from President Donald Trump's global tariff announcements. U.S. stocks, including Nvidia, have recovered on expectations that the White House will cement trade deals to soften Trump's tariffs.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia temporarily surpasses Apple's record market cap as AI chip advancements boost demand for its products."
+    },
+    "date": "2025-07-03T08:25:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-coreweave-rallied-46-5-133000261.html",
+    "title": "Why CoreWeave Rallied 46.5% in June CoreWeave submitted new benchmarks on its largest Nvidia Blackwell GB200 NVL72 cluster.  The data release seemed to put CoreWeave ahead of other clouds in deploying the most performant Blackwell chips.  Shares of artificial intelligence (AI) neocloud CoreWeave (NASDAQ: CRWV) rocketed 46.5% in June, according to data from S&P Global Market Intelligence.",
+    "detail": "Why CoreWeave Rallied 46.5% in June\nBilly Duberstein, The Motley Fool\nThu, Jul 3, 2025, 7:30 AM 3 min read\nIn This Article:\nCRWV\nNVDA\nKey Points\n\nCoreWeave submitted new benchmarks on its largest Nvidia Blackwell GB200 NVL72 cluster.\n\nThe data release seemed to put CoreWeave ahead of other clouds in deploying the most performant Blackwell chips.\n\nThe massive June rally happened on top of a miraculous 170% gain in May.\n\n10 stocks we like better than CoreWeave \u203a\n\nShares of artificial intelligence (AI) neocloud CoreWeave (NASDAQ: CRWV) rocketed 46.5% in June, according to data from S&P Global Market Intelligence.\n\nCoreWeave went public in March under a cloud of scrutiny and fears over tariffs. However, it has since become an AI darling, skyrocketing not only in May on the back of an incremental Nvidia (NASDAQ: NVDA) investment, but also in June.\n\nJune's gains appeared to come from increasing optimism over AI-related growth, with CoreWeave publishing impressive leading benchmarks running Nvidia's latest Blackwell chips.\n\nImage source: Getty Images.\nThe largest and fastest GB200 NVL72 cluster in the industry\n\nIn early June, CoreWeave submitted MLPerf Training v5.0 benchmarks for its GB200 NVL72 cluster, in collaboration with Nvidia and IBM. CoreWeave's submission used 2,496 Nvidia GPUs running on CoreWeave's AI-optimized infrastructure. That infrastructure includes CoreWeave's proprietary software and middleware innovations such as SUNK, which allows customers to use a combination of popular AI training programming languages instead of having to choose just one. CoreWeave's Tensorizer software also routes data to the closest possible GPU, resulting in faster training times.\n\nCoreWeave said its training cluster was 34 times larger than the only other cluster submitted for the same benchmark from a major cloud provider, underscoring CoreWeave's current advantage of deploying huge Nvidia clusters quickly. The company noted its infrastructure ran the large 405 billion-parameter Llama 3.1 model in just 27.3 minutes, more than twice as fast as other submissions.\n\nCoreWeave may have an advantage due to Nvidia's investment, but also is risky\n\nCoreWeave may be getting a preferred allocation of Nvidia chips before other major clouds, due to Nvidia's investment in CoreWeave, as well as all major clouds now pursuing their own AI training and inference ASICs.\n\nSo CoreWeave appears to have a time-to-market advantage versus others, which may make CoreWeave attractive to AI labs needing the latest and greatest Nvidia chips as quickly as possible in large numbers. For instance, OpenAI, thought to be the leading AI lab today, inked an $11.9 billion deal with CoreWeave in March.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.73
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "CoreWeave rallies 46.5% in June after releasing new benchmarks on its Nvidia Blackwell GB200 cluster, putting it ahead in deploying high-performance chips."
+    },
+    "date": "2025-07-03T07:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tsm-stock-hits-52-week-132800989.html",
+    "title": "TSM Stock Hits 52-Week High: Is It Time to Book Profits or Buy More? Taiwan Semiconductor hits a 52-week high as AI chip demand surges, earnings soar, and valuation still leaves room for upside.",
+    "detail": "TSM Stock Hits 52-Week High: Is It Time to Book Profits or Buy More?\nAnirudha Bhagat\nThu, Jul 3, 2025, 7:28 AM 4 min read\nIn This Article:\nTSM\nTSMWF\n2330.TW\nNVDA\nAMD\n\nTaiwan Semiconductor Manufacturing Company TSM, also known as TSMC, shares hit a 52-week high of $233.82 on July 2 and finally closed at $233.60, rising 18.2% year to date (YTD). This performance easily beats the broader Zacks Computer and Technology sector, which rose 5.6% in the same period.\n\nTaiwan Semiconductor stock has also outpaced several chip peers, including NVIDIA NVDA, Advanced Micro Devices AMD and Intel INTC. Shares of NVIDIA, Advanced Micro Devices and Intel have risen 17%, 14.6% and 9.1%, respectively, YTD.\n\nThis outperformance shows investors are becoming increasingly confident in Taiwan Semiconductor\u2019s long-term story, even during a volatile market shaped by trade conflicts and geopolitical risks. We believe this momentum is grounded in strong fundamentals, and TSM\u2019s long-term outlook justifies a buy position for now.\n\nYTD Price Return Performance\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\nAI Chip Explosion Keeps TSMC in the Lead\n\nTaiwan Semiconductor sits at the center of the artificial intelligence (AI) revolution. As the world\u2019s largest contract chipmaker, TSMC supplies cutting-edge chips to companies like NVIDIA, Advanced Micro Devices, and Intel, all of which depend on TSMC\u2019s ability to manufacture at advanced nodes.\n\nIn 2024, AI-related revenues tripled, making up a mid-teen percentage of Taiwan Semiconductor\u2019s total revenues, and the momentum is far from over. The company expects AI-related sales to double again in 2025, with an impressive 40% compound annual growth rate over the next five years. This positions TSMC as the undisputed backbone of AI-driven technological advancements.\n\nThe company kicked off 2025 with excellent first-quarter results. Revenues surged 35% year over year to $25.53 billion, and net income rose 53% to nearly $11 billion in the first quarter. This growth was powered by the booming demand for its advanced 3nm and 5nm nodes, which now account for 58% of total wafer sales.\n\nTaiwan Semiconductor\u2019s first-quarter EPS also jumped 53.6% to $2.12 and surpassed the Zacks Consensus Estimate of $2.03. The stock beat the consensus mark for earnings in each of the trailing four quarters, the average surprise being 6.9%.\n\nTaiwan Semiconductor Manufacturing Company Ltd. Price, Consensus and EPS Surprise\nTaiwan Semiconductor Manufacturing Company Ltd. Price, Consensus and EPS Surprise\n\nTaiwan Semiconductor Manufacturing Company Ltd. price-consensus-eps-surprise-chart | Taiwan Semiconductor Manufacturing Company Ltd. Quote\n\nTaiwan Semiconductor is not only growing but also scaling at an unprecedented pace to capitalize on the AI-driven growing demand for advanced chips. The company is set to invest between $38 billion and $42 billion in capital expenditures in 2025, far outpacing its $29.8 billion investment in 2024. The bulk of this spending, around 70%, is focused on advanced manufacturing processes, ensuring TSM stays ahead of the curve.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.8
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "52-week high for TSM; outperforms NVIDIA, AMD, and Intel YTD; strong fundamentals support long-term bullish outlook for TSM."
+    },
+    "date": "2025-07-03T07:28:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/pryon-named-ai-data-management-131300269.html",
+    "title": "Pryon Named \"AI Data Management Solution of the Year\" for Pioneering Enterprise AI Memory Layer Technology Pryon, the definitive leader in enterprise AI memory solutions, today announced its recognition as the \"AI Data Management Solution of the Year\" in the prestigious 8th annual AI Breakthrough Awards.",
+    "detail": "Pryon Named \"AI Data Management Solution of the Year\" for Pioneering Enterprise AI Memory Layer Technology\nPR Newswire\nThu, Jul 3, 2025, 7:13 AM 3 min read\nIn This Article:\nNVDA\nMSFT\nMETA\nDATB.PVT\n\nIndustry recognition validates Pryon's leadership in solving the most critical barrier to enterprise AI ROI: creating a trusted, accurate memory foundation for agentic solutions\n\nNEW YORK, July 3, 2025 /PRNewswire/ --\u00a0Pryon, the definitive leader in enterprise AI memory solutions, today announced its recognition as the \"AI Data Management Solution of the Year\" in the prestigious 8th annual AI Breakthrough Awards.\n\nThe AI Breakthrough Awards evaluated more than 5,000 nominations from over 20 countries, making this recognition particularly significant as AI adoption accelerates globally. This honor places Pryon among elite technology innovators, including NVIDIA, Microsoft, Meta, and Databricks, in the global AI landscape.\n\nIn today's enterprise environment, the single greatest barrier to realizing return on AI investments isn't technology access\u2014it's information reliability. While 90% of businesses view\u00a0agentic AI as essential for competitive advantage, Gartner projects over 40% of agentic AI initiatives will fail by 2027, with accuracy and trust cited as the primary obstacles.\n\n\"Enterprises are discovering a harsh reality: without a reliable memory layer, AI investments become costly experiments rather than transformative solutions,\" said Chris Mahl, CEO of Pryon. \"In a world where AI agents take action on behalf of your business, hallucinations aren't just problematic\u2014they're catastrophic to both operations and trust.\u00a0Pryon's Memory Layer eliminates this fundamental risk.\"\n\nIntroducing The\u00a0Pryon Memory Layer\n\nPryon has redefined how organizations approach their AI strategies by creating what analysts now recognize as the essential foundation for any successful enterprise AI deployment: a unified, trustworthy memory layer. Unlike conventional data management approaches, Pryon's platform:\n\nTransforms scattered knowledge from documents, videos, images, and conversations into a cohesive AI memory foundation\n\nDelivers unmatched retrieval accuracy exceeding 90% through proprietary Retrieval-Augmented Generation technology\n\nProvides real-time, verifiable access to critical information while maintaining complete data privacy\n\nScales seamlessly across large organizations to support complex, mission-critical AI deployments\n\nDriving Measurable AI ROI\n\nWhat sets Pryon apart is its focus on measurable business outcomes:\n\n3-5x faster deployment of agentic AI solutions compared to competitors\n\n95%+ accuracy in milliseconds at scale across agentic production\n\n60% improvement in employee productivity through streamlined knowledge access\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"Pryon wins 'AI Data Management Solution of the Year,' boosting its reputation as an AI memory layer pioneer; recognition comes amidst growing global AI adoption.\""
+    },
+    "date": "2025-07-03T07:13:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-acquires-centml-boost-ai-130943202.html",
+    "title": "NVIDIA Acquires CentML to Boost AI Model Optimization and Training Capabilities NVIDIA Corporation (NASDAQ:NVDA) ranks among the best FAANG stocks to buy according to hedge funds. According to The Logic, NVIDIA Corporation (NASDAQ:NVDA) bought Canadian AI firm CentML on June 27, integrating its personnel and leadership. Founded in 2022, CentML is a machine learning company that offers an optimization platform to improve the performance and affordability [\u2026]",
+    "detail": "NVIDIA Acquires CentML to Boost AI Model Optimization and Training Capabilities\nSheryar Siddiq\nThu, Jul 3, 2025, 7:09 AM 1 min read\nIn This Article:\nNVDA\n\nNVIDIA Corporation (NASDAQ:NVDA) ranks among the best FAANG stocks to buy according to hedge funds. According to The Logic, NVIDIA Corporation (NASDAQ:NVDA) bought Canadian AI firm CentML on June 27, integrating its personnel and leadership.\n\nNVIDIA Acquires CentML to Boost AI Model Optimization and Training Capabilities\n\nFounded in 2022, CentML is a machine learning company that offers an optimization platform to improve the performance and affordability of AI model training and deployment. NVIDIA Corporation (NASDAQ:NVDA) already had ties to the firm, having invested in CentML\u2019s US$27 million seed fundraising round in October 2023. In November 2024, CentML also became a member of NVIDIA\u2019s accelerator program, which granted the firm access to technical resources and hardware savings.\n\nThe Logic further states that NVIDIA Corporation (NASDAQ:NVDA) has employed at least 15 engineers and two interns from CentML this month, based on their LinkedIn profiles.\n\nNVIDIA Corporation (NASDAQ:NVDA), a world leader in networking and graphics processing, provides GPUs for the AI, gaming, HPC, and other industries. The company\u2019s products span data centers, gaming, professional visualization, and the automotive markets.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you\u2019re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nRead More:\u00a010 Best Magic Formula Stocks for 2025\u00a0and\u00a010 Best Retirement Stocks to Buy According to Hedge Funds\n\nDisclosure: None.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.55
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA acquires AI firm CentML, boosting model optimization and training capabilities; CentML was previously a member of NVIDIA's accelerator program."
+    },
+    "date": "2025-07-03T07:09:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/dan-ives-backed-etf-could-130700794.html",
+    "title": "This Dan Ives-Backed ETF Could Be the Smartest Way to Play the AI Revolution What sets the Dan Ives AI Revolution ETF apart from other tech funds? Here's what you need to know.",
+    "detail": "This Dan Ives-Backed ETF Could Be the Smartest Way to Play the AI Revolution\nAnders Bylund, The Motley Fool\nThu, Jul 3, 2025, 7:07 AM 5 min read\nIn This Article:\nNVDA\nMSFT\n^SPX\n^IXIC\nKey Points\n\nThe Dan Ives AI Revolution ETF limits the influence of mega-cap tech stocks, such as Nvidia and Microsoft.\n\nIt still explores the exciting AI opportunity with 30 hand-picked stocks in that market.\n\nThis nearly equal-weighted ETF could appeal to investors seeking more diversification in the AI sector.\n\n10 stocks we like better than Wedbush Series Trust - Dan Ives Wedbush Ai Revolution ETF \u203a\n\nThe artificial intelligence (AI) revolution is shaking Wall Street to its very foundations. The \"Magnificent Seven\" group of market-defining AI stocks all rank among the 12 highest-valued securities on the market today. Together, this group accounts for 32.3% of the S&P 500 (SNPINDEX: ^GSPC) index's total score, and 61.9% of the tech-heavy Nasdaq 100 index.\n\nThese are the market darlings of this era, all trading at lofty valuations and perhaps headed toward a painful price correction someday soon. What if you're not comfortable giving so much weight to a risky bunch of recent market beaters? Remember, past performance does not guarantee that future returns will be similar.\n\nWell-known analyst Dan Ives just launched a hand-vetted fund that provides targeted investments in the AI boom, but with lower influence from the handful of top-ranked giants. Let's see what's different about this exchange-traded fund (ETF), so you can decide whether it belongs in your portfolio.\n\nImage source: Getty Images.\nThis is not your average index fund\n\nThe Dan Ives Wedbush AI Revolution ETF (NYSEMKT: IVES) is technically an index fund, but the underlying index is a custom list that simply reflects the stock pick in Ives' top-30 AI stock-picking reports. It was launched just days before the related ETF. So the index formulation is just a technicality. The Wedbush analyst with a long research history and a penchant for colorful suits is really making these stock picks in a very direct sense.\n\nAt the same time, the index structure adds some academic rigidity to the ETF. New additions to the index (and ETF) are given a cap-based weight between 1% and 4% of the total portfolio, no exceptions. The index is rebalanced four times a year, on the third Fridays of March, June, September, and December. The hard caps of at least 1% but no more than 4% are reapplied at each of these events, making sure that no single stock ever represents a huge slice of the Dan Ives ETF.\n\nThe annual expense ratio is 0.75%, far above the leading S&P 500 index funds and comparable to many handpicked stock collections.\n\nHow the portfolio is balanced\n\nOn June 30, just 27 calendar days after the ETF's inception, the \"Magnificent Seven\" stocks added up to 32.6% of the Ives fund's value. That's actually a smidge higher than their combined slice of the S&P 500, but megacaps Nvidia (NASDAQ: NVDA) and Microsoft (NASDAQ: MSFT) hold significantly lighter weights in the Dan Ives portfolio.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.29
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI Revolution ETF limits mega-cap tech stocks' influence, exploring AI opportunity with 30 stocks; nearly equal-weighted, may appeal to diversified AI investors."
+    },
+    "date": "2025-07-03T07:07:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-stock-buy-red-hot-130002861.html",
+    "title": "Is Nvidia Stock a Buy After Its Red-Hot 6-Day Win Streak? Is Nvidia still a must-own name after its impressive rally? Or has Wall Street\u2019s AI fever pushed this chip titan past its peak?",
+    "detail": "Is Nvidia Stock a Buy After Its Red-Hot 6-Day Win Streak?\nSristi Suman Jayaswal\nThu, Jul 3, 2025, 7:00 AM 7 min read\nIn This Article:\nNVDA\nMSFT\nNVIDIA Corp video chip-by Antonio Bordunovi via iStock\n\nNvidia (NVDA) \u2014 the poster child of Wall Street\u2019s\u00a0artificial intelligence (AI) mania \u2014 is revered as the chip king powering the generative AI explosion, and its role has become bigger than ever. Last week, NVDA stock reminded everyone why.\n\nNvidia blazed through a red-hot six-day win streak, rallying more than 10% and notching fresh all-time highs. It reclaimed its throne as the world's most valuable company, edging past Microsoft (MSFT). Investors shrugged off China jitters, bolstered by CEO Jensen Huang\u2019s AI and robotics vision and optimism at the annual\u00a0shareholder meeting.\n\nMore News from Barchart\n\nMichael Saylor Says \u2018You\u2019ll Wish You\u2019d Bought More\u2019 Bitcoin as MicroStrategy Doubles Down\n\nIs Microsoft Stock About to Go Nuclear?\n\nWolfspeed Is Surging After Filing for Bankruptcy. Is It Too Late to Touch WOLF Stock Here?\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nLoop Capital analyst Ananda Baruah helped reignite the rally, lifting the price target to a Street-high $250 and hailing Nvidia as the epicenter of a wave in AI spending. Meanwhile, Nvidia\u2019s new Blackwell chips and AI-fueled demand paint a bold path to a $6 trillion valuation. Sure, insiders have\u00a0offloaded more than $1 billion in stock over the past one year, but investor confidence hasn\u2019t flinched.\n\nSo, after a fiery six-day surge and bullish upgrades, is NVDA stock still worth buying?\n\nAbout NVIDIA Stock\n\nNvidia hardly needs an introduction. It is the undisputed powerhouse behind the AI chip revolution. Boasting a market capitalization of $3.7 trillion, it earned its crown by building graphics processing units (GPUs), the brains of modern AI. Initially famed for fueling gaming and graphics, Nvidia rose to global prominence by pivoting early into AI, becoming the go-to supplier for Big Tech\u2019s data-center ambitions.\n\nNow, CEO Jensen Huang has his sights on a new power play:\u00a0sovereign AI. As countries push to build AI ecosystems free from Silicon Valley\u2019s grip, Nvidia is arming them with the tools \u2014 Blackwell GPUs, AI factories, and more. From\u00a0Europe to the Middle East, billion-dollar deals are stacking up.\n\nNvidia kicked off 2025 with storm clouds overhead. China export curbs, rising tariffs, and geopolitical heat weighed heavily on investors\u2019 sentiment. CEO Jensen Huang warned about potential fallout from losing access to a $50 billion market, and for a while, NVDA stock faltered. But momentum flipped fast.\n\nThe AI chip king roared back,\u00a0surging over 40% in just the past three months and climbing 14% over the past month. In fact, NVDA stock touched a\u00a0fresh high of $158.71 on June 27. Loop Capital\u2019s Street-high price target lit the fuse, but Huang\u2019s talk of multi-trillion-dollar AI frontiers is what's keeping the bulls charged. Additionally, confidence is rising that China\u2019s export limits won\u2019t unseat Nvidia\u2019s AI dominance, especially as global demand for compute power continues to break records.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.85
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "6-day win streak propels Nvidia (NVDA), AI leader, to new highs; shrugs off China concerns, regaining top spot over Microsoft (MSFT)."
+    },
+    "date": "2025-07-03T07:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-130000734.html",
+    "title": "Prediction: This Artificial Intelligence (AI) Stock Could Outpace Nvidia After the Next Chip Upgrade Nvidia is the dominant AI chipmaker thanks to the technological advantage it enjoys over rivals.  Nvidia (NASDAQ: NVDA) has been the biggest beneficiary of the tremendous demand for artificial intelligence (AI) chips.  It is worth noting that Nvidia has been running away with the data center GPU market, with an estimated market share of 92% at the end of last year.",
+    "detail": "Prediction: This Artificial Intelligence (AI) Stock Could Outpace Nvidia After the Next Chip Upgrade\nHarsh Chauhan, The Motley Fool\nThu, Jul 3, 2025, 7:00 AM 5 min read\nIn This Article:\nNVDA\nAMD\nKey Points\n\nNvidia is the dominant AI chipmaker thanks to the technological advantage it enjoys over rivals.\n\nHowever, one of those rivals has been making solid strides on the product development front.\n\nAMD could grab a bigger share of the AI chip market, setting it up for solid long-term gains.\n\n10 stocks we like better than Advanced Micro Devices \u203a\n\nNvidia (NASDAQ: NVDA) has been the biggest beneficiary of the tremendous demand for artificial intelligence (AI) chips. This is not surprising, as the parallel computing ability of its graphics processing units (GPUs) makes them ideal for AI model training and inference.\n\nIt is worth noting that Nvidia has been running away with the data center GPU market, with an estimated market share of 92% at the end of last year. That's miles ahead of second-place Advanced Micro Devices' (NASDAQ: AMD) share of just 4%. However, it won't be surprising to see AMD taking market share away from Nvidia thanks to its upcoming chips.\n\nLet's see why that may be the case.\n\nImage source: Getty Images.\nAMD is aggressively closing the gap\n\nAMD recently unveiled its AI chip roadmap at an investor event. The chipmaker used the event to launch its MI350 series of data center GPUs, promising a \"4x generation-on-generation AI compute improvement and up to 35x leap in inferencing performance.\" This new line of chips is manufactured on a 3-nanometer (nm) process node. That gives it an advantage over Nvidia's latest generation of Blackwell processors, which are reportedly manufactured using a 4nm node.\n\nChips manufactured using a smaller process node are theoretically more powerful and power-efficient, since they pack a higher number of transistors into a smaller area. As a result, the electrons need to travel in a smaller area to perform computing tasks, and they generate less heat. So, AMD's latest generation of AI accelerators could be better than Nvidia's offerings, at least on paper.\n\nAMD points out that its MI350 series processors have stronger specifications compared to Nvidia's Blackwell offerings, packing in 1.6 times more memory. It also points out that the MI355X processor is 1.2 times to 1.3 times faster than Nvidia's Blackwell chips while running inference models such as DeepSeek R1 and Llama 3.1.\n\nMore importantly, AMD is aiming to hurt Nvidia big time with its MI400 series of accelerators that are set to be launched next year. The company is going to increase the high-bandwidth memory (HBM) capacity to 432 gigabytes (GB) on the MI400 from 288GB on the MI350 series chips. What's more, AMD is going to more than double the memory bandwidth in the MI400 processors, to 19.6 terabytes per second.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AMD poised for growth in AI chip market, potentially challenging NVDA's dominance."
+    },
+    "date": "2025-07-03T07:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-alphabet-stock-worth-less-125300519.html",
+    "title": "Why Is Alphabet Stock Worth Less Than Nvidia, Microsoft, Apple, and Amazon Even Though It Is the Most Profitable S&P 500 Company? Alphabet would be the most valuable company in the world if it were valued similarly to its peers.  It seems that earnings don't directly translate into higher share prices over the short term.  The stock market cares more about future earnings potential than the past -- and that may be why Nvidia, Microsoft, Apple (NASDAQ: AAPL), and Amazon (NASDAQ: AMZN) are all worth more than Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) today even though Alphabet is the only S&P 500 stock with over $100 billion in trailing-12-month net income.",
+    "detail": "Why Is Alphabet Stock Worth Less Than Nvidia, Microsoft, Apple, and Amazon Even Though It Is the Most Profitable S&P 500 Company?\nDaniel Foelber, The Motley Fool\nThu, Jul 3, 2025, 6:53 AM 5 min read\nIn This Article:\nGOOGL\nAMZN\nNVDA\nMSFT\nAAPL\nKey Points\n\nAlphabet would be the most valuable company in the world if it were valued similarly to its peers.\n\nIt seems that earnings don't directly translate into higher share prices over the short term.\n\nHowever, at current levels, Alphabet's stock is too undervalued for investors to ignore.\n\n10 stocks we like better than Alphabet \u203a\n\nThe stock market cares more about future earnings potential than the past -- and that may be why Nvidia, Microsoft, Apple (NASDAQ: AAPL), and Amazon (NASDAQ: AMZN) are all worth more than Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) today even though Alphabet is the only S&P 500 stock with over $100 billion in trailing-12-month net income.\n\nHere's why the market views Alphabet's earnings differently than other megacap growth stocks, and whether Alphabet is a buy now.\n\nImage source: Getty Images.\nMore than just a number\n\nEarnings are one of the most important metrics investors use to value a company. How much profit a company generates is an integral part of an investment thesis. But so are expectations for future profits.\n\nGOOGL Net Income (TTM) data by YCharts\n\nAlthough net income is just a number, there are nuances worth understanding. A leading company that operates in a growing industry with competitive advantages, high profit margins, and a great balance sheet will have far higher-quality earnings than a company operating in a declining or even failing industry that is cyclical and capital-intensive.\n\nThis concept is why even the best oil and gas companies, like ExxonMobil\u00a0and Chevron, sport such inexpensive valuations. Their earnings aren't high-margin. Generating them takes a lot of capital. And oil and gas consumption may look much different decades from now than today. This doesn't mean ExxonMobil and Chevron are bad companies. In fact, both are excellent dividend stocks. It just means investors are unlikely to pay the same price for these companies relative to their earnings as, say, an ultra-fast-growing company with high margins like Nvidia.\n\nAlphabet doesn't have a capital-intensive business model. It generates high margins and has diverse revenue streams from its services like Google Search, Google Network, YouTube, Android, Google Cloud, and more. It also has a phenomenal balance sheet with more cash, cash equivalents, and marketable securities than debt. Despite these advantages, Alphabet sports a price-to-earnings (P/E) ratio and forward P/E ratio that are far lower than Nvidia, Microsoft, Apple, and Amazon.\n\nNVDA PE Ratio data by YCharts\nExpectations drive valuations\n\nThis discounted valuation is why Alphabet is worth less than its peers despite making more profit.\u00a0Alphabet's valuation is much cheaper than some of its peers because investors are less optimistic about its future earnings prospects.\n\nStory continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.39
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite being the most profitable S&P 500 company, Alphabet's stock is currently undervalued compared to peers NVDA, MSFT, AAPL, and AMZN due to market focus on future earnings potential"
+    },
+    "date": "2025-07-03T06:53:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/chip-stock-targets-raised-mizuho-123147097.html",
+    "title": "Chip stock targets raised at Mizuho following recent rally Investing.com -- Mizuho Securities has raised price targets and estimates across several major semiconductor and AI server stocks.",
+    "detail": "Chip stock targets raised at Mizuho following recent rally\nSam Boughedda\nThu, Jul 3, 2025, 6:31 AM 2 min read\nIn This Article:\nNVDA\nINTC\nDELL\nAVGO\nAAPL\n\nInvesting.com -- Mizuho Securities has raised price targets and estimates across several major semiconductor and AI server stocks.\n\nIn a note to clients on Thursday, the firm pointed to stronger demand trends, easing supply constraints, and accelerating data center buildouts ahead of second-half 2025 earnings.\n\nIn a wide-ranging note, Mizuho said it is \"raising NVDA ests/PT with tailwinds from Blackwell in 2H25E,\" lifting its price target on Nvidia (NASDAQ:NVDA) to $185 from $170.\n\nMizuho sees \"strong demand for Blackwell into 2H25/26E,\" with rack-level shipments of the GB200 NVL72 projected to hit up to 10,000 units in the fourth quarter.\n\nBroadcom (NASDAQ:AVGO) also received a price target increase to $315, supported by expectations that its MTIA ASIC chips may see accelerated deployments from Apple (NASDAQ:AAPL) and OpenAI in 2026.\n\n\u201cWe see ASICs potentially exceeding NVDA GPU shipments by 2026E,\u201d Mizuho wrote, adding that Broadcom\u2019s advanced packaging remains \u201c~12 months ahead of competition.\u201d\n\nThe firm also raised targets on ARM to $180 and CRDO to $98, highlighting hyperscaler adoption of custom CPUs like Cobalt, Graviton, and Grace, as well as rapid optical interconnect ramps benefiting Credo.\n\n\u201cWe continue to see AMZN AWS tailwinds,\u201d said Mizuho, noting the \u201cscale up/out delivering performance/power needs.\u201d\n\nMizuho expects further upside for Dell (NYSE:DELL) and Supermicro, citing AI server ramps from customers like xAI and OCI. AMD\u2019s price target rose to $152 amid its MI355X ramp, while Intel (NASDAQ:INTC) was raised modestly to $23, with attention now shifting to longer-term roadmap clarity under CEO Lip-Bu Tan.\n\n\u201cThe rapid rise of reasoning models\u201d like agentic AI is driving \u201c10-12x token demand vs. non-reasoning models,\u201d Mizuho said, a trend that supports both GPU and ASIC compute scaling into 2026 and beyond.\n\nRelated articles\n\nChip stock targets raised at Mizuho following recent rally\n\nCiti names DuPont top chemicals pick, sees earnings support from electronics, FX\n\nOlo stock soars after Thoma Bravo agrees to acquire company for $2 billion\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Mizuho raises NVDA's price target to $185 due to strong demand trends and Blackwell's projected high shipment levels in Q4 2025."
+    },
+    "date": "2025-07-03T06:31:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/underrated-stock-just-scored-major-120002148.html",
+    "title": "This Underrated Stock Just Scored a Major Palantir Win. Should You Buy It Now? Seldom in the spotlight, the IT major\u2019s partnership with Palantir may be the catalyst that its stock needs.",
+    "detail": "This Underrated Stock Just Scored a Major Palantir Win. Should You Buy It Now?\nPathikrit Bose\nThu, Jul 3, 2025, 6:00 AM 5 min read\nIn This Article:\nPLTR\nACN\nAccenture plc logo on devices-by Mojahid Mottakin via Shutterstock\n\nIn a world where artificial intelligence (AI) is upending industries and disrupting the way we work every day, companies that are at the forefront of this revolution are rewarded by investors. One company that enterprises are scrambling to partner with is data analytics specialist Palantir (PLTR).\n\nPalantir already plays a vital role in the federal government\u2019s defense strategy through its AI-enabled platforms, and it is simultaneously growing its consumer business.\n\nMore News from Barchart\n\nIs UnitedHealth Stock a Buy, Sell, or Hold for July 2025?\n\nMichael Saylor Says \u2018You\u2019ll Wish You\u2019d Bought More\u2019 Bitcoin as MicroStrategy Doubles Down\n\nIs Microsoft Stock About to Go Nuclear?\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nSo, when IT major Accenture (ACN) revealed that it would partner with Palantir to deploy commercial-grade, AI-powered solutions for U.S. federal government customers, the buzz around the stock was palpable. Although ACN stock is down about 14% on a YTD basis, shares have popped 2.6% over the past five days.\n\nwww.barchart.com\nAbout Accenture\n\nAccenture is a leader in professional services, offering a wide range of capabilities like consulting, technology, cloud and artificial intelligence, among others. It helps its government and commercial clients become more efficient, competitive, and future-ready.\n\nValued at a market cap of $189.5 billion, ACN stock offers a dividend yield of 1.96%, which is higher than the technology sector average of 1.37%. With a payout ratio of 42.9%, there remains some room for growth.\n\nHowever, is an alliance with one of the most consequential companies of this era enough to justify an investment in ACN stock?\n\nAccenture Has Sound Fundamentals\n\nThough nothing sensational, Accenture has grown its revenue and earnings at steady compound annual growth rates (CAGRs) of 8% and 10% over the past 10 years, respectively, while shares have gained 193% in the same timeframe.\n\nIn the most recent quarter, Accenture\u2019s revenue and earnings both surpassed consensus estimates. Revenues increased by 8% from the previous year to $17.7 billion, amid strong growth in each of its industry groups. Its earnings went up by 15% in the same period to $3.49 per share.\n\nCash flow from operations came in at a healthy $3.68 billion in its fiscal third quarter ompared to $3.14 billion in the year-ago period as free cash flow grew to $3.52 billion from $3.02 billion. Operating margins also saw an improvement of 80 basis points to 16.8%.\n\nOverall, Accenture closed the quarter with a cash balance of $9.6 billion, which was much higher than its short-term as well as long-term debt levels of $115.1 million and $5.04 billion, respectively.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.1
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Palantir's AI platforms win Accenture partnership; NVDA's potential competitor gains advantage."
+    },
+    "date": "2025-07-03T06:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/2-stocks-buy-summer-4-114502881.html",
+    "title": "2 Stocks to Buy for the \u2018Summer of $4 Trillion\u2019 Top analyst Dan Ives believes both of these stocks are poised to surge this summer to $4 trillion-plus valuations.",
+    "detail": "2 Stocks to Buy for the \u2018Summer of $4 Trillion\u2019\nOmor Ibne Ehsan\nThu, Jul 3, 2025, 5:45 AM 3 min read\nIn This Article:\nNVDA\nMSFT\nBull market by Phive2015 via iStock\n\nWall Street\u2019s most expensive horse race is entering its final stretch. Nvidia (NVDA) trades at $3.74 trillion and Microsoft (MSFT) trades at $3.66 trillion. Wedbush\u2019s Dan Ives believes the duo will sprint past $4 trillion in market value before summer ends. Driving these mammoth market caps, Ives argues that every dollar spent on Nvidia\u2019s chips leads to $8 to $10 multiplication across the rest of the tech sector.\n\nBoth companies are already posting blockbuster financials, and each has a near-monopolistic position in their respective AI niches. Thus, it\u2019s worth taking a deeper look at Nvidia and Microsoft here.\n\nMore News from Barchart\n\nIs UnitedHealth Stock a Buy, Sell, or Hold for July 2025?\n\nMichael Saylor Says \u2018You\u2019ll Wish You\u2019d Bought More\u2019 Bitcoin as MicroStrategy Doubles Down\n\nIs Microsoft Stock About to Go Nuclear?\n\nTired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!\n\nStock #1: Nvidia (NVDA)\nwww.barchart.com\n\nDan Ives is highly bullish on NVDA stock and calls Nvidia the \u201cfoundation for the AI revolution,\u201d adding that CEO Jensen Huang is the \u201cGodfather of AI.\u201d His rationale is that cloud service providers will increasingly acquire more AI-capable chips to build out their services.\n\nNvidia is often the first, and sometimes the only, supplier these companies purchase from. It has been able to position itself as a premier supplier of both AI hardware and the required software for data centers. Ives believes the use cases of AI are \u201cexploding\u201d across many verticals.\n\nThere is good substance to Ives\u2019 claim that NVDA stock may indeed break through $4 trillion this summer. The stock broke through the $150 resistance level on June 25 and hit a new all-time high above $158 on June 27. It has been building on that momentum since. With $150 no longer a ceiling, its next resistance levels are in the low-$160 range, and some analysts have targets as high as $250 on shares. There have been no indications that Nvidia\u2019s domestic customers are slowing down orders, and Blackwell remains fully booked for the year.\n\nThe average analyst is also optimistic on NVDA, with a price target of $176.62. This implies 14% upside, or a market capitalization of roughly $4.3 trillion.\n\nwww.barchart.com\nStock #2: Microsoft (MSFT)\nwww.barchart.com\n\nAlthough Microsoft has temporarily lost its spot as the No. 1 most valuable company in the world, it may soon be able to close that gap as its AI momentum has been accelerating, and so has the stock.\n\nMSFT stock currently trades near $491. It is likely to meet some resistance near $500, but breaking through that level could unlock enough upside to get past Nvidia again. It is spending $80 billion on AI-related capital expenses in 2025 to add to its momentum.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.88
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Wall Street expects Nvidia (NVDA) and Microsoft (MSFT) to surpass $4 trillion in market value this summer, driven by their dominant positions in AI sectors. Nvidia's chips reportedly lead to $8"
+    },
+    "date": "2025-07-03T05:45:00"
+  }
+]

@@ -1,0 +1,591 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/some-complacency-has-crept-in-how-fomo-and-speculative-bets-are-driving-the-2025-market-rally-133011080.html",
+    "title": "'Some complacency has crept in': How FOMO and speculative bets are driving the 2025 market rally Speculative bets and retail-driven FOMO are fueling the recent stock market rally despite shaky fundamentals.",
+    "detail": "'Some complacency has crept in': How FOMO and speculative bets are driving the 2025 market rally\nAllie Canal \u00b7 Senior Reporter\nSun, Jul 6, 2025, 7:30 AM 3 min read\nIn This Article:\n^GSPC\n^SPX\nNVDA\nPLTR\nSMCI\n\nThe stock market continues to hit new highs in 2025, buoyed by a surge in megacap stocks and more speculative trades as investors' appetite for risk continues to grow despite lingering economic uncertainties.\n\nPalantir (PLTR), sometimes described as the quintessential meme stock, and Super Micro Computer (SMCI), the most heavily shorted stock in the S&P 500 (^GSPC) in April, have been among the top-performing equities this year, far outpacing the broader index.\n\nWhile this speculative rally exists alongside record highs for AI giants like Nvidia (NVDA) and Meta (META), a fear of missing out appears to be a key force behind recent investor behavior.\n\n\"Retail traders' fingerprints [are] all over it,\" Liz Ann Sonders, chief investment strategist at Charles Schwab, said on Yahoo Finance's Opening Bid this week, describing the market's powerful rebound since the early April lows. The rally, she said, has been strengthened by a surge in \"retail favorites or meme stocks, unprofitable tech,\" and a \"lower quality tilt\" that has lifted riskier names \u2014 even penny stocks.\n\n\"Some complacency has crept in,\" she said.\n\nAccording to data from Goldman Sachs, the riskiest corners of the market, including high-beta momentum stocks, a bitcoin-sensitive index, and unprofitable tech, far outpaced the S&P 500 in the second quarter as investors chased speculative momentum.\n\nStablecoin issuer Circle (CRCL) and AI cloud provider CoreWeave (CRWV) have skyrocketed since their public debuts earlier this year, surging nearly 500% and 300%, respectively. Shares of Quantum Computing (QUBT) have also jumped, rising more than 60% over the past month amid a broader rally of the sector.\n\nThat surge in risk-taking is raising red flags for some on Wall Street, particularly as certain trades show an increasing disconnect from fundamentals.\n\n\"It's the gamification of the financial markets that we've seen over the last five years,\" Chad Morganlander, senior portfolio manager at Washington Crossing Advisors, told Yahoo Finance on Tuesday. \"It's a considerable concern ... There's a lot of speculation there. Buyer beware.\"\n\nRead more: How to protect your money during turmoil, stock market volatility\n\nThe stock market is hitting new highs in 2025, buoyed by a surge in megacap stocks and more speculative trades as investors' appetite for risk continues to grow despite lingering economic uncertainties. (Getty Images) \u00b7 arcoss via Getty Images\n\nAccording to Bespoke Investment Group, nearly 420 stocks in the Russell 3000 jumped more than 50% between the lows on April 8 and June 27, including 14 that soared over 200%. Of those highfliers, only four are profitable. On average, the 858 unprofitable companies in the index gained 36.4% during that stretch, more than doubling the 15.6% return seen among the 500 stocks with the lowest price-to-earnings ratios.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.38
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2025 market rally driven by speculative trades; Palantir, SMCI top performers; FOMO influencing investor behavior; NVDA, Meta also performing well."
+    },
+    "date": "2025-07-06T07:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stock-market-melt-up-is-being-fueled-by-blind-belief-in-lots-of-rate-cuts-in-2026-123008774.html",
+    "title": "Stock market melt-up is being fueled by blind belief in lots of rate cuts in 2026 Here we go with the bold interest rate calls for 2026!",
+    "detail": "Stock market melt-up is being fueled by blind belief in lots of rate cuts in 2026\nBrian Sozzi \u00b7 Executive Editor\nSun, Jul 6, 2025, 6:30 AM 4 min read\nIn This Article:\nNVDA\nTFC\n\nThis is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\n\nThe chart of the day\n\nWhat we're watching\n\nWhat we're reading\n\nEconomic data releases and earnings\n\nTo this day, I get surprised by the storylines that develop in markets.\n\nColor me surprised by how quickly markets rebounded after the \"Liberation Day\" massacre. Tariffs? Who cares? More Nvidia (NVDA) stock, please!\n\nAlso add me to the surprised column for how fast markets bounced off the March 2009 Great Recession lows. I vividly remember staring at god-awful economic data for much of 2009 ... and a rallying market.\n\nI return today with the latest head-scratching (though smile-inducing) narrative developing among investors: 2026 is going to be a MONSTER year for interest rate cuts, so buy stocks hand over fist today! You didn't read that wrong, friends.\n\nThere are five months left in 2025 \u2014 months that will include earnings periods, tariff deadlines, a tax bill deadline, and no doubt a host of negative surprises \u2014 yet investors are already keyed in on 2026.\n\nI kid you not, and I credit Morgan Stanley for bringing this developing narrative to the surface this past week, as I have been hearing chirpings of it for weeks.\n\nPodcast:\u00a0Inside the latest stock market melt-up\n\nMorgan Stanley said its economics team sees seven rate cuts in 2026, a \"dynamic that's likely to be a second half tailwind for back-end rates and valuation.\"\n\nMike Wilson, the team's closely followed chief investment strategist, noted that \"there are already signs the equity market is starting to price this now.\"\n\nWilson continued, \"Our work shows equity performance is strong during Fed cutting cycles even if this tailwind starts to get discounted ahead of time.\"\n\nKeep in mind that everything we've heard from Fed Chair Jerome Powell in recent weeks suggests that a rate cut later this month or September is far from guaranteed. June's strong jobs report further muddles the picture.\n\nYet, back up the truck on seven rate cuts for 2026.\n\nRead more: How the Fed rate decision affects your bank accounts, loans, credit cards, and investments\n\nI must tip my cap to veteran Charles Schwab strategist Liz Ann Sonders for pushing back on this view.\n\n\"So I have a bit of a contrarian take on that [rate cut view]. I think part of the reason, if you wanted to point to fundamental reasons why the market has done as well as it has, is actually because the Fed is not cutting interest rates. And that's because the background conditions as it relates to their dual mandate is not suggestive of the Fed needing to move to easier policy,\" Sonders told me on Yahoo Finance's Opening Bid (video above).\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.74
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2026 predicted for massive rate cuts; potential boost for NVDA stock."
+    },
+    "date": "2025-07-06T06:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-vs-microsoft-stock-first-131500147.html",
+    "title": "Nvidia vs. Microsoft Stock: Which Will Be the First $4 Trillion Company? Nvidia and Microsoft are knocking on the door of $4 trillion market caps.  Nvidia deserves a lot of credit for being the backbone behind AI development.  AI has added to Microsoft\u2019s investment thesis rather than redefining it.",
+    "detail": "Nvidia vs. Microsoft Stock: Which Will Be the First $4 Trillion Company?\nDaniel Foelber, The Motley Fool\nSun, Jul 6, 2025, 7:15 AM 6 min read\nIn This Article:\nNVDA\nMSFT\nAAPL\nKey Points\n\nNvidia and Microsoft are knocking on the door of $4 trillion market caps.\n\nNvidia deserves a lot of credit for being the backbone behind AI development.\n\nAI has added to Microsoft\u2019s investment thesis rather than redefining it.\n\n10 stocks we like better than Nvidia \u203a\n\nOn Dec. 26, 2024, Apple\u00a0crossed $3.9 trillion in market capitalization, putting it just 2% away from becoming the world's first $4 trillion company. But it didn't get there. Apple has recovered in recent weeks but remains down big year to date, whereas Nvidia (NASDAQ: NVDA) and Microsoft (NASDAQ: MSFT) just made new all-time highs.\n\nHere's why Nvidia will likely become the first company to surpass $4 trillion in market value, what Nvidia and Microsoft must do to continue rising in price, and whether either growth stock is a buy now.\n\nImage source: Getty Images.\nA new frontrunner\n\nIn less than three years, Nvidia has gone from billions to trillions in market cap. And now, it is the closest company to $4 trillion -- a little over 3% away as of market close on July 3.\n\nNVDA Market Cap data by YCharts.\n\nNvidia will likely reach $4 trillion before Microsoft simply because it is closer to the threshold, and its stock is more volatile. Nvidia is now up over 18% year to date (YTD), but it was down around 30% YTD in early April during the worst of the tariff-induced sell-off. So it's not unreasonable that the stock could move a few percentage points higher to pole-vault its market cap above $4 trillion.\n\nThe better question isn't whether Nvidia or Microsoft will hit $4 trillion in market cap but rather what each company must do to justify that valuation.\n\nAn earnings-driven rally\n\nThe two biggest drivers of stock-price appreciation are earnings growth and investor sentiment. If earnings are increasing, investors will likely pay a higher price for the company's shares. But if investors expect the pace of earnings growth to accelerate, then they may be willing to give a stock a premium valuation.\n\nNvidia and Microsoft have been such strong performers in recent years because they are growing earnings and investors are willing to pay a premium price for these companies relative to their earnings. Nvidia went from making under $10 billion in annual net income to a staggering $76.8 billion in just a few years. Microsoft has doubled its net income over the past five years, and its stock price has more than doubled as well.\n\nNVDA data by YCharts.\n\nFor Nvidia and Microsoft to continue being good investments going forward, both companies must demonstrate that their earnings growth is sustainable and not temporary.\n\nNvidia's valuation is still reasonable\n\nNvidia has greatly benefited from the rapid rise of big tech spending on artificial intelligence (AI). Nvidia has a dominant market share in providing high-powered graphics processing units (GPUs) for data centers and associated AI solutions for enterprises.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia edges closer to $4T market cap as AI leader, while Microsoft gains from AI integration."
+    },
+    "date": "2025-07-06T07:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/where-nvidia-stock-1-120000902.html",
+    "title": "Where Will Nvidia Stock Be in 1 Year? There are some early signs that Nvidia's AI chip dominance could be cracking.  Let's dig deeper to see how competition in the artificial intelligence (AI) industry and a push for sovereign AI could affect Nvidia's (NASDAQ: NVDA) performance over the next year and beyond.  Make no mistake, Nvidia is still the king of the generative AI training and inference chip industry with an incredible market share of 80% to 90%.",
+    "detail": "Where Will Nvidia Stock Be in 1 Year?\nWill Ebiefung, The Motley Fool\nSun, Jul 6, 2025, 6:00 AM 4 min read\nIn This Article:\nNVDA\nKey Points\n\nThere are some early signs that Nvidia's AI chip dominance could be cracking.\n\nIn an effort to reduce their dependence, customers are diversifying supply chains.\n\nHowever, a push for sovereign AI could support Nvidia's near-term performance.\n\n10 stocks we like better than Nvidia \u203a\n\nLong-term investing is usually the key to sustainable stock market returns. But a company's short-term risks and opportunities can reveal early clues on how the whole story will play out.\n\nLet's dig deeper to see how competition in the artificial intelligence (AI) industry and a push for sovereign AI could affect Nvidia's (NASDAQ: NVDA) performance over the next year and beyond.\n\nNvidia is still the king of generative AI\n\nMake no mistake, Nvidia is still the king of the generative AI training and inference chip industry with an incredible market share of 80% to 90%. The company maintains its economic moat with a combination of constant innovation, support software, and a developer community that is accustomed to using its products. That said, when you are already at the top, there is only one way to go: down.\n\nThat isn't to say Nvidia's business is crashing, because it isn't. First-quarter revenue jumped 69% year over year to $44.1 billion, which is a healthy expansion driven by the continued rollout of the company's new Blackwell-based AI chips. However, this is a stark deceleration compared to the 262% growth rate Nvidia experienced this time last year.\n\nSome observers will chalk up Nvidia's relatively lackluster first-quarter performance to challenges in China, where the Trump administration's policy effectively ended its imports of H20 chips into the country (causing a $4.5 billion impairment charge related to excess inventory). However, this may be the start of a longer-term trend, a little closer to home.\n\nNvidia's clients are becoming its rivals\n\nHistorically, Nvidia has managed to sell its hardware at gross margins pushing 80%, which is a level typically seen with software companies that don't sell physical products. These immense mark-ups create an incentive for Nvidia's biggest clients (many of which are technology leaders in their own right) to replace its products wherever possible.\n\nOpenAI has been particularly aggressive in its efforts to diversify its supply chain. In February, OpenAI began finalizing designs with Taiwan Semiconductor Manufacturing to fabricate its first custom AI chip to help run and train its AI workloads without relying on Nvidia hardware.\n\nCustom chips are a particular threat to Nvidia's business model because they can be more cost-effective for specialized use cases compared to Nvidia's one-size-fits-all solutions. And OpenAI expects to have its new chips ready for mass production in 2026.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.41
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "80-90% market share maintained by Nvidia in AI chip industry; potential long-term challenge from diversification efforts and sovereign AI push."
+    },
+    "date": "2025-07-06T06:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/heres-why-navitas-semiconductor-shares-101616026.html",
+    "title": "Here's Why Navitas Semiconductor Shares Soared in June (Hint: It's Nvidia Related) Nvidia's partnership is a big deal for this semiconductor stock.  Most of the anecdotal evidence, management commentary, and order patterns currently confirm the AI/data center market is all systems go.  It comes down to the company's relationship with Nvidia, specifically its potential role in developing data center architecture for the next generation of data centers, which are set to hit the market in 2027.",
+    "detail": "Here's Why Navitas Semiconductor Shares Soared in June (Hint: It's Nvidia Related)\nLee Samaha, The Motley Fool\nSun, Jul 6, 2025, 4:16 AM 3 min read\nIn This Article:\nNVTS\nNVDA\nKey Points\n\nNvidia's partnership is a big deal for this semiconductor stock.\n\nMost of the anecdotal evidence, management commentary, and order patterns currently confirm the AI/data center market is all systems go.\n\n10 stocks we like better than Navitas Semiconductor \u203a\n\nShares in gallium nitride (GaN) and silicon carbide (SiC) semiconductor company Navitas Semiconductor (NASDAQ: NVTS) soared by 28.4% in June, according to data from S&P Global Market Intelligence. The stock has been on a remarkable run recently, and at the time of writing, it's up more than 80% year to date.\n\nWhy Navitas Semiconductor is surging\n\nThere's no doubt as to the reason for the move. It comes down to the company's relationship with Nvidia, specifically its potential role in developing data center architecture for the next generation of data centers, which are set to hit the market in 2027.\n\nAs previously discussed, the new data centers are likely to be more efficient, require significantly lower maintenance and cooling costs, and offer better reliability. The key to the new 800-volt high-voltage direct (HVDC) current data centers, set to begin in 2027, lies in a fundamental change in how power is distributed from the grid through the data center to the IT racks.\n\nThat's where Navitas Semiconductor's GaN and SiC power devices come in. Its GaN chips will help with converting 800-volt HVDC down to the lower voltages necessary to run graphics processing units, which are Nvidia's specialty, in the IT racks. Meanwhile, Navitas' SiC chips are crucial for converting the 13.8 kilovolt alternating current power from the grid to the 800-volt HVDC used in the new data centers.\n\nAs such, Navitas' solutions look likely to play a key role in the next generation of data centers that will power the AI revolution.\n\nOngoing end demand\n\nThe news of Nvidia's partnership is obviously a plus. Still, investors will also need to see that capital spending on data centers and end demand from AI applications continue to grow at a rate necessary to support a successful rollout of the new data centers in 2027. And here, Navitas investors have reason to be optimistic. Despite the uncertainties created by the trade tariff conflict, there has been no let-up in the data center spending plans of hyperscalers such as Microsoft and Alphabet.\n\nIn addition, anecdotal evidence from data center equipment companies and contractors indicates that investment in data centers continues to run hot.\n\nImage source: Getty Images.\nWhere next for Navitas\n\nAs with hypergrowth stocks, conventional metrics such as trailing earnings won't make much sense right now. Still, Navitas should expect an aggressive sales ramp-up in 2026, ahead of the launch of the 800-volt HVDC data centers in 2027. As such, the ongoing momentum in the development of those sales, along with Nvidia's commentary on the progress of its architecture for the new data centers, is likely to be the key driver of the stock price for the foreseeable future.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "28.4% surge in NVTS shares due to partnership with Nvidia for data center architecture development."
+    },
+    "date": "2025-07-06T04:16:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/expect-magnificent-seven-second-half-090000904.html",
+    "title": "What To Expect From the Magnificent Seven in the Second Half of 2025 The Magnificent Seven entered 2025 on a high note. Since then, the tune has meandered all over the place.",
+    "detail": "What To Expect From the Magnificent Seven in the Second Half of 2025\nColin Laidley\nSun, Jul 6, 2025, 3:00 AM 6 min read\nIn This Article:\nNVDA\nMSFT\nMETA\n\nZach Hackman / Investopedia\n\nAnalysts expect the group of tech giants to continue to benefit from their size and position in the AI race\nKey Takeaways\n\nAnalysts expect the group of tech giants to continue to benefit from their size and position in the AI race.\n\nThey also warn that their earnings growth relative to other leading companies may slow. And even in AI, analysts warn, investors may start to look to other stocks in search of gains.\n\nThree of the Mag 7\u2014Nvidia, Microsoft, and Meta\u2014are up double digits since the start of 2025 and are currently trading at or near record highs.\n\n\n\n\nThe Magnificent Seven entered 2025 on a high note. Since then, the tune has meandered all over the place.\n\nLooking ahead, analysts expect the group of tech giants to continue to benefit from their size and position in the AI race, which could both fuel future growth and offer protection for investors concerned about trade-fueled uncertainty.\u00a0But they also warn that their earnings growth relative to other leading companies may slow\u2014and even in artificial intelligence, investors may start to look to other stocks in search of gains.\n\nBelow, we\u2019ll catch you up on the year so far for the Magnificent Seven\u2014and go into more detail about some of the likely drivers of their performance that await in the months to come.\n\nHow We Got Here\n\nxExcitement about AI propelled the tech giants\u2014Apple (AAPL), Microsoft (MSFT), Nvidia (NVDA), Amazon (AMZN), Alphabet (GOOG), Meta (META), and Tesla (TSLA)\u2014to two years of outsized gains. The stocks, like the broader market, were pushed higher by post-election optimism about President-elect Donald Trump\u2019s promises to cut taxes, roll back regulations, and welcome the business community to Washington with wide-open arms.\n\nNo company stood to benefit more than Tesla, whose CEO Elon Musk was expected to wield immense influence within the White House after publicly, and expensively, supporting Trump\u2019s campaign. Instead, Tesla\u2019s sales\u2013and stock\u2013crashed as Musk took a public role in Trump\u2019s administration that led to both political opposition and concern about his work with the carmaker.\n\nMeanwhile, Trump\u2019s tariffs sparked panic on Wall Street that pummeled high-flying tech stocks. By the time Trump paused the tariffs, the Roundhill Magnificent Seven ETF (MAGS) was trading more than 30% below its December high.\n\nThings have recovered since. Easing trade tensions, a strong U.S. economy, and resilient businesses helped the \u201cMag 7\u201d claw back nearly all of those losses in the second quarter, with the Roundhill ETF having edged into the green year-to-date.\n\nThree of the Mag 7\u2014Nvidia, Microsoft, and Meta\u2014are up double digits since the start of 2025 and are currently at or near record highs. Amazon and Alphabet remain slightly off their records. Apple and Tesla are down 14% and 19%, respectively, year-to-date.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.39
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.1
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Analysts predict continued benefits for Nvidia, Microsoft, and Meta in AI race; earnings growth may slow compared to peers."
+    },
+    "date": "2025-07-06T03:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/5-great-growth-stocks-buy-084000412.html",
+    "title": "What Are 5 Great Growth Stocks to Buy That Are Down 20% or More? AMD and GitLab are two beaten-down tech stocks seeing strong AI-related growth.  Beauty's acquisition of Rhode positions it for a rebound.  While well off their highs, Dutch Bros and Cava are two of the best growth stories in the restaurant space.",
+    "detail": "What Are 5 Great Growth Stocks to Buy That Are Down 20% or More?\nGeoffrey Seiler, The Motley Fool\nSun, Jul 6, 2025, 2:40 AM 6 min read\nIn This Article:\nAMD\nGTLB\nBROS\nCAVA\nELF\nKey Points\n\nAMD and GitLab are two beaten-down tech stocks seeing strong AI-related growth.\n\ne.l.f. Beauty's acquisition of Rhode positions it for a rebound.\n\nWhile well off their highs, Dutch Bros and Cava are two of the best growth stories in the restaurant space.\n\n10 stocks we like better than Advanced Micro Devices \u203a\n\nWhile the market has returned to new highs, not every growth stock has rebounded at the same pace. Five stocks still down 20% or more from all-time highs that look attractive are Advanced Micro Devices (NASDAQ: AMD), GitLab (NASDAQ: GTLB), e.l.f. Beauty (NYSE: ELF), Dutch Bros (NYSE: BROS), and Cava Group (NYSE: CAVA).\n\nLet's look at what each of these five discounted growth stocks brings to the table.\n\nImage source: Getty Images.\n1. Advanced Micro Devices (down 35% from high)\n\nWhile AMD remains a distant second to market leader Nvidia in graphics processing units (GPUs), it's starting to carve out a meaningful niche in artificial intelligence (AI) inference. That's important because the inference market is expected to become larger than AI training over time, and AMD's cost-effective chips are starting to gain traction.\n\nOn its latest earnings call, management said one of the largest AI-model companies is now using its GPUs for a large share of its daily inference workload. Major cloud providers are also turning to AMD chips for AI tasks like search and recommendation engines.\n\nThe company already has a leadership position in data central processing units, and its overall data center revenue has been growing strongly. Last quarter, its data center segment soared 57%, helping total revenue climb 36%. AMD doesn't need to unseat Nvidia in the GPU space, it just needs to gain a modest share to drive outsized growth from its smaller base. Given the pullback in the stock, the setup here looks attractive.\n\n2. GitLab (down 65% from high)\n\nGitLab has become one of the most important players in secure software development. Its DevSecOps platform is helping developers build, test, and deploy applications more efficiently in a secure environment, and its recent GitLab 18 launch only strengthens that position. The release includes over 30 new enhancements, including the GitLab Duo Agent Platform, which deploys AI agents across the entire software development life cycle, not just for code but also for documentation, testing, and compliance.\n\nThe company is seeing solid growth both from existing customers and new ones. Last quarter, its revenue climbed 27% year over year, while its dollar-based net retention rate was a robust 122%. Much of this growth is coming from existing customers expanding seats and upgrading to higher-tier plans.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.5
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Tech stocks AMD and GitLab, down 35% and 40%, respectively, show potential due to strong AI growth."
+    },
+    "date": "2025-07-06T02:40:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/vertiv-unveils-energy-efficient-cooling-074828228.html",
+    "title": "Vertiv Unveils Energy-Efficient Cooling, Power Reference Architecture for NVIDIA GB300 NVL72 Platform Vertiv Holdings Co. (NYSE:VRT) is one of the best NYSE stocks to buy for long term investment. On June 11, Vertiv announced the release of its energy-efficient 142kW cooling and power reference architecture specifically designed for the NVIDIA GB300 NVL72 platform. The design offers fully integrated and end-to-end cooling and power strategies. Vertiv\u2019s solutions are [\u2026]",
+    "detail": "Vertiv Unveils Energy-Efficient Cooling, Power Reference Architecture for NVIDIA GB300 NVL72 Platform\nMaham Fatima\nSun, Jul 6, 2025, 1:48 AM 1 min read\nIn This Article:\nVRT\nNVDA\n\nVertiv Holdings Co. (NYSE:VRT) is one of the best NYSE stocks to buy for long term investment. On June 11, Vertiv announced the release of its energy-efficient 142kW cooling and power reference architecture specifically designed for the NVIDIA GB300 NVL72 platform. The design offers fully integrated and end-to-end cooling and power strategies.\n\nVertiv\u2019s solutions are also available as SimReady 3D assets within the NVIDIA Omniverse Blueprint for AI factory design and operations, which allows for customized data center designs that reduce planning times and mitigate risks during the construction phase.\n\nVertiv Unveils Energy-Efficient Cooling, Power Reference Architecture for NVIDIA GB300 NVL72 Platform\n\nA close-up of a group of technicians working on complex data center systems.\n\nThe development aligns with Vertiv\u2019s ongoing collaboration with NVIDIA, where, in part, Vertiv is actively supporting 800 VDC data center power infrastructure for 1 MW IT racks and beyond, with solutions expected to be available starting in 2026.\u00a0The reference architecture for the NVIDIA GB300 NVL72 is a key component of the Vertiv\u2122360AI infrastructure platform, which guides customers in integrating solutions for powering and cooling AI workloads and other HPC\u00a0 applications.\n\nVertiv Holdings Co. (NYSE:VRT) designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial & industrial environments.\n\nWhile we acknowledge the potential of VRT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you\u2019re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 30 Stocks That Should Double in 3 Years\u00a0and 11 Hidden AI Stocks to Buy Right Now.\n\nDisclosure: None. This article is originally published at\u00a0Insider Monkey.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.41
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Vertiv releases energy-efficient cooling, power solution for NVDA's GB300 NVL72 platform, reducing planning times and risks in data center designs."
+    },
+    "date": "2025-07-06T01:48:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/could-buy-hold-just-1-221500579.html",
+    "title": "If I Could Buy and Hold Just 1 Stock Forever, This Would Be It CEO Jensen Huang deserves to be recognized as one of the globe's best.  Asking someone to pick just one stock of the thousands of publicly traded companies in the world is a daunting task.  First of all, no portfolio should be built on a single company -- the best way to grow your wealth over time is with a diversified portfolio.",
+    "detail": "If I Could Buy and Hold Just 1 Stock Forever, This Would Be It\nPatrick Sanders, The Motley Fool\nSat, Jul 5, 2025, 4:15 PM 5 min read\nIn This Article:\nNVDA\nKey Points\n\nDemand for Nvidia's high-end chips remains intense.\n\nDespite its massive size, its top and bottom lines continue to rise rapidly.\n\nCEO Jensen Huang deserves to be recognized as one of the globe's best.\n\n10 stocks we like better than Nvidia \u203a\n\nAsking someone to pick just one stock of the thousands of publicly traded companies in the world is a daunting task. First of all, no portfolio should be built on a single company -- the best way to grow your wealth over time is with a diversified portfolio.\n\nBut every portfolio has to have a starting point, and if I were starting mine from scratch -- and choosing individual stocks instead of an exchange-traded fund -- my first draft pick would be the unquestioned leader in generative artificial intelligence (AI): Nvidia (NASDAQ: NVDA).\n\nHere are three reasons why.\n\nNvidia owns the GPU space\n\nNvidia's long-established growth story got a fresh boost in 2023, when the explosion in demand for generative AI had customers scooping up Nvidia's graphics processing units (GPUs) as fast as its foundry partners could make them. GPUs are parallel processing chips -- tools designed for handling specific types of complex calculations that can easily be divided up into massive numbers of smaller tasks, each of which can be dealt with simultaneously, as opposed to calculations where tasks have to be dealt with sequentially. Most of the heavy lifting in the AI realm consists of computational work that parallel processors excel at, and those chips can be combined into huge clusters to work even faster.\n\nNvidia has a remarkable 92% market share in the GPU market, according to estimates from Jon Peddie Research. Demand is intense for its new Blackwell chips, which are the successors to its popular Hopper chips. As CEO Jensen Huang said in the company's first-quarter earnings release:\n\n\"Global demand for Nvidia's AI infrastructure is incredibly strong. AI inference token generation has surged tenfold in just one year, and as AI agents become mainstream, the demand for AI computing will accelerate. Countries around the world are recognizing AI as essential infrastructure -- just like electricity and the internet -- and Nvidia stands at the center of this profound transformation.\"\n\nIts competitive position is strengthened by its CUDA software platform, which, among other things, provides libraries and tools that help developers work on AI models that are powered specifically by Nvidia GPUs. Because CUDA is only compatible with Nvidia's chips, switching to another company's chips is more complex and expensive, which should help lock Nvidia's clients in for years to come.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.8
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "3. CEO Jensen Huang's leadership is globally recognized."
+    },
+    "date": "2025-07-05T16:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/billionaire-michael-platt-just-made-221000697.html",
+    "title": "Billionaire Michael Platt Just Made a Move that Would Please Warren Buffett This top investor's latest move could be seen as a vote of confidence in American companies.  Billionaire investors have proven their talents over the years by producing big returns for clients and for themselves.  For example, in the past year, Stanley Druckenmiller of the Duquesne Family Office sold all of his Nvidia shares -- but in the first quarter of 2025, Chase Coleman of Tiger Global Management added to his Nvidia position.",
+    "detail": "Billionaire Michael Platt Just Made a Move that Would Please Warren Buffett\nAdria Cimino, The Motley Fool\nSat, Jul 5, 2025, 4:10 PM 5 min read\nIn This Article:\nNVDA\nKey Points\n\nPlatt has been known for anticipating market shifts and taking appropriate action.\n\nThis top investor's latest move could be seen as a vote of confidence in American companies.\n\n10 stocks we like better than SPDR S&P 500 ETF Trust \u203a\n\nBillionaire investors have proven their talents over the years by producing big returns for clients and for themselves. They don't all make the same moves at the same times, though -- and sometimes they pivot in completely opposite directions. For example, in the past year, Stanley Druckenmiller of the Duquesne Family Office sold all of his Nvidia shares -- but in the first quarter of 2025, Chase Coleman of Tiger Global Management added to his Nvidia position.\n\nBoth decisions could be winning ones: Druckenmiller locked in his gains on a position he had held for a while; Coleman is positioning himself to potentially benefit from Nvidia's next wave of growth. So, investors don't have to take the exact same path to win in investing.\n\nBut, in some cases, billionaires do have similar ideas, and this brings me to the subject of Michael Platt and Warren Buffett. Recently, Platt -- the managing director of giant European hedge fund BlueCrest Capital Management -- made an investment move that the \"Oracle of Omaha,\" as Buffett is often called, would applaud. This particular investment is one Buffett himself has held in the recent past -- and one he recommends to every investor.\n\nImage source: Getty Images.\nThe U.K.'s wealthiest hedge fund manager\n\nFirst, though, a quick note on Platt, who oversees $86 billion in assets at BlueCrest and is the U.K.'s wealthiest hedge fund manager. He co-founded the firm back in 2000, and it has operated as a private partnership -- taking no money from outside investors -- for almost a decade. The fund has been very successful, last year recording a 38% gain after delivering a 20% return in the previous year, according to press reports.\n\nPlatt has been known to anticipate market shifts and effectively take action. For example, in 2007, concerned about a potential market crash, he sold BlueCrest's bank shares -- a move that was key to the firm successfully navigating the financial crisis. He also invests across asset classes, and this diversification has helped him minimize risk and maximize profit over the long term.\n\nNow, let's consider one of Platt's recent moves. In the first quarter, the billionaire bought shares of the SPDR S&P 500 ETF Trust (NYSEMKT: SPY), an exchange-traded fund that tracks the performance of the S&P 500 index. This is a new holding for Platt, and he bought 117,163 shares, for a position that represented 2.8% of his portfolio, based on the 13F form he most recently submitted to the U.S. Securities and Exchange Commission. Managers of more than $100 million in U.S. securities must file those forms on a quarterly basis.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Top investor Chase Coleman adds to Nvidia position, signaling potential growth for NVDA."
+    },
+    "date": "2025-07-05T16:10:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/down-over-50-buy-dip-220400266.html",
+    "title": "Down Over 50%, Should You Buy the Dip on SoundHound AI Stock? Euphoria gave way to despair after Nvidia sold its stake in SoundHound.  Investors need to develop their own investment thesis for the stock instead of reacting to Nvidia.  A well-rounded thesis will include a realistic view of future competition.",
+    "detail": "Down Over 50%, Should You Buy the Dip on SoundHound AI Stock?\nJon Quast, The Motley Fool\nSat, Jul 5, 2025, 4:04 PM 5 min read\nIn This Article:\nNVDA\nSOUN\nKey Points\n\nEuphoria gave way to despair after Nvidia sold its stake in SoundHound.\n\nInvestors need to develop their own investment thesis for the stock instead of reacting to Nvidia.\n\nA well-rounded thesis will include a realistic view of future competition.\n\n10 stocks we like better than SoundHound AI \u203a\n\nShareholders of SoundHound AI (NASDAQ: SOUN) were riding high in 2024 after the stock posted an incredible 836% gain for the year. But 2025 is a different story. SoundHound stock is down 55% from the all-time high it reached late last year.\n\nThe rise and fall of SoundHound stock has a common denominator: Nvidia. In early 2024, Nvidia revealed that it had recently invested in some promising artificial intelligence (AI) stocks, including SoundHound AI. Shares skyrocketed because investors believed this validated the small company's technology.\n\nImage source: Getty Images.\n\nIn early 2025, the opposite happened when Nvidia revealed that it had sold its stake in the company.\n\nBuying or selling a stock based on another investor's actions -- in this case, Nvidia's -- can be a bad idea. It's important for investors to have their own investment thesis, or a structured argument for why the stock will go up over the long term. With this in mind, I want to explore the investment thesis for SoundHound AI stock today.\n\nWhy are investors buying SoundHound stock?\n\nSoundHound AI offers voice-assistant technology to automotive companies, restaurants, and other industries. It's considered a first-mover in the space, leaning on two decades of experience. But its revenue growth wasn't catalyzed until the relatively recent AI revolution. Now, its revenue is skyrocketing with full-year revenue growth of 85% in 2024 and stunning 151% year-over-year growth in the first quarter of 2025.\n\nBullish investors are salivating over those numbers, particularly because of the total addressable market. According to management, the company has a $140 billion market opportunity. For perspective, it commands far less than 1% of its theoretical market as of this writing.\n\nData by YCharts.\n\nIn other words, SoundHound is growing at a head-turning rate, and the runway ahead of it appears to be massive. This combination could lead to many years of growth -- a huge factor for stocks that perform well in the long run -- which is why investors are excited about the company.\n\nThey're also excited by the prospects of SoundHound's profits. Management believes it will achieve profitability by the end of this year based on adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA). That's a big step forward when thinking about long-term viability for any business.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.02
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "55% drop in SoundHound AI stock following Nvidia's sale of stake; investors advised to develop independent investment thesis considering future competition."
+    },
+    "date": "2025-07-05T16:04:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/heres-why-nvidia-partners-stock-170252828.html",
+    "title": "Here's Why This Nvidia Partner's Stock Surged in June A plethora of anecdotal evidence, management commentary, and Nvidia's earnings report suggest spending on data center equipment remains in robust growth mode.  The AI application market is still in its early innings.  The move comes as the market's concerns over a slowdown in data center capital spending have been assuaged by positive news flow from companies like Vertiv's partner, data center architecture company Nvidia (NASDAQ: NVDA).",
+    "detail": "Here's Why This Nvidia Partner's Stock Surged in June\nLee Samaha, The Motley Fool\nSat, Jul 5, 2025, 11:02 AM 3 min read\nIn This Article:\nNVDA\nVRT\nKey Points\n\nA plethora of anecdotal evidence, management commentary, and Nvidia's earnings report suggest spending on data center equipment remains in robust growth mode.\n\nThe AI application market is still in its early innings.\n\n10 stocks we like better than Vertiv \u203a\n\nShares in data center equipment company Vertiv (NYSE: VRT) surged by 19% in June, according to data provided by S&P Global Market Intelligence. The move comes as the market's concerns over a slowdown in data center capital spending have been assuaged by positive news flow from companies like Vertiv's partner, data center architecture company Nvidia (NASDAQ: NVDA).\n\nThe bulls and bears debate AI/data center spending\n\nNo one likes piling into the market at the top of a bull market, especially not in the technology sector, where the cyclicality of boom and bust seems to prevail. For the bears, the boom in data center and artificial intelligence (AI)-related spending is set for a natural correction. Additionally, the uncertainty created by the tariff conflict is perceived as potentially causing a pause in spending on data centers.\n\nFor the bulls, spending on data centers is still in its early innings. In addition, the need for data center capacity to catch up with the demand trend in AI application-related spending will boost spending for many years to come.\n\nIn terms of Vertiv, the bears will point to the company's flat year-over-year order book in the fourth quarter of 2024 as an early indication of stress down the line. Meanwhile, the bulls will point to the fact that Vertiv raised its full-year 2025 sales guidance to a range of $9.325 billion to $9.575 billion, compared to a prior range of $9.125 billion to $9.275 billion, as announced in the company's first-quarter earnings presentations in April.\n\nWhat changed in June\n\nTo stay informed about developments in the data center and AI market, it's a good idea to follow the perspectives of hyperscalers and market service providers, as well as examine anecdotal statements and trading conditions. As previously discussed, a host of information suggests that the market remains strong.\n\nImage source: Getty Images.\n\nIn addition, Nvidia's first-quarter 2026 earnings report and management commentary indicated that underlying growth in the market is excellent. For example, Nvidia's data center-related revenue rose by 73% year over year in the first quarter of 2026.\n\nMoreover, it's essential to note that while companies like Nvidia are subject to export control regulations on their technology sales to China, Vertiv's power, cooling, and infrastructure solutions for data centers don't face the same kind of restrictions.\u00a0In fact, the major problem Vertiv faces from the tariff conflict is rising costs associated with products sourced from Mexico and China, areas where management is already rebalancing to mitigate risk.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "19% surge in Vertiv shares in June likely due to positive news flow from partner Nvidia, suggesting robust growth in data center equipment spending."
+    },
+    "date": "2025-07-05T11:02:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-backed-stock-sends-quiet-164700400.html",
+    "title": "Nvidia-backed stock sends a quiet shockwave through the AI world This one quiet step has AI insiders watching.",
+    "detail": "Nvidia-backed stock sends a quiet shockwave through the AI world\nMoz Farooque\nSat, Jul 5, 2025, 10:47 AM 4 min read\nIn This Article:\nNVDA\nCRWV\n\nNvidia-backed stock sends a quiet shockwave through the AI world originally appeared on TheStreet.\n\nCoreWeave\u00a0 (CRWV) is the Nvidia\u00a0 (NVDA) -backed AI stock that\u2019s been one of the biggest winners on Wall Street this year.\n\nWhat started as a crypto side hustle was the best-performing AI tech IPO of 2025, up four times since its March debut.\n\n\ud83d\udcb5\ud83d\udcb0Don't miss the move: Subscribe to TheStreet's free daily newsletter\ud83d\udcb0\ud83d\udcb5\n\nMoreover, its power-packed alliance with Nvidia means it gets access to the hottest GPUs first, a key differentiator as everyone scrambles for AI computing.\n\nNow, with July 3's headline-grabbing move in the books, this Nvidia-backed AI stock is showing just how it plans to scale up while shaking up the cloud hierarchy in the process.\n\nCoreWeave and Nvidia team up on next-gen AI hardware.Image source: Justin Sullivan/Getty Images\nHow CoreWeave became an AI rocket ship\n\nStarting as a crypto mining outfit, CoreWeave is now one of the buzziest names in the AI gold rush.\n\nLaunched in 2017 as Atlantic Crypto, the New Jersey business rode the incredible Ethereum wave before pulling back sharply a couple of years later.\n\nIt then rebranded and leaned hard into building out GPU-packed data centers, right when the generative AI boom was catching fire.\n\nFast-forward to today: CoreWeave runs dozens of tailor-made data centers across the U.S. and Europe, offering plug-and-play access to Nvidia\u2019s hottest GPUs.\n\nThe big-ticket customers can sidestep the need to build in-house hardware fortresses by renting CoreWeave\u2019s racks for their model training and inference needs.\n\nRelated: Google\u2019s quiet AI win spells trouble for Amazon\n\nCoreweave\u2019s big competitive edge is its tight partnership with Nvidia, which\u00a0owns roughly 5% of CoreWeave, funneling its cutting-edge GPUs to the upstart first.\n\nNo wonder Mr.Market has noticed.\n\nCoreWeave\u2019s IPO in March has been 2025\u2019s biggest tech story, pricing at $40 per share and raising about $1.5 billion. Since then, its stock has skyrocketed over 270%, peaking above $166 in June.\n\nBehind that surge is serious financial traction.\n\nIn the first quarter, CoreWeave brought in $981.6 million in sales, comfortably beating Wall Street\u2019s $852.9 million estimate.\n\nMore Tech Stock News:\n\nAnalyst reboots IonQ stock price target for surprising reason\n\nApple could make big change to Siri, delight fans\n\nVeteran analyst issues big Broadcom call, shakes up AI stock race\n\nIt\u2019s sitting on a massive $25.9 billion revenue backlog, expecting to post full-year sales of $4.9 billion to $5.1 billion, beating analyst calls near $4.6 billion.\n\nSpecifically, its massive five-year, $11.9 billion contract with OpenAI (plus an extension) and its new role supporting Google Cloud\u2019s compute push have caught the tech world\u2019s attention.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.68
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "CoreWeave, an Nvidia-backed AI stock, has surged fourfold since its March debut, benefiting from exclusive access to cutting-edge GPUs and aiming to disrupt the cloud hierarchy with its latest partnership with Nvid"
+    },
+    "date": "2025-07-05T10:47:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-134300513.html",
+    "title": "Prediction: This Artificial Intelligence (AI) Stock Could Be the Surprise Winner of 2025 Similar to last year, stocks such as Palantir, Nvidia, and Microsoft remain among the hottest names driving the artificial intelligence (AI) revolution.",
+    "detail": "Prediction: This Artificial Intelligence (AI) Stock Could Be the Surprise Winner of 2025\nAdam Spatacco, The Motley Fool\nSat, Jul 5, 2025, 7:43 AM 5 min read\nIn This Article:\n^SPX\nMETA\nNVDA\nMSFT\nPLTR\nKey Points\n\nBoth Nvidia and Microsoft stock have outperformed the S&P 500 so far this year -- but another member of the \"Magnificent Seven\" has fared even better.\n\nMeta Platforms is the best-performing Magnificent Seven stock so far this year, and further gains could be in store during the back half of 2025.\n\nMeta is spending billions to acquire top AI talent and build its newest business, Meta Superintelligence Labs.\n\nThese 10 stocks could mint the next wave of millionaires \u203a\n\nThrough the first six months of the year, the S&P 500 and Nasdaq Composite indexes each gained roughly 5%. Similar to last year, some of the biggest gainers in the artificial intelligence (AI) landscape so far include Palantir Technologies, Constellation Energy, and Oracle.\n\nBy contrast, several members of the megacap collective known as the \"Magnificent Seven\" have witnessed sell-offs throughout 2025. One member sticks out among the pack, though.\n\nAs of closing bell on July 1, shares of Meta Platforms (NASDAQ: META) have gained 23% on the year -- quietly outperforming all of its peers. If Meta has gone overlooked in your search for the next big AI opportunity, I wouldn't be surprised. Yet savvy investors seem to understand how AI has the potential to completely transform Meta from a social media and gaming empire into something far more sophisticated.\n\nLet's explore some of the moves Meta has made this year that you may have missed. While Nvidia and Microsoft remain solid picks, Meta could be the surprise winner among megacap AI stocks this year.\n\nMeta has a history of identifying hot trends and talent\n\nMeta Platforms was originally called Facebook and only rebranded to its new name a few years ago. Facebook was an early pioneer in social media -- bringing a new dimension to how people communicated and connected.\n\nFairly early on in Facebook's history, the company made two surprising multibillion-dollar acquisitions -- Instagram and WhatsApp. At the time, both of these deals looked like head-scratchers.\n\nInstagram was a pre-revenue start-up whose main product was a photo application that allowed users to apply cool filters to their pictures. WhatsApp was a text messaging tool with little presence in the U.S. (one of Facebook's core markets).\n\nAs investors know today, Instagram and WhatsApp have completely revolutionized Meta's business. By augmenting the Facebook platform with other applications, Meta essentially built an ecosystem of apps that can be used by both people and businesses alike -- helping them with everything from social connection to e-commerce, marketing, advertising, and more.\n\nStory continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite outperformance by NVIDIA and Microsoft, Meta Platforms, with AI investments, leads the Magnificent Seven in 2025 YTD growth; Meta's AI lab spending may boost future gains."
+    },
+    "date": "2025-07-05T07:43:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-everyone-talking-soundhound-ai-130300212.html",
+    "title": "Why Is Everyone Talking About SoundHound AI Stock? This up-and-coming AI company is well positioned to grow rapidly in the coming years.",
+    "detail": "Why Is Everyone Talking About SoundHound AI Stock?\nLawrence Nga, The Motley Fool\nSat, Jul 5, 2025, 7:03 AM 5 min read\nIn This Article:\nNVDA\nPLTR\nTSLA\nKey Points\n\nSoundHound provides an independent\u00a0AI voice platform\u00a0to customers across\u00a0multiple\u00a0industries.\n\nIt has a total addressable market of $140 billion.\n\nThe company is growing\u00a0at triple-digit\u00a0rates.\n\n10 stocks we like better than SoundHound AI \u203a\n\nArtificial intelligence (AI) is one of the most significant trends of our generation, thanks to its transformative effects that will impact almost every aspect of our lives. Think of it as revolutionary as electricity and the internet.\n\nUnsurprisingly, investors have been doubling down on companies well-positioned to leverage this trend, such as Nvidia, Palantir, and Tesla.\n\nBut AI will bring opportunities not only to these big tech giants but also to smaller, up-and-coming future tech giants. SoundHound AI\u00a0(NASDAQ: SOUN) is one of them.\n\nImage source: Getty Images.\nA leading voice AI platform\n\nInitially founded in 2005 as a music recognition company, SoundHound has evolved into a broader AI voice platform company with proprietary technology that understands and responds to human speech in real time.\n\nThe company's value proposition, though complex to achieve, is relatively straightforward. It provides a voice platform that's embedded directly into products (such as cars) without requiring the use of cloud-based assistants like Alexa, Siri, or Google Assistant. With the help of its software, users can use voice as an interface to interact with smart devices, cars, or other Internet of Things (IoT) devices.\n\nLeveraging its technology in voice recognition and natural language understanding, the company has built a proprietary offering that's independent of consumer tech companies like Microsoft and Alphabet. According to the company, its technology surpasses that of competitors in terms of speed, accuracy, and understanding of complex language. With its technology stack, it allows for the provision of best-in-class service while giving customers complete control over their brand, users, and data.\n\nAdditionally, SoundHound has leveraged the latest AI technologies, including generative AI, to develop its voice AI agent. The AI agent can function on smartphones, SMS, kiosks, mobile apps, and web chats, helping customers tackle a wide range of customer service activities across multiple industries. Currently, the company's main customers are automotive and hospitality businesses, quick-service restaurants, and call centers.\n\nIn return for providing its voice platform, SoundHound generates revenue primarily through three channels. First, it receives royalties on products -- cars, smart TVs, and IoT devices -- that incorporate its voice platform. Here, customers pay based on volume, usage, per device, or user. Next, it generates software-as-a-service revenue from services such as food ordering and customer service. Here, customers pay on a monthly contract or a usage basis. The last pillar of SoundHound's revenue centers around advertising and commerce, where it earns a commission by enabling sales of customer products and services.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI growth triples rates; SoundHound AI NASDAQ:SOUN targets $140B TAM."
+    },
+    "date": "2025-07-05T07:03:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/coreweave-inc-crwv-meme-stock-101816668.html",
+    "title": "CoreWeave, Inc. (CRWV) Is A Meme Stock, Insists Jim Cramer We recently published 12 Stocks Jim Cramer Recently Talked About In His \u201cIdea-Driven\u201d Market. CoreWeave, Inc. (NASDAQ:CRWV) is one of the stocks Jim Cramer recently discussed. CoreWeave, Inc. (NASDAQ:CRWV) is a computing infrastructure provider that has risen due to its exposure to the AI industry. Its shares are among the top performers in 2025 and [\u2026]",
+    "detail": "CoreWeave, Inc. (CRWV) Is A Meme Stock, Insists Jim Cramer\nRamish Cheema\nSat, Jul 5, 2025, 4:18 AM 3 min read\nIn This Article:\nCRWV\nNVDA\n\nWe recently published 12 Stocks Jim Cramer Recently Talked About In His \u201cIdea-Driven\u201d Market. CoreWeave, Inc. (NASDAQ:CRWV) is one of the stocks Jim Cramer recently discussed.\n\nCoreWeave, Inc. (NASDAQ:CRWV) is a computing infrastructure provider that has risen due to its exposure to the AI industry. Its shares are among the top performers in 2025 and have gained 313% since their IPO in March. Ahead of the July 4th weekend, CoreWeave, Inc. (NASDAQ:CRWV)\u2019s stock gained 8.9% as it became one of the first AI infrastructure providers in the industry to announce the availability of NVIDIA\u2019s latest Blackwell GB300 servers. In his recent remarks, Cramer asserted that CoreWeave, Inc. (NASDAQ:CRWV) is a meme stock that has obliterated short sellers:\n\n\u201cCoreWeave, by the way, is a meme stock. CoreWeave is about destroying the people who got short way too quickly before the stock was seasoned. Now there\u2019s 32% of the float of that stock, is short. There\u2019s 46 million that trade out of 360 million. David it is just a combustible. . .\n\nCoreWeave, Inc. (CRWV) Is A Meme Stock, Insists Jim Cramer\n\nCoreWeave, Inc. (NASDAQ:CRWV) is one of the more frequently discussed stocks in his evening show, too. Here\u2019s what Cramer said in a Mad Money episode:\n\n\u201cI think it is overbought. I think it\u2019s up on a short squeeze. I think the stock is just way too high. I mean, look at this. I mean, prices at $40, it should have never priced there when it did its IPO. People didn\u2019t like it. They didn\u2019t understand the balance sheet. Lots of hedge funds got shorted here, thinking that this thing really was not worth anything at all. I recommended buy it the whole darn time. The whole darn time.\n\n\u2026 What I need to tell you is that if you bought it here, you can take off half of your position, half of it, and then you\u2019re playing with the house\u2019s money. Who doesn\u2019t want to play with the house\u2019s money? That\u2019s the goal. The goal if you want to be a great investor is the house\u2019s money. And that\u2019s what you have if you bought CoreWeave when we said that we liked it. The relationship with NVIDIA is very solid, and NVIDIA owns a big chunk of CoreWeave.\u201d\n\nWhile we acknowledge the potential of CRWV as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and have limited downside risk. If you are looking for an extremely cheap AI stock that is also a major beneficiary of Trump tariffs and onshoring, see our free report on the best short-term AI stock.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.69
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.25
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "CoreWeave's stock gains 8.9%, boosted by availability of NVIDIA's new servers; Cramer labels it a 'meme stock'."
+    },
+    "date": "2025-07-05T04:18:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/lam-research-corp-lrcx-too-101751447.html",
+    "title": "Lam Research Corp (LRCX) Is Too Cheap to Ignore, Says Jim Cramer We recently published 12 Stocks Jim Cramer Recently Talked About In His \u201cIdea-Driven\u201d Market. Lam Research Corp (NASDAQ:LRCX) is one of the stocks Jim Cramer recently discussed. Lam Research Corp (NASDAQ:LRCX) is an American semiconductor manufacturing equipment provider and one of the most important companies in the industry. Its machines cover several key chip manufacturing [\u2026]",
+    "detail": "Lam Research Corp (LRCX) Is Too Cheap to Ignore, Says Jim Cramer\nRamish Cheema\nSat, Jul 5, 2025, 4:17 AM 3 min read\nIn This Article:\nLRCX\nNVDA\nAMAT\n\nWe recently published 12 Stocks Jim Cramer Recently Talked About In His \u201cIdea-Driven\u201d Market. Lam Research Corp (NASDAQ:LRCX) is one of the stocks Jim Cramer recently discussed.\n\nLam Research Corp (NASDAQ:LRCX) is an American semiconductor manufacturing equipment provider and one of the most important companies in the industry. Its machines cover several key chip manufacturing processes such as etching and deposition. Lam Research Corp (NASDAQ:LRCX)\u2019s shares have gained 36% year-to-date, primarily due to Wall Street\u2019s bullishness about AI demand that has also pushed NVIDIA\u2019s shares to a record high. Cramer discussed the firm\u2019s intellectual property and shared that he believes the stock can go much higher.\n\n\u201cI\u2019m using this as a metaphor. People are reaching for things they feel have not kept pace with the big tech rally. This morning Morgan Stanley goes Applied Materials, they\u2019re like KLA, but I want to focus on Lam Research because it\u2019s only 25 times earnings. You\u2019ll see the chart it\u2019s not like it missed anything, it\u2019s like boom. But it can still take out that August high of last year. This is an amazing company and what people don\u2019t realize is that the intellectual property for our semis, has to do with the capital equipment companies. And the one that I think is the most sophisticated is Lam. So I actually don\u2019t want people paying 25 times earnings.\u201d\n\nLam Research Corp (LRCX) Is Too Cheap to Ignore, Says Jim Cramer\n\nA technician operating an automated semiconductor processing machine with laser accuracy.\n\nCramer discussed Lam Research Corp (NASDAQ:LRCX) in detail after its latest earnings report in April. Here\u2019s what he said:\n\n\u201c. . I thought Lam was great. I mean Lam was just chock-full of really good numbers.\u201d\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.76
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Jim Cramer sees potential for Lam Research Corp (LRCX), a key chip manufacturer, to continue rising due to AI demand, benefiting NVIDIA (NVDA)."
+    },
+    "date": "2025-07-05T04:17:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-ceo-knows-100827396.html",
+    "title": "NVIDIA Corporation (NVDA)\u2019s CEO Knows \u201cWhat\u2019s Coming\u201d Is Smart, Says Jim Cramer We recently published Jim Cramer Recently Discussed These 11 Stocks & Said The Robots Are Coming. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed. NVIDIA Corporation (NASDAQ:NVDA)\u2019s shares are off to a great start in the year\u2019s second half. They are up by 14.9% year-to-date and have recovered all losses since [\u2026]",
+    "detail": "NVIDIA Corporation (NVDA)\u2019s CEO Knows \u201cWhat\u2019s Coming\u201d Is Smart, Says Jim Cramer\nRamish Cheema\nSat, Jul 5, 2025, 4:08 AM 3 min read\nIn This Article:\nNVDA\n\nWe recently published Jim Cramer Recently Discussed These 11 Stocks & Said The Robots Are Coming. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed.\n\nNVIDIA Corporation (NASDAQ:NVDA)\u2019s shares are off to a great start in the year\u2019s second half. They are up by 14.9% year-to-date and have recovered all losses since January\u2019s DeepSeek selloff. Unsurprisingly, AI is at the heart of NVIDIA Corporation (NASDAQ:NVDA)\u2019s newfound bullishness. Investors have rewarded the firm after several analysts speculate that GPUs will continue to grow their enterprise computing market share over the coming years and the AI market will expand. NVIDIA Corporation (NASDAQ:NVDA) has also benefited from its competitiveness as its GPUs continue to be the highest-performing and most widely sought AI hardware in the world. In this appearance, Cramer commented on NVIDIA Corporation (NASDAQ:NVDA)\u2019s CEO and his thoughts about the future:\n\n\u201c[On research reports showing limitations with the reasoning ability of generative AI] Why is NVIDIA bothering to put out new iterations? Well because each one is better and Jensen is about, he will tell you, the one he\u2019s thinking about a few years from now, will be, he would say smarter than you. It\u2019d be smarter than you. And you know that will be intimidating. You will say, like you heard Jassy talk about, he went back and forth about the Kentucky Derby winner, well it\u2019s entirely possible that this next one will be able to say, well listen, right now if you send that to an upper left corner pitch, Bryce Harper\u2019s going to strike out with that. It\u2019s going to know these things.\n\nNVIDIA Corporation (NVDA)'s CEO Knows \"What's Coming\" Is Smart, Says Jim Cramer\n\nA close-up of a colorful high-end graphics card being plugged in to a gaming computer.\n\nLater in the day, on Mad Money, Cramer shared some reasons behind NVIDIA Corporation (NASDAQ:NVDA)\u2019s share price movement:\n\n\u201cBut then at the beginning of April, the stock collapsed on word that the president didn\u2019t want NVIDIA to sell any of its AI chips to the Chinese\u2026 That eventually caused NVIDIA to take a $4.5 billion write-off as they lost access to a market Jensen said could be worth as much as $50 billion.\n\nWhen that happened, the memesters left the building. Stock bottomed at 86 bucks and change in April. Can you believe it? And that was the time to buy as NVIDIA began its unheralded run all the way to $158, where it closed last night. The amazing thing, this rally was based on nothing more than semiconductor superiority and persistent demand from the hyperscalers, the same things that had the stock roaring all last year. I guess you could say that there was nothing wrong with NVIDIA the whole time\u2026 So, what did we discover?\u2026 NVIDIA\u2019s artificial intelligence chips remain unrivaled\u2026\u201d\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.68
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA's shares up 14.9%, AI growth boosts bullishness; GPUs lead in AI market, competitive advantage."
+    },
+    "date": "2025-07-05T04:08:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/3-magnificent-seven-stocks-crush-093000236.html",
+    "title": "3 \"Magnificent Seven\" Stocks That Will Crush the Market Alphabet is trading at a low valuation compared to its peers.  Meta Platforms is assembling a dream team of AI talent.  A couple of years ago, the chief investment strategist at Bank of America Global Research -- a fellow by the name of Michael Hartnett -- borrowed the title of a classic film to identify a hot new group of tech stocks that had been lifting the entire U.S. market on their shoulders throughout the early 2020s: the \"Magnificent Seven.\"",
+    "detail": "3 \"Magnificent Seven\" Stocks That Will Crush the Market\nKeithen Drury, The Motley Fool\nSat, Jul 5, 2025, 3:30 AM 5 min read\nIn This Article:\nGOOGL\nNVDA\nMETA\nMSFT\nTSLA\nKey Points\n\nDemand for Nvidia GPUs isn't slackening.\n\nAlphabet is trading at a low valuation compared to its peers.\n\nMeta Platforms is assembling a dream team of AI talent.\n\n10 stocks we like better than Nvidia \u203a\n\nA couple of years ago, the chief investment strategist at Bank of America Global Research -- a fellow by the name of Michael Hartnett -- borrowed the title of a classic film to identify a hot new group of tech stocks that had been lifting the entire U.S. market on their shoulders throughout the early 2020s: the \"Magnificent Seven.\" That group includes:\n\nNvidia (NASDAQ: NVDA)\n\nMicrosoft (NASDAQ: MSFT)\n\nApple (NASDAQ: AAPL)\n\nAmazon (NASDAQ: AMZN)\n\nAlphabet (NASDAQ: GOOG) (NASDAQ: GOOGL)\n\nMeta Platforms (NASDAQ: META)\n\nTesla (NASDAQ: TSLA)\n\nMoving forward, I expect some of these stocks will be less dominant than they were when Hartnett labeled them, but I still think a few could easily outperform the market: Nvidia, Alphabet, and Meta Platforms. While there will likely be some other strong performers in the \"Magnificent Seven,\" these three are my top picks.\n\nImage source: Getty Images.\nNvidia\n\nAt this time, Nvidia is the world's largest company by market cap, and it rose to that position thanks to the incredible growth of its graphics processing unit (GPU) business. GPUs are designed to handle specific types of computationally intense processing tasks that can be easily broken down into a slew of smaller ones that can be solved simultaneously, rather than in sequence.\n\nAs it happens, AI model training and inference are heavy on just those types of tasks, so the growing use of AI has driven a surge in demand for GPUs. And as Nvidia makes some of the most powerful ones -- and certainly the most popular ones -- its revenue increased rapidly over the past few years.\n\nNVDA Revenue (TTM) data by YCharts.\n\nThat growth is far from over. In Q1, Nvidia delivered an impressive 69% year-over-year growth rate and gave guidance for 50% growth in Q2. There has never been a company of Nvidia's size delivering such rapid growth, and it has pretty much defied all investment notions about large companies not being able to grow rapidly.\n\nThere are no signs of the AI infrastructure build-out slowing, which means more and more Nvidia GPUs will be used. This is an incredibly bullish time for Nvidia, and I believe it will continue to outperform the market.\n\nAlphabet\n\nAlphabet is on the opposite side of the AI business from Nvidia. Many investors expect that generative AI systems will replace Google's search engines, but that hasn't happened.\n\nIn Q1, Google Search revenue rose 10% year over year, which isn't indicative of a segment that's failing. Furthermore, Alphabet has already deployed its AI search overview tool in a bid to supplement its results, and that will likely be sufficient for many average users' needs.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Demand for Nvidia GPUs remains strong."
+    },
+    "date": "2025-07-05T03:30:00"
+  }
+]

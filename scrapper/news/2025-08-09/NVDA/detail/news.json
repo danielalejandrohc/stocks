@@ -1,0 +1,393 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html",
+    "title": "Intel's new CEO had 3 major problems to tackle. This week Trump added a new one. Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.",
+    "detail": "Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.\nLaura Bratton\nFri, Aug 8, 2025, 3:18 PM 5 min read\nIn This Article:\nINTC\nAMD\nNVDA\n2330.TW\nCDNS\n\nIntel (INTC) CEO Lip-Bu Tan came aboard the troubled chipmaker in March with multiple harrowing tasks: deciding the fate of the company's cash-bleeding manufacturing division, stemming losses in its legacy computer chip business, and catching up in the AI race.\n\nNow he has another, arguably more daunting problem: President Trump.\n\nTrump called for Tan's resignation in a post early Thursday on his social media platform, Truth Social, writing, \"The CEO of INTEL is highly CONFLICTED and must resign, immediately.\"\n\nThe post came minutes after Fox Business covered recent criticism of the CEO from Republican Sen. Tom Cotton over his ties with China. In April, a Reuters report detailed Tan's wide-ranging investments in Chinese companies made through his VC firm, Walden International. The outlet found that the firm \"remains invested in 20 funds and companies alongside Chinese government funds or state-owned enterprises, according to Chinese corporate databases.\"\n\nCotton wrote a letter to Intel chairman Frank Yeary on Wednesday, saying he felt \"concern about the security and integrity of Intel's operations and its potential impact on U.S. national security,\" given those ties.\n\nTan responded in a memo to employees posted on Intel's website late Thursday, saying there was \"a lot of misinformation circulating about my past roles.\" He went on to express his love for the United States, where he's lived for more than 40 years.\n\n\"We are engaging with the Administration to address the matters that have been raised and ensure they have the facts,\" he wrote. \"I fully share the President's commitment to advancing U.S. national and economic security, I appreciate his leadership to advance these priorities, and I'm proud to lead a company that is so central to these goals.\"\n\nIntel is the only remaining large-scale US-based advanced chip manufacturer and has contracts with the Department of Defense. Most of the world's advanced chips are made by Taiwanese contract chip manufacturer TSMC (TSMC.BA), which is expanding its US footprint with a $165 billion investment to build factories in Arizona.\n\n'No AI story'\n\nWhile Tan contends with a newfound adversary in Trump, he\u2019s still on the hook to solve massive issues at Intel that he inherited from his predecessor, Pat Gelsinger.\n\nFor one, Intel's legacy business making CPUs, or central processing units, is losing its dominance, forfeiting market share to Advanced Micro Devices (AMD) and Arm (ARM). Intel's revenue share of the market for CPUs in desktops, for example, fell to around 66% in the first quarter of 2025 from 81% the prior year, according to Mercury Research data obtained by investing firm Bernstein.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "date": "2025-08-08T15:18:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Trump calls for Intel CEO's resignation, adding to challenges for NVDA competitor INTC."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ai-chips-startup-ceo-intel-has-to-fix-systemic-issues-to-get-back-on-track-155955027.html",
+    "title": "AI chips startup CEO: Intel has to fix systemic issues to get back on track Groq CEO Jonathan Ross discusses Intel's decline and building chips in the US.",
+    "detail": "AI chips startup CEO: Intel has to fix systemic issues to get back on track\nFrancisco Velasquez\nFri, Aug 8, 2025, 11:59 AM 2 min read\nIn This Article:\nINTC\nGROQ.PVT\nNVDA\nAMD\nGOOGL\n\nIntel's (INTC) demise started with its complacency, according to one AI chips entrepreneur.\n\n\u201cIntel got to a point where it became a little bit smug and thought that everything it was doing was great, even when it wasn\u2019t,\u201d Groq Inc. (GROQ.PVT) CEO Jonathan Ross said on Yahoo Finance's Opening Bid.\n\nFor years, Intel's dominance in the chip industry was unquestioned. But the rise of rivals like Nvidia (NVDA) and Advanced Micro Devices (AMD) has upended the game.\n\nRoss acknowledged that Intel remains important to the country. \u201cThe more semiconductor companies we have that can push the bleeding edge, the better off the US is,\u201d he said. \"I do think it's important that Intel be in a strong position.\"\n\nThe chip giant is mired in a prolonged slump, and its new CEO, Lip-Bu Tan, has come under fire from Trump due to business ties with China.\n\nBut Ross isn't ruling out a turnaround. It'll have to eliminate its bureaucracy \u2014 as the company grew, layers of management and internal politics slowed down its innovation, Ross noted.\n\n\"You don't get to [fix] it just by handing money out. You have to fix some of the systemic issues,\" he added.\n\nOn the US semiconductor landscape, Ross said the current tariffs and incentives are a step forward for domestic manufacturers.\n\n\"It's incredibly difficult to build chips in the United States. We're just now building the ecosystem. Even when chips are manufactured in the United States, it's really hard to package them in North America,\" he said.\n\nGroq's in a unique position, as it decided to manufacture in the US since its founding in 2016, shielding it from Trump's threatened 100% tariff on semiconductors.\n\nRoss, who previously designed customer chips at Google (GOOG) to train AI models, founded Groq, which develops Language Processing Units (LPUs). These chips are engineered to run LLMs more efficiently than Nvidia\u2019s GPUs, accelerating the shift from basic reasoning to groundbreaking invention.\n\nIn August 2024, Groq raised $493.5 million, boosting its valuation to an estimated $5.76 billion, according to Yahoo Finance's private companies data tracker.\n\nRoss said large language models are becoming less mistake-prone, expanding the areas in which they can be used.\n\n\"At some point, they'll make so few mistakes you can use it in medicine, you can use it in law,\" Ross previously said on the Opening Bid podcast.\n\nFrancisco Velasquez is a Reporter at Yahoo Finance. He can be reached on LinkedIn and X, or via email at francisco.velasquez@yahooinc.com.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "date": "2025-08-08T11:59:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Intel's (INTC) decline attributed to complacency; rival NVDA disrupting industry; new CEO under pressure."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/microsoft-apple-amazon-meta-just-130500398.html",
+    "title": "Microsoft, Apple, Amazon, and Meta Just Gave Nvidia Investors Great News There's a lot of room for optimism as Nvidia is set to report earnings on Aug. 27.",
+    "detail": "Microsoft, Apple, Amazon, and Meta Just Gave Nvidia Investors Great News\nJennifer Saibil, The Motley Fool\nSat, Aug 9, 2025, 9:05 AM 5 min read\nIn This Article:\nNVDA\nMSFT\nAAPL\nAMZN\nMETA\nKey Points\n\nNvidia's top-tier clients are investing huge amounts of money in AI development, and they're partnering with Nvidia.\n\nSeveral large tech stocks reported strong earnings last week.\n\nNvidia reports at the end of the month and it tends to beat guidance.\n\n10 stocks we like better than Nvidia \u203a\n\nLast week was a busy one for tech followers. Meta Platforms (NASDAQ: META), Microsoft (NASDAQ: MSFT), Amazon (NASDAQ: AMZN), and Apple (NASDAQ: AAPL) all reported second-quarter earnings, and while they were mostly positive in different ways, artificial intelligence (AI) continued to be a strong trend. That's great news for Nvidia (NASDAQ: NVDA) investors. Let's see what's happening and why investors should get excited about what Nvidia will have to say when it reports quarterly earnings later this month.\n\nWinning with AI\n\nAI has become an enormous growth driver for tech companies, and really all kinds of companies. It unlocks productivity and aids in creativity in ways that make it essential if a company doesn't want to be left behind.\n\nAmazon said that its AI business through the Amazon Web Services (AWS) cloud division continues to grow at triple digits year over year, \"with more demand than we have supplied for at the moment.\" It's launching all sorts of new features as demand grows and changes, and releasing powerful new tools aimed at developers creating large language models and in need of the highest-power AI chips. It also boasted that it rolled out new EC2 instances, a type of virtual server on the AWS cloud supported by new Nvidia Blackwell \"super chips,\" the most powerful graphics processing units (GPUs) on AWS.\n\nImage source: Getty Images.\n\nAmazon spent $31.4 billion on capital expenditures, which it says is a reasonable estimate for the back half of the year. Although that could be in many parts of the business, it said the AI business is where most of it is going. That means it could be spending even more than the original $100 billion it said it would spend in 2025.\n\nMicrosoft boasted that its Azure cloud business is grabbing market share, up 34% year over year in the 2024 fiscal fourth quarter (ended June 30), and that it now has 400 data centers, the most of any other cloud business. Management highlighted that while there's industry talk about the first gigawatt or multi-gigawatt data centers, it launched two gigawatts of power in its data centers over the past 12 months, and it's scaling faster than the competition.\n\nAt Meta, CEO Mark Zuckerberg discussed many exciting developments in AI, including the launch of Meta Superintelligence Labs, which combines all of the company's AI efforts, and progress on upgrades to its Llama LLMs. In April, Nvidia announced its own involvement in the new Llama developments. Zuckerberg said Meta is working on the next generation of products \"that will push the frontier in the next\nyear or so.\" Meta has made headlines over the last few weeks as it crafts a team of AI specialists it's been pulling from rival companies.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "date": "2025-08-09T09:05:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Top-tier clients invest heavily in AI development, partnering with NVDA; strong earnings from tech giants boost AI trend, benefiting NVDA's Q2 report."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/traders-fleeing-stocks-feared-under-130001182.html",
+    "title": "Traders are fleeing stocks feared to be under threat from AI (Bloomberg) -- Artificial intelligence\u2019s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars. Most Read from BloombergNew York Warns of $34 Billion Budget Hole, Biggest Since 2009 CrisisAll Hail the Humble Speed HumpThree Deaths Reported as NYC Legionnaires\u2019 Outbreak SpreadsA New Stage for the Theater That Gave America Shakespeare in the ParkChica",
+    "detail": "Traders are fleeing stocks feared to be under threat from AI\nJeran Wittenstein and Ryan Vlastelica\nUpdated Sat, Aug 9, 2025, 10:30 AM 6 min read\nIn This Article:\nNVDA\nMS\nMS-PQ\nWIX\nMETA\n\n(Bloomberg) \u2014 Artificial intelligence\u2019s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.\n\nMost Read from Bloomberg\n\nNew York Warns of $34 Billion Budget Hole, Biggest Since 2009 Crisis\n\nAll Hail the Humble Speed Hump\n\nThree Deaths Reported as NYC Legionnaires\u2019 Outbreak Spreads\n\nA New Stage for the Theater That Gave America Shakespeare in the Park\n\nChicago Schools\u2019 Bond Penalty Widens as $734 Million Gap Looms\n\nBut there\u2019s a downside to the new technology that investors are increasingly taking note of: It threatens to upend industries much like the internet did before it. And investors have started placing bets on just where that disruption will occur next, ditching shares in companies some strategists expect will see falloffs in demand as AI applications become more widely adopted.\n\nAmong them are web-development firms like Wix.com Ltd., digital-image company Shutterstock Inc. and software maker Adobe Inc. The trio are part of a basket of 26 companies Bank of America (BAC) strategists identified as most at risk from AI. The group has underperformed the S&P 500 Index by about 22 percentage points since mid-May after more or less keeping pace with the market since ChatGPT\u2019s debut in late 2022.\n\n\u201cThe disruption is real,\u201d said Daniel Newman, chief executive officer of the Futurum Group. \u201cWe thought it would happen over five years. It seems like it is going to happen over two. Service-based businesses with a high headcount, those are going to be really vulnerable, even if they have robust businesses from the last era of tech.\u201d\n\nSo far, few companies have failed as a result of the proliferation of chatbots and so-called agents that can write software code, answer complex questions and produce photos and videos. But with tech giants like Microsoft Corp. and Meta Platforms Inc. pouring hundreds of billions into AI, investors have started to get more defensive.\n\nWix.com (WIX) and Shutterstock (SSTK) are down at least 33% in 2025, compared with a 8.6% advance for the broad benchmark. Adobe has fallen 23% amid concerns clients will look to AI platforms that can generate images and videos, as Coca-Cola (KO) has already done with an AI-generated ad. ManpowerGroup Inc (MAN)., whose staffing services could be hurt by rising automation, is down 30% this year, while peer Robert Half Inc (RHI). has shed more than half its value, dropping to its lowest in more than five years.\n\nThe souring sentiment among investors comes as AI is changing everything from the way people get information from the internet to how colleges function. Even companies at the vanguard of the technology\u2019s development like Microsoft have been slashing jobs as productivity improves and to make way for more AI investments. To many tech-industry watchers, the time is nearing when AI becomes so pervasive that companies start going out of business.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "date": "2025-08-09T10:30:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Investors flee stocks vulnerable to AI disruption; Nvidia's market value nears $4.5T amid AI boom."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/prediction-2-stocks-thatll-worth-100000402.html",
+    "title": "Prediction: 2 Stocks That'll Be Worth More Than Palantir 3 Years From Now Palantir's stock appears overpriced at its current levels.",
+    "detail": "Prediction: 2 Stocks That'll Be Worth More Than Palantir 3 Years From Now\nKeithen Drury, The Motley Fool\nSat, Aug 9, 2025, 6:00 AM 4 min read\nIn This Article:\nPLTR\nNVDA\nASML.AS\nAMD\nKey Points\n\nPalantir's valuation has risen much higher than Nvidia's.\n\nASML and AMD just have to continue being themselves to be larger than Palantir if a correction comes.\n\n10 stocks we like better than Palantir Technologies \u203a\n\nPalantir (NASDAQ: PLTR) is one of the hottest stocks in the market. It has delivered explosive returns for shareholders this year and is rapidly growing from a business standpoint, too.\n\nThere's nothing to dislike about Palantir's business from an investing standpoint (you may have qualms about what its software is used for in government, but that's beside the point), but there is a lot to dislike about the stock.\n\nAlongside Palantir's rapid rise has been a massive expansion in valuation, and it has become the most expensive stock on the market. I think that this is unsustainable and could lead to some lackluster stock performance over the next few years.\n\nAlthough Palantir has a market cap of over $425 billion, I think ASML (NASDAQ: ASML) and AMD (NASDAQ: AMD) could surpass it over the next three years, despite each being worth around $275 billion.\n\nImage source: Getty Images.\nThe case against Palantir\n\nAs mentioned above, Palantir's business is phenomenal. Its software is becoming the building blocks for deploying AI in business and government, and it has the growth to show for it. In the second quarter, Palantir's revenue rose 48% year over year to more than $1 billion. That blew away expectations and showcases the unstoppable demand Palantir is experiencing.\n\nThe problem is that the growth rate is already baked into the stock.\n\nOne of the premier AI stocks over the past few years has been Nvidia. Nvidia posted growth rates of more than 200% during its run, yet never traded for more than 46 times sales or 51 times forward earnings. Palantir has far exceeded those levels despite much slower growth.\n\nPLTR PE Ratio (Forward) data by YCharts\n\nLet's break down what growth it would take for Palantir to trade at a reasonable level. If Palantir can sustain a 50% revenue growth rate over the next three years, it would increase its revenue from today's $3.44 billion total to $11.6 billion. If we give Palantir a 30% profit margin (its profit margin was 22% over the past 12 months), that would indicate Palantir would generate $3.5 billion in profits.\n\nAt today's $425 billion market cap, that would still price Palantir's stock at 122 times three-year forward earnings. This showcases how expensive Palantir's stock is, and indicates it could be ripe for a pullback.\n\nAs a result, I think it's possible that ASML and AMD could be larger than Palantir in three years by doing nothing different.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.82
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-08-09T06:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite Palantir's rapid growth, its high valuation makes it vulnerable to a correction, while ASML and AMD could surpass it if they maintain their current trajectory."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/harvard-pours-117m-bitcoin-etf-091919514.html",
+    "title": "Harvard pours $117m into Bitcoin ETF, topping its stakes in Google and Nvidia Harvard bought $116.7m in BlackRock\u2019s iShares Bitcoin Trust in Q2. Brown University nearly doubled its IBIT stake to over $13 million.",
+    "detail": "Harvard pours $117m into Bitcoin ETF, topping its stakes in Google and Nvidia\nHarvard's endowment fund invested in Bitcoin ETF shares. Illustration: Andr\u00e9s Tapia; Source: Shutterstock.\nKyle Baird\nSat, Aug 9, 2025, 5:19 AM 2 min read\nIn This Article:\nIBIT\nBTC-USD\nGOOGL\nNVDA\nBLK\n\nBitcoin is back in school early this year.\n\nHarvard University\u2019s endowment has disclosed a $116.7 million position in BlackRock\u2019s iShares Bitcoin Trust, giving it more exposure to the top-ranked cryptocurrency than its stakes in Nvidia and Google\u2019s parent company Alphabet.\n\nThe 1.9 million IBIT shares were purchased in the second quarter, according to a Friday filing with the US Securities and Exchange Commission.\n\nInvest in Gold\nAmerican Hartford Gold: #1 Precious Metals Dealer in the Nation\nLearn More\nPriority Gold: Up to $15k in Free Silver + Zero Account Fees on Qualifying Purchase\nLearn More\nThor Metals Group: Best Overall Gold IRA\nLearn More\nPowered by Money.com - Yahoo may earn commission from the links above.\n\nSpot Bitcoin funds have attracted more than $54 billion in net inflows since their US approval in early 2024, with IBIT leading the pack and becoming one of the fastest-growing ETFs in history.\n\nBloomberg Intelligence senior ETF analyst Eric Balchunas said Harvard is now IBIT\u2019s 29th-largest holder out of roughly 1,300.\n\n\u201cEndowments are the hardest institution to hook \u2014 they rarely bite on ETFs,\u201d he wrote on X, calling the buy \u201csizable\u201d in ETF terms but small relative to Harvard\u2019s $53.2 billion endowment.\n\nHarvard\u2019s Ivy League peer, Brown University, also reported IBIT holdings in its latest filing, with 212,500 shares worth over $13 million, nearly doubling its position from March.\n\nWhile direct public equities make up only a small portion of Harvard\u2019s portfolio, the IBIT purchase marks a notable tilt toward alternative assets.\n\nIn the same quarter, Harvard disclosed a more than $100 million stake in the SPDR Gold Trust while cutting positions in several major tech stocks.\n\nCrypto market movers\n\nBitcoin has gained 0.6% in the past 24 hours and is trading at $117,300.\n\nEthereum is up 7.7% in the same period to $4,195.\n\nWhat we\u2019re reading\n\nXRP price jumps 11% as SEC and Ripple formally dismiss appeals \u2014 DL News\n\nTrump-Linked World Liberty Pitches a $1.5 Billion Crypto Vehicle \u2014 Bloomberg\n\nCustodia Has a Patent for Bank Stablecoins: Can It Box Out Big Banks? \u2014 Unchained\n\nWhy ETHZilla is skipping Michael Saylor\u2019s favourite crypto treasury ploy: Leverage \u2014 DL News\n\nKyle Baird is DL News\u2019 Weekend Editor. Got a tip? Email at kbaird@dlnews.com.\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "date": "2025-08-09T05:19:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "1. Harvard University invests $116.7M in Bitcoin ETF, surpassing Nvidia and Google holdings"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/youll-never-believe-microsoft-ceo-091500301.html",
+    "title": "You'll Never Believe What Microsoft CEO Satya Nadella Said About Quantum Computing Commercially viable quantum computing is starting to get closer.",
+    "detail": "You'll Never Believe What Microsoft CEO Satya Nadella Said About Quantum Computing\nKeithen Drury, The Motley Fool\nSat, Aug 9, 2025, 5:15 AM 4 min read\nIn This Article:\nMSFT\nNVDA\nKey Points\n\nMicrosoft announced work on its Level 2 quantum computer earlier this summer.\n\nQuantum computing revenue may be drowned out by other Microsoft divisions in the future.\n\n10 stocks we like better than Microsoft \u203a\n\nQuantum computing could be the next great step for computing power. Currently, graphics processing units (GPUs), such as those made by Nvidia, are the most powerful computing devices available that aren't dedicated to a single task. While these devices certainly aren't expected to go obsolete, they could be supplemented by quantum computing, and the future looks to be growing brighter for the technology.\n\nTech giant Microsoft (NASDAQ: MSFT) had some positive things to say about quantum computing, and it could start to make stocks in this industry more attractive to investors. But is now the right time to buy quantum computing stocks?\n\nImage source: Getty Images.\nCEO Satya Nadella is excited about the future of quantum computing\n\nDuring Microsoft's Q4 FY 2025 (ending June 30) earnings call, CEO Satya Nadella had this to say about quantum computing:\n\nThe next big accelerator in the cloud will be Quantum, and I am excited about our progress. In fact, earlier this month, we announced the world's first operational deployment of a Level 2 quantum computer, in partnership with Atom Computing.\n\nThis quote tells investors a few things. First, cloud computing is a big deal for Microsoft. At its core, the cloud computing industry is essentially one company building excess computing power and renting it out to clients that need more computing power.\n\nThis has two main use cases: First, when a company doesn't want to handle storing data on its own servers or wants to run workloads on the cloud rather than in-house. Businesses are starting to move more and more of their data to the cloud, and companies like Microsoft and its Azure cloud computing product stand to benefit.\n\nThe second big use case for cloud is for heavy workloads, such as artificial intelligence (AI) model training. Many companies utilize Azure to run AI workloads on it because they don't have the funds to justify building their own supercomputer. This has been a huge growth driver for Azure in recent quarters, and is one of the primary reasons why Azure's growth rate was 39% in the latest quarter.\n\nThe second item this quote tells us is that Microsoft is getting closer to having useful quantum computing. Microsoft states that its Level 2 computer will have resilient logical qubits. This stage will be focused on eliminating background noise and delivering a product that can produce reliable results. Once it completes its Level 2 activities, it will move to Level 3, which involves achieving scale and producing quantum supercomputers.\n\n\u7e7c\u7e8c\u95b1\u8b80\n\u689d\u6b3e \u53ca \u79c1\u96b1\u653f\u7b56\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "date": "2025-08-09T05:15:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Microsoft's positive stance on quantum computing could boost interest in related stocks, potentially benefiting Nvidia (NVDA)."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/prediction-nvidia-stock-skyrocket-aug-090000871.html",
+    "title": "Prediction: Nvidia Stock Will Skyrocket After Aug. 27 Nvidia's earnings report will have some must-watch items.",
+    "detail": "Prediction: Nvidia Stock Will Skyrocket After Aug. 27\nKeithen Drury, The Motley Fool\nSat, Aug 9, 2025, 5:00 AM 5 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia's growth could reaccelerate thanks to the return of its China business.\n\nDomestic demand for GPUs looks to be rising.\n\nThe stock has risen a lot over the past few months, which could hamper its upside.\n\n10 stocks we like better than Nvidia \u203a\n\nNvidia (NASDAQ: NVDA) has had one of the most incredible stock rises of all time, growing from a market capitalization of $350 billion at the start of 2023 to one approaching $4.5 trillion. It has risen so quickly thanks to the insatiable demand for graphics processing units (GPUs), its primary product. These devices have seen a spike in usage due to the artificial intelligence (AI) arms race, and that spike is far from over.\n\nOn Aug. 27, Nvidia reports Q2 FY 2026 (ending July 27) results, and some of the items I expect Nvidia to address could result in explosive returns for shareholders. Although Nvidia has had a strong year so far, I wouldn't be surprised to see the stock skyrocket following earnings.\n\nImage source: Getty Images.\nNvidia's revenue growth could reaccelerate\n\nThe growth Nvidia has delivered in response to the demand for GPUs is nothing short of incredible. Although growth has started to slow in recent quarters, Nvidia's growth rate, combined with its sheer size, is mind-numbing.\n\nNVDA Revenue (TTM) data by YCharts\n\nIn Q2, Nvidia's growth rate is expected to slow again, with management projecting around 50% revenue growth. That's still an impressive figure, but I think there could be some catalysts for reacceleration for the next quarter.\n\nOne of the biggest reasons I think Nvidia's stock will soar following earnings is the return of its China business. In April, Nvidia's export license for H20 chips (which were specifically designed to meet export restrictions) was revoked. This shut the door of the second-biggest AI customer in the world, and Nvidia had to take a write-off on its quarterly earnings as a result.\n\nIt also affected Q2's growth projection. Management estimated that the H20 business would result in around $8 billion of lost sales during Q2. If that figure were included in management's projection, Nvidia would have been expected to grow revenue by around 77%. That's a significant shift from the 50% growth it's expecting, but there is great news on this front.\n\nIn July, Nvidia announced that it was reapplying for its China export license, with assurances from the U.S. government that it would be granted. While it will take a while for Nvidia's supply chain to restart, one source stated that Nvidia placed an order of 300,000 H20 chips with one of its suppliers to double available inventory. In the meantime, Nvidia can just sell what it originally thought it would have to write off.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      }
+    },
+    "date": "2025-08-09T05:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's China business recovery and domestic GPU demand growth may boost Q2 FY 2026 earnings, potentially driving further gains for NVDA stock."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/smartest-growth-stocks-buy-1-084600611.html",
+    "title": "The Smartest Growth Stocks to Buy With $1,000 Right Now There's no guarantee that any stock will beat the market, but the chances look good for these three.",
+    "detail": "The Smartest Growth Stocks to Buy With $1,000 Right Now\nKeith Speights, The Motley Fool\nSat, Aug 9, 2025, 4:46 AM 5 min read\nIn This Article:\nVRTX\nBABA\nNVDA\nKey Points\n\nVertex Pharmaceuticals' recent sell-off was overdone.\n\nNvidia's growth story and dominance in the AI chip market are simply too good to ignore.\n\nAlibaba provides a great way to invest in AI on the cheap.\n\n10 stocks we like better than Alibaba Group \u203a\n\nWhat does it take to qualify as a growth stock? Probably the most important criterion is that the stock must be expected to grow significantly faster than the overall market. That definition weeds out a lot of stocks.\n\nHowever, there's a problem. It's not always easy to determine which stocks are most likely to beat the market. I think, though, that several stocks have what it takes. Here are my picks for three of the smartest growth stocks to buy right now with $1,000 (listed by share price in descending order).\n\nImage source: Getty Images.\n1. Vertex Pharmaceuticals\n\nYou might think Vertex Pharmaceuticals (NASDAQ: VRTX) is an unlikely candidate for this list after the biotech stock plunged following its second-quarter update. I have a contrarian view, though: The sell-off makes Vertex even more attractive with its share price below $400.\n\nVertex didn't report dismal Q2 results, by the way. Instead, the company announced two pipeline updates that disappointed investors. Experimental pain drug VX-993 failed to meet the primary endpoint of a phase 2 study, resulting in Vertex deciding against advancing it into pivotal testing. Also, the U.S. Food and Drug Administration (FDA) told the company that there isn't a path forward for a broad label in peripheral neuropathic pain (PNP) for suzetrigine.\n\nI think the sell-off was overdone considering how much Vertex has going for it. The company's cystic fibrosis (CF) franchise remains strong. The commercial launch of non-opioid pain drug Journavx is going so well that Vertex is expanding its marketing efforts. Meanwhile, the biotech company is prioritizing diabetic peripheral neuropathy as the next indication for the drug and is initiating a second phase 3 study.\n\nThere's more. Vertex is on track to file for regulatory approvals of zimislecel in treating severe type 1 diabetes next year, pending positive phase 3 results. It also hopes to file for accelerated approval in the U.S. for povetacicept in treating IgA nephropathy, a kidney disease, assuming all goes well with an interim analysis of a phase 3 study. The company's chances for both programs succeeding in late-stage trials appear to be pretty good.\n\n2. Nvidia\n\nYou could argue that Nvidia (NASDAQ: NVDA) is priced at a premium and faces increasing competition, including from some of its top customers. However, the fact remains that the company's growth story and dominance in the AI chip market are simply too good to ignore.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.4999
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "date": "2025-08-09T04:46:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "1. Nvidia's growth story and dominance in the AI chip market make it a smart growth stock pick."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/buy-advanced-micro-devices-amd-081300427.html",
+    "title": "Should You Buy Advanced Micro Devices (AMD) Stock While It's Under $200? Advanced Micro Devices stock is on a tear this year, and there could be more upside ahead.",
+    "detail": "Should You Buy Advanced Micro Devices (AMD) Stock While It's Under $200?\nAnthony Di Pizio, The Motley Fool\nSat, Aug 9, 2025, 4:13 AM 6 min read\nIn This Article:\nAMD\nNVDA\nMSFT\nTSLA\nKey Points\n\nAdvanced Micro Devices (AMD) is catching up to Nvidia in the coveted market for artificial intelligence (AI) data center chips.\n\nAMD plans to launch a powerful new lineup of GPUs in 2026 called the MI400 series, which could obliterate the competition.\n\nWall Street anticipates significant earnings growth for AMD next year, making its stock look very attractive at the current price.\n\n10 stocks we like better than Advanced Micro Devices \u203a\n\nAdvanced Micro Devices (NASDAQ: AMD) is one of the world's largest suppliers of semiconductors. Its chips can be found in popular consumer products like Sony's PlayStation 5, Microsoft's Xbox, and even the infotainment systems inside Tesla's electric vehicles.\n\nHowever, AMD's biggest opportunity right now is in the data center. The company is planning to launch a new lineup of graphics processing units (GPUs) for AI development in 2026, which could blow the competition -- including Nvidia (NASDAQ: NVDA) -- out of the water.\n\nAMD stock is up 34% in 2025 already, but it's still below its all-time high just north of $200, which was set last year. Should investors scoop it up while it's still trading at a discount? Read on to find out.\n\nImage source: Advanced Micro Devices.\nAMD is catching up to Nvidia in the data center space\n\nAMD launched its flagship MI300X data center GPU at the end of 2023, more than a year after Nvidia's industry-leading H100 GPU hit the market. Despite being behind, AMD still managed to attract some of Nvidia's largest customers, including Microsoft, Oracle, and Meta Platforms.\n\nWhile Nvidia continues to leap ahead of the competition with new GPU architectures like Blackwell and Blackwell Ultra, AMD is quickly closing the gap. It just started shipping its MI350 series GPUs, which are based on a new architecture the company calls Compute DNA (CDNA) 4. These new chips offer 35 times more performance than CDNA 3 versions like the original MI300X, placing them on par with Nvidia's Blackwell lineup.\n\nIn fact, the latest MI355 offers comparable performance to Nvidia's Blackwell GB200 GPU, and it delivers up to 40% more tokens (words, symbols, and punctuation) in AI inference workloads for the same cost. In other words, it's much cheaper to run over the long term without sacrificing any processing power, which is why it's attracting hyperscalers and even leading AI start-ups like OpenAI.\n\nBut customers' attention is already turning to 2026, when AMD plans to release its MI400 series. These new chips will be combined with specialized software and hardware systems to create a fully integrated AI data center rack called Helios, which will supercharge their performance. AMD CEO Lisa Su believes these MI400-based Helios systems will be the most powerful in the world when they launch, offering a staggering 10 times more performance over the MI350 series.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "date": "2025-08-09T04:13:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AMD's new GPU lineup, MI400 series, set for 2026 release, may challenge Nvidia in AI data center chip market; Wall Street expects substantial earnings growth for AMD in 2026,"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/meta-29-billion-deal-marks-191831732.html",
+    "title": "Meta\u2019s $29 Billion Deal Marks Key Moment for Private Credit (Bloomberg) -- The heavy hitters of private credit have been waiting for this moment for years.Most Read from BloombergNew York Warns of $34 Billion Budget Hole, Biggest Since 2009 CrisisAll Hail the Humble Speed HumpThree Deaths Reported as NYC Legionnaires\u2019 Outbreak SpreadsA New Stage for the Theater That Gave America Shakespeare in the ParkChicago Schools\u2019 Bond Penalty Widens as $734 Million Gap LoomsMajor lenders, which often cater to companies with dented credit, talk endlessly about the op",
+    "detail": "Meta\u2019s $29 Billion Deal Marks Key Moment for Private Credit\nCarmen Arroyo and Olivia Fishlow\nFri, Aug 8, 2025, 6:17 PM 4 min read\nIn This Article:\nMETA\nKKR\nKKR-PD\nBX\nMCO\n\n(Bloomberg) -- The heavy hitters of private credit have been waiting for this moment for years.\n\nMost Read from Bloomberg\n\nNew York Warns of $34 Billion Budget Hole, Biggest Since 2009 Crisis\n\nAll Hail the Humble Speed Hump\n\nThree Deaths Reported as NYC Legionnaires\u2019 Outbreak Spreads\n\nA New Stage for the Theater That Gave America Shakespeare in the Park\n\nChicago Schools\u2019 Bond Penalty Widens as $734 Million Gap Looms\n\nMajor lenders, which often cater to companies with dented credit, talk endlessly about the opportunities in investment-grade debt and in financing the breakneck growth of artificial intelligence. They\u2019ve done smaller deals, but this week they caught the biggest fish yet: a $29 billion financing package for Meta Platforms Inc.\u2019s massive data center in Louisiana.\n\nThat transaction, led by Pacific Investment Management Co. and Blue Owl Capital Inc., hits all the high notes: It\u2019s a top-notch business in a hot sector. It disrupts the usual route that companies like Meta travel to get money from investors through banks. And, it\u2019s huge.\n\n\u201cPrivate credit has been itching to get into this space,\u201d said John Medina, senior vice president on the global project and infrastructure finance team at Moody\u2019s Ratings. \u201cThis deal is one of the first of its kind for private credit and if it is successful, we would expect to see more.\u201d\n\nThe biggest technology companies are in an AI arms race now, and they need cash to win. Elon Musk\u2019s xAI Corp. recently told investors it plans to spend $18 billion on data centers, and is looking at raising debt backed by projects rather than at the corporate level. Others including Amazon.com Inc. and OpenAI Inc. are pursuing their own sites across the US. Morgan Stanley estimates that capital expenditures on AI could exceed $3 trillion in the next three years.\n\nFor Meta, Pimco is leading $26 billion in debt and Blue Owl is providing $3 billion in equity. The debt portion is likely to be issued in the form of investment-grade bonds backed by the data center\u2019s assets, people familiar with the matter said, adding that the final structure is still in flux. Morgan Stanley is advising Meta on the deal and arranging the financing.\n\nThe bidding war for the financing lasted months. It was competitive because private credit firms have been all-but-begging for access to the investment-grade debt world that banks dominate. Other private credit firms that grappled for the top spot include Apollo Global Management Inc. and KKR & Co., which made it to the final round, as well as Brookfield Asset Management Ltd., Blackstone Inc. and Ares Management Corp., said the people, who were not authorized to speak publicly.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-08-08T18:17:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Meta's $29B deal boosts private credit opportunities for AI growth, with Meta's Louisiana data center financed by major lenders."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-licenses-nvidia-export-chips-221538938.html",
+    "title": "US licenses Nvidia to export chips to China, official says (Reuters) -The commerce department has started issuing licenses to Nvidia to export its H20 chips to China, a U.S. official told Reuters on Friday, removing a significant hurdle to the AI bellwether's access to a key market.  The U.S. last month reversed an April ban on the sale of the H20 chip to China.  Nvidia CEO Jensen Huang met with Trump on Wednesday, two sources familiar with the matter told Reuters.",
+    "detail": "US licenses Nvidia to export chips to China, official says\nIllustration shows NVIDIA logo \u00b7 Reuters\nKaren Freifeld\nFri, Aug 8, 2025, 6:15 PM 2 min read\nIn This Article:\nNVDA\n\nBy Karen Freifeld\n\n(Reuters) -The commerce department has started issuing licenses to Nvidia to export its H20 chips to China, a U.S. official told Reuters on Friday, removing a significant hurdle to the AI bellwether's access to a key market.\n\nThe U.S. last month reversed an April ban on the sale of the H20 chip to China. The company had tailored the microprocessor specially to the Chinese market to comply with the Biden-era AI chip export controls.\n\nThe curbs will slice $8 billion off sales from its July quarter, the chipmaker has warned.\n\nNvidia CEO Jensen Huang met with Trump on Wednesday, two sources familiar with the matter told Reuters.\n\nA spokesperson for Nvidia declined comment. A White House spokesman did not immediately respond to a request for comment.\n\nThe company said in July it was filing applications with the U.S. government to resume sales to China of the H20 graphics processing unit, and had been assured it would get the licenses soon.\n\nIt is unclear how many licenses may have been issued, which companies Nvidia is allowed to ship the H20s to, and the value of the shipments allowed.\n\nNvidia disclosed in April that it expected a $5.5 billion charge related to the restrictions. In May, Nvidia said the actual first-quarter charge due to the H20 restrictions was $1 billion less than expected because it was able to reuse some materials.\n\nThe Financial Times first reported Friday's developments.\n\nNvidia said last month that its products have no \"backdoors\" that would allow remote access or control after China raised concerns over potential security risks in the H20 chip.\n\nBIG MARKET\n\nExports of Nvidia's other advanced AI chips, barring the H20, to China are still restricted.\n\nSuccessive U.S. administrations have curbed exports of advanced chips to China, looking to stymie Beijing's AI and defense development.\n\nWhile this has impacted U.S. firms' ability to fully address booming demand from China, one of the world's largest semiconductor markets, it still remains an important revenue driver for American chipmakers.\n\nHuang has said the company's leadership position could slip without sales to China, where developers were being courted by Huawei Technologies with chips produced in China.\n\nIn May, Nvidia said the H20 had brought in $4.6 billion in sales in the first quarter and that China accounted for 12.5% of overall revenue during the period.\n\n(Reporting by Karen Freifeld, Arsheeya Bajwa in Bengaluru and Max A. Cherney in San Francisco; Editing by Alan Barona and Sriraj Kalluvila)\n\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "date": "2025-08-08T18:15:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Commerce Department grants Nvidia license to export H20 chips to China, easing market access; Nvidia warns restrictions will cut $8B from Q3 sales."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-nvda-laps-stock-market-214502725.html",
+    "title": "Nvidia (NVDA) Laps the Stock Market: Here's Why In the closing of the recent trading day, Nvidia (NVDA) stood at $182.74, denoting a +1.09% move from the preceding trading day.",
+    "detail": "Nvidia (NVDA) Laps the Stock Market: Here's Why\nZacks Equity Research\nFri, Aug 8, 2025, 5:45 PM 3 min read\nIn This Article:\nNVDA\n^SPX\n^DJI\n^IXIC\n\nIn the latest trading session, Nvidia (NVDA) closed at $182.74, marking a +1.09% move from the previous day. The stock outpaced the S&P 500's daily gain of 0.78%. At the same time, the Dow added 0.47%, and the tech-heavy Nasdaq gained 0.98%.\n\nShares of the maker of graphics chips for gaming and artificial intelligence have appreciated by 10.16% over the course of the past month, outperforming the Computer and Technology sector's gain of 5.34%, and the S&P 500's gain of 1.86%.\n\nThe upcoming earnings release of Nvidia will be of great interest to investors. The company's earnings report is expected on August 27, 2025. The company's earnings per share (EPS) are projected to be $1, reflecting a 47.06% increase from the same quarter last year. Simultaneously, our latest consensus estimate expects the revenue to be $45.91 billion, showing a 52.83% escalation compared to the year-ago quarter.\n\nFor the annual period, the Zacks Consensus Estimates anticipate earnings of $4.26 per share and a revenue of $198.61 billion, signifying shifts of +42.47% and +52.2%, respectively, from the last year.\n\nIt's also important for investors to be aware of any recent modifications to analyst estimates for Nvidia. These revisions typically reflect the latest short-term business trends, which can change frequently. As such, positive estimate revisions reflect analyst optimism about the business and profitability.\n\nBased on our research, we believe these estimate revisions are directly related to near-term stock moves. Investors can capitalize on this by using the Zacks Rank. This model considers these estimate changes and provides a simple, actionable rating system.\n\nThe Zacks Rank system, spanning from #1 (Strong Buy) to #5 (Strong Sell), boasts an impressive track record of outperformance, audited externally, with #1 ranked stocks yielding an average annual return of +25% since 1988. The Zacks Consensus EPS estimate has moved 0.52% higher within the past month. Nvidia is holding a Zacks Rank of #3 (Hold) right now.\n\nLooking at its valuation, Nvidia is holding a Forward P/E ratio of 42.42. This signifies a premium in comparison to the average Forward P/E of 37.06 for its industry.\n\nIt is also worth noting that NVDA currently has a PEG ratio of 1.5. The PEG ratio bears resemblance to the frequently used P/E ratio, but this parameter also includes the company's expected earnings growth trajectory. As the market closed yesterday, the Semiconductor - General industry was having an average PEG ratio of 3.56.\n\nThe Semiconductor - General industry is part of the Computer and Technology sector. Currently, this industry holds a Zacks Industry Rank of 71, positioning it in the top 29% of all 250+ industries.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "date": "2025-08-08T17:45:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia (NVDA) gains 1.09%, outperforming market and sector; EPS projected to rise 47.06% in Q2, revenue forecasted at $45.91B (+5"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/apple-stock-buy-appeasing-president-212500521.html",
+    "title": "Is Apple Stock a Buy After Appeasing President Trump? Apple's stock has spiked +10% in August, as the company has appeased President Trump's request to move chip manufacturing back to the U.S.",
+    "detail": "Is Apple Stock a Buy After Appeasing President Trump?\nShaun Pruitt\nFri, Aug 8, 2025, 5:25 PM 4 min read\nIn This Article:\nAAPL\n\nAiming to shift manufacturing back to the United States, President Trump had previously made Apple AAPL\u00a0his main target of companies that would face steep penalties if they continued to ramp up production outside of domestic soil.\n\nThis threat includes a 100% tariff on imported semiconductor chips, which would have dramatically increased the cost to produce Apple products, as most of the tech giant\u2019s iPhones and components are manufactured in India and China.\n\nThat said, Apple has continued to make swift moves to appease the Trump administration, with a calculated blend of economic investment and political diplomacy.\n\nThis makes it a worthy topic of whether Apple stock can finally move past tariff concerns surrounding its global supply chain.\n\n\u00a0\n\nApple\u2019s Investment Pledge to Avoid Tariffs\n\nOn Wednesday, Apple CEO Tim Cook met with President Trump at the White House to announce that the company will be investing an additional $100 billion in U.S. manufacturing, bringing its total domestic commitment to $600 billion over the next four years.\n\nNotably, the funding will support new data centers, smart glass production in Kentucky, and semiconductor partnerships in Utah and Texas. Apple has also opened a manufacturing academy in Detroit, administered by Michigan State University, to train U.S. workers in AI and smart manufacturing.\n\nMagnifying Apple's appeasement and political diplomacy, Tim Cook presented a custom-made glass sculpture engraved with President Trump\u2019s name and mounted on a 24-karat gold base. Most importantly to investors, the gesture was symbolic and strategic, as it coincided with Trump\u2019s announcement that Apple would be exempt from the 100% tariff on foreign-made semiconductors.\n\n\u00a0\n\nAAPL is Gaining Momentum\n\nAttributed to the tariff exemptions, Apple stock has now spiked +10% in August, with these month-to-date gains leading its \u201cMagnificent Seven\u201d big tech peers.\n\nHowever, AAPL is still toward the bottom of the group for the year, down 9% to only top Tesla\u2019s TSLA\u00a0-18%, with Nvidia NVDA\u00a0up more than +30% and leading the pack.\n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\n\u00a0\n\nAAPL Valuation Comparison\n\nIn terms of valuation, Apple currently checks in with the third cheapest P/E ratio among the Mag 7 at 30.5X forward earnings, only trailing Alphabet\u2019s GOOGL\u00a019.7X and Meta Platforms META\u00a027.2X.\n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\nApple also has the third-lowest P/S ratio among these big tech peers at 8.1X forward sales, trailing Amazon\u2019s AMZN\u00a03.3X and Alphabet\u2019s 6.4X.\n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.25
+      }
+    },
+    "date": "2025-08-08T17:25:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Apple's CEO meets with President Trump to avoid 100% tariff on imported semiconductors, potentially impacting Apple's (AAPL) stock due to shifting production from India and China to the US."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-stock-likely-rally-aug-211500230.html",
+    "title": "Is Nvidia Stock Likely to Rally After Aug. 27? Nvidia reports earnings later this month, which could potentially lift its shares higher.",
+    "detail": "Is Nvidia Stock Likely to Rally After Aug. 27?\nDavid Jagielski, The Motley Fool\nFri, Aug 8, 2025, 5:15 PM 4 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia's stock has been rallying this year after a tough start due to tariffs.\n\nEasing China-U.S. relations should have a positive impact on Nvidia's business.\n\nTech companies continue to spend heavily on artificial intelligence (AI), suggesting demand for Nvidia's chips remains robust.\n\n10 stocks we like better than Nvidia \u203a\n\nNvidia (NASDAQ: NVDA) had a rough start to 2025, with macroeconomic concerns and tariffs weighing on the stock. But it has seemingly shaken off those fears, and year to date, the stock is now up close to 30% (as of Aug. 4), becoming the first to reach a valuation north of $4 trillion.\n\nWhile its valuation is undoubtedly high, there's one thing that has the potential to send its shares up even more, and that's a strong earnings report. With Nvidia's earnings set to come out later this month, on Aug. 27, is that likely to be a catalyst that sends the chipmaker's scorching-hot stock to new heights?\n\nImage source: Getty Images.\nHow has Nvidia's stock typically performed after earnings?\n\nThe chart shows how Nvidia's stock has performed over the past few years, while also indicating when it reported earnings. There has been notable movement following earnings in both directions, but it hasn't normally been a move straight up or straight down afterward. This suggests that other factors may play much more important roles in Nvidia's stock's performance, and that strong earnings numbers may already be priced into its valuation.\n\nNVDA data by YCharts\n\nNvidia last reported earnings on May 28. At the time, the stock was trading at around $135, and it has gone on to surge since then. But in the first few days after reporting earnings, its shares didn't take off -- a clear sign that the earnings report itself wasn't likely the reason for its recent rise in value.\n\nInstead, the rally may be due to progress in China-U.S. trade talks, with the U.S. government recently permitting Nvidia to sell its H20 artificial intelligence (AI) chips to China. Another catalyst is tech companies still expecting to spend more on AI in the near future, indicating that demand for Nvidia's chips isn't likely to slow down anytime soon.\n\nCould Nvidia's high valuation make it too difficult for the stock to rally after earnings?\n\nBack in April, when the U.S. government announced reciprocal tariffs, Nvidia's stock was trading at close to 30 times its trailing earnings. And that low valuation may have made it easier for it to rally since then. But by the same token, now, with the AI stock looking much more expensive and valued at a price-to-earnings multiple of over 56, that could restrict gains from here on out, even if Nvidia does demonstrate strong growth for the upcoming quarter.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "date": "2025-08-08T17:15:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's stock rallied in 2025 despite early struggles; a strong earnings report on Aug. 27 could further boost its shares."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tokyo-soars-trade-deal-relief-031915983.html",
+    "title": "Gold futures hit record on US tariff shock; mixed day for stocks Gold futures hit a record high Friday following reports of an unexpected tariff on the precious metal as global stocks finished the week on a mixed note.After hitting the high, the gold future price later pulled back to around $3,454 an ounce.",
+    "detail": "Gold futures hit record on US tariff shock; mixed day for stocks\nAFP\nFri, Aug 8, 2025, 5:11 PM 3 min read\nIn This Article:\nGC=F\n^IXIC\nAAPL\nNVDA\nGOOGL\nNew US tariffs on Switzerland are playing havoc with the gold market (SEBASTIAN DERUNGS)\n\nGold futures hit a record high Friday following reports of an unexpected tariff on the precious metal as global stocks finished the week on a mixed note.\n\nWall Street enjoyed a sunny Friday led by the tech-rich Nasdaq Composite Index, which posted a second straight record, part of a buoyant session in New York amid optimism over artificial intelligence and less uncertainty over trade policy.\n\nInvestors are growing confident that President Donald Trump's constantly-changing US trade policy won't derail the surge in investment around artificial intelligence.\n\n\"Part of the relief was that the tariffs on a very important sector around the US outlook on earnings, which is tech and AI, is mostly left unaffected,\" said Angelo Kourkafas, senior global investment strategist at Edward Jones.\n\nApple, which pledged increased US investment at a White House meeting this week, won 4.2 percent, its third straight significant gains. Nvidia and Google parent Alphabet also advanced.\n\nGold futures shot to a new all-time intraday high at $3,534.10 an ounce after the Financial Times reported that Washington had classified one-kilo bars, the most traded type of bullion on Comex -- the world's biggest futures market, as subject to \"reciprocal\" tariff rates.\n\nOne-kilo bars make up the largest part of Switzerland's gold shipments to the United States. Imports from Switzerland face a 39-percent reciprocal tariff from Thursday. The FT said 100-ounce bars would also face the levy.\n\nThe levy caused \"shock and confusion\" in markets, said Han Tan, chief market analyst at Nemo.money trading group.\n\nAfter hitting the high, the gold future price later pulled back to around $3,454 an ounce.\n\nA White House official told AFP that the Trump administration plans to \"issue an executive order in the near future clarifying misinformation about the tariffing of gold bars and other specialty products.\"\n\nIn European trading, both London's FTSE 100 and Frankfurt dipped, while Paris stocks edged higher.\n\nJapanese stocks led the way on a mostly negative day for Asian markets, fueled by relief that Tokyo and Washington had settled a tariff issue that raised concerns about their trade deal.\n\n\"Since the tariff agreement between the US and the European Union, some clarity has emerged, but confusion around its implementation is just beginning to surface,\" said Jochen Stanzl, chief market analyst at CMC Markets.\n\n\"In Japan, there is relief today upon hearing that the various tariffs will not be cumulative,\" he added.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-08-08T17:11:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Gold prices soar, tech stocks advance despite new US tariffs on Switzerland; AI sector remains unaffected, boosting confidence."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-equity-indexes-rise-week-210156933.html",
+    "title": "US Equity Indexes Rise This Week as Earnings Beat Consensus While Fed Rate Cut Probability Runs High US equity indexes rose this week as quarterly earnings exceeded expectations and bets in favor of a",
+    "detail": "PREMIUM\nUS Equity Indexes Rise This Week as Earnings Beat Consensus While Fed Rate Cut Probability Runs High\nMT Newswires\nFri, Aug 8, 2025, 5:01 PM 2 min read\nIn This Article:\nGOOGL\nPLTR\nAAPL\nTSLA\nNVDA\n\nUS equity indexes rose this week as quarterly earnings exceeded expectations and bets in favor of a\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nYour Privacy Choices",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "date": "2025-08-08T17:01:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "US equity indexes rise; NVDA's Q earnings beat consensus, boosting stock prospects."
+    }
+  }
+]

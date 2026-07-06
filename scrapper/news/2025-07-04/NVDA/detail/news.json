@@ -1,0 +1,467 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-stock-closes-at-record-as-ai-chipmaker-nears-being-crowned-most-valuable-company-in-history-171743085.html",
+    "title": "Nvidia stock closes at record as AI chipmaker nears being crowned most valuable company in history Nvidia's market cap briefly reached $3.92 trillion during intraday trading on Thursday, setting it on track to become the world's most valuable company in history.",
+    "detail": "Nvidia stock closes at record as AI chipmaker nears being crowned most valuable company in history\nLaura Bratton\nThu, Jul 3, 2025, 11:17 AM 2 min read\nIn This Article:\nNVDA\nAAPL\n\nNvidia stock (NVDA) closed at a record high on Thursday, rising 1.3% amid a broader market rally and putting shares one step closer to unseating Apple (AAPL) as the most valuable company in market history.\n\nDuring Thursday's shortened trading session ahead of the July Fourth holiday, shares of the AI chipmaker rose more than 2% to give the company a market cap of $3.92 trillion. As of Thursday's close, the company's market cap settled at $3.89 trillion, just fractionally off the record of $3.915 trillion Apple clinched in late 2024.\n\nThe iPhone maker's value has dropped since then as it struggled to catch up to its Big Tech peers on AI and has contended with President Trump's threat to hit its overseas-made products with tariffs.\n\nInvestors have piled into Nvidia after its most recent quarterly earnings report in late May showed the chipmaker continuing to thrive, despite US restrictions on Chinese use of its chips. The stock has continued to notch fresh record highs since late June.\n\nThursday's rally adds to what's been a remarkable turnaround for Nvidia stock after a rocky start to 2025, with shares now up more than 19% this year.\n\nWedbush analyst Dan Ives said Thursday he expects Nvidia to hit a $4 trillion market capitalization this summer and potentially $5 trillion over the next 18 months.\n\n\u201cWe believe tech stocks will have a very strong second half of the year,\" he said in a note to clients Thursday. \"Our bullish view is that investors are still underestimating the tidal wave of growth on the horizon from the $2 trillion of spending over the next 3 years coming from enterprise and government spending around AI technology and use cases.\"\n\nOther market watchers are more skeptical about the AI boom. Legendary short seller Jim Chanos told Bloomberg that the \"ecosystem around the AI boom\" is similar to the dot-com bubble.\n\n\u201cBut it is a riskier revenue stream because if people pull back, they can pull back CapEx very easily. Projects can get put on hold ... and that immediately shows up in disappointing revenues and earnings forecast, if it happens,\" Chanos said.\n\n\u201cWe\u2019re not there yet, but that\u2019s one of the risks out there that I think a lot of people are underestimating,\u201d he added.\n\nNvidia logo displayed on a smartphone. (CFOTO/Future Publishing via Getty Images) \u00b7 CFOTO via Getty Images\n\nLaura Bratton is a reporter for Yahoo Finance. Follow her on Bluesky @laurabratton.bsky.social. Email her at laura.bratton@yahooinc.com.\n\nClick here for the latest technology news that will impact the stock market\n\nRead the latest financial and business news from Yahoo Finance\n\nStockStory aims to help individual investors beat the market.\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.88
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.95
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia stock reaches new high, nearing $3.9 trillion market cap to surpass Apple as most valuable company."
+    },
+    "date": "2025-07-03T11:17:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-equity-funds-see-largest-140834520.html",
+    "title": "US equity funds see largest weekly inflow in eight months (Reuters) -U.S. equity funds attracted strong inflows in the week to July 2, as U.S. stocks hit record highs on AI optimism, even as a 90-day pause on U.S. reciprocal tariffs is nearing its July 9 expiry with little progress in trade talks.",
+    "detail": "US equity funds see largest weekly inflow in eight months\nReuters\nFri, Jul 4, 2025, 8:08 AM 1 min read\nIn This Article:\nMU\nNVDA\nAMD\n\n(Reuters) -U.S. equity funds attracted strong inflows in the week to July 2, as U.S. stocks hit record highs on AI optimism, even as a 90-day pause on U.S. reciprocal tariffs is nearing its July 9 expiry with little progress in trade talks.\n\nAccording to LSEG Lipper data, investors acquired a hefty $31.6 billion worth of U.S. equity funds in their largest weekly net purchase since November 13, 2024.\n\nOptimism about artificial intelligence-linked stocks surged last week as Micron Technology (MU), an AI-chip supplier to Nvidia (NVDA) and Advanced Micro Devices (AMD), forecast robust fourth-quarter sales.\n\nThe large-cap U.S. equity funds segment pulled in $31.04 billion in their best week since December 25, 2024. But mid-cap and small-cap funds had $1.72 billion and $1.09 billion worth of net sales.\n\nDemand for sectoral funds was at the highest in five months as they attracted about $3.4 billion worth of net inflows during the week. The technology and financial sectors had a significant $1.17 billion and $1.04 billion worth of net purchases.\n\nInvestors also snapped up a net $6.66 billion worth of U.S. bond funds in an 11th successive week of net buying.\n\nThe short-to-intermediate investment-grade funds segments gained a net $4.14 billion weekly inflow, the largest figure since November 20, 2024.\n\nGeneral domestic taxable fixed income funds also received $3.03 billion, while short-to-intermediate government & treasury funds had a net $2.11 billion weekly outflow.\n\nWeekly net investments in money market funds, meanwhile, were at $57.98 billion for the week, the highest in four weeks.\n\n(Reporting by Gaurav Dogra in Bengaluru. Editing by Jane Merriman)\n\nSign up for the Yahoo Finance Morning Brief\nSubscribe\n\nBy subscribing, you are agreeing to Yahoo's Terms and Privacy Policy\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.68
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI optimism boosts U.S. equity funds, with $31.6B inflow; Micron's robust Q4 forecast fuels demand for AI-linked stocks like NVDA."
+    },
+    "date": "2025-07-04T08:08:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/could-load-artificial-intelligence-ai-140000610.html",
+    "title": "If I Could Load Up on Any Artificial Intelligence (AI) Stock, It Would Be This One (Hint: It's Not Nvidia) Taiwan Semiconductor Manufacturing Company (TSMC) produces the vast majority of all high-performance AI chips.  High-performance chips (which include AI chips) accounted for 59% of TSMC's total revenue in the first quarter of 2025.  TSMC has been expanding its manufacturing operations to different countries outside of Taiwan.",
+    "detail": "If I Could Load Up on Any Artificial Intelligence (AI) Stock, It Would Be This One (Hint: It's Not Nvidia)\nStefon Walters, The Motley Fool\nFri, Jul 4, 2025, 8:00 AM 4 min read\nIn This Article:\n2330.TW\nNVDA\nOPAI.PVT\nGOOGL\n^SPX\nKey Points\n\nTaiwan Semiconductor Manufacturing Company (TSMC) produces the vast majority of all high-performance AI chips.\n\nHigh-performance chips (which include AI chips) accounted for 59% of TSMC's total revenue in the first quarter of 2025.\n\nTSMC has been expanding its manufacturing operations to different countries outside of Taiwan.\n\n10 stocks we like better than Taiwan Semiconductor Manufacturing \u203a\n\nArtificial intelligence (AI) has been around for a while, but it gained mainstream popularity in early 2023 due to the rise of generative AI tools like OpenAI's ChatGPT and Alphabet's Google Gemini.\n\nPlenty of tech stocks have seen their valuations skyrocket because of the AI boom, but the biggest beneficiary has undoubtedly been Nvidia (NASDAQ: NVDA). Over the past three years, its stock has increased by nearly 920%, while the S&P 500 has risen around 64% over the same period.\n\nNvidia has gotten a lot of attention, and rightfully so. Its graphics processing units (GPUs) and AI software are very important to the AI ecosystem. However, there's another company that Nvidia relies on heavily that's just as important, and it's a stock I'm loading up on: Taiwan Semiconductor Manufacturing Company (NYSE: TSM) (TSMC).\n\nTSMC's role in the AI pipeline\n\nAt first glance, calling a manufacturing company like TSMC an AI stock might seem unusual, but it's a pivotal player in how the technology all comes together. Let's take a look at how its business works.\n\nTSMC is the world's largest semiconductor (chip) manufacturer and the pioneer of the foundry business model. You can't buy TSMC chips in a store or online like a smartphone or laptop. Instead, companies go to TSMC with their chip designs, and it manufactures them, bringing those designs to life.\n\nFor example, it makes chips for Apple's iPhones, Tesla's self-driving technology, AMD's processors, Nvidia's GPUs, and plenty of other applications. TSMC's relationship with Nvidia and other AI-chip designers is why I'm willing to consider it an \"AI stock,\" even as a chip manufacturing company.\n\nIn fact, TSMC manufactures the vast majority of all high-performance AI chips, so there's a strong case to be made that without the company and its capabilities, the AI landscape would look significantly different -- for the worse.\n\nMoney coming in to back up the hype\n\nThe increased demand for AI chips is showing up in TSMC's financials. In the first quarter, its revenue increased 35% year over year to $25.5 billion. It expects its Q2 revenue to come in between $28.4 billion and $29.2 billion, representing year-over-year growth of 36% to 40%. That's impressive for a company of TSMC's size.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.79
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite Nvidia's success, Taiwan Semiconductor Manufacturing Company (TSMC), producing most high-performance AI chips, saw 59% Q1 2025 revenue from them. TSMC expands"
+    },
+    "date": "2025-07-04T08:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/us-plans-ai-chip-curbs-135855230.html",
+    "title": "US Plans AI Chip Curbs on Malaysia, Thailand Over China Concerns (Bloomberg) -- President Donald Trump\u2019s administration plans to restrict shipments of AI chips from the likes of Nvidia Corp. to Malaysia and Thailand, part of an effort to crack down on suspected semiconductor smuggling into China.Most Read from BloombergForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsMassachusetts to Follow NYC in Making Landlords Pay Broker FeesNYC Commutes Resume After Midtown Bus Terminal Crash ChaosStruggling Downtowns Are Looking to Lure New CrowdsWhat Gothenbu",
+    "detail": "US Plans AI Chip Curbs on Malaysia, Thailand Over China Concerns\nMackenzie Hawkins\nFri, Jul 4, 2025, 7:58 AM 4 min read\nIn This Article:\nORCL\nNVDA\n\n(Bloomberg) -- President Donald Trump\u2019s administration plans to restrict shipments of AI chips from the likes of Nvidia Corp. to Malaysia and Thailand, part of an effort to crack down on suspected semiconductor smuggling into China.\n\nMost Read from Bloomberg\n\nForeign Buyers Swoop on Cape Town Homes, Pricing Out Locals\n\nMassachusetts to Follow NYC in Making Landlords Pay Broker Fees\n\nNYC Commutes Resume After Midtown Bus Terminal Crash Chaos\n\nTrump\u2019s Gilded Design Style May Be Gaudy. But Don\u2019t Call it \u2018Rococo.\u2019\n\nWhat Gothenburg Got Out of Congestion Pricing\n\nA draft rule from the Commerce Department seeks to prevent China \u2014 to which the US has effectively banned sales of Nvidia\u2019s advanced AI processors \u2014 from obtaining those components through intermediaries in the two Southeast Asian nations, according to people familiar with the matter. The rule is not yet finalized and could still change, said the people, who requested anonymity to discuss private conversations.\n\nOfficials plan to pair the Malaysia and Thailand controls with a formal rescission of global curbs from the so-called AI diffusion rule, the people said. That framework from the end of President Joe Biden\u2019s term drew objections from US allies and tech companies, including Nvidia. Washington would maintain semiconductor restrictions targeting China \u2014 imposed in 2022 and ramped up several times since \u2014 as well as more than 40 other countries covered by a 2023 measure, which Biden officials designed to address smuggling concerns and increase visibility into key markets.\n\nAll told, the regulation would mark the first formal step in Trump\u2019s promised overhaul of his predecessor\u2019s AI diffusion approach \u2014 after the Commerce Department said in May that it would supplant that Biden rule with its own \u201cbold, inclusive strategy.\u201d But the draft measure is far from a comprehensive replacement, the people said. It doesn\u2019t answer, for example, questions about security conditions for the use of US chips in overseas data centers \u2014 a debate with particularly high stakes for the Middle East. It\u2019s unclear whether Trump officials may ultimately regulate AI chip shipments to a wider swath of countries, beyond the Malaysia and Thailand additions.\n\nThe Commerce Department didn\u2019t respond to a request for comment. The agency has offered few specifics about its regulatory vision beyond what Secretary Howard Lutnick told lawmakers last month: The US will \u201callow our allies to buy AI chips, provided they\u2019re run by an approved American data center operator, and the cloud that touches that data center is an approved American operator,\u201d he said during congressional testimony.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.65
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.4
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "US restricts AI chip exports to Malaysia, Thailand; may impact NVDA's sales."
+    },
+    "date": "2025-07-04T07:58:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/global-equity-funds-attract-biggest-133354176.html",
+    "title": "Global equity funds attract biggest weekly inflows in eight months Global equity funds attracted strong inflows in the week to July 2, as U.S. stocks hit record highs, with investors brushing off trade tensions and chasing gains in AI-linked sectors. Investors bought global equity funds worth a net $43.15 billion during the week, registering their largest weekly net purchase since November 13, 2024, data from LSEG Lipper showed. While markets remain buoyant, analysts said that equities could face a sharp reversal if the trade tensions potentially flare up again.",
+    "detail": "Global equity funds attract biggest weekly inflows in eight months\nA trader works on the floor at the New York Stock Exchange (NYSE) in New York City \u00b7 Reuters\nReuters\nFri, Jul 4, 2025, 7:33 AM 2 min read\nIn This Article:\nNVDA\n\n(Reuters) -Global equity funds attracted strong inflows in the week to July 2, as U.S. stocks hit record highs, with investors brushing off trade tensions and chasing gains in AI-linked sectors.\n\nInvestors bought global equity funds worth a net $43.15 billion during the week, registering their largest weekly net purchase since November 13, 2024, data from LSEG Lipper showed.\n\nWhile markets remain buoyant, analysts said that equities could face a sharp reversal if the trade tensions potentially flare up again.\n\nMicron Technology\u2019s, upbeat fourth-quarter sales forecasts, alongside Nvidia\u2019s rally to a record high reinforced investor confidence in AI-linked tech stocks during the week.\n\nU.S. equity funds attracted a hefty $31.6 billion worth of inflows, the highest for a week since November 13, 2024. European and Asian funds pulled in $9.31 billion and $552 million worth of net investments.\n\nInvestors also added a net $3.72 billion into sectoral funds as they snapped up industrial, technology and financial sector funds worth a net $1.26 billion, $1.2 billion and $760 million, respectively.\n\nWeekly inflows into global bond funds amounted to a net $15.84 billion, with strong demand extending into an 11th consecutive week.\n\nEuro-denominated bond funds net inflows rose to a three-week high of $4.89 billion. Corporate and short-term bond funds also attracted significant inflows of $4.33 billion and $1.73 billion, respectively.\n\nMoney market funds, meanwhile, had approximately $57.46 billion worth of net purchases following three weeks of net sales.\n\nAmong commodity funds, gold and precious metal funds were popular for a sixth successive week, with about $564 million in net inflows. But investors ditched a net $163 million worth of energy sector funds.\n\nIn emerging markets, inflows into equity funds reached a net $2.58 billion, the largest since October 2024. In contrast, divestments from bond funds totalled a net $3.09 billion, data for a combined 29,745 funds showed.\n\n(Reporting by Gaurav Dogra in Bengaluru. Editing by Jane Merriman)\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Investors poured $43.15bn into global equity funds, driven by AI-linked sectors like Micron & NVDA; U.S. funds saw $31.6bn inflow amid record highs, despite trade t"
+    },
+    "date": "2025-07-04T07:33:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/better-artificial-intelligence-stock-ionq-123700904.html",
+    "title": "Better Artificial Intelligence Stock: IonQ vs. Nvidia Shares of Nvidia and IonQ have each surged more than 800% over the past three years.  Nvidia dominates the AI semiconductor market while IonQ is betting on quantum computing.  Neither stock is cheap, but Nvidia's long-term prospects look far stronger than IonQ's.",
+    "detail": "Better Artificial Intelligence Stock: IonQ vs. Nvidia\nChris Neiger, The Motley Fool\nFri, Jul 4, 2025, 6:37 AM 4 min read\nIn This Article:\nIONQ\nNVDA\nKey Points\n\nShares of Nvidia and IonQ have each surged more than 800% over the past three years.\n\nNvidia dominates the AI semiconductor market while IonQ is betting on quantum computing.\n\nNeither stock is cheap, but Nvidia's long-term prospects look far stronger than IonQ's.\n\n10 stocks we like better than Nvidia \u203a\n\nWith the share prices of so many tech companies surging lately, it's a good idea to turn a critical eye toward any stock you're considering buying. Two stocks that are no doubt on many investors' potential buying lists are Nvidia (NASDAQ: NVDA) and IonQ (NYSE: IONQ),\n\nThese companies have garnered lots of attention lately, especially as their share prices have risen 930% and 857% over the past three years, respectively. So, let's take a closer look at what's happening with these companies to determine which one looks like the better AI stock to own in early July, 2025.\n\nHow Nvidia benefits from the AI boom\n\nNvidia quickly went from an obscure tech company that most people hadn't heard about to one of the most popular artificial intelligence investments in just a few years. The spike in interest has come from Nvidia's lead in designing semiconductors that are used in artificial intelligence data centers.\n\nNvidia's processors account for about 70% to 94% of the AI semiconductor market, and their popularity has pushed the company's sales and earnings up quickly. Nvidia's data center revenue spiked 73% in the most recent quarter to $39 billion, and earnings per share rose 27% to $0.76 per share.\n\nThere is some debate as to how much more semiconductor demand there will be in the coming years once tech giants have upgraded their old servers and built new ones to handle their AI needs, but that potential slowdown hasn't arrived yet. McKinsey research estimates that the semiconductor market will grow to $2.4 trillion by 2040, up from about $450 billion in 2019.\n\nWith Nvidia's semiconductor lead, the company is well-positioned to benefit if semiconductor demand remains. Still, one thing investors should be aware of is that Nvidia's stock isn't cheap. The rapid share price gains of the past few years mean that Nvidia's stock has a price-to-earnings ratio of about 50, which is below the current semiconductor company average of 64 but still pricey compared to the S&P 500's average of 24.\n\nIonQ is on the fringes of AI\n\nIonQ isn't actually an artificial intelligence company. It's a quantum computing company that uses trapped linear chain ions that have the potential to reach 100-plus qubits and produce far fewer errors than other quantum computers.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "930% surge in Nvidia shares; IonQ also up 857%; Nvidia dominates AI semiconductor market, IonQ focuses on quantum computing; neither cheap, but Nvidia's"
+    },
+    "date": "2025-07-04T06:37:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/soundhound-ai-buy-123000520.html",
+    "title": "Is SoundHound AI a Buy? Conversational AI is promising, but SoundHound still isn't profitable.  Lots of small start-ups have volatile share prices, so it's worth taking a closer look at SoundHound AI to see what's happening with the company.  While its tech is promising, I think it's best not to buy SoundHound AI stock right now.",
+    "detail": "Is SoundHound AI a Buy?\nChris Neiger, The Motley Fool\nFri, Jul 4, 2025, 6:30 AM 4 min read\nIn This Article:\nSOUN\nNVDA\nKey Points\n\nThe company increased sales by 151% in the first quarter and is adding new customers.\n\nConversational AI is promising, but SoundHound still isn't profitable.\n\nSoundHound stock rose rapidly over the past few years, pushing its valuation to dizzying levels.\n\n10 stocks we like better than SoundHound AI \u203a\n\nArtificial intelligence (AI) stocks are attracting significant attention, as technology companies compete to offer the best AI services. There have already been some big winners, like semiconductor company Nvidia, but there are plenty of AI stocks that once looked like a sure bet and seem less so now.\n\nSoundHound AI (NASDAQ: SOUN) is one such company. The company's stock soared 300% over the past three years, but is down 45% since the beginning of this year. Lots of small start-ups have volatile share prices, so it's worth taking a closer look at SoundHound AI to see what's happening with the company.\n\nWhile its tech is promising, I think it's best not to buy SoundHound AI stock right now. Here's why.\n\nImage source: Getty Images.\nWhat's going well for SoundHound\n\nThere are a few good reasons why investors have been interested in SoundHound, including the company's impressive revenue growth. SoundHound's sales increased 151% in the first quarter (which ended March 31) to $29 million. That kind of revenue jump is exactly what you want to see from a young company that's carving out a niche in a new market.\n\nWhat's more, SoundHound appears to be successfully attracting large customers to its conversational AI platform. This includes working with Chinese tech company Tencent to bring SoundHound's voice-activated services into more automotive brands, and expanding the locations that use its tech to include Firehouse Subs restaurants, Five Guys, and others.\n\nSoundHound also doesn't have any debt, and the company finished Q1 with $246 million in cash and cash equivalents. The lack of debt is impressive for a start-up that's already expanded its AI business and attracted significant customers.\n\nFinally, as tech companies race to implement better AI into their products and services, many will need conversational AI solutions that allow their customers to interact easily with their artificial intelligence programs. That's causing a rapid expansion of the conversational AI market, which will be worth an estimated $152 billion by 2033.\n\nDespite its potential, SoundHound AI still isn't a buy\n\nOne concern for potential SoundHound investors is that the company isn't profitable and could take a while to get there. SoundHound reported a non-GAAP loss of $0.06 in Q1, up from a loss of $0.07 in the year-ago quarter. Its gross margins also fell to 51% in the quarter, down from their previous 66%.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "1st Quarter Sales Up 151%, New Customers Added; However, SoundHound AI Not Yet Profitable, Stock Down 45% Since Year Beginning."
+    },
+    "date": "2025-07-04T06:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-blackwell-ultra-lands-coreweave-122003797.html",
+    "title": "Nvidia Blackwell Ultra Lands at CoreWeave in a Game-Changing Move AI Arms Race Heats Up as CoreWeave Unveils Blackwell Ultra First",
+    "detail": "Nvidia Blackwell Ultra Lands at CoreWeave in a Game-Changing Move\nNauman khan\nFri, Jul 4, 2025, 6:20 AM 1 min read\nIn This Article:\nNVDA\n\nJuly 4 - CoreWeave (NASDAQ:CRWV) became the first cloud provider to install Nvidia's (NASDAQ:NVDA) new Blackwell Ultra AI chips.\n\nThe systems, built by Dell (NYSE:DELL), feature liquid?cooled racks housing 72 Blackwell Ultra GPUs alongside 36 Nvidia Grace CPUs. All units are assembled and tested in the U.S., Dell said.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nCoreWeave shares surged 6% Thursday, while Dell climbed about 2% and Nvidia inched up about 1% in trading, reflecting investor enthusiasm for next?gen AI hardware.\n\nThe Blackwell Ultra, Nvidia's latest graphics processor for AI, is expected to ship in volume later this year. CoreWeave's early deployment gives it an edge over larger cloud rivals by offering customers the fastest commercially available AI accelerators.\n\nAs demand for AI compute grows, analysts say such partnerships may reshape cloud?computing dynamics.\n\nInvestors will watch whether CoreWeave's move spurs additional orders or prompts competitors like Amazon, Google, and Microsoft to accelerate their own chip rollouts.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.56
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"Nvidia's Blackwell Ultra AI chips installed at CoreWeave, boosting its AI capabilities; CoreWeave shares surge 6%, DELL and NVDA inch up.\""
+    },
+    "date": "2025-07-04T06:20:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-nears-4t-valuation-overtakes-121908482.html",
+    "title": "Nvidia Nears $4T Valuation, Overtakes Apple in Historic Market Cap Surge Nvidia Rockets Past Apple's Market Peak in Wild $3.92T Rally",
+    "detail": "Nvidia Nears $4T Valuation, Overtakes Apple in Historic Market Cap Surge\nNauman khan\nFri, Jul 4, 2025, 6:19 AM 1 min read\nIn This Article:\nNVDA\n\nJuly 4 - Shares of Nvidia (NASDAQ:NVDA) climbed about 2.4% Thursday to $160.98, lifting its market capitalization to roughly $3.92 trillion.\n\nThat move briefly put Nvidia on track to surpass Apple (NASDAQ:AAPL), which closed at a record $3.915 trillion on Dec. 26, 2024. Microsoft (NASDAQ:MSFT) sits in second place with a market value near $3.65 trillion, while Apple holds about $3.17 trillion.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nNvidia's jump reflects robust demand for its AI?focused chips, which power large language models and other compute?heavy applications.\n\nRemarkably, Nvidia now tops the combined value of all publicly listed companies in Canada and Mexico, as well as the total market cap of UK?traded firms, Reuters reported.\n\nAnalysts warn that Nvidia's rally could face challenges if chip production scales up or geopolitical issues disrupt supply chains.\n\nStill, its pricing power and strong order backlog may help sustain investor interest.\n\nAs Nvidia vies to become the most valuable company ever, market watchers will monitor whether it can maintain this momentum into the second half of 2025.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.73
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0833
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia nears $4T valuation, overtaking Apple in historic market cap surge due to strong demand for AI-focused chips. Analysts caution potential challenges ahead."
+    },
+    "date": "2025-07-04T06:19:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ai-chips-ai-driven-robotics-113726719.html",
+    "title": "AI Chips Update - AI-Driven Robotics Revolutionizes Global Tech Investment Landscape Recent developments in AI chips, particularly those used in autonomous robotics, are poised to reshape the strategic landscape of global technology investment. With Nvidia's cutting-edge chipsets leading the charge in the emerging field of self-navigating trucks and autonomous systems, the potential for significant economic disruption is significant. The convergence of artificial intelligence with robotics marks a historic shift, touted by industry experts as the next trillion-dollar...",
+    "detail": "AI Chips Update - AI-Driven Robotics Revolutionizes Global Tech Investment Landscape\nSimply Wall St\nFri, Jul 4, 2025, 5:37 AM 1 min read\nIn This Article:\nNVDA\nAMD\nQCOM\n\nRecent developments in AI chips, particularly those used in autonomous robotics, are poised to reshape the strategic landscape of global technology investment. With Nvidia's cutting-edge chipsets leading the charge in the emerging field of self-navigating trucks and autonomous systems, the potential for significant economic disruption is significant. The convergence of artificial intelligence with robotics marks a historic shift, touted by industry experts as the next trillion-dollar breakthrough. This new frontier in AI involves not only the creation of autonomous logistics and transport systems but also substantial partnerships and market interest from a variety of sectors, from logistics to manufacturing. As AI technologies mature, both venture capitalists and institutional investors are increasingly focused on companies contributing to this next-generation robotics ecosystem, underscoring the transformative role that AI chips could play in society's infrastructure.\n\nNVIDIA last closed at $159.34 up 1.3%, close to the 52-week high.\n\nIn other trading, First Solar was a standout up 8.5% and ending trading at $185.03. At the same time, Kioxia Holdings softened, down 6.6% to close at \u00a52,381.\n\nNVIDIA's advances in AI and autonomous vehicles drive lucrative, diversified growth. Click here to explore NVIDIA\u2019s strategic position and investment potential.\n\nFor a deeper understanding of the AI Chips market dynamics and investment opportunities, explore our Market Insights article titled \"AI Enters the 'Show Me The Money' Phase.\" Get in fast to see which companies are effectively monetizing AI in today's evolving landscape!\n\nBest AI Chip Stocks\n\nQUALCOMM ended the day unchanged at, $162.21.\n\nASML Holding closed flat at \u20ac677.10.\n\nAdvanced Micro Devices settled at $137.91 down 0.4%.\n\nTurning Ideas Into Actions\n\nDiscover the full array of 54 AI Chip Stocks, featuring Marvell Technology, Waaree Energies and Novatek Microelectronics, right here.\n\nSearching for a Fresh Perspective? We've found 16 US stocks that are forecast to pay a dividend yeild of over 6% next year. See the full list for free.\n\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI-driven robotics revolutionizing tech investment; Nvidia leads in autonomous trucks & systems, potentially causing economic disruption."
+    },
+    "date": "2025-07-04T05:37:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/3-leading-tech-stocks-buy-103000411.html",
+    "title": "3 Leading Tech Stocks to Buy in 2025 Nvidia's GPUs are in high demand for AI data centers.  Taiwan Semiconductor Manufacturing makes chips for many of the top tech companies.  Netflix's ad-supported plan has brought in more subscribers and could be a big revenue driver.",
+    "detail": "3 Leading Tech Stocks to Buy in 2025\nLyle Daly, The Motley Fool\nFri, Jul 4, 2025, 4:30 AM 5 min read\nIn This Article:\nNVDA\n2330.TW\n^IXIC\nKey Points\n\nNvidia's GPUs are in high demand for AI data centers.\n\nTaiwan Semiconductor Manufacturing makes chips for many of the top tech companies.\n\nNetflix's ad-supported plan has brought in more subscribers and could be a big revenue driver.\n\n10 stocks we like better than Netflix \u203a\n\nAfter plummeting during the stock market sell-off in April, the tech sector has bounced back. The tech-heavy Nasdaq Composite is now back in a bull market and ended June by reaching a new record high.\n\nAre you looking for quality tech companies to add to your portfolio? Here are three leaders in the industry that should be long-term winners.\n\nImage source: Getty Images.\n1. Nvidia designs the GPUs crucial for AI technology\n\nYou could make a strong argument that no company has benefited from the growth of artificial intelligence (AI) like Nvidia (NASDAQ: NVDA). Many of the biggest tech companies rely on Nvidia's graphics processing units (GPUs) for AI and machine-learning tasks. While Nvidia isn't the only GPU company, it's widely considered to design the most powerful ones.\n\nNvidia has been on an incredible run since the launch of OpenAI's ChatGPT on Nov. 22, 2022. Revenue has increased by 628% from that point until its most recent quarterly earnings, when it reported revenue of $44.1 billion.\n\nNVDA Revenue (Quarterly) data by YCharts.\n\nNvidia has some potential downsides. First, it could be overvalued. It's the largest company by market cap and trades at a forward price-to-earnings ratio (P/E)of 36.8, at the time of this writing (June 30). Nvidia is on the expensive side, although its excellent financial performance arguably justifies the valuation.\n\nAnother headwind is that some tech companies, including Alphabet, Amazon, and Meta Platforms, have invested in custom AI chips to better fit their needs. By designing their own chips, they aren't as reliant on Nvidia.\n\nHowever, those three companies (and many others) still use Nvidia GPUs and will likely continue to do so, even if they also incorporate custom chips. Plus, Nvidia looks like it will play a key role in sovereign AI -- the ability of sovereign nations to advance their AI technology.\n\nIn May, Nvidia announced plans to build AI data centers in Saudi Arabia. While Nvidia is likely past its hyper-growth stage, it should continue to be an important player in the growth of AI.\n\n2. Taiwan Semiconductor Manufacturing dominates the global foundry market\n\nSemiconductors are an essential part of most modern electronic devices, including smartphones, computers, and gaming consoles. Taiwan Semiconductor Manufacturing (NYSE: TSM) is the top semiconductor foundry, with a massive 68% share of the global foundry market.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.4
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's GPUs in high demand for AI data centers, boosting its potential as a long-term tech winner."
+    },
+    "date": "2025-07-04T04:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/prediction-2-incredible-artificial-intelligence-095700671.html",
+    "title": "Prediction: 2 Incredible Artificial Intelligence (AI) Stocks That Will Be Worth More Than Nvidia in 3 Years The potential for both of these tech giants still looks underappreciated by the market.",
+    "detail": "Prediction: 2 Incredible Artificial Intelligence (AI) Stocks That Will Be Worth More Than Nvidia in 3 Years\nAdam Levy, The Motley Fool\nFri, Jul 4, 2025, 3:57 AM 8 min read\nIn This Article:\nNVDA\nAMZN\nMSFT\nKey Points\n\nNvidia's shares have rocketed higher over the last few years thanks to its chipmaking aibilities.\n\nBut its lead position is threatened by the growing capabilities of competing chipmakers.\n\nBoth Amazon and Meta Platforms could benefit more from AI in the long run than Nvidia.\n\n10 stocks we like better than Amazon \u203a\n\nNvidia (NASDAQ: NVDA) has soared to the top of the list of most valuable companies in the world thanks to its best-in-class graphics processing units (GPUs). Nvidia's chips are essential for training large language models and using them in applications. As big tech companies race to build better and better AI capabilities, they've been buying up Nvidia's chips as fast as the company can provide them.\n\nAs Nvidia approaches a $4 trillion market capitalization, few other companies are even close to that value. Microsoft is the only other company with a value above $3.5 trillion. But I expect that two other companies will surpass Nvidia's valuation within three years, even though they're currently worth between 50% and 60% of Nvidia's market value.\n\nImage source: Nvidia.\nCan Nvidia break $4 trillion?\n\nAs I write this, Nvidia is within 4% of the $4 trillion milestone. Not only would that make it the first company to surpass that value, it would also come after extremely fast growth. The company was worth less than $1 trillion just a couple of years ago. A company that large growing that fast is an incredible refutation of the law of large numbers.\n\nTwo factors have been driving Nvidia's strong stock performance. First, its revenue growth has continued to impress. Total revenue climbed 69% in the first quarter to $44.1 billion. On top of that, it's produced an extremely high gross margin each quarter as demand continues to outstrip its supply for new chip designs. Adjusted gross margin in the first quarter was 71.3%. The combination has led to incredible earnings growth for the business.\n\nWhile Nvidia has managed to stay ahead of competing chipmakers in the GPU space, its biggest competitors are showing signs of catching up in performance. On top of that, a huge chunk of its business is concentrated in just a handful of big customers. And those customers are actively working to move more of their AI workloads onto custom chip designs made by other chipmakers in order to improve cost performance. Those customers are also incentivized to explore alternatives to Nvidia in order to prevent the chipmaker from price gouging them.\n\nWhile Nvidia should continue to take the bulk of the share in AI chip sales, its stock is priced as if the above threats didn't exist. That makes it a risky investment right now, and it's not unreasonable to expect slower growth in the stock over the next three years.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.43
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0014
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite Nvidia's success in GPU production, its lead position may be challenged by competitors. Long-term benefits from AI might favor Amazon and Meta Platforms over Nvidia."
+    },
+    "date": "2025-07-04T03:57:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-track-become-most-valuable-085709500.html",
+    "title": "Nvidia is on track to become the most valuable company in history The value of the leading chip designer temporarily hit a new record on Thursday, briefly making it the most valuable company in history, with a market capitalisation nearing $4 trillion. Analysts predict it will soon break the record again.View on euronews",
+    "detail": "Nvidia is on track to become the most valuable company in history\nNvidia is on track to become the most valuable company in history \u00b7 Euronews\nDoloresz Katanich\nFri, Jul 4, 2025, 2:57 AM 1 min read\nIn This Article:\nNVDA\nAAPL\n\nThe AI chipmaker Nvidia's shares hit a new all-time high on Thursday, briefly giving the company a market capitalisation of $3.92 trillion (\u20ac3.33tn), the highest in history for any company.\n\nThis surpassed Apple's record of $3.91tr set in December 2024, even though Nvidia\u2019s market capitalisation dipped once again below this level at market close.\n\nThe chipmaker's shares traded as high as $160.98 at their peak on Thursday, before the price dipped below this level, placing the market capitalisation at around $3.89tr when daily trading wrapped up.\n\nTech companies\u2019 shares benefitted from a better-than-expected nonfarm payrolls report in the US, an indicator of a resilient US economy.\n\nThis optimism was boosted by forecasts that businesses would continue to spend on AI advances, boosting demand for AI chips.\n\nRelated\n\nNvidia shares surge as earnings beat despite chip export restrictions to China\n\nNvidia expects $5.5bn revenue hit as US curbs chip exports to China\n\nNvidia shares are up more than 50% in just less than two months. Analysts expect that the company will break the valuation record soon and retain its elevated share price by the close of the trading day.\n\n\u201cChip giant Nvidia is on track to achieve a new closing high,\u201d said Dan Coatsworth, investment analyst at AJ Bell, adding that the \u201cAI revolution is still intact\u201d.\n\nAJ Bell head of financial analysis Danni Hewson added that, \u201cAfter all the gloomy predictions that this might be the year the AI bubble bursts, Nvidia\u2019s found another gear. The chipmaker is on track to smash a coveted record and become the world\u2019s most valuable company ever.\u201d\n\nThe value of Nvidia currently is more than three times the total market capitalisation of the stock market in Spain and more than four times that of the Italian stock exchange.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.95
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.95
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's shares hit a new high, temporarily making it the most valuable company in history; surpassing Apple's previous record of $3.91tr in Dec 2024, despite dipping below this level"
+    },
+    "date": "2025-07-04T02:57:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/soundhound-ai-stock-plummeted-53-085700893.html",
+    "title": "SoundHound AI Stock Has Plummeted by 53%. This Move by Nvidia Is a Key Reason Why. Nvidia revealed a stake in SoundHound in early 2024, which sent its stock soaring.  Its customers include some of the world's biggest brands, and it even attracted an investment from Nvidia (NASDAQ: NVDA).  Nvidia supplies the world's most powerful data center chips for AI development, and booming sales have driven its market capitalization from $360 billion to $3.83 trillion over the last two and a half years alone.",
+    "detail": "SoundHound AI Stock Has Plummeted by 53%. This Move by Nvidia Is a Key Reason Why.\nAnthony Di Pizio, The Motley Fool\nFri, Jul 4, 2025, 2:57 AM 6 min read\nIn This Article:\nNVDA\nSOUN\nKey Points\n\nSoundHound AI offers a growing portfolio of conversational AI software products to some of the world's biggest companies.\n\nNvidia revealed a stake in SoundHound in early 2024, which sent its stock soaring.\n\nBut Nvidia recently sold its entire position, and SoundHound stock is now trending lower.\n\n10 stocks we like better than SoundHound AI \u203a\n\nSoundHound AI (NASDAQ: SOUN) is a specialist in conversational artificial intelligence (AI) software, which understands voice prompts and responds in kind. Its customers include some of the world's biggest brands, and it even attracted an investment from Nvidia (NASDAQ: NVDA).\n\nNvidia supplies the world's most powerful data center chips for AI development, and booming sales have driven its market capitalization from $360 billion to $3.83 trillion over the last two and a half years alone. Therefore, it's no surprise SoundHound AI stock soared higher when Nvidia revealed it bought a position in early 2024, and shares went on to hit an all-time high of around $24 in late 2024.\n\nBut Nvidia stunned investors when it released its 13-F filing with the Securities and Exchange Commission (SEC) on Feb. 14 this year. Its updated list of investments showed that SoundHound AI was no longer in the portfolio, suggesting the chip giant sold its entire stake toward the end of 2024.\n\nSoundHound stock has now lost 53% of its peak value, and it's struggling to regain momentum. Could the decline be a long-term buying opportunity, or is Nvidia's exit a sign to steer clear?\n\nImage source: Getty Images.\nSoundHound has an impressive list of customers\n\nPopular AI chatbots like OpenAI's ChatGPT are incredibly powerful, but they aren't always accessible. For example, people might not have the capacity to open an app or manually enter prompts when they are working or even driving, but SoundHound's conversational AI software was designed for those very situations, and adoption is soaring among some of the world's biggest brands.\n\nThey include quick-service restaurant chains like Chipotle, Krispy Kreme, Papa John's, and Jersey Mike's. They use SoundHound products like Employee Assist, which workers can speak to whenever they need help with menu items, systems, and store policies. The chains also use SoundHound to take customers' orders autonomously in-store, over the phone, and in the drive-thru, which frees up staff to complete those orders more quickly.\n\nAutomotive giants like Hyundai, Honda, and Kia are integrating SoundHound into their new cars, where it can help drivers understand different features and even provide them with information on things like the weather or sports scores on command. SoundHound also launched a platform called Voice Commerce this year, which includes products like In-Car Ordering. Users can ask for restaurant recommendations while they are driving, place an order, and get directions to pick it up -- all powered by their voice.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia sells stake in SoundHound AI, causing stock decline."
+    },
+    "date": "2025-07-04T02:57:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/could-navitas-semiconductor-stock-help-082900903.html",
+    "title": "Could Navitas Semiconductor Stock Help You Retire a Millionaire? The chipmaker still has irons in the fire.",
+    "detail": "Could Navitas Semiconductor Stock Help You Retire a Millionaire?\nLeo Sun, The Motley Fool\nFri, Jul 4, 2025, 2:29 AM 6 min read\nIn This Article:\nNVTS\nNVDA\nKey Points\n\nNavitas\u2019 stock price has more than quadrupled from its all-time low.\n\nA new partnership with Nvidia is fueling that rally.\n\nIt\u2019s a strong growth stock, but it might not be a millionaire maker.\n\n10 stocks we like better than Navitas Semiconductor \u203a\n\nNavitas Semiconductor (NASDAQ: NVTS), a producer of gallium nitride (GaN) and silicon carbide (SiC) chips, went public by merging with a special purpose acquisition company (SPAC) on Oct. 21, 2021. Shares started trading at $13, and the price rallied to an all-time high of $22.19 on Nov. 12, 2021.\n\nAt the time, investors were dazzled by its ambitious long-term forecasts. The buying frenzy in meme stocks in late 2021 amplified those gains and inflated its valuations. But like many other SPAC start-ups, Navitas missed management's own growth estimates. Rising interest rates compressed its valuations, and its stock sank to an all-time low of $1.52 on April 4, 2025.\n\nImage source: Getty Images.\n\nBut today, the stock trades at about $6 a share. Most of that rally occurred in late May, when a new partnership with Nvidia in artificial intelligence (AI) data centers squeezed out its short-sellers.\n\nThat short squeeze, along with other follow-on partnerships, brought back the bulls. So will it eventually deliver millionaire-making gains for its investors?\n\nWhat does Navitas do?\n\nNavitas generates most of its revenue from its GaNFast Power integrated circuits (ICs). They use GaN power transistors -- which are faster and more power efficient than traditional silicon transistors -- to support switching, sensing, control, and security features on a single chip.\n\nIts transistors are used in mobile fast chargers, EV chargers, laptop adapters, data center power supplies, solar inverters, industrial motor drives, and energy storage. The company says its ICs provide three times the power with 40% energy savings at half the size and weight of traditional silicon power systems, and it has already shipped more than 50 million GaN units.\n\nIn 2022, Navitas entered the SiC market by acquiring GeneSiC. These SiC chips are also more resistant to higher temperatures and voltages than silicon chips, so they're often used in many of the same products as GaN chips. Most of that smaller SiC segment's growth is being driven by the EV and data center markets.\n\nWith its combined portfolio, Navitas' major customers now include Dell, which uses GaN/SiC chips in its notebook adapters; the Chinese automaker Changan, which uses its GaN ICs in its on-board EV chargers; and Nvidia, which chose Navitas' chips to power the architecture for its AI workloads in its next-gen data centers.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "New partnership with Nvidia boosts Navitas Semiconductor's stock, but it may not make investors millionaires despite initial hype."
+    },
+    "date": "2025-07-04T02:29:00"
+  }
+]

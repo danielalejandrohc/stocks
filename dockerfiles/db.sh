@@ -1,0 +1,1 @@
+docker run -p 5432:5432 -v /home/daniel/pg:/var/lib/postgresql/data  --name stocksdb stocksdb

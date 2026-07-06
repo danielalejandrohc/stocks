@@ -1,0 +1,374 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/one-of-teslas-most-important-shareholders-says-alls-well-with-elon-musk-and-the-ev-maker-170439037.html",
+    "title": "One of Tesla's most important shareholders says all's well with Elon Musk and the EV maker Nicolai Tangen, CEO of Norges Bank Investment Management, discusses his relationship with Tesla CEO Elon Musk and why there's no bad blood.",
+    "detail": "One of Tesla's most important shareholders says all's well with Elon Musk and the EV maker\nFrancisco Velasquez\nMon, Jul 7, 2025, 11:04 AM 3 min read\nIn This Article:\nTSLA\nNVDA\n\nListen and subscribe to Opening Bid Unfiltered on Apple Podcasts, Amazon Music, Spotify, YouTube, or wherever you find your favorite podcasts.\n\nThe CEO of Norway's $1.9 trillion sovereign wealth fund may have clashed with Elon Musk over his controversial Tesla (TSLA) pay package, but that hasn't shaken his long-term view on the EV maker.\n\nLed by Nicolai Tangen, the Norges Bank Investment Management (NBIM) is one of Tesla's top 10 shareholders, with a 1.1% stake. Last June, it voted against Musk's $45 billion pay plan, which resulted in a public rebuke from Musk. But Tangen insists there's no bad blood.\n\n\"I don't think there's any problems there,\" Tangen told Yahoo Finance Executive Editor Brian Sozzi on a new episode of the Opening Bid podcast (watch above; listen below). On whether the two might patch things up, Tangen briefly mentioned the possibility, saying the duo are \"professional.\"\n\nNBIM's position in Tesla makes it one of the most influential voices in its shareholder base, not just because of its size, but because of its reputation for corporate governance and long-term investing. The fund holds nearly 1.5% of all listed companies worldwide; notable holdings include Nvidia (NVDA) and Google (GOOG).\n\nTangen, who was just reappointed to a second term as CEO of the fund, acknowledged the controversy around Tesla and Musk, from the CEO's unpredictable social media posts to his political dustups, including a recent bout with President Trump.\n\n\"There are a lot of elements which impact the share price of this company,\" Tangen said. \"Tesla was one of the first electric cars into the Norwegian market, but in terms of the stock itself, I haven't got a strong view.\"\n\nHe added, \"It's a manufacturer, it's a tech company. It's all of the above.\"\n\nThose comments come as Tesla grapples with renewed scrutiny over its fundamentals. Last week, the company reported second quarter deliveries of 384,122 vehicles, a 13% year-over-year drop. In Europe, one of Tesla's key markets, new car sales fell for the fifth consecutive month in May, down nearly 28% from the prior year.\n\nWilliam Blair analysts downgraded Tesla to Market Perform on Monday, warning that political and regulatory headwinds could weigh more heavily on the company than investors expect. In a note led by Jed Dorsheimer and Mark Shooter, the team flagged the loss of over $2 billion in annual credit revenue following the removal of corporate average fuel economy (CAFE) fines.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2. NBIM, a top 10 Tesla shareholder, holds a 1.1% stake"
+    },
+    "date": "2025-07-07T11:04:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tesla-biggest-bull-wedbush-breaks-150059948.html",
+    "title": "Tesla Biggest Bull Wedbush Breaks Silence on Musk's Political Move Tesla Board Urged to Rein In Musk as Wedbush Eyes $1T AI Future",
+    "detail": "Tesla Biggest Bull Wedbush Breaks Silence on Musk's Political Move\nNauman khan\nTue, Jul 8, 2025, 9:00 AM 1 min read\nIn This Article:\nTSLA\nNVDA\n\nJuly 8 - Tesla's Biggest Bull, Wedbush Securities, is calling on the company's board to establish a formal oversight structure for CEO Elon Musk, citing his influence over the company's future in AI and robotics.\n\nAnalyst Dan Ives said Musk remains critical to Tesla's long-term vision and should remain CEO at least through 2030. He proposed a new incentive-based compensation package that would increase Musk's voting power to about 25%, with strict terms on time commitment and board oversight.\n\nThe proposed plan would involve a special board committee drafting a shareholder proxy outlining the terms of Musk's continued leadership. Oversight would focus on ensuring his political activities do not interfere with operational responsibilities.\n\nWedbush reaffirmed its Outperform rating on Tesla, keeping its $500 price target. Ives said Tesla, along with Nvidia (NVDA), stands out as a top \"physical AI\" company. He estimates Tesla's autonomous business opportunity alone could be worth $1 trillion in the long run.\n\nThe board's next move could shape investor confidence in Tesla's ability to balance leadership stability and long-term innovation.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.35
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Wedbush proposes oversight for Musk's role at Tesla, aiming to balance political activities with operational duties; Outperform rating maintained."
+    },
+    "date": "2025-07-08T09:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/watch-coreweave-price-levels-stock-140719223.html",
+    "title": "Watch These CoreWeave Price Levels as Stock Slips After Announcing $9B Acquisition CoreWeave stock slipped after the Nvidia partner said it will acquire Core Scientific in an all-stock deal valued at around $9 billion. Monitor these important chart levels.",
+    "detail": "Watch These CoreWeave Price Levels as Stock Slips After Announcing $9B Acquisition\nTimothy Smith\nTue, Jul 8, 2025, 8:07 AM 3 min read\nIn This Article:\nCRWV\nCORZ\nNVDA\nSource: TradingView.com\nKey Takeaways\n\nCoreWeave stock slipped Monday after the Nvidia partner said it will acquire Core Scientific in an all-stock deal valued at around $9 billion.\n\nSince setting their all-time high last month, CoreWeave shares have consolidated in a falling wedge, with the pattern recently finding support near the respected 50 moving average.\n\nInvestors should watch important overhead areas on CoreWeave'c chart around $187 and $235, while also monitoring key support levels near $122 and $97.\n\n\n\n\nInvestors will be closely watching CoreWeave (CRWV) shares that slipped Monday, after the Nvidia (NVDA) partner said it will acquire Core Scientific (CORZ) in an all-stock deal for around $9 billion.\n\nThe transaction, which hit the Wall Street rumor mill last month, values the Core Scientific stock at $20.40 per share, significantly above the $5.75 per share offer from CoreWeave that the company rejected last year.\n\nThe AI cloud provider said the deal will help \u201cfuture-proof\u201d revenue growth by leveraging Core Scientific\u2019s data center operations. Analysts say that the acquisition will help CoreWeave expand its access to power, which could drive operational efficiency. The two companies have an existing partnership with Core Scientific providing CoreWeave with billions of dollars worth of computing infrastructure.\n\nAs of Monday's close, CoreWeave shares have surged nearly four-fold from their $40 initial public offering (IPO) price and trade more than 200% higher over the past three months amid investors' enthusiasm for AI-related stocks.\n\nLet\u2019s dial into the technicals on CoreWeave\u2019s four-hour chart to identify important price levels that investors may want to track.\n\nFalling Wedge Pattern Takes Shape\n\nSince setting their all-time high (ATH) last month, CoreWeave shares have consolidated in a falling wedge, with the pattern recently finding support near the 50-day moving average.\n\nAlthough the stock retraced in Monday's trading session, the relative strength index (RSI) remains above its 50 threshold to signal neutral price momentum.\n\nLet\u2019s identify two important overhead areas to watch if the stock resumes it bullish uptrend and also locate several key support levels worth monitoring during possible retracements in the stock.\n\nImportant Overhead Areas to Watch\n\nA decisive breakout from the falling wedge could see a bullish move toward $187. This area on the chart would likely attract significant attention near the stock\u2019s record high, a level where tactical traders may decide to lock in profits.\n\nThe next overhead area to watch sits around $235. We projected this target using the bars pattern tool, a technique that analyzes earlier trends to speculate where the price may be headed next. When applied to CoreWeave\u2019s chart, we take the stock\u2019s initial move higher from late April to early May and overlay its from the rising wedge pattern\u2019s lower trendline. This projects a bullish target of around $235, implying 47% upside from Monday\u2019s closing price.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.56
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -0.4993
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's acquisition of Core Scientific valued at $9B causes CRWV stock to slip. Key resistance levels to watch: $187, $235; support levels: $122, $97"
+    },
+    "date": "2025-07-08T08:07:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-scores-another-sovereign-ai-133813859.html",
+    "title": "Nvidia Scores Another Sovereign AI Win. How Should You Play NVDA Stock Here? A Citi analyst raised their price target on Nvidia shares to $190, citing sovereign AI demand. Easing supply chain bottlenecks could unlock further upside in NVDA stock as well.",
+    "detail": "Nvidia Scores Another Sovereign AI Win. How Should You Play NVDA Stock Here?\nWajeeh Khan\nTue, Jul 8, 2025, 7:38 AM 2 min read\nIn This Article:\nNVDA\nJen-Hsun Huan NVIDIA's Founder, President and CEO by jamesonwu1972 via Shutterstock\n\nNvidia (NVDA) shares are in focus after Atif Malik \u2013 a senior Citi analyst \u2013 issued a bullish note in favor of the California-based artificial intelligence company.\n\nMalik reiterated his \u201cBuy\u201d rating on NVDA on Monday and raised the price target to $190, which signals potential upside of another 21% from current levels.\n\nMore News from Barchart\n\nThis Analyst Just Raised His Broadcom Stock Price Target by 70%. Should You Buy AVGO Now?\n\nWhy Alibaba Stock Looks Like a Screaming Buy After Falling 27% From Its 2025 Highs\n\n2 ETFs Offering Juicy Dividend Yields of 20% or Higher\n\nTired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!\n\nAt the time of writing,\u00a0Nvidia stock is trading just below its record high of $160 \u2013 with continued gains expected to make it the world\u2019s first $4 trillion company in the days ahead.\n\nwww.barchart.com\nNvidia Stock to Extend Gains on Sovereign AI\n\nNVDA shares have already returned more than 65% over the past three months \u2013 but Citi remains bullish as ever on the chipmaker primarily because it\u2019s best-positioned to benefit from state-backed investments in AI.\n\nIn his research note, Atif Malik agreed that\u00a0sovereign demand is \u201calready contributing billions\u201d in 2025 \u2013 but said it\u2019s well within reason to expect a further increase next year.\n\nMalik now sees Nvidia\u2019s data center and networking sales growing as much as 5% and 12%, respectively, in FY 2027. Moreover, the company\u2019s gross margins will normalize around 75% over the next six months, he added.\n\nEasing Supply Chain Troubles Could Help NVDA Shares\n\nCiti continues to recommend owning Nvidia shares because the multinational sits right at the heart of \u201cessentially every sovereign deal\u201d.\n\nThe investment firm now expects the AI compute total addressable market (TAM) to hit $563 billion by 2028 \u2013 while the networking TAM is seen climbing to $119 billion within the next three years.\n\nAccording to Malik, investors should stick with the chips giant as supply chain bottlenecks have eased as well \u2013 paving the way for the Blackwell ramp in the back half of 2025.\n\nNote that Truist analysts also advised against cutting exposure to the\u00a0AI stock at current levels on Monday.\n\nWall Street Continues to Recommend Buying Nvidia\n\nSovereign AI keeps the rest of Wall Street positive on Nvidia stock for the second half of 2025 as well.\n\nAccording to Barchart, the consensus rating on NVDA shares currently sits at \u201cStrong Buy\u201d with the mean target of about $177 indicating potential upside of more than 13% from here.\n\nwww.barchart.com\n\nOn the date of publication, Wajeeh Khan did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally\u00a0published on Barchart.com\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia gains bullish note from Citi analyst, raising price target to $190, signaling 21% upside potential."
+    },
+    "date": "2025-07-08T07:38:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/micron-stock-hit-200-2025-131502729.html",
+    "title": "Can Micron Stock Hit $200 in 2025? One analyst predicts that Micron could hit a bold Street-high target of $200.",
+    "detail": "Can Micron Stock Hit $200 in 2025?\nAnushka Mukherji\nTue, Jul 8, 2025, 7:15 AM 5 min read\nIn This Article:\nMU\nNVDA\nAMD\nMicron Technology Inc_logo and website-by Mojahid Mottakin via Shutterstock\n\nWhen it comes to artificial intelligence (AI) chips, most investors naturally think of chip giants like Nvidia (NVDA) and Advanced Micro Devices (AMD) for their powerful GPUs. However, Micron Technology (MU) also deserves a seat at the table, thanks to its high-performance memory and storage chips, such as DRAM and NAND. These chips are crucial for training and running AI models across various devices, including data centers, smartphones, and edge devices.\n\nMicron made headlines last month with strong third-quarter earnings, highlighting growing demand for AI-driven memory capacity. Shortly after, the company also earned a Street-high $200 price target from Rosenblatt analyst Kevin Cassidy, who pointed to Micron\u2019s solid Q3 performance and growing role in the AI space as key reasons behind his bullish outlook. It has already been a strong year for Micron so far, but can MU stock climb all the way to this new target?\n\nMore News from Barchart\n\nThis Analyst Just Raised His Broadcom Stock Price Target by 70%. Should You Buy AVGO Now?\n\nWhy Alibaba Stock Looks Like a Screaming Buy After Falling 27% From Its 2025 Highs\n\n2 ETFs Offering Juicy Dividend Yields of 20% or Higher\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nAbout Micron Stock\n\nWith a market capitalization of about $137 billion, Micron is a leading player in the memory and storage industry, offering advanced DRAM, NAND, and NOR solutions through its Micron and Crucial brands. Its innovations are central to the growing data economy, enabling everything from AI workloads in data centers to performance-driven experiences at the edge and on mobile devices.\n\nAfter slipping about 9% over the past year, this memory powerhouse has flipped the script in 2025. So far this year, MU stock has surged an impressive 42%, leaving the broader S&P 500 Index\u2019s ($SPX) modest 6% gain year-to-date (YTD) in the dust. Even more striking, shares have skyrocketed 75% in just the past three months, signaling a powerful resurgence fueled by growing demand and renewed investor confidence.\n\nwww.barchart.com\n\nWith Rosenblatt\u2019s bullish price target in mind, Micron\u2019s present valuation level looks notably attractive. The stock currently trades at a modest 17 times forward earnings, which is well below its semiconductor peers, such as Nvidia\u2019s 40 times and AMD's 43 times. MU stock is also trading far under its own five-year average, suggesting investors may still be underestimating its upside as demand for AI-powered memory continues to accelerate.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.15
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Micron's Q3 earnings impress, boosting expectations; Rosenblatt raises price target to $200, citing AI growth potential."
+    },
+    "date": "2025-07-08T07:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/intel-benefit-higher-tax-credits-131500016.html",
+    "title": "Can Intel Benefit From Higher Tax Credits in the New Tax Bill? INTC may gain from 35% chip tax credits as it accelerates U.S. manufacturing under its IDM 2.0 strategy.",
+    "detail": "Can Intel Benefit From Higher Tax Credits in the New Tax Bill?\nSupriyo Bose\nTue, Jul 8, 2025, 7:15 AM 3 min read\nIn This Article:\nINTC\nNVDA\nAMD\n\nWith tax credits for semiconductor firms rising to 35% from the existing 25% slab, the new tax bill (dubbed as the \u2018One Big Beautiful Bill\u2019) that President Trump signed into law on July 4 has seemingly offered a new lifeline to Intel Corporation INTC. The law enables Intel to save big while expanding its manufacturing processes in the country before the 2026 deadline. The increased tax credit builds on the 2022 Chips and Science Act, which offers $39 billion in grants and up to $75 billion in loans for manufacturing projects.\n\nThe company has received $7.86 billion in direct funding from the U.S. Department of Commerce under the U.S. CHIPS and Science Act to advance critical semiconductor manufacturing and advanced packaging projects in Arizona, New Mexico, Ohio and Oregon. Intel has been investing in expanding its manufacturing capacity to accelerate its IDM 2.0 (Integrated Device Manufacturing) strategy. Interim management is committed to keeping the core strategy unchanged despite efforts to drive operational efficiency and agility.\u00a0\n\nThe company is emphasizing the diligent execution of operational goals to establish itself as a leading foundry and is focusing on simplifying parts of its portfolio to unlock efficiencies and create value. Intel is reportedly considering shelving most of the third-party production on 18A to focus more on 14A production \u2013 the next-generation manufacturing process that purportedly offers competitive advantages against rivals. This marks a significant shift to the foundry business as Intel aims to woo major customers while concentrating more on core operations.\n\nOther Semiconductor Firms Likely to Gain\n\nNVIDIA Corporation NVDA is likely to gain significant funding for scaling AI infrastructure across federal agencies, research labs and public-private data centers. Federal tax credits and grants for domestic AI training hubs are expected to accelerate demand for NVIDIA\u2019s H100, GH200 and Blackwell chips, strengthening its market position as a trusted AI chip provider. The security-grade GPU/IP validation may further open up new federal and defense AI applications for NVIDIA, adding billions in addressable market size.\n\nAdvanced Micro Devices, Inc.\u2019s AMD AI and high-performance CPU portfolio aligns perfectly with the One Big Beautiful Bill push for AI data center expansion across healthcare, national labs and the telecom sector. Advanced Micro is likely to gain healthy funds for expanding its domestic manufacturing operations to deploy chips in AI-enabled base stations, radio access nodes and autonomous IoT gateways. In addition, R&D hubs in Santa Clara, CA and\u00a0 Austin, TX qualify Advanced Micro for enhanced R&D credits.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.79
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.75
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Increased tax credits in new tax bill benefit Intel, saving it money during expansion; $7.86B funding from US Dept of Commerce for Intel's manufacturing projects."
+    },
+    "date": "2025-07-08T07:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-attracting-investor-130005054.html",
+    "title": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know Nvidia (NVDA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+    "detail": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know\nZacks Equity Research\nTue, Jul 8, 2025, 7:00 AM 5 min read\nIn This Article:\nNVDA\n^SPX\n\nNvidia (NVDA) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of the key factors that could influence the stock's performance in the near future.\n\nShares of this maker of graphics chips for gaming and artificial intelligence have returned +10.9% over the past month versus the Zacks S&P 500 composite's +3.9% change. The Zacks Semiconductor - General industry, to which Nvidia belongs, has gained 11.6% over this period. Now the key question is: Where could the stock be headed in the near term?\n\nWhile media releases or rumors about a substantial change in a company's business prospects usually make its stock 'trending' and lead to an immediate price change, there are always some fundamental facts that eventually dominate the buy-and-hold decision-making.\n\nRevisions to Earnings Estimates\n\nHere at Zacks, we prioritize appraising the change in the projection of a company's future earnings over anything else. That's because we believe the present value of its future stream of earnings is what determines the fair value for its stock.\n\nOur analysis is essentially based on how sell-side analysts covering the stock are revising their earnings estimates to take the latest business trends into account. When earnings estimates for a company go up, the fair value for its stock goes up as well. And when a stock's fair value is higher than its current market price, investors tend to buy the stock, resulting in its price moving upward. Because of this, empirical studies indicate a strong correlation between trends in earnings estimate revisions and short-term stock price movements.\n\nNvidia is expected to post earnings of $0.99 per share for the current quarter, representing a year-over-year change of +45.6%. Over the last 30 days, the Zacks Consensus Estimate has changed -0.3%.\n\nThe consensus earnings estimate of $4.24 for the current fiscal year indicates a year-over-year change of +41.8%. This estimate has changed +0.2% over the last 30 days.\n\nFor the next fiscal year, the consensus earnings estimate of $5.59 indicates a change of +31.9% from what Nvidia is expected to report a year ago. Over the past month, the estimate has changed +0.2%.\n\nWith an impressive externally audited track record, our proprietary stock rating tool -- the Zacks Rank -- is a more conclusive indicator of a stock's near-term price performance, as it effectively harnesses the power of earnings estimate revisions. The size of the recent change in the consensus estimate, along with three other factors related to earnings estimates, has resulted in a Zacks Rank #3 (Hold) for Nvidia.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.41
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA (NVDA) stock up +10.9% over past month; Zacks Semiconductor - General industry gains 11.6%; key question: where will the stock head next?"
+    },
+    "date": "2025-07-08T07:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/navitas-strengthens-gan-sic-footprint-125700373.html",
+    "title": "Navitas Strengthens GaN and SiC Footprint With Major Alliances NVTS forges major alliances to drive GaN and SiC adoption across AI, EV charging and clean energy.",
+    "detail": "Navitas Strengthens GaN and SiC Footprint With Major Alliances\nSridatri Sarkar\nTue, Jul 8, 2025, 6:57 AM 3 min read\nIn This Article:\nNVDA\n\nNavitas Semiconductor NVTS is actively forging strategic collaborations and partnerships across the power electronics ecosystem, accelerating the adoption of its gallium nitride (GaN) and silicon carbide (SiC) technologies in AI data centers, electric vehicles (EV), mobile charging and renewable energy applications. Accordingly, in June, Navitas entered into partnership with BrightLoop to develop hydrogen fuel-cell chargers for heavy-duty agricultural transportation equipment. Navitas\u2019 Gen 3 \u2018Fast\u2019 (G3F) SiC MOSFETs will be paired with BrightLoop\u2019s Power Flow Processor technology to deliver exceptional performance in both AC and DC applications, such as energy management scenarios for fuel cells and heavy-duty applications, as well as high voltage network adaptation.\n\nIn May, Navitas collaborated with NVIDIA NVDA to support the development of NVIDIA\u2019s new 800V high-voltage DC (HVDC) architecture. NVIDIA\u2019s 800V HVDC approach is designed for next-generation AI data centers, including systems like NVIDIA Rubin Ultra. NVIDIA 800V HVDC architecture will improve end-to-end power efficiency up to 5%, reduce maintenance costs by 70%, and lower cooling costs, all using Navitas\u2019 GaNFast and GeneSiC power technologies.\n\nAdditionally, Navitas inked a strategic R&D partnership with GigaDevice to create a joint lab for integrating and tailoring Navitas\u2019 GaNFast ICs and GigaDevice\u2019s Microcontrollers Unit products (\u201cMCU\u201d). Navitas\u2019 next-generation, clean-energy GaNFast technology, when integrated with GigaDevice\u2019s advanced high-performance MCU products, will drive innovative advancements in intelligent and efficient power management solutions.\n\nAlso, Navitas and Great Wall Power have teamed up to launch a 2.5kW ultra-high power density DC-DC converter for AI data centers. Great Wall Power has created an extremely compact and efficient 2.5 kW DC-DC power module for AI data centers. The module is powered by Navitas\u2019 NV6169 GaNSense GaN power IC. This partnership aims to meet the growing power and efficiency needs of AI computing while reducing space, energy use and carbon emissions.\n\nNavitas\u2019 Global Competitors\n\nIn May, Marvell Technology MRVL joined forces with NVIDIA to integrate NVIDIA\u2019s NVLink Fusion into Marvell\u2019s custom XPU platform silicon, enabling ultra-high bandwidth (up to 1.8 TB/s bidirectional) for advanced AI data center deployments. Additionally, Marvell renewed and expanded its multi-year agreement with Amazon Web Services (\u201cAWS\u201d) to supply custom AI-focused semiconductors, spanning optical digital signal processors, PCIe retimers, data center interconnect optical modules and Ethernet switching silicon solutions. Marvell also leverages AWS cloud infrastructure to enhance its electronic design automation workflows.\n\nStory continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.73
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.75
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Navitas partners with BrightLoop for hydrogen fuel-cell chargers; collaborates with NVIDIA to advance AI data center tech using GaN & SiC."
+    },
+    "date": "2025-07-08T06:57:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ibm-rolls-chips-servers-aims-110302793.html",
+    "title": "IBM rolls out new chips and servers, aims for simplified AI SAN FRANCISCO (Reuters) -International Business Machines on Tuesday announced a new line of data center chips and servers that it says will be more power-efficient than rivals and will simplify the process of rolling out artificial intelligence\u00a0in business operations.  IBM introduced its new Power11 chips on Tuesday, marking its first major update to its \"Power\" line of chips since 2020.  These chips have traditionally vied against offerings from Intel and Advanced Micro Devices in data centers, particularly in specialized sectors such as financial services, manufacturing and healthcare.",
+    "detail": "IBM rolls out new chips and servers, aims for simplified AI\nStephen Nellis\nTue, Jul 8, 2025, 5:03 AM 2 min read\nIn This Article:\nIBM\nINTC\nAMD\nNVDA\n\nBy Stephen Nellis\n\nSAN FRANCISCO (Reuters) -International Business Machines (IBM) on Tuesday announced a new line of data center chips and servers that it says will be more power-efficient than rivals and will simplify the process of rolling out artificial intelligence in business operations.\n\nIBM introduced its new Power11 chips on Tuesday, marking its first major update to its \"Power\" line of chips since 2020.\n\nThese chips have traditionally vied against offerings from Intel and Advanced Micro Devices in data centers, particularly in specialized sectors such as financial services, manufacturing and healthcare.\n\nLike Nvidia's AI servers, IBM's Power systems are an integrated package of chips and software.\n\nTom McPherson, general manager of Power systems at IBM, said the Armonk, New York-based company used that tight coupling to focus on reliability and security.\n\nThe Power11 systems, available from July 25, will not need any planned downtime for software updates, and their unplanned downtime each year averages just over 30 seconds.\n\nThey are also designed to detect and respond within a minute to a ransomware attack - where hackers encrypt data and then try to extract a ransom in exchange for the keys, IBM said.\n\nIn the fourth quarter of this year, IBM plans to integrate Power11 with Spyre, its AI chip introduced last year.\n\nMcPherson said IBM does not aim to compete with Nvidia (NVDA) in helping create and train AI systems, but is instead focused on simplifying AI deployment for inference, the process of putting an AI system to work in speeding up a business task.\n\n\"We can integrate AI capabilities seamlessly into this for inference acceleration and help their business process improvements,\" McPherson said in an interview last week referring to work with early customers.\n\n\"It's not going to have all the horsepower for training or anything, but it's going to have really good inferencing capabilities that are simple to integrate.\"\n\n(Reporting by Stephen Nellis in San Francisco; Editing by Himani Sarkar)\n\nSign up for Yahoo Finance's Week in Tech\nSubscribe\n\nBy subscribing, you are agreeing to Yahoo's Terms and Privacy Policy\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.02
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "IBM introduces power-efficient chips, aiming to simplify AI rollout; potential competition for NVDA's AI servers."
+    },
+    "date": "2025-07-08T05:03:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/strategy-holds-11th-largest-u-093607035.html",
+    "title": "Strategy Holds 11th Largest U.S. Corporate Treasury, Bitcoin Rivals Big Cash Reserves The company\u2019s bitcoin holdings rival cash positions of top U.S. corporates, with strong performance in preferred stock offerings.",
+    "detail": "Strategy Holds 11th Largest U.S. Corporate Treasury, Bitcoin Rivals Big Cash Reserves\nJames Van Straten\nTue, Jul 8, 2025, 3:36 AM 1 min read\nIn This Article:\nBTC-USD\nNVDA\nMSTR\nUSD=X\n\nDisclaimer: The analyst who wrote this article has shares in Strategy (MSTR).\n\nStrategy (MSTR) now holds almost $65 billion in bitcoin (BTC), which makes it the 11th largest corporate treasury holder of bitcoin in the U.S.\n\nIn its investor presentation for the new STRD at-the-market equity program, Strategy compares itself to companies that hold cash on their balance sheets. Berkshire Hathaway ranks No. 1, holding $410 billion in cash and cash equivalents. Chipmaker NVIDIA (NVDA), the world's largest company by market cap, holds $66 billion in cash and cash equivalents.\n\nIn the presentation, MSTR said it is on track to achieve both its bitcoin percentage yield and bitcoin dollar gain targets for 2025.\n\nThe target for bitcoin yield is 25%, and so far it has reached 19.7%. The dollar gain target is $15 billion, and that currently stands at $9.6 billion. Strategy also achieved an unrealized gain on digital assets of $14 billion in the second quarter.\n\nMSTR\u2019s perpetual preferred stock has outperformed the iShares Preferred and Income Securities ETF (PFF), which the Tysons Corner, Virginia company identified as its benchmark. STRK is up 51% since its Jan. 31 debut, while the PFF has lost 3%. STRF, which started trading March 21, has gained 38% versus a 1% drop in PFF. STRD is 12% higher, outpacing PFF's 2% advance.\n\nAs part of Strategy\u2019s current $42 billion fundraising plan, it has issued $23.9 billion. It also has $34.1 billion of fixed income capacity left within the plan.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.43
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "11th Largest U.S. Corporate Treasury Holds Almost $65 Billion Bitcoin; Strategy On Track to Achieve Bitcoin Yield & Dollar Gain Targets for 2025 (NV"
+    },
+    "date": "2025-07-08T03:36:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/syntys-delivers-mission-critical-infrastructure-080000051.html",
+    "title": "Syntys Delivers Mission-Critical Infrastructure for Ooredoo's advanced sovereign AI cloud services Syntys, a multi-country digital infrastructure provider across the Middle East and North Africa (MENA), announced today its key role in enabling the launch of Ooredoo's advanced sovereign AI cloud services in Qatar, further cementing its position as a regional digital infrastructure leader. Powered by the latest NVIDIA Hopper GPUs, the service is delivered by Ooredoo and fully hosted in secure, high-performance data centers designed and operated by Syntys.",
+    "detail": "Syntys Delivers Mission-Critical Infrastructure for Ooredoo's advanced sovereign AI cloud services\nPR Newswire\nTue, Jul 8, 2025, 2:00 AM 3 min read\nIn This Article:\nORDS.QA\nNVDA\n\nGPUs securely deployed in data centers hosted and operated by Syntys\n\nDesigned to support large-scale,\u00a0GPU-accelerated computing environments with high-density, high-performance infrastructure\n\nKey\u00a0enabler of sovereign AI infrastructure aligned with the Qatar Digital Agenda 2030\n\nDOHA, Qatar, July 8, 2025 /PRNewswire/ --\u00a0Syntys, a multi-country digital infrastructure provider across the Middle East and North Africa (MENA), announced today its key role in enabling the launch of Ooredoo's advanced sovereign AI cloud services in Qatar, further cementing its position as a regional digital infrastructure leader. Powered by the latest NVIDIA Hopper GPUs, the service is delivered by Ooredoo and fully hosted in secure, high-performance data centers designed and operated by Syntys.\n\nSyntys, a digital infrastructure provider (PRNewsfoto/Syntys)\n\nWith the rise of AI and high-performance computing demands, Syntys is delivering next-generation, GPU-ready data centers that serve as the foundation for scalable digital innovation. These carrier-neutral facilities feature advanced cooling, high-density rack configurations and a fault-tolerant design to ensure uninterrupted performance for AI workloads.\n\nThe project involved transforming existing infrastructure using a modular design approach to accommodate the specific requirements of GPU-accelerated workloads, enhancing scalability, energy efficiency and strict security compliance. From technical assessment to operational readiness, Syntys collaborated closely with Ooredoo to create an environment that supports fast deployment and high-density rack integration\u2014two essential pillars for AI readiness in today's competitive landscape.\n\nThis initiative marks a significant step in Syntys' broader commitment to advancing digital infrastructure in support of national objectives, including sovereign compute capacity to support government digital transformation, smart industry and AI-based innovation. It also contributes directly to the goals of Qatar's Digital Agenda 2030 and National AI Strategy.\n\nBy enabling in-country advanced AI cloud services, Syntys empowers developers, government entities and critical sectors to innovate securely and scale advanced solutions, while maintaining local data residency, infrastructure control and enhanced privacy.\n\n\"At Syntys we provide the high-performance environment that cloud services need to thrive\" said Sunita Bottse, CEO of Syntys. \"With resilient, mission-critical infrastructure and scalable capacity, we empower AI clusters to drive sovereign digital platforms and accelerate national and regional innovations.\"\n\nLa historia contin\u00faa\nCondiciones y Pol\u00edtica de privacidad\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Syntys powers Ooredoo's sovereign AI cloud services in Qatar using NVIDIA GPUs, aligning with Qatar Digital Agenda 2030, potentially boosting NVDA's market presence in M"
+    },
+    "date": "2025-07-08T02:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/1-unstoppable-stock-buy-soars-073100634.html",
+    "title": "1 Unstoppable Stock to Buy Before It Soars More Than 400%, According to 1 Wall Street Analyst Investors continue to underestimate the staying power of this industry leader.",
+    "detail": "1 Unstoppable Stock to Buy Before It Soars More Than 400%, According to 1 Wall Street Analyst\nDanny Vena, The Motley Fool\nTue, Jul 8, 2025, 1:31 AM 6 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia has been on a enduring run over the past few years, thanks to advances in artificial intelligence (AI) -- but this could be just the beginning.\n\nThe company's graphics processing units (GPUs) are the gold standard for numerous use cases, including gaming, cloud computing, and the data centers needed to facilitate AI.\n\nThere are other potential drivers investors shouldn't sleep on that could propel Nvidia stock even higher.\n\n10 stocks we like better than Nvidia \u203a\n\nThere's no denying that 2025 has been a tumultuous year for investors thus far, and Nvidia (NASDAQ: NVDA) is a prime example. After rallying as much as 11% to kick off the year, the stock plunged 37% from its peak, before eventually climbing to new highs. Concerns about ongoing inflation, the impact of tariffs, and the unresolved trade war have all contributed to the historic volatility.\n\nNvidia has become the de facto standard-bearer for the AI revolution, and despite increasing competition, the company's chips are still the gold standard for AI processing. In fact, since the adoption of AI kicked into high gear in early 2023, Nvidia stock has soared 990%.\n\nAs a result, Nvidia is currently the world's largest publicly traded company by market cap, clocking in at $3.86 trillion (as of this writing). Yet there could be more to come. Nvidia could potentially become the world's first $20 trillion company, which would represent additional upside of more than 400%, according to one Wall Street analyst.\n\nImage source: Getty Images.\nYou want chips with that?\n\nNvidia revolutionized the video game industry when it pioneered the graphics processing unit (GPU) in 1999. What made these chips unique was the introduction of parallel processing, which allowed them to conduct a multitude of mathematical calculations simultaneously. That enabled the chips to subdivide computationally intensive jobs into smaller, more manageable bits, thereby speeding processing time. It turns out that those lightning-fast processors could be brought to bear on a plethora of other computing tasks, which quickly made them the top choice for AI.\n\nBeyond its industry-leading hardware, Nvidia chips bring more to the game. Its Compute Unified Device Architecture (CUDA) programming platform and software architecture help developers get the best performance from the GPU. Nvidia offers more than 400 libraries that help developers \"build, optimize, deploy, and scale applications across PCs, workstations, the cloud, and supercomputers using the CUDA platform.\" By helping developers tap the full capabilities of the GPU, Nvidia has become their first choice and the industry standard.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.86
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.95
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's AI-focused growth continues, with GPUs driving gaming, cloud computing, and data center advancements; additional drivers may boost stock further."
+    },
+    "date": "2025-07-08T01:31:00"
+  }
+]

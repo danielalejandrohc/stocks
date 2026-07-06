@@ -1,0 +1,380 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/another-round-of-us-china-trade-talks-will-start-next-week-in-sweden-bessent-130128674.html",
+    "title": "Another round of US-China trade talks will start next week in Sweden: Bessent Treasury Secretary Scott Bessent announced Tuesday that a third round of trade talks with China is now scheduled and will commence next week in Sweden.",
+    "detail": "Another round of US-China trade talks will start next week in Sweden: Bessent\nBen Werschkul \u00b7 Washington Correspondent\nUpdated Tue, Jul 22, 2025, 6:01 AM 2 min read\nIn This Article:\nNVDA\n\nTreasury Secretary Scott Bessent announced Tuesday that a third round of trade talks with China is now scheduled and will commence next week in Sweden. The goal is to delay an August deadline that has threatened to increase tariffs between the world's two largest economies.\n\n\"I'm going to be in Stockholm on Monday and Tuesday with my Chinese counterparts, and we'll be working out what is likely an extension then,\" Bessent said Tuesday morning during an appearance with Fox Business's Maria Bartiromo.\n\nThe confirmation of a meeting \u2014 following talks in Geneva and then London earlier this year \u2014 comes ahead of an Aug. 12 deadline when a pause on tariffs between China and the US is scheduled to expire. Lessening tensions between the two nations appear to have boosted markets.\n\nBessent used the Tuesday morning appearance to reiterate his message that markets should be confident that a new round of tensions with China is not in the offing, suggesting that his focus during the coming talks will be on increasing Chinese demand for US products.\n\nHe said China can become a bigger importer as US output increases, saying that \"if we could do that together \u2014 we do more manufacturing, they do more consumption \u2014 that would be a home run for the global economy.\"\n\nRead more: The latest news and updates on Trump's tariffs\n\nTreasury Secretary Scott Bessent speaks on July 19 at the World Expo 2025 in Japan. (Tomohiro Ohsumi/Getty Images) \u00b7 Tomohiro Ohsumi via Getty Images\n\nOther issues that will be on the table, Bessent added, could be topics like China's consumption of Russian and Iranian oil, which Trump has promised to sanction, as well as the war in Ukraine.\n\nNext week's meeting could also set the stage for a meeting between Presidents Trump and Xi Jinping later this year.\n\nBessent added Tuesday that trade talks are proceeding on other fronts around the globe, promising \"a rash of trade deals in the coming days\" before an Aug. 1 deadline for other nations.\n\nRead more: What Trump's tariffs mean for the economy and your wallet\n\nThe promise there comes as other trading partners \u2014 from the European Union to Brazil to India \u2014 have said in recent days that they continued to negotiate while offering signals they are preparing for the possibility that Aug. 1 could arrive without a deal.\n\nThe European Union has even been planning a retaliation, which could include new tariffs on an array of US goods.\n\nYet much of the market focus in recent weeks has been on China and the lessening tensions there, helping investors push prices upward.\n\nA recent reversal from the White House in which Trump's team acceded to Chinese requests to allow Nvidia (NVDA) to resume sales of its H20 artificial intelligence chip has only increased confidence that a thaw is in the offing for now.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.76
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.5
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Treasury Secretary announces new trade talks with China, set to begin next week in Sweden; deadline for tariff increase delayed. Positive market reaction suggests potential relief for NVDA."
+    },
+    "date": "2025-07-22T06:01:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-intel-catch-22-situation-151137558.html",
+    "title": "Here\u2019s why Intel is in a catch-22 situation: Loop Capital Investing.com -- Loop Capital initiated coverage on Intel with a Hold rating and a $25 price target on Tuesday.",
+    "detail": "Here\u2019s why Intel is in a catch-22 situation: Loop Capital\nSam Boughedda\nTue, Jul 22, 2025, 8:11 AM 1 min read\nIn This Article:\nINTC\n2330.TW\nAMD\nNVDA\n\nInvesting.com -- Loop Capital initiated coverage on Intel with a Hold rating and a $25 price target on Tuesday.\n\nIn a note to clients, the firm highlighted a fundamental dilemma that could limit upside for the chipmaker.\n\n\u201cThe catch-22 situation for Intel Corp (NASDAQ:INTC) is obvious,\u201d the analysts wrote.\n\nThe firm pointed out that for Intel\u2019s products to remain competitive against rivals such as AMD (NASDAQ:AMD), NVIDIA (NASDAQ:NVDA) and Arm-based chips, they would need to leverage the most advanced manufacturing processes.\n\n\u201cTSMC\u2019s advanced-node manufacturing is better,\u201d Loop Capital said, adding that \u201cTSMC is the obvious manufacturing partner for Intel Products\u2019 future compute tiles.\u201d\n\nHowever, shifting Intel\u2019s manufacturing reliance externally creates complications for its internal foundry business.\n\n\u201cIf Intel Foundry cannot rely on the volume from Intel Products, the company as a whole will struggle to cover fixed costs,\u201d the note said.\n\nIn Loop\u2019s view, this dependency could become a drag: \u201cThe Foundry business may be a headwind for Intel Products.\u201d\n\nComplicating matters, they believe Intel has limited flexibility to reorganize the structure of the business.\n\nLoop Capital noted there are \u201cseemingly limited options to detach, or de-consolidate, Intel Foundry.\u201d As long as that remains the case, the analysts see little reason to upgrade the stock.\n\n\u201cShould the Intel Corp story shift away from \u2018Foundry 2.0\u2019, or detaches Foundry from Intel Corp, we may become more constructive with our rating,\u201d Loop Capital concluded.\n\nRelated articles\n\nHere\u2019s why Intel is in a catch-22 situation: Loop Capital\n\nThese Under-the-Radar Stocks Offer Better Risk-Reward Ratio Than Nvidia\n\nSurge of 50% since our AI selection, this chip giant still has great potential\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Loop Capital initiates Hold rating for Intel, citing competition from AMD, NVDA, and TSMC's advanced manufacturing processes, potentially limiting Intel's upside while complicating its internal foundry business."
+    },
+    "date": "2025-07-22T08:11:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bc-most-active-stocks-143018981.html",
+    "title": "BC-Most Active Stocks Gibo Holdings Ltd. 18,233,217 0.0353",
+    "detail": "BC-Most Active Stocks\nThe Associated Press\nTue, Jul 22, 2025, 7:30 AM 21 min read\nIn This Article:\n^IXIC\nOPEN\nWLGS\nBLMZ\nNVDA\n\nNEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks.\n\nNasdaq most active stocks:\n\nStock Name\n\n\t\n\nVolume\n\n\t\n\nHigh\n\n\t\n\nLow\n\n\t\n\nLast\n\n\t\n\nChange\n\n\n\n\nOpendoor Technologies Inc.\n\n\t\n\n411,962,388\n\n\t\n\n3.99\n\n\t\n\n2.83\n\n\t\n\n3.4501\n\n\t\n\n+0.2401\n\n\n\n\nDragonfly Energy Holdings Corp\n\n\t\n\n335,728,116\n\n\t\n\n0.65\n\n\t\n\n0.4035\n\n\t\n\n0.5385\n\n\t\n\n+0.272\n\n\n\n\nWang & Lee Group Inc.\n\n\t\n\n220,646,278\n\n\t\n\n0.0796\n\n\t\n\n0.0626\n\n\t\n\n0.0737\n\n\t\n\n+0.0219\n\n\n\n\nBloomz Inc.\n\n\t\n\n120,936,134\n\n\t\n\n0.2784\n\n\t\n\n0.233\n\n\t\n\n0.2452\n\n\t\n\n+0.051\n\n\n\n\nErayak Power Solut.Group Inc.\n\n\t\n\n65,875,334\n\n\t\n\n0.2088\n\n\t\n\n0.1655\n\n\t\n\n0.172\n\n\t\n\n+0.0119\n\n\n\n\nNVIDIA Corp.\n\n\t\n\n65,398,311\n\n\t\n\n171.39\n\n\t\n\n164.58\n\n\t\n\n166.92\n\n\t\n\n-4.46\n\n\n\n\nLucid Group Inc.\n\n\t\n\n58,821,231\n\n\t\n\n2.96\n\n\t\n\n2.75\n\n\t\n\n2.905\n\n\t\n\n+0.085\n\n\n\n\nPolyrizon Ltd\n\n\t\n\n48,661,077\n\n\t\n\n1.82\n\n\t\n\n1.02\n\n\t\n\n1.61\n\n\t\n\n+0.7022\n\n\n\n\nINVO Fertility Inc.\n\n\t\n\n47,052,968\n\n\t\n\n4.24\n\n\t\n\n3.03\n\n\t\n\n3.25\n\n\t\n\n+0.70\n\n\n\n\nHealthcare Triangle Inc.\n\n\t\n\n42,811,044\n\n\t\n\n0.0188\n\n\t\n\n0.017\n\n\t\n\n0.0176\n\n\t\n\n-0.0012\n\n\n\n\nReplimune Group Inc.\n\n\t\n\n37,950,258\n\n\t\n\n3.56\n\n\t\n\n2.68\n\n\t\n\n3.28\n\n\t\n\n-9.045\n\n\n\n\nreAlpha Tech Corp.\n\n\t\n\n36,930,466\n\n\t\n\n0.5138\n\n\t\n\n0.3707\n\n\t\n\n0.4579\n\n\t\n\n-0.3918\n\n\n\n\nIncannex Healthcare Inc.\n\n\t\n\n33,281,384\n\n\t\n\n0.76\n\n\t\n\n0.67\n\n\t\n\n0.7481\n\n\t\n\n-0.0719\n\n\n\n\nSeaStar Medical Holding Corp.\n\n\t\n\n31,216,991\n\n\t\n\n0.7595\n\n\t\n\n0.6902\n\n\t\n\n0.7045\n\n\t\n\n+0.0236\n\n\n\n\nPlug Power Inc.\n\n\t\n\n31,204,339\n\n\t\n\n1.92\n\n\t\n\n1.75\n\n\t\n\n1.78\n\n\t\n\n-0.04\n\n\n\n\nSoFi Technologies Inc.\n\n\t\n\n27,940,220\n\n\t\n\n20.98\n\n\t\n\n19.82\n\n\t\n\n20.4952\n\n\t\n\n-0.6648\n\n\n\n\nMullen Automotive Inc.\n\n\t\n\n24,112,944\n\n\t\n\n0.08\n\n\t\n\n0.07\n\n\t\n\n0.0744\n\n\t\n\n-0.0031\n\n\n\n\nBitfarms Ltd.\n\n\t\n\n23,640,246\n\n\t\n\n1.34\n\n\t\n\n1.21\n\n\t\n\n1.265\n\n\t\n\n+0.135\n\n\n\n\nTNF Pharmaceuticals Inc.\n\n\t\n\n22,573,296\n\n\t\n\n0.1143\n\n\t\n\n0.1028\n\n\t\n\n0.1063\n\n\t\n\n-0.0231\n\n\n\n\nTilray Brands Inc.\n\n\t\n\n23,264,434\n\n\t\n\n0.7649\n\n\t\n\n0.686\n\n\t\n\n0.7633\n\n\t\n\n+0.0898\n\n\n\n\nNavitas Semiconductor Corp.\n\n\t\n\n21,869,609\n\n\t\n\n8.84\n\n\t\n\n7.80\n\n\t\n\n8.18\n\n\t\n\n-0.29\n\n\n\n\nFusion Fuel Green PLC\n\n\t\n\n19,727,349\n\n\t\n\n12.63\n\n\t\n\n7.49\n\n\t\n\n8.90\n\n\t\n\n+4.62\n\n\n\n\nPalantir Technologies Inc.\n\n\t\n\n18,432,043\n\n\t\n\n151.7899\n\n\t\n\n145.062\n\n\t\n\n148.24\n\n\t\n\n-3.55\n\n\n\n\nRobinhood Markets Inc.\n\n\t\n\n18,341,413\n\n\t\n\n105.93\n\n\t\n\n98.75\n\n\t\n\n101.6699\n\n\t\n\n-2.6701\n\n\n\n\nGibo Holdings Ltd.\n\n\t\n\n18,233,217\n\n\t\n\n0.0353\n\n\t\n\n0.0326\n\n\t\n\n0.0353\n\n\t\n\n+0.003\n\n\n\n\nAdvanced Micro Devices Inc.\n\n\t\n\n17,641,595\n\n\t\n\n156.2291\n\n\t\n\n149.34\n\n\t\n\n151.9599\n\n\t\n\n-5.0401\n\n\n\n\nTesla Inc.\n\n\t\n\n16,695,756\n\n\t\n\n330.47\n\n\t\n\n321.55\n\n\t\n\n326.4616\n\n\t\n\n-2.0284\n\n\n\n\nRecursion Pharmaceuticals Inc.\n\n\t\n\n16,016,838\n\n\t\n\n6.52\n\n\t\n\n6.0911\n\n\t\n\n6.4447\n\n\t\n\n+0.0447\n\n\n\n\niShares Bitcoin Trust ETF\n\n\t\n\n15,946,802\n\n\t\n\n68.02\n\n\t\n\n66.79\n\n\t\n\n67.33\n\n\t\n\n+1.00\n\n\n\n\nSharpLink Gaming Inc.\n\n\t\n\n14,882,789\n\n\t\n\n26.83\n\n\t\n\n25.00\n\n\t\n\n26.82\n\n\t\n\n+1.575\n\n\n\n\niShares Ethereum Trust ETF\n\n\t\n\n14,548,502\n\n\t\n\n28.07\n\n\t\n\n27.45\n\n\t\n\n27.8156\n\n\t\n\n-0.5044\n\n\n\n\nBit Digital Inc.\n\n\t\n\n14,137,917\n\n\t\n\n3.40\n\n\t\n\n3.13\n\n\t\n\n3.175\n\n\t\n\n-0.145\n\n\n\n\nIREN Ltd.\n\n\t\n\n13,737,653\n\n\t\n\n18.975\n\n\t\n\n17.49\n\n\t\n\n18.385\n\n\t\n\n+0.235\n\n\n\n\nRigetti Computing Inc.\n\n\t\n\n13,639,923\n\n\t\n\n16.1366\n\n\t\n\n14.95\n\n\t\n\n15.415\n\n\t\n\n-0.665\n\n\n\n\nBit Origin Ltd.\n\n\t\n\n13,518,258\n\n\t\n\n0.7149\n\n\t\n\n0.5717\n\n\t\n\n0.6436\n\n\t\n\n-0.0727\n\n\n\n\nDevvStream Corp.\n\n\t\n\n13,450,588\n\n\t\n\n0.55\n\n\t\n\n0.44\n\n\t\n\n0.4559\n\n\t\n\n+0.0534\n\n\n\n\nIovance Biotherapeutics Inc.\n\n\t\n\n13,744,275\n\n\t\n\n3.04\n\n\t\n\n2.66\n\n\t\n\n3.035\n\n\t\n\n+0.545\n\n\n\n\nIntel Corp.\n\n\t\n\n13,086,671\n\n\t\n\n23.535\n\n\t\n\n23.10\n\n\t\n\n23.375\n\n\t\n\n+0.115\n\n\n\n\nAmazon.com Inc.\n\n\t\n\n11,859,852\n\n\t\n\n230.00\n\n\t\n\n226.57\n\n\t\n\n227.68\n\n\t\n\n-1.62\n\n\n\n\nFaraday Future Intel.Electric\n\n\t\n\n12,140,366\n\n\t\n\n2.43\n\n\t\n\n2.05\n\n\t\n\n2.42\n\n\t\n\n+0.37\n\n\n\n\nGrab Holdings Limited\n\n\t\n\n11,733,997\n\n\t\n\n5.435\n\n\t\n\n5.22\n\n\t\n\n5.27\n\n\t\n\n-0.08\n\n\n\n\nApple Inc.\n\n\t\n\n11,009,339\n\n\t\n\n214.03\n\n\t\n\n212.2301\n\n\t\n\n213.25\n\n\t\n\n+0.77\n\n\n\n\nAlphabet Inc.\n\n\t\n\n10,580,245\n\n\t\n\n191.53\n\n\t\n\n187.46\n\n\t\n\n189.14\n\n\t\n\n-0.96\n\n\n\n\nRiot Platforms Inc.\n\n\t\n\n10,479,304\n\n\t\n\n14.36\n\n\t\n\n13.655\n\n\t\n\n13.885\n\n\t\n\n-0.135\n\n\n\n\nSuper Micro Computer Inc.\n\n\t\n\n10,216,553\n\n\t\n\n51.86\n\n\t\n\n48.85\n\n\t\n\n49.57\n\n\t\n\n-1.93\n\n\n\n\nSoundhound AI Inc.\n\n\t\n\n10,168,623\n\n\t\n\n11.775\n\n\t\n\n11.0902\n\n\t\n\n11.3701\n\n\t\n\n-0.3299\n\n\n\n\nMARA Holdings Inc.\n\n\t\n\n9,685,472\n\n\t\n\n19.43\n\n\t\n\n18.69\n\n\t\n\n19.205\n\n\t\n\n+0.375\n\n\n\n\nApplied Digital Corp.\n\n\t\n\n9,355,415\n\n\t\n\n11.13\n\n\t\n\n10.35\n\n\t\n\n10.6893\n\n\t\n\n-0.4007\n\n\n\n\nOriental Rise Holdings Ltd.\n\n\t\n\n8,669,365\n\n\t\n\n0.1699\n\n\t\n\n0.1578\n\n\t\n\n0.1623\n\n\t\n\n-0.3058\n\n\n\n\nTrump Media & Tech.GroupCorp.\n\n\t\n\n8,590,363\n\n\t\n\n20.92\n\n\t\n\n19.72\n\n\t\n\n20.12\n\n\t\n\n+0.87\n\n\n\n\nTerawulf Inc.\n\n\t\n\n8,467,768\n\n\t\n\n5.14\n\n\t\n\n4.835\n\n\t\n\n4.995\n\n\t\n\n+0.005\n\n\n\n\nOndas Holdings Inc.\n\n\t\n\n8,426,919\n\n\t\n\n2.27\n\n\t\n\n2.04\n\n\t\n\n2.14\n\n\t\n\n-0.11\n\n\n\n\nWARNER BROS. DISCOVERY INC.\n\n\t\n\n8,402,683\n\n\t\n\n12.92\n\n\t\n\n12.765\n\n\t\n\n12.885\n\n\t\n\n+0.085\n\n\n\n\nRocket Lab Corp.\n\n\t\n\n8,334,594\n\n\t\n\n47.87\n\n\t\n\n44.46\n\n\t\n\n45.9308\n\n\t\n\n-1.2592\n\n\n\n\nRivian Automotive Inc.\n\n\t\n\n8,060,528\n\n\t\n\n14.07\n\n\t\n\n13.62\n\n\t\n\n13.99\n\n\t\n\n+0.29\n\n\n\n\nAmerican Airlines Group Inc.\n\n\t\n\n8,044,343\n\n\t\n\n12.43\n\n\t\n\n12.18\n\n\t\n\n12.275\n\n\t\n\n-0.045\n\n\n\n\nProMIS Neurosciences Inc.\n\n\t\n\n7,819,005\n\n\t\n\n1.03\n\n\t\n\n0.79\n\n\t\n\n0.8524\n\n\t\n\n-0.2676\n\n\n\n\nMicron Technology Inc.\n\n\t\n\n7,487,206\n\n\t\n\n113.00\n\n\t\n\n108.309\n\n\t\n\n109.33\n\n\t\n\n-3.90\n\n\n\n\nSolid Power Inc.\n\n\t\n\n7,341,751\n\n\t\n\n4.00\n\n\t\n\n3.45\n\n\t\n\n3.8299\n\n\t\n\n+0.0999\n\n\n\n\nChanson International Holding\n\n\t\n\n7,266,749\n\n\t\n\n0.1284\n\n\t\n\n0.117\n\n\t\n\n0.1248\n\n\t\n\n+0.009\n\n\n\n\nBranchOut Food Inc.\n\n\t\n\n7,049,645\n\n\t\n\n3.00\n\n\t\n\n2.66\n\n\t\n\n2.905\n\n\t\n\n-0.055\n\n\n\n\nUpexi Inc.\n\n\t\n\n6,870,693\n\n\t\n\n8.60\n\n\t\n\n7.41\n\n\t\n\n7.98\n\n\t\n\n-0.17\n\n\n\n\nGarden Stage Ltd.\n\n\t\n\n6,731,073\n\n\t\n\n0.2301\n\n\t\n\n0.1401\n\n\t\n\n0.1558\n\n\t\n\n-0.0642\n\n\n\n\nGraphjet Technology\n\n\t\n\n6,610,526\n\n\t\n\n0.10\n\n\t\n\n0.08\n\n\t\n\n0.0884\n\n\t\n\n-0.0075\n\n\n\n\nHIVE Digital Technologies Ltd.\n\n\t\n\n6,585,023\n\n\t\n\n2.39\n\n\t\n\n2.27\n\n\t\n\n2.345\n\n\t\n\n+0.075\n\n\n\n\nAlphabet Inc.\n\n\t\n\n6,528,944\n\n\t\n\n192.53\n\n\t\n\n188.495\n\n\t\n\n190.15\n\n\t\n\n-1.00\n\n\n\n\nBTCS Inc.\n\n\t\n\n6,426,514\n\n\t\n\n6.425\n\n\t\n\n5.43\n\n\t\n\n5.94\n\n\t\n\n-0.24\n\n\n\n\nQuantum Computing Inc.\n\n\t\n\n6,363,822\n\n\t\n\n18.24\n\n\t\n\n16.71\n\n\t\n\n17.16\n\n\t\n\n-0.69\n\n\n\n\nLocafy Ltd.\n\n\t\n\n6,052,944\n\n\t\n\n6.79\n\n\t\n\n5.59\n\n\t\n\n5.76\n\n\t\n\n+0.47\n\n\n\n\nCipher Mining Inc.\n\n\t\n\n6,324,034\n\n\t\n\n6.30\n\n\t\n\n5.95\n\n\t\n\n6.16\n\n\t\n\n-0.09\n\n\n\n\nDraganfly Inc.\n\n\t\n\n5,864,134\n\n\t\n\n6.525\n\n\t\n\n5.85\n\n\t\n\n6.0602\n\n\t\n\n+0.0602\n\n\n\n\nSMX (Security Matters) PLC\n\n\t\n\n5,692,059\n\n\t\n\n1.2957\n\n\t\n\n1.20\n\n\t\n\n1.27\n\n\t\n\n-0.11\n\n\n\n\nGlobavend Holdings Ltd.\n\n\t\n\n5,470,335\n\n\t\n\n10.74\n\n\t\n\n8.3001\n\n\t\n\n8.641\n\n\t\n\n+1.481\n\n\n\n\nCoinbase Global Inc.\n\n\t\n\n5,377,436\n\n\t\n\n420.9799\n\n\t\n\n394.37\n\n\t\n\n402.805\n\n\t\n\n-10.825\n\n\n\n\nAGNC Investment Corp.\n\n\t\n\n5,345,774\n\n\t\n\n9.32\n\n\t\n\n9.115\n\n\t\n\n9.235\n\n\t\n\n+0.005\n\n\n\n\nAST SpaceMobile Inc.\n\n\t\n\n5,336,977\n\n\t\n\n56.385\n\n\t\n\n51.2104\n\n\t\n\n53.34\n\n\t\n\n-3.33\n\n\n\n\nWebull Corp.\n\n\t\n\n5,326,452\n\n\t\n\n15.27\n\n\t\n\n14.35\n\n\t\n\n14.841\n\n\t\n\n+0.221\n\n\n\n\nCleanspark Inc.\n\n\t\n\n5,233,826\n\n\t\n\n12.665\n\n\t\n\n12.12\n\n\t\n\n12.405\n\n\t\n\n+0.015\n\n\n\n\nUranium Royalty Corp.\n\n\t\n\n5,183,899\n\n\t\n\n3.295\n\n\t\n\n2.89\n\n\t\n\n3.0852\n\n\t\n\n+0.3952\n\n\n\n\nGameSquare Holdings Inc.\n\n\t\n\n5,188,635\n\n\t\n\n1.43\n\n\t\n\n1.28\n\n\t\n\n1.36\n\n\t\n\n-0.10\n\n\n\n\nSEALSQ Corp.\n\n\t\n\n4,990,137\n\n\t\n\n3.54\n\n\t\n\n3.30\n\n\t\n\n3.38\n\n\t\n\n-0.05\n\n\n\n\nClover Health Inv. Corp.\n\n\t\n\n4,934,753\n\n\t\n\n3.385\n\n\t\n\n3.1406\n\n\t\n\n3.25\n\n\t\n\n+0.14\n\n\n\n\nWAG GROUP CO\n\n\t\n\n4,888,724\n\n\t\n\n0.1225\n\n\t\n\n0.1118\n\n\t\n\n0.1199\n\n\t\n\n-0.0012\n\n\n\n\nBroadcom Inc.\n\n\t\n\n4,678,289\n\n\t\n\n288.00\n\n\t\n\n276.43\n\n\t\n\n280.34\n\n\t\n\n-7.87\n\n\n\n\nBeyond Meat Inc.\n\n\t\n\n4,594,311\n\n\t\n\n4.54\n\n\t\n\n3.9487\n\n\t\n\n4.24\n\n\t\n\n+0.14\n\n\n\n\nSarepta Therapeutics Inc.\n\n\t\n\n4,604,976\n\n\t\n\n13.10\n\n\t\n\n12.24\n\n\t\n\n13.07\n\n\t\n\n-0.25\n\n\n\n\nSage Therapeutics Inc.\n\n\t\n\n4,545,026\n\n\t\n\n8.855\n\n\t\n\n8.76\n\n\t\n\n8.79\n\n\t\n\n-0.18\n\n\n\n\nCSX Corp.\n\n\t\n\n4,534,246\n\n\t\n\n35.15\n\n\t\n\n34.68\n\n\t\n\n34.88\n\n\t\n\n+0.52\n\n\n\n\nEos Energy Enterprises Inc.\n\n\t\n\n4,535,380\n\n\t\n\n6.12\n\n\t\n\n5.66\n\n\t\n\n5.805\n\n\t\n\n-0.195\n\n\n\n\nOstin Tech.Group Co. Ltd.\n\n\t\n\n4,556,116\n\n\t\n\n0.1154\n\n\t\n\n0.104\n\n\t\n\n0.1046\n\n\t\n\n-0.0103\n\n\n\n\nWindtree Therapeutics Inc.\n\n\t\n\n4,453,316\n\n\t\n\n1.10\n\n\t\n\n0.93\n\n\t\n\n0.9649\n\n\t\n\n-0.0251\n\n\n\n\nSunrun Inc.\n\n\t\n\n4,233,637\n\n\t\n\n11.1898\n\n\t\n\n10.535\n\n\t\n\n10.955\n\n\t\n\n+0.495\n\n\n\n\nHuntington Bancshares Inc.\n\n\t\n\n4,244,986\n\n\t\n\n16.88\n\n\t\n\n16.62\n\n\t\n\n16.675\n\n\t\n\n-0.135\n\n\n\n\nEnovix Corp.\n\n\t\n\n4,213,319\n\n\t\n\n14.89\n\n\t\n\n13.60\n\n\t\n\n14.705\n\n\t\n\n+0.275\n\n\n\n\nRezolve AI PLC\n\n\t\n\n4,203,412\n\n\t\n\n2.89\n\n\t\n\n2.69\n\n\t\n\n2.8099\n\n\t\n\n+0.1099\n\n\n\n\nAmerican Battery Technology Co\n\n\t\n\n4,063,085\n\n\t\n\n2.90\n\n\t\n\n2.48\n\n\t\n\n2.6298\n\n\t\n\n+0.0698\n\n\n\n\nInnoviz Technologies Ltd.\n\n\t\n\n4,039,746\n\n\t\n\n1.81\n\n\t\n\n1.66\n\n\t\n\n1.76\n\n\t\n\n+0.01\n\n\n\n\nBeyond Air Inc.\n\n\t\n\n3,932,078\n\n\t\n\n3.6414\n\n\t\n\n3.26\n\n\t\n\n3.29\n\n\t\n\n-0.03\n\n\n\n\nPetco Health+Wellness Co.Inc.\n\n\t\n\n3,913,086\n\n\t\n\n3.99\n\n\t\n\n3.235\n\n\t\n\n3.765\n\n\t\n\n+0.525\n\n\n\n\nDatavault AI Inc.\n\n\t\n\n3,914,178\n\n\t\n\n0.79\n\n\t\n\n0.7013\n\n\t\n\n0.7345\n\n\t\n\n-0.0333\n\nNYSE most active stocks:\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.32
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.026
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA Corp. saw a decrease in its stock price by 4.46, closing at $166.92 after trading 65,398,311 shares."
+    },
+    "date": "2025-07-22T07:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/1-590-buy-nvidia-time-143000453.html",
+    "title": "Up 1,590%, Should You Buy Nvidia at Its All-Time High? The demand for Nvidia's GPUs isn't letting up, which is driving strong revenue and profit growth.  Given Nvidia's earnings outlook, the current valuation still looks reasonable.  There has been no company that has gotten more attention in the past couple of years than Nvidia (NASDAQ: NVDA).",
+    "detail": "Up 1,590%, Should You Buy Nvidia at Its All-Time High?\nNeil Patel, The Motley Fool\nTue, Jul 22, 2025, 7:30 AM 4 min read\nIn This Article:\nNVDA\n^SPX\nKey Points\n\nThe demand for Nvidia's GPUs isn't letting up, which is driving strong revenue and profit growth.\n\nOngoing uncertainty surrounding changing trade policies could have a material impact on the business.\n\nGiven Nvidia's earnings outlook, the current valuation still looks reasonable.\n\n10 stocks we like better than Nvidia \u203a\n\nThere has been no company that has gotten more attention in the past couple of years than Nvidia (NASDAQ: NVDA). The leader in graphics processing units (GPUs) that support artificial intelligence (AI) training has won over investors in remarkable fashion.\n\nIn just the last five years, this top AI stock has soared 1,590%. For comparison's sake, the S&P 500 index is up just 95% over the same period. Investors are clearly enamored with the business, which they believe is and will continue to be a winner as an AI-driven technological shift takes shape.\n\nBut for investors new to the company or those looking to increase their position, is Nvidia still a buy with shares trading at their all-time high?\n\nImage source: Nvidia.\nIncredible financial performance\n\nThe demand for Nvidia's data center GPUs is impossible to overstate. Between fiscal 2020 and fiscal 2025, the company's total revenue increased at a compound annual rate of 64%. And during the first quarter of fiscal 2026 (ended April 27), the top line soared 69% year over year to $44.1 billion.\n\nNvidia's profitability is also impressive, driven by strong pricing power. Net income totaled $18.8 billion last quarter, and the company's net profit margin has averaged a superb 36% over the past five years.\n\nSuch an exceptional financial performance has only been possible thanks to the dominant position Nvidia has established in AI. It has positioned itself as the leading picks-and-shovels play, supporting the development of the AI infrastructure atop which platforms and apps will be built. At the end of the day, Nvidia shareholders don't need to choose between OpenAI's ChatGPT, Anthropic's Claude, or Alphabet's Gemini -- they stand to benefit as long as the overall AI industry continues to expand.\n\nInvestors shouldn't overlook key risk factors\n\nNvidia recently announced that it should soon be able to export and sell its H20 chips in China, following the U.S. government's approval of the company's application for export licenses. Management stated that existing export restrictions resulted in $2.5 billion in lost H20 revenue last quarter.\n\nWhile the new approval is a positive development as it reopens a major market for AI chips, it also highlights just how dynamic the trade situation has been. The Trump administration is willing to change course in an instant, and as AI technology is increasingly viewed as a topic with geopolitical ramifications, the tense relationship between the U.S. and China can still affect Nvidia's business in the future. This risk shouldn't be ignored.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.88
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Strong revenue and profit growth from Nvidia's GPU demand; ongoing trade policy uncertainties; despite high valuation, favorable earnings outlook persists."
+    },
+    "date": "2025-07-22T07:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stocks-pressured-chip-stock-weakness-141501046.html",
+    "title": "Stocks Pressured by Chip Stock Weakness The S&P 500 Index ($SPX ) (SPY ) today is down -0.14%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.26%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.36%. September E-mini S&P futures (ESU25 ) are down -0.17%, and September E-mini Nasdaq futures...",
+    "detail": "Stocks Pressured by Chip Stock Weakness\nRich Asplund\nTue, Jul 22, 2025, 7:15 AM 8 min read\nIn This Article:\n^SPX\n^DJI\n^NDX\n^IXIC\nNXPI\nWall Street sign in New York in the evening by FotorafieLink via iStock\n\nThe S&P 500 Index ($SPX) (SPY) today is down -0.14%,\u00a0the Dow Jones Industrials Index ($DOWI)\u00a0(DIA) is up +0.26%, and the\u00a0Nasdaq 100 Index ($IUXX) (QQQ) is down -0.36%.\u00a0 September E-mini S&P futures (ESU25) are down -0.17%, and September E-mini Nasdaq futures (NQU25) are down -0.37%.\n\nStock indexes today are moving lower on some disappointing quarterly earnings results.\u00a0NXP Semiconductors is down more than -2% to lead chip makers lower and weigh on the overall market after issuing a Q3 revenue forecast that missed some bullish analysts\u2019 estimates.\u00a0 Also, Lockheed Martin is down more than -7% after reporting weaker-than-expected Q2 net sales and cutting its full-year EPS estimate.\u00a0 In addition, Sherwin-Williams is down more than -2% after reporting Q2 adjusted EPS below the consensus, and cutting its full-year adjusted EPS estimate.\n\nMore News from Barchart\n\nOpendoor Stock Is Surging Higher in a Frenzied Retail Rally. How Should You Play OPEN Shares Here?\n\nThis Penny Stock Wants to Become the MicroStrategy of Dogecoin\n\nRobinhood Stock Stumbles as S&P 500 Inclusion Is Once Again Off the Table for HOOD\n\nOur exclusive Barchart Brief newsletter is your FREE midday guide to what's moving stocks, sectors, and investor sentiment - delivered right when you need the info most. Subscribe today!\n\nOn the positive side, D.R. Horton is up more than +10% to lead homebuilders higher after reporting stronger-than-expected Q3 net sales and raising its full-year revenue forecast.\u00a0 Also, Northrop Grumman is up more than +9% after boosting its full-year adjusted EPS forecast. \u00a0In addition, bond yields fell from overnight highs and were slightly lower after Treasury Secretary Bessent said, \u201cHe sees no reason for Fed Chair Powell to step down right now.\u201d\u00a0 The 10-year T-note yield is down -1 bp to 4.36%\n\nRecent trade news has put some downward pressure on stocks.\u00a0 Last Wednesday, President Trump announced that he intends to send a tariff letter to more than 150 countries, notifying them that their tariff rates could be 10% or 15%, effective August 1.\u00a0 Also, President Trump recently announced that the US will impose 30% tariffs on US imports from the European Union and Mexico, effective August 1.\u00a0 In addition, Mr. Trump said that a 35% tariff on some Canadian products would take effect on August 1, up from the current 25%.\n\nThe markets this week will focus on any tariff news along with the announcement of any new trade deals.\u00a0 On Wednesday, June existing home sales are expected to fall -0.7% m/m to 4.00 million.\u00a0On Thursday, weekly initial unemployment claims are expected to climb by +6,000 to 227,000.\u00a0 Also, the July S&P US manufacturing PMI is expected to slip -0.4 to 52.5.\u00a0 Finally, on Thursday, June new home sales are expected to climb +4.3% m/m to 650,000.\u00a0On Friday, June capital goods new orders nondefense ex-aircraft and parts are expected to increase by +0.2% m/m.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Negative Q3 revenue forecast from NXP Semiconductors impacts NVDA along with broader chip sector, causing market downturn."
+    },
+    "date": "2025-07-22T07:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/dante-omics-ai-ushers-genomics-140500389.html",
+    "title": "Dante Omics AI Ushers Genomics Into the AI Age With GPU-Accelerated Proprietary Multiomics Platform NEW YORK, July 22, 2025--Dante Omics AI, a pioneering force in computational genomics, today announced a groundbreaking upgrade to its proprietary genome and multiomics alignment, variant calling and reporting platform. The enhanced system leverages cutting-edge NVIDIA GPU technology to deliver unprecedented speed and accuracy in genomic analysis, marking a transformative leap forward in bringing genomics fully into the artificial intelligence age.",
+    "detail": "Dante Omics AI Ushers Genomics Into the AI Age With GPU-Accelerated Proprietary Multiomics Platform\nBusiness Wire\nTue, Jul 22, 2025, 7:05 AM 2 min read\nIn This Article:\nNVDA\nDante Omics AI NVIDIA Powered Avanti Software\n\nAdvanced NVIDIA GPU Integration Transforms Genome and Multiomics Alignment, Variant Calling and Reporting Capabilities\n\nNEW YORK, July 22, 2025--(BUSINESS WIRE)--Dante Omics AI, a pioneering force in computational genomics, today announced a groundbreaking upgrade to its proprietary genome and multiomics alignment, variant calling and reporting platform. The enhanced system leverages cutting-edge NVIDIA GPU technology to deliver unprecedented speed and accuracy in genomic analysis, marking a transformative leap forward in bringing genomics fully into the artificial intelligence age.\n\nRevolutionary GPU-Accelerated Genomics Pipeline\n\nThe upgraded Dante Omics AI platform represents a paradigm shift in how genomic data is processed and analyzed. By harnessing the parallel processing power of NVIDIA GPUs, the Dante Avanti Software dramatically accelerates genome alignment, variant calling and personalized reporting workflows. This technological advancement enables researchers, clinicians, and biopharma to unlock insights from complex genomic datasets with unprecedented efficiency.\n\n\"We're witnessing a pivotal moment where artificial intelligence meets genomics at scale,\" said Andrea Riposati, Dante Omics AI CEO. \"Our GPU-accelerated proprietary platform doesn't just make genomic analysis faster \u2013 it fundamentally transforms what's possible in personalized medicine, longevity, and population health research.\"\n\nKey Platform Enhancements\n\nThe upgraded Dante Omics AI system delivers several breakthrough capabilities:\n\nEnhanced Multiomics Integration: The platform now seamlessly processes and aligns diverse omics data types \u2013 including genomics, transcriptomics, proteomics, and metabolomics \u2013 within a unified AI-driven framework.\n\nScalable AI Architecture: The system's modular design allows for dynamic scaling across multiple GPU configurations, supporting everything from individual cases to large-scale population studies.\n\nPrecision Medicine Applications: Enhanced accuracy in variant detection and annotation supports more precise therapeutic targeting and personalized treatment strategies.\n\nTransforming Genomics Research and Clinical Practice\n\nThe platform's multiomics capabilities are particularly significant for complex disease research, where understanding the interplay between different biological layers is crucial for developing effective treatments. By integrating genomic, transcriptomic, and proteomic data within a single AI-powered framework, researchers can identify novel therapeutic targets and biomarkers with greater precision.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"NVIDIA GPU integration boosts Dante Omics AI's genome and multiomics analysis capabilities, promising faster, more accurate results.\""
+    },
+    "date": "2025-07-22T07:05:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tsmc-only-ai-stock-140000471.html",
+    "title": "Is TSMC the Only AI Stock You Need? Shares of Taiwan Semiconductor gained after its Q2 earnings report.  Earnings season is kicking off again, and one of the biggest companies to report earnings so far is Taiwan Semiconductor Manufacturing (NYSE: TSM), or TSMC as it's also known.  TSMC is the world's biggest manufacturer of semiconductors, and it pioneered the foundry model.",
+    "detail": "Is TSMC the Only AI Stock You Need?\nJeremy Bowman, The Motley Fool\nTue, Jul 22, 2025, 10:00 AM 4 min read\nIn This Article:\n2330.TW\nAAPL\nNVDA\nAMD\nKey Points\n\nShares of Taiwan Semiconductor gained after its Q2 earnings report.\n\nThe chipmaker reported strong growth on the top and bottom line.\n\nTSMC stands by far as the dominant maker of advanced chips.\n\n10 stocks we like better than Taiwan Semiconductor Manufacturing \u203a\n\nEarnings season is kicking off again, and one of the biggest companies to report earnings so far is Taiwan Semiconductor Manufacturing (NYSE: TSM), or TSMC as it's also known.\n\nTSMC is the world's biggest manufacturer of semiconductors, and it pioneered the foundry model. Unlike most semiconductor manufacturers, TSMC doesn't do any chip design. It's a third-party foundry, meaning it only manufactures chips for other companies like Apple, Nvidia, Advanced Micro Devices, and others.\n\nThat position makes it a bellwether in the industry as it handles more than half of third-party chip production in the world and roughly 90% of advanced chip production. TSMC has already been a winner in the AI era, and those AI tailwinds were on display again in the second-quarter earnings report.\n\nWhen revenue in the quarter jumped 38.6% to $30.1 billion, CFO Wendell Huang said, \"Our business in the second quarter was supported by continued robust AI and HPC-related demand.\"\n\nTSMC's margins also improved with gross margin increasing 53.2% to 58.6%, an indication that the company is sharing in the spoils of the AI boom that have propelled stocks like Nvidia to all-time highs. The rise in gross margin seems to reflect the company's pricing power and increasing demand, and the complexity of AI chips.\n\nAdvanced technologies, which are considered to be 7-nanometer (nm) chips or less, accounted for 74% of wafer revenue. More specifically: 36% came from 5nm, 24% from 3nm, and and 14% from 7nm chips. High-performance computing (HPC) chips generated 60% of TSMC's revenue, another sign that AI is driving the boom at the company.\n\nOutside of direct costs, TSMC's expenses are relatively minimal, and the company finished the quarter with an operating margin of 49.6%, another sign of its competitive advantage. On the bottom line, it reported earnings per American Depositary Receipt (ADR) \u00a0of $2.47. The stock finished last Thursday's session up 3.4% on the report.\n\nImage source: Getty Images.\nCan TSMC keep climbing?\n\nWith those gains, TSMC shares are up 23% year to date and have delivered steady gains since ChatGPT came out -- with the exception of the sell-off of the Liberation Day tariffs. Some investors have steered away from the company because it's headquartered in Taiwan, and there's a risk of China invading the island, though it appears to be small.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.8
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "TSMC gains post Q2 earnings; strong growth on top & bottom line; TSMC remains dominant advanced chipmaker."
+    },
+    "date": "2025-07-22T10:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/netflix-downgraded-intel-initiated-wall-134036624.html",
+    "title": "Netflix downgraded, Intel initiated: Wall Street's top analyst calls Netflix downgraded, Intel initiated: Wall Street's top analyst calls",
+    "detail": "Netflix downgraded, Intel initiated: Wall Street's top analyst calls\nNetflix downgraded, Intel initiated: Wall Street's top analyst calls\nThe Fly\nTue, Jul 22, 2025, 6:40 AM 3 min read\nIn This Article:\nNFLX\nARM\nRGEN\nTSM\nTSMWF\n\nThe most talked about and market moving research calls around Wall Street are now in one place. Here are today's research calls that investors need to know, as compiled by The Fly.\n\nTop 5 Upgrades:\n\n\nUBS upgraded Albertsons (ACI) to Buy from Neutral with a price target of $27, up from $22. The recent share pullback does not reflect the company's sales opportunity from pharmacy cross-shopping and digital, the firm says.\n\nNorthcoast upgraded United Natural Foods (UNFI) to Buy from Neutral with a $36 price target. The firm's confidence in the shares is restored post the fiscal Q4 report and management update.\n\nBaird upgraded STMicroelectronics (STM) to Outperform from Neutral with a price target of $50, up from $23. The firm increased the second half of 2025 estimates and upgraded the shares citing the ongoing cycle recovery, the company's gross margin expansion, a bottom in silicon carbide revenue, and STM's higher content in upcoming new products.\n\nWilliam Blair upgraded Booz Allen (BAH) to Outperform from Market Perform. Solid June quarter results reflect the new administration warming up to Booz Allen's role as a provider of mission-critical AI, cybersecurity, software development, and data analytics services, the firm tells investors in a research note.\n\nKeyBanc upgraded Cleveland-Cliffs (CLF) to Overweight from Sector Weight with a $14 price target. The firm sees an improved risk/reward for the shares following the company's Q2 report.\n\nTop 5 Downgrades:\n\n\nPhillip Securities downgraded Netflix (NFLX) to Sell from Neutral with an unchanged price target of $950. The firm cites valuation for the downgrade following the recent share rally.\n\nLoop Capital downgraded Shopify (SHOP) to Hold from Buy with an unchanged price target of $120. The downgrade is based on valuation and not a more bearish view of the company's fundamentals, the firm tells investors in a research note.\n\nJPMorgan downgraded Lululemon (LULU) to Neutral from Overweight with a price target of $224, down from $303. Field work shows that while consumers are responding favorably to Lululemon's new product and fabric innovation, this is being more than offset by customers not responding as well to the updated core-seasonal colors, which represents an estimated 40% of the inventory mix, the firm tells investors in a research note.\n\nCompass Point downgraded Circle Internet (CRCL) to Sell from Neutral with a price target of $130, down from $205 after the U.S. stablecoin legislation passed last week. The firm still believes USDC can be an integral part of the financial system, though it is more cautious towards Circle's long-term economics than its $53B valuation implies.\n\nBarclays downgraded Sarepta (SRPT) to Equal Weight from Overweight with a price target of $18, down from $32. The firm highlights the \"numerous twists and turns\" from both the FDA and company in the past few days following the death of a third patient.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "UBS downgraded Netflix (NVDA), while Northcoast upgraded United Natural Foods; no direct impact on NVDA mentioned."
+    },
+    "date": "2025-07-22T06:40:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/alphabet-earnings-optimism-outweighs-looming-105855606.html",
+    "title": "Alphabet Earnings Optimism Outweighs Looming Antitrust Risks (Bloomberg) -- After months of underperforming their tech peers, Alphabet Inc. shares are finally showing signs of life as investors bet that a strong earnings performance will outweigh concerns about a looming antitrust ruling.Most Read from BloombergWhy the Federal Reserve\u2019s Building Renovation Costs $2.5 BillionSalt Lake City Turns Winter Olympic Bid Into Statewide Bond BoomMilan Corruption Probe Casts Shadow Over Property BoomHow San Jose\u2019s Mayor Is Working to Build an AI CapitalThe stock ju",
+    "detail": "Alphabet Earnings Optimism Outweighs Looming Antitrust Risks\n1 / 2\nAlphabet Earnings Optimism Outweighs Looming Antitrust Risks\nRyan Vlastelica\nTue, Jul 22, 2025, 6:37 AM 4 min read\nIn This Article:\nGOOG\nAAPL\nPARA\nPARAA\nGOOGL\n\n(Bloomberg) -- After months of underperforming their tech peers, Alphabet Inc. shares are finally showing signs of life as investors bet that a strong earnings performance will outweigh concerns about a looming antitrust ruling.\n\nMost Read from Bloomberg\n\nWhy the Federal Reserve\u2019s Building Renovation Costs $2.5 Billion\n\nSalt Lake City Turns Winter Olympic Bid Into Statewide Bond Boom\n\nMilan Corruption Probe Casts Shadow Over Property Boom\n\nHow San Jose\u2019s Mayor Is Working to Build an AI Capital\n\nThe stock just pushed into the green for the year for the first time since February, ahead of results that are expected to bolster sentiment about Alphabet\u2019s position in artificial intelligence. The rebound comes even as a ruling in the Justice Department\u2019s case over Google\u2019s internet search monopoly is expected by August, with a breakup among the potential outcomes.\n\n\u201cIf Alphabet can deliver the growth that\u2019s expected of it, then the stock looks incredibly attractive,\u201d said Luke O\u2019Neill, chief investment officer at CooksonPeirce Wealth Management. \u201cThere are a lot of questions about what\u2019s on the table in terms of antitrust remedies, and certainly scenarios that are negative, and obviously there are questions about the long-term impact of AI, but it is hard to be too negative.\u201d\n\nFor the second quarter, Alphabet is expected to report net earnings of $2.18 a share on revenue of nearly $80 billion, according to data compiled by Bloomberg. That would represent an expansion of 15% and 12%, respectively, over the same period a year ago. That growth is expected to persist, with annual sales projected to expand at a similar clip through 2028.\n\nShares were little changed on Tuesday but opened higher. Should the stock end in positive territory, that would make for its 10th straight positive session, its longest winning streak since December 2010.\n\nWhile investors have grown more confident about Alphabet\u2019s ability to compete in AI, the stock is still underperforming the Nasdaq 100 Index and peers like Meta Platforms Inc. in 2025 as antitrust concerns add to fears that Google is at risk of losing share in the web search market from AI chatbots. Even with Alphabet\u2019s recent gains, the stock is flat on the year, compared with an advance of 10% for the Nasdaq 100 and 22% for Meta.\n\nIn Alphabet\u2019s antitrust suit, the Justice Department has proposed that Google be forced to sell its Chrome web browser and banned from paying to make its search engine a default, among other remedies. Google has argued that the government\u2019s requests are too extreme and would harm consumers and weaken US technological leadership.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Alphabet earnings boost optimism amid antitrust risks; NVDA's AI position benefits."
+    },
+    "date": "2025-07-22T06:37:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/reeltimes-reel-intelligence-ri-featured-123000223.html",
+    "title": "ReelTime's Reel Intelligence RI Featured in Green Stock Journal as Greener than any AI on the Planet RLTR surpasses tech heavyweights Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), AMD, and Palantir (PLTR), in sustainability. BOTHELL, WASHINGTON / ACCESS Newswire / July 22, 2025 / ReelTime Media (OTC PINK:RLTR) is ...",
+    "detail": "ReelTime's Reel Intelligence RI Featured in Green Stock Journal as Greener than any AI on the Planet\nReelTime Rentals, Inc.\nTue, Jul 22, 2025, 5:30 AM 2 min read\nIn This Article:\nRLTR\nMSFT\nNVDA\nGOOGL\nAMZN\n\nRLTR surpasses tech heavyweights Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), AMD, and Palantir (PLTR), in sustainability.\n\nBOTHELL, WASHINGTON / ACCESS Newswire / July 22, 2025 / ReelTime Media (OTC PINK:RLTR) is currently being featured in the Gren Stock Journal as A powerful AI that's smarter, faster, and greener than any other on the planet. Reeltimes's Reel Intelligence \"RI\" outperforms all AI's in terms of minimizing environmental impact including tech heavyweights Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), AMD, and Palantir (PLTR), all of which pose significant impact to the environment.\n\nIn the article which can be read in its entirety at https://greenstockjournal.com/ ReelTime's Reel Intelligence (RI), is described as \" the most powerful AI ever conceived, and it's rewriting the sustainability narrative. Unlike traditional AI tethered to centralized mega-data centers, RI operates on a completely different paradigm: a distributed computing model. RI does not \"live\" in a fortress of servers. Instead, it exists throughout the connected world, leveraging collective resources already in use. In essence, the entire world is RI's data center, and that center was already built. This model makes RI astonishingly efficient and environmentally friendly. A powerful AI that's smarter, faster, and greener than any other on the planet. While tech giants scramble to build bigger data centers and burn through terawatts of energy, RI quietly thrives without harming the environment.\"\n\nReelTime's CEO Barry Henthorn Commented: \"RI was conceived to maximize its capabilities by leveraging existing and emerging infrastructures therefore minimizing its impact on the environment. We want to thank the Green Stock Journal for highlighting this aspect of RI when many have focused on its capabilities and ability to learn from the connected community.\"\n\nRI's edge comes from its distributed processing model, which allows it to divide workloads intelligently across multiple specialized nodes throughout the connected universe. This makes RI faster, more scalable, and dramatically more energy-efficient than legacy centralized AI systems used by OpenAI, Google, or Anthropic. More importantly, RI is self-learning. Rather than waiting for manual retraining, it continuously improves its output through proprietary, real-time feedback loops, enabling it to evolve faster than any competing model.\n\nReelTime Rentals, Inc. (OTCID:RLTR), doing business as ReelTime Media and ReelTime VR, is a Seattle-based publicly traded company at the forefront of multimedia production and AI innovation. The company's flagship Reel Intelligence (RI) platform combines advanced machine learning and autonomous agent technology to deliver an unprecedented suite of creative tools for content creation across images, audio, video, and more. In addition to its AI platform, ReelTime offers end-to-end production, editing, and distribution services for media projects and has been a pioneer in virtual reality content development and technology. ReelTime continues to leverage its technological expertise to transform how content is produced, distributed, and experienced in the digital age.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "ReelTime's Reel Intelligence outperforms tech giants like NVDA, MSFT, GOOGL, AMZN, META, AMD, PLTR in greenness, per Green Stock Journal."
+    },
+    "date": "2025-07-22T05:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/elon-musk-says-simply-dont-121002971.html",
+    "title": "Elon Musk Says 'They Simply Don't' Have The Funding, Doubts Stargate AI On Tuesday, major artificial intelligence (AI) chip manufacturers, including Nvidia (NASDAQ:NVDA), Advanced Micro Devices (NASDAQ:AMD), Broadcom (NASDAQ:AVGO), Taiwan Semiconductor Manufacturing Co. (NYSE:TSM), Arm Holdings (NASDAQ:ARM), Marvell Technology (NASDAQ:MRVL), and Qualcomm (NASDAQ:QCOM), traded lower. This decline comes after the reports of significant disagreements between OpenAI and SoftBank (OTC:SFTBY) regarding the operational control and execution of the ambitious $500 billion St",
+    "detail": "Elon Musk Says 'They Simply Don't' Have The Funding, Doubts Stargate AI\nAnusuya Lahiri\nTue, Jul 22, 2025, 5:10 AM 3 min read\nIn This Article:\nOPAI.PVT\nARM\nNVDA\n9984.T\nAMD\n\nOn Tuesday, major artificial intelligence (AI) chip manufacturers, including Nvidia (NASDAQ:NVDA), Advanced Micro Devices (NASDAQ:AMD), Broadcom (NASDAQ:AVGO), Taiwan Semiconductor Manufacturing Co. (NYSE:TSM), Arm Holdings (NASDAQ:ARM), Marvell Technology (NASDAQ:MRVL), and Qualcomm (NASDAQ:QCOM), traded lower.\n\nThis decline comes after the reports of significant disagreements between OpenAI and SoftBank (OTC:SFTBY) regarding the operational control and execution of the ambitious $500 billion Stargate AI project, leading to a substantial scale-back of its original scope.\n\nInternal feuds between OpenAI CEO Sam Altman and SoftBank founder Masayoshi Son have stalled the project, dramatically scaling back its grand vision, and drawing a sharp \u201cI told you so\u201d from Elon Musk, who has consistently questioned the venture\u2019s financial backing.\n\nAlso Read: OpenAI\u2019s 4.5 GW Lease From Oracle Fuels Stargate\u2019s $500 Billion Vision\n\nThe Stargate AI project, initially envisioned as a massive $500 billion initiative for building AI infrastructure, has faced severe delays due to fundamental clashes between Altman and Son.\n\nAlthough they initially agreed to share leadership, with Altman overseeing operations and Son managing financing, their partnership has been fraught with disputes over control, governance, and strategic direction.\n\nThis feud has stalled significant progress, leaving Stargate without any secured data center deals and scaling ambitions back to a single, smaller facility in Ohio by year\u2019s end. The internal deadlock has sapped the project\u2019s momentum just months after its high-profile White House debut.\n\nAmid a persistent shortage of Nvidia chips driven by surging AI demand, a June report indicated a growing opportunity for AMD. Companies like Oracle (NYSE:ORCL) and OpenAI are increasingly considering AMD\u2019s next-generation Instinct GPUs, specifically engineered for large-scale AI workloads, as viable alternatives for major projects such as Stargate, given Nvidia\u2019s challenges in meeting supply.\n\nArm Holdings solidified its crucial role in the AI landscape by joining OpenAI\u2019s Stargate infrastructure project in February. During the company\u2019s third-quarter earnings call, CEO Rene Haas highlighted Arm\u2019s increasing presence in data center deployments, driven by key collaborations with OpenAI, Oracle, and SoftBank.\n\nArm\u2019s chip architecture is poised to form the core of large-scale AI infrastructure for the Stargate project, beginning with an 875-acre AI campus in Abilene, Texas. This initiative will commence with a 200-megawatt data center, with plans to expand up to 1.2 gigawatts, underscoring Arm\u2019s architecture as a foundational element for future AI growth.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.74
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"Nvidia (NVDA) trades lower amid Stargate AI project disputes, as Elon Musk expresses skepticism.\""
+    },
+    "date": "2025-07-22T05:10:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/neoclouds-generate-over-us-65-120000794.html",
+    "title": "Neoclouds to Generate Over US$65 Billion in GPU-as-a-Service Revenues by 2030, ABI Research Finds ABI Research, a global technology intelligence firm, forecasts that neocloud providers (a new class of specialized cloud providers) will generate over US$65 billion in GPU-as-a-Service (GPUaaS) revenues by 2030, as enterprise demand surges for AI-first infrastructure that traditional hyperscalers have been slow to deliver. Neoclouds are capturing market share by offering scalable, sovereign, and developer-centric GPU compute environments that align with the needs of AI-driven organizations.",
+    "detail": "Neoclouds to Generate Over US$65 Billion in GPU-as-a-Service Revenues by 2030, ABI Research Finds\nPR Newswire\nTue, Jul 22, 2025, 5:00 AM 3 min read\nIn This Article:\nNVDA\nAMD\n\nNEW YORK, July 22, 2025 /PRNewswire/ -- ABI Research, a global technology intelligence firm, forecasts that neocloud providers (a new class of specialized cloud providers) will generate over\u00a0US$65 billion in GPU-as-a-Service (GPUaaS) revenues by 2030, as enterprise demand surges for AI-first infrastructure that traditional\u00a0hyperscalers have been slow to deliver. Neoclouds are capturing market share by offering scalable, sovereign, and developer-centric GPU compute environments that align with the needs of AI-driven organizations.\n\n2024 Logo\n\n\"Neoclouds are not simply a reaction to GPU shortages\u2014they reflect a longer-term shift toward more tailored, agile infrastructure for AI,\" explains Leo Gergs, Principal Analyst at ABI Research. \"Chipset vendors like NVIDIA and AMD must be cautious. As control over GPU access and AI workload orchestration shifts to these intermediaries, there is a risk of diminished transparency and reduced direct alignment with enterprise outcomes.\"\n\nUnlike\u00a0hyperscalers retrofitting CPU-centric architectures, neocloud providers operate greenfield environments designed specifically for AI performance. They leverage tight integration with accelerator vendors and full-stack design\u2014from infrastructure to orchestration\u2014to support foundation model training, fine-tuning, and multimodal inference. ABI Research's analysis categorizes the ecosystem into four archetypes: GPUaaS opportunists, full-stack AI-first platforms, decentralized compute marketplaces, and domain-specific AI infrastructure providers. Companies such as\u00a0CoreWeave, Lambda Labs, Crusoe Cloud, and Nebius are already redefining go-to-market approaches with reserved capacity, bulk credits, sovereign cloud deployments, and MLOps integration.\n\n\"Neoclouds face high capital intensity and pressure to differentiate beyond raw hardware access,\" Gergs continues. \"Standing up large GPU fleets, building orchestration layers, and offering sovereign infrastructure requires significant upfront investment. Without adtech or SaaS revenue streams, like the hyperscalers, they must rely heavily on partnerships with chipset vendors and integrators to stay competitive. That dependence, however, gives them disproportionate influence\u2014they could become new gatekeepers for AI infrastructure access, similar to the role hyperscalers have long played.\" The implications reach beyond infrastructure. As pricing models diversify and sovereignty becomes a competitive\u00a0differentiator, the balance of power in the AI ecosystem is evolving.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.38
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "By 2030, neoclouds could generate $65B in GPU-as-a-Service revenues, posing potential challenges for chipset vendors like NVDA."
+    },
+    "date": "2025-07-22T05:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/innovizsmart-integrates-nvidia-jetson-orin-120000664.html",
+    "title": "InnovizSMART Integrates NVIDIA Jetson Orin for Advanced Edge Computing Innoviz Technologies Ltd. (Nasdaq: INVZ) (the \"Company\" or \"Innoviz\"), a leading Tier-1 direct supplier of high-performance, automotive grade LiDAR sensors and perception software, announced today that its new InnovizSMART Long-Range LiDAR is now compatible with NVIDIA Jetson AGX Orin platform, enabling seamless integration. By leveraging NVIDIA accelerated computing and edge computing functionalities, customers utilizing Innoviz's LiDAR solutions for smart applications are expected to experienc",
+    "detail": "InnovizSMART Integrates NVIDIA Jetson Orin for Advanced Edge Computing\nPR Newswire\nTue, Jul 22, 2025, 5:00 AM 3 min read\nIn This Article:\nINVZW\nNVDA\nINVZ\n\nIntegration with NVIDIA Jetson Orin enables faster, more efficient smart application deployments of Innoviz's advanced LiDAR solutions\n\nTEL AVIV, Israel, July 22, 2025 /PRNewswire/ --\u00a0Innoviz Technologies Ltd. (Nasdaq: INVZ) (the \"Company\" or \"Innoviz\"), a leading Tier-1 direct supplier of high-performance, automotive grade LiDAR sensors and perception software, announced today that its new InnovizSMART Long-Range LiDAR\u00a0 is now compatible with NVIDIA Jetson AGX Orin platform, enabling seamless integration. By leveraging NVIDIA accelerated computing and edge computing functionalities, customers utilizing Innoviz's LiDAR solutions for smart applications are expected to experience significant improvements in speed, performance, and scalability.\n\nInnoviz Technologies Logo\nNVIDIA Logo\n\nIntegrating InnovizSMART with the NVIDIA Jetson Orin allows the platform's advanced AI processing power to be unleashed, streamlining the data processing pipeline and enhancing the system's ability to make real-time decisions, in applications such as mobility, aerial, robotics, intelligent traffic management and more. NVIDIA Jetson Orin is expected to simplify the deployment of complex AI models and accelerate the speed of data processing at the edge, ensuring improved efficiency and lower operational costs.\n\nThe integration with NVIDIA Jetson Orin platform is already being used by certain customers and is a key element of Innoviz's strategy to expand the capabilities of InnovizSMART, reinforcing the company's commitment to providing smart applications developers and integrators with cutting-edge tools to create safer, more connected environments.\n\n\"By integrating InnovizSMART into the NVIDIA Jetson AGX Orin platform, Innoviz is able to offer a powerful combination of high-performance LiDAR with NVIDIA GPU-accelerated edge processing, which is critical for real-time decision-making in smart applications,\" said Omer Keilaf, CEO and Co-Founder of Innoviz Technologies. \"This collaboration will empower our customers to deploy intelligent, scalable solutions that deliver enhanced safety and efficient operation management across many use cases.\"\n\nInnovizSMART Long-Range is a rugged and reliable high-performance LiDAR sensor tailored for smart applications such as mobility, aerial, robotics, and intelligent traffic management. It features low-power consumption, a uniform field of view, and high-resolution 3D point cloud that enables accurate object detection at distances up to 400 meters.\n\nFor more information about InnovizSMART Long-Range, email: sales@innoviz-tech.com.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.48
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Innoviz integrates NVIDIA Jetson Orin for improved smart app deployments using Innoviz's LiDAR solutions."
+    },
+    "date": "2025-07-22T05:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-just-got-big-boost-112039333.html",
+    "title": "Nvidia Just Got a Big Boost -- Needham Hikes Price Target to $200 as U.S. Clears China Sales Needham upgrades its price target to $200 and keeps a Buy rating",
+    "detail": "Nvidia Just Got a Big Boost -- Needham Hikes Price Target to $200 as U.S. Clears China Sales\nFaizan Farooque\nTue, Jul 22, 2025, 4:20 AM 1 min read\nIn This Article:\nNVDA\n\nNvidia (NVDA, Financials) just caught a major break and Wall Street noticed. After months of chip sales to China being on ice due to export restrictions, the U.S. government is now handing out licenses again. That means Nvidia can go back to doing what it does best: selling serious AI hardware at serious scale.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nNeedham's Rajvindra Gill wasted no time updating the numbers. The firm boosted its price target to $200, keeping its Buy rating intact. Why? Because Nvidia can now resume shipping its high-performance H20 chips the same ones that had $2.5 billion in blocked sales earlier this year and another $8 billion in paused orders for Q2.\n\nWith the green light back on, Needham's base-case forecast is $3 billion in H20 sales every quarter starting in October. And that's before factoring in new Blackwell GPUs, like the B30 and B40, which are expected to hit the Chinese market by late summer.\n\nNvidia's been the undisputed leader in AI chips, from powering data centers and autonomous vehicles to pushing the edge of what's possible in cloud computing. The export ban slowed the momentum a bit, but this reversal changes the game.\n\nFor investors, this isn't just about one quarter. It's a reminder that Nvidia's global demand story especially from AI-hungry markets like China is far from over.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.94
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "US lifts export restrictions, allowing Nvidia to resume sales of high-performance H20 chips; Needham raises price target to $200."
+    },
+    "date": "2025-07-22T04:20:00"
+  }
+]

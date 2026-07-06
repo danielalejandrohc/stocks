@@ -1,0 +1,272 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/tesla-stock-higher-on-potential-for-xai-investment-full-merger-would-be-the-next-stage-analyst-says-153027960.html",
+    "title": "Tesla stock higher on potential for xAI investment; full merger would be the 'next stage,' analyst says Tesla stock rose Monday morning after CEO Elon Musk said Tesla should be able to invest in his xAI startup pending a shareholder vote. This would be another instance of the \u201cMuskonomy\u201d at play, where Musk\u2019s companies become more financially intertwined, which could benefit him.",
+    "detail": "Tesla stock higher on potential for xAI investment; full merger would be the 'next stage,' analyst says\nThough Elon Musk said he doesn't want a full Tesla-xAI merger, analysts like Dan Ives believe that will be the eventual outcome.\nPras Subramanian \u00b7 Senior Reporter\nUpdated Mon, Jul 14, 2025, 2:27 PM 3 min read\nIn This Article:\nTSLA\nXAAI.PVT\nSPAX.PVT\nNVDA\n\nTesla stock (TSLA) rose Monday after CEO Elon Musk said Tesla should be able to invest in his xAI (XAAI.PVT) startup, pending a shareholder vote. This would be another instance of the \u201cMuskonomy\u201d at play, in which Musk\u2019s companies become more financially intertwined and potentially beneficial to him.\n\nIn response to a user on X.com asking about Tesla investing in xAI, Musk said that Tesla shareholders would have the chance to \u201cvote on that matter.\u201d The user\u2019s request came after a Wall Street Journal report over the weekend that Musk\u2019s SpaceX (SPAX.PVT) had agreed to invest $2 billion in xAI\u2019s latest fundraising round. The user said it was \u201cnot fair\u201d to Tesla retail investors that the company was not invested in xAI, to which Musk agreed and said, \u201cIf it was up to me, Tesla would have invested in xAI long ago.\u201d\n\nMusk said in a later post that Tesla should not merge with xAI, although the two companies currently work together. The xAI Grok chatbot was added to Tesla\u2019s vehicles in a recent software update, though this has been a contentious move as Grok has been embroiled in controversy surrounding antisemitic statements.\n\nBloomberg noted that xAI is also a Tesla customer, purchasing nearly $200 million worth of Tesla megapack energy storage batteries.\n\nMusk\u2019s companies investing in one another \u2014 and even merging together \u2014 is nothing new. In March, xAI bought out Musk\u2019s X.com in a deal valuing X.com at $33 billion, a very good deal for investors in the social media company. In 2016, Tesla acquired SolarCity for $2.6 billion; the solar firm was struggling at the time and was previously run by Musk\u2019s family members, per Walter Isaacson\u2019s Musk biography.\n\nIndeed, the commingling of resources between Musk\u2019s companies is nothing new, though it is somewhat controversial. Tesla engineers have been working at both X.com and xAI, and highly sought-after Nvidia chips originally destined for Tesla\u2019s AI efforts were directed to xAI.\n\nShareholder groups have complained about what appears to be a conflict of interest for Musk and his companies in the past. In this case, Musk appears to favor a company like xAI, in which he owns a large stake and can more fully control.\n\nThe 'Muskonomy' (source: Morgan Stanley) \u00b7 Morgan Stanley\n\nWall Street analysts, including Wedbush\u2019s Dan Ives, suggested a Tesla and xAI tie-up could enhance Tesla\u2019s artificial intelligence presence and indirectly compensate Musk, whose Tesla pay package has been stuck in legal limbo.\n\nIn a recent note, Ives argued that Musk needed a new package giving him 25% voting power to incentivize him, along with \u201cguardrails\u201d that guaranteed his time at the company. Musk chided Ives for the guardrails suggestion, telling the analyst to \u201cshut up.\u201d\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.34
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Tesla stock rises as Musk considers xAI investment, potentially benefiting NVDA."
+    },
+    "date": "2025-07-14T14:27:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jensen-huang-just-delivered-massive-145650308.html",
+    "title": "Jensen Huang Just Delivered Massive News for Nvidia Investors Nvidia CEO Jensen Huang says that the company will be granted the licenses required to export its H20 AI chips to Chinese customers.  The company was losing a chunk of revenue because of the restrictions on the export of its chips to China.  Nvidia investors can now expect stronger-than-expected growth from the company this year.",
+    "detail": "Jensen Huang Just Delivered Massive News for Nvidia Investors\nHarsh Chauhan, The Motley Fool\nTue, Jul 15, 2025, 8:56 AM 5 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia CEO Jensen Huang says that the company will be granted the licenses required to export its H20 AI chips to Chinese customers.\n\nThe company was losing a chunk of revenue because of the restrictions on the export of its chips to China.\n\nNvidia investors can now expect stronger-than-expected growth from the company this year.\n\n10 stocks we like better than Nvidia \u203a\n\nWhen Nvidia (NASDAQ: NVDA) released its fiscal 2026 first-quarter results (for the three months ended April 27) a couple of months ago, the company had bad news in store for investors as it was losing business in a key market thanks to export restrictions.\n\nSpecifically, Nvidia pointed out in its previous earnings report that it bore a multibillion-dollar charge because of its inability to ship its H20 artificial intelligence (AI) chips to China. Its revenue during the quarter took a hit, while the guidance could have been much better if there were no restrictions on the sales of its chips to Chinese customers.\n\nBut now, it looks like Nvidia is set to resume its sales in China. Let's take a closer look at this latest development that could give its business a big boost.\n\nImage Source: Getty Images\nJensen Huang says that Nvidia is set to start shipments of its H20 chips to China\n\nNvidia was informed by the U.S. government in April that it needs a license to export its China-specific H20 chip into that market. The company took a $4.5 billion charge on account of the excess inventory of the unsold H20 chips that it was left with. Nvidia also lost $2.5 billion in revenue because of this restriction during the quarter.\n\nEven worse, the company said that it will lose $8 billion in H20 revenue in the ongoing quarter thanks to the restrictions. However, a blog published by Nvidia on July 14 states that CEO Jensen Huang met with President Donald Trump and other policymakers, giving an update that the company \"is filing applications to sell the NVIDIA H20 GPU again.\" More importantly, the blog points out that the U.S. government assured Nvidia that licenses will be granted and the company hopes for deliveries to begin soon.\n\nNvidia shipped $4.6 billion worth of H20 processors to China in fiscal Q1 before the export restrictions kicked in. Including the lost sales during the quarter, Nvidia's Chinese revenue would have been just over $7 billion. And when we consider the $8 billion revenue that the company was expecting from this market in fiscal Q2, Nvidia's revenue from that market would have hit $15 billion in the first half of the current fiscal year.\n\nThe Chinese business, therefore, was on track to generate $30 billion in annual revenue for the company this year before it was hamstrung by the export controls. Analysts are expecting $200 billion in revenue from Nvidia in the current fiscal year. That figure could have been significantly higher if the company were allowed to uninterruptedly sell its H20 processors into the Chinese market.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia set to regain lost revenue with approval to export H20 AI chips to China, boosting investor expectations for stronger growth in 2026."
+    },
+    "date": "2025-07-15T08:56:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-nvidia-stock-rallied-tuesday-145428140.html",
+    "title": "Why Nvidia Stock Rallied on Tuesday The artificial intelligence (AI) chipmaker got good news that inspired Wall Street.",
+    "detail": "Why Nvidia Stock Rallied on Tuesday\nDanny Vena, The Motley Fool\nTue, Jul 15, 2025, 8:54 AM 3 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia investors have been concerned about the loss of sales to an important market.\n\nThe company announced it would resume AI chip sales to China after a pending approval from the Trump administration.\n\nA number of Wall Street analysts boosted their price targets on the chipmaker in response.\n\n10 stocks we like better than Nvidia \u203a\n\nShares of Nvidia (NASDAQ: NVDA) were off to the races on Tuesday, climbing as much as 5%. As of 10:27 a.m. ET, the stock was still up 4.6%.\n\nThe catalyst that sent the artificial intelligence (AI) chipmaker higher was news that the company could regain access to one of its most important markets, which sent Wall Street analysts scrambling to update their price targets.\n\nImage source: Nvidia.\nChips ahoy\n\nIn a blog post published after the market close on Monday, Nvidia announced that it would resume sales of its H20 chips to China. The processors were designed to meet the stringent export requirements for Chinese customers. U.S. officials had voiced concerns that the AI-centric processors could be used by the military in China, prompting the creation of these specially designed chips for that market.\n\nThe Trump administration had temporarily banned the sale of the previously approved chips, but the company noted, \"The U.S. government has assured Nvidia that licenses [to sell the chips in China] will be granted, and Nvidia hopes to start deliveries soon.\"\n\nIn response to the announcement, Wall Street analysts were working feverishly to update their models, resulting in numerous price target increases. Melius Research was among the most bullish, maintaining its buy rating and increasing its price target to $235, up from $205. That represents potential upside of 43% compared to Monday's closing price. The analysts cited a more positive outlook on potential sales and the company's strategic growth initiatives.\n\nTime to buy?\n\nInvestors were worried that strict export controls on the sale of graphics processing units (GPUs) to companies in China would hurt Nvidia's results, and those concerns were justified. In its fiscal first quarter (ended April 27), the company took a $4.5 billion write-off related to its H20 chips. The company had already made $4.6 billion in sales, suggesting there was roughly $9 billion at stake during the quarter. That overhang is now lifted.\n\nAnd at just 30 times next year's expected earnings, the stock is attractively priced, which is why Nvidia is a buy.\n\nDo the experts think\u00a0Nvidia is a buy right now?\n\nThe Motley Fool\u2019s expert analyst team, drawing on years of investing experience and deep analysis of thousands of stocks, leverages our proprietary Moneyball AI investing database to uncover top opportunities. They\u2019ve just revealed their 10 best stocks\u00a0to buy now \u2014 did Nvidia make the list?\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia resumes AI chip sales to China; Wall St analysts raise price targets."
+    },
+    "date": "2025-07-15T08:54:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-surging-time-high-today-144455626.html",
+    "title": "Nvidia Is Surging to an All-Time High Today -- Is the Stock a Buy Right Now? Nvidia stock is jumping today following announcements that the Trump administration will allow the company's H20 processor and other hardware to be sold in China.  The approval of the export licenses for the company's AI hardware is an unexpected development -- and a big win for CEO Jensen Huang.  The news suggests that some of the biggest risk factors surrounding Nvidia stock may be lessening.",
+    "detail": "Nvidia Is Surging to an All-Time High Today -- Is the Stock a Buy Right Now?\nKeith Noonan, The Motley Fool\nTue, Jul 15, 2025, 8:44 AM 3 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia stock is jumping today following announcements that the Trump administration will allow the company's H20 processor and other hardware to be sold in China.\n\nThe approval of the export licenses for the company's AI hardware is an unexpected development -- and a big win for CEO Jensen Huang.\n\nThe news suggests that some of the biggest risk factors surrounding Nvidia stock may be lessening.\n\n10 stocks we like better than Nvidia \u203a\n\nNvidia (NASDAQ: NVDA) stock is jumping in Tuesday's trading following some big news for the company. The artificial intelligence (AI) leader's share price was up 3.5% as of 10:15 a.m. ET and had been up as much as 5% at the start of the session.\n\nNvidia's valuation is bounding to a new record high today following announcements that the Trump administration will allow the company to ship its H20 processors to China. The company also said that it has designed a separate, less powerful processor that meets all current regulatory requirements for sale in the country.\n\nImage source: Getty Images.\n\nBeing able to sell its processors in the Chinese market is a significant win for Nvidia, and CEO Jensen Huang's ability to secure the necessary export license after meeting with President Trump underscores just how influential the tech leader and his company are right now. With today's gains, the company now has a market capitalization of roughly $4.14 trillion and continues to stand as the world's most valuable business.\n\nIs Nvidia stock a buy right now?\n\nNvidia has undisputed leadership in the AI processor market, and the company looks poised to continue benefiting from long-term demand tailwinds connected to the rise of artificial intelligence. With the Trump administration giving the go-ahead for the the AI leader's H20 processors and other hardware to be sold into the Chinese market, there are indications that one of the biggest risk factors facing the company may be lessening.\n\nArtificial intelligence is central to the geopolitical tensions and competition between the U.S. and China, and Nvidia's advanced processors occupy a central role in the battle for AI supremacy. While geopolitical dynamics between the two countries continue to be a major risk factor for Nvidia, the same is true for most stocks on the market -- albeit to a lesser extent in some cases.\n\nWith signs that access to Nvidia's processors is being used as a bargaining chip as part of larger trade negotiations between the two countries, conditions for Nvidia stock appear to be improving on multiple fronts. The stock still comes with significant risk, but its leadership in the AI processor market remains undeniable, and some geopolitical and macroeconomic conditions appear to be aligning to support a continued rally.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Trump administration approves export licenses for Nvidia's AI hardware, boosting its stock to an all-time high."
+    },
+    "date": "2025-07-15T08:44:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-benefit-loosening-china-trade-144202992.html",
+    "title": "Nvidia to Benefit From Loosening China Trade Restrictions With Higher Sales, Longer Growth Cycle, Truist Says Nvidia (NVDA) will benefit from the loosening of US trade restrictions with China with higher sales",
+    "detail": "PREMIUM\nNvidia to Benefit From Loosening China Trade Restrictions With Higher Sales, Longer Growth Cycle, Truist Says\nMT Newswires\nTue, Jul 15, 2025, 8:42 AM 1 min read\nIn This Article:\nNVDA\nTFC\n\nNvidia (NVDA) will benefit from the loosening of US trade restrictions with China with higher sales\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.73
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.4
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's sales may increase due to easing US-China trade restrictions."
+    },
+    "date": "2025-07-15T08:42:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stocks-see-support-favorable-cpi-140956924.html",
+    "title": "Stocks See Support from Favorable CPI and Positive Bessent Trade Remarks The S&P 500 Index ($SPX ) (SPY ) is up +0.33%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.64%. September E-mini S&P futures (ESU25 ) are up +0.23%, and September E-mini Nasdaq futures (NQU25...",
+    "detail": "Stocks See Support from Favorable CPI and Positive Bessent Trade Remarks\nRich Asplund\nTue, Jul 15, 2025, 8:09 AM 7 min read\nIn This Article:\n^SPX\n^DJI\n^NDX\n^IXIC\nNew York Stock Exchange during sunrise by Deberarr via iStock\n\nThe S&P 500 Index ($SPX) (SPY) is up +0.33%, the\u00a0Dow Jones Industrials Index ($DOWI)\u00a0(DIA) is down -0.25%, and the\u00a0Nasdaq 100 Index ($IUXX) (QQQ) is up +0.64%.\u00a0 September E-mini S&P futures (ESU25) are up +0.23%, and September E-mini Nasdaq futures (NQU25) are up +0.53%.\n\nStock indexes today are trading higher on a favorable core CPI report of +0.2% m/m and on favorable trade news after Treasury Secretary Bessent said US-China trade negotiations are in a \u201cvery good place.\u201d\n\nMore News from Barchart\n\nPalantir Just Launched Warp Speed for Warships. Does That Make PLTR Stock a Buy?\n\nThis Analyst Just Doubled His Price Target on AMD Stock\n\nHow High Can Nvidia Stock Go as Jensen Huang Heads to China?\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nToday\u2019s CPI report was considered net favorable for the markets due to the slightly weaker-than-expected +0.2% m/m increase in the core CPI, which was driven by lower car prices.\u00a0 However, there were some scattered signs of upside pressure from tariffs, and that pressure is expected to increase in the coming months.\u00a0 Also, both the headline and core CPI reports on a year-over-year basis rose from May.\n\nSpecifically, the June US CPI rose +0.3% m/m, which was in line with market expectations, while the year-over-year figure of +2.7% was slightly worse than expectations of +2.6% and was up from May\u2019s +2.4%.\u00a0 The June US core CPI rose +0.2% m/m, which was slightly better than expectations of +0.3%. \u00a0On a year-over-year basis, the June US core CPI was in line with expectations at +2.9% y/y but rose from May\u2019s +2.8%.\n\nThere was some positive trade news today after Treasury Secretary Bessent said that US-China trade talks are in a \u201cvery good place\u201d and that the US-China deadline is flexible and told market participants \u201cnot to worry about August 12.\u201d\u00a0 Mr. Bessent confirmed that the Trump administration has told Nvidia that a license for the sale of its advanced H20 GPU chips to Chinese firms will be granted and is \u201call part of a mosaic\u201d in the US-China negotiations.\u00a0He also said he hopes to meet with Chinese Vice Premier He Lifeng in August.\n\nStocks have been undercut by recent US trade news.\u00a0 Over the weekend, President Trump announced that the US will impose 30% tariffs on US imports from the European Union and Mexico, effective August 1.\u00a0 Mr. Trump said last Thursday that a 35% tariff on some Canadian products would take effect on August 1, up from the current 25%.\u00a0 Last week, Mr. Trump imposed a 50% tariff on copper imports, which will include semi-finished goods, and stated that drug companies could face tariffs as high as 200% on imports if they don\u2019t relocate production to the US within the next year.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nasdaq rises on favorable CPI and optimistic trade remarks; Nvidia stock potential boosted by CEO visit to China."
+    },
+    "date": "2025-07-15T08:09:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/2-best-tech-stocks-buy-140700713.html",
+    "title": "2 Best Tech Stocks to Buy in July Nvidia's key role within the AI ecosystem makes it a stock worth considering right now.  Online gaming platform Roblox is growing rapidly, and the stock remains attractive.  The stock market is once again red-hot.",
+    "detail": "2 Best Tech Stocks to Buy in July\nJake Lerch, The Motley Fool\nTue, Jul 15, 2025, 8:07 AM 4 min read\nIn This Article:\nRBLX\nNVDA\n^SPX\n^DJI\nKey Points\n\nStocks have been regaining their momentum, including these two notable examples.\n\nNvidia's key role within the AI ecosystem makes it a stock worth considering right now.\n\nOnline gaming platform Roblox is growing rapidly, and the stock remains attractive.\n\n10 stocks we like better than Nvidia \u203a\n\nThe stock market is once again red-hot. As of this writing, the S&P 500, Nasdaq Composite, and Dow Jones Industrial Average are up 17%, 23%, and 10%, respectively, over the last three months.\n\nWith so much optimism surrounding the market, what stocks should investors target right now? Here are two that I think are excellent buys in the month of July.\n\nImage source: Getty Images.\nRoblox\n\nFirst, there's Roblox (NYSE: RBLX). It operates a popular free-to-play online platform that brings developers and players together through tens of millions of games. Indeed, the company's rapidly growing user base is one of its strongest assets. Since 2022, Roblox's daily average users (DAUs) have increased from about 23 million in 2020 to nearly 98 million now.\n\nNot only are Roblox's users growing in number, they're also changing in another crucial way: They are getting older. From its inception, Roblox has been extremely popular among children, with a large proportion of its DAUs being under the age of 13. However, as of its most recent quarter (the three months ended on March 31), 61 million of the company's 98 million DAUs were over the age of 13.\n\nThat's important for two reasons. First, it demonstrates that Roblox's fan base is staying loyal to the platform even as they grow older and may be tempted to switch to other gaming platforms or give up gaming altogether. Second, and just as importantly, DAUs over the age of 13 have more disposable income meaning they have more resources to spend on in-game purchases, which is how Roblox derives the majority of its revenue.\n\nIn addition to in-game purchasing, Roblox is also diversifying its sources of revenue. The company has embarked on several new monetization initiatives including selling merchandise, incorporating in-game advertising, and experimenting with paid access for certain games.\n\nDespite all these positives, Roblox stock isn't for every investor or investment portfolio. Any setback or disappointment in user growth, revenue, or guidance could send shares tumbling. That said, growth investors with a long-term investment horizon would be smart to consider Roblox stock now.\n\nNvidia\n\nThen, there's Nvidia (NASDAQ: NVDA). It should come as no surprise why Nvidia makes the cut as a stock worthy of buying this month. For starters, as of this writing, Nvidia is now the largest company in the world, with a market cap exceeding $4 trillion.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.5
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Considering its significant role in the AI ecosystem, Nvidia (NVDA) is a stock worth considering due to current market momentum."
+    },
+    "date": "2025-07-15T08:07:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trump-nvidia-u-turn-boost-140455988.html",
+    "title": "Trump\u2019s Nvidia U-turn \u2018will boost Chinese military\u2019 Donald Trump\u2019s decision to let Nvidia sell powerful artificial intelligence (AI) microchips to China has sparked fears that the technology could be used to boost Beijing\u2019s military.",
+    "detail": "Trump\u2019s Nvidia U-turn \u2018will boost Chinese military\u2019\nMatthew Field\nTue, Jul 15, 2025, 8:04 AM 3 min read\nIn This Article:\nNVDA\nJensen Huang, Nvidia\u2019s boss has promised to build new factories in the US - David Paul Morris/Bloomberg Finance LP\n\nDonald Trump\u2019s decision to let Nvidia (NVDA) sell powerful artificial intelligence (AI) microchips to China has sparked fears that the technology could be used to boost Beijing\u2019s military.\n\nCharles Parton, from the think tank Rusi, said there would \u201cinevitably\u201d be sales of semiconductors \u201cwhich have the possibility of military use\u201d.\n\n\u201cOnce exports reach China, the Communist Party can direct their use,\u201d he told The Telegraph.\n\nLuke de Pulford, of the Inter-Parliamentary Alliance on China, said: \u201cGiven Beijing\u2019s stated policy of civil-military fusion, it has to be presumed these chips will be used for military applications, and is likely to facilitate the modernisation and expansion of the People\u2019s Liberation Army.\u201d\n\nOn Tuesday, Nvidia said it had begun filing new applications to sell its advanced chips in China again. \u201cThe US government has assured Nvidia that licences will be granted, and [we] hope to start deliveries soon,\u201d the company said.\n\nThe decision to allow Nvidia\u2019s most advanced H20 chips to be sold to China reverses an earlier ban by Donald Trump.\n\nThe US introduced new restrictions in April amid concerns the technology could be used to build cutting-edge supercomputers in China.\n\nHowever, a charm offensive by Jensen Huang, Nvidia\u2019s boss, appears to have prompted Mr Trump to change his position. This has included attending a $1m (\u00a3744k)-a-head dinner at Mr Trump\u2019s Mar-a-Lago resort and promising to build new factories in the US.\n\nMr de Pulford said: \u201cThis is a regrettable decision which suggests the US now believes it can no longer prevent China from acquiring the technology.\u201d\n\nTheo Zenou, a research fellow at the Henry Jackson Society, said it remained a \u201cdefinite possibility\u201d that US chips could end up in Chinese military technology. \u201cThe danger remains, and we should expect China to try and use the chips for military applications,\u201d he added.\n\nUnder the Biden administration, the US stepped up efforts to block the sale of advanced AI microchips to China. Nvidia\u2019s processors are used to power the most advanced AI products and are being installed in their thousands in vast new supercomputers.\n\n\u2018Well-established concern\u2019\n\nUS security officials have long warned China could use American-made AI technology for military purposes, while thousands of processors have already been smuggled into the country.\n\nLast week, Democratic senators Elizabeth Warren and Jim Banks wrote to Nvidia\u2019s Mr Huang ahead of his trip to China, warning him of \u201cwell-established concern\u201d that Nvidia\u2019s chips could be used to \u201csupport Chinese military and intelligence activities\u201d.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.4
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Trump's approval of AI chip sales to China may bolster military capabilities, raising concerns for NVDA."
+    },
+    "date": "2025-07-15T08:04:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ddn-polarise-partner-deliver-sovereign-140000142.html",
+    "title": "DDN and Polarise Partner to Deliver Sovereign, Sustainable AI Factories for Europe CHATSWORTH, Calif. & PADERBORN, Germany, July 15, 2025--DDN\u00ae, the global leader in AI and data intelligence solutions, today announced a strategic partnership with Polarise, Europe\u2019s emerging pioneer in sovereign, sustainable AI infrastructure. This collaboration brings together DDN\u2019s world-class AI data platform technology and Polarise\u2019s end-to-end capabilities for building and operating NVIDIA-accelerated AI factories across the continent.",
+    "detail": "DDN and Polarise Partner to Deliver Sovereign, Sustainable AI Factories for Europe\nBusiness Wire\nTue, Jul 15, 2025, 8:00 AM 3 min read\nIn This Article:\nNVDA\n\nCHATSWORTH, Calif. & PADERBORN, Germany, July 15, 2025--(BUSINESS WIRE)--DDN\u00ae, the global leader in AI and data intelligence solutions, today announced a strategic partnership with Polarise, Europe\u2019s emerging pioneer in sovereign, sustainable AI infrastructure. This collaboration brings together DDN\u2019s world-class AI data platform technology and Polarise\u2019s end-to-end capabilities for building and operating NVIDIA-accelerated AI factories across the continent.\n\nThrough this partnership, DDN and Polarise will deliver high-performance, resource-efficient AI infrastructure designed for the next generation of sovereign European AI workloads\u2014at scale, with speed, and with sustainability in mind.\n\n\"Our collaboration with Polarise represents a major step forward in democratizing AI infrastructure for Europe,\" said Paul Bloch, President and Co-Founder of DDN. \"By combining DDN\u2019s unparalleled AI data platform with Polarise\u2019s innovative approach to AI factories and cloud delivery, we are enabling customers to power their AI ambitions responsibly and without compromise.\"\n\nPolarise specializes in building turnkey AI factories\u2014end-to-end, AI-centric data centers based on the NVIDIA reference architecture. With locations in Germany and Norway, Polarise offers customers a sovereign alternative for consuming AI computing power through colocation, dedicated/private cloud, or direct API access via its own cloud platform. Polarise\u2019s operations emphasize renewable energy, heat reuse, and cutting-edge cooling to ensure low-carbon, future-proof AI deployments.\n\n\"This partnership allows us to bring best-in-class storage and data intelligence from DDN into our ecosystem,\" said Nicolas Kremer, CTO of Polarise. \"Together, we\u2019re creating Europe\u2019s answer to the age of AI\u2014an agile, sovereign, and sustainable infrastructure that challenges outdated industry norms.\"\n\nThe joint offering will combine:\n\nDDN\u2019s enterprise-proven AI storage systems, optimized for NVIDIA DGX and AI factory environments, delivering extreme throughput and efficiency for AI model training, inference, and RAG workloads.\n\nPolarise\u2019s modular AI factory design and cloud delivery model, ensuring flexible, sovereign, and scalable access to AI compute and storage for enterprise and research customers.\n\nShared commitment to sustainability, reducing carbon impact through intelligent infrastructure design and integration with local communities.\n\nThe companies will initially focus on joint deployments across Germany and Norway, with further European expansion planned in 2025 and beyond.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.71
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Partnership between DDN and Polarise aims to deliver sustainable, NVIDIA-powered AI factories in Europe, benefiting NVDA's growth potential."
+    },
+    "date": "2025-07-15T08:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidias-stock-looks-set-soar-140000305.html",
+    "title": "Nvidia's Stock Looks Set to Soar on Resumption of H20 AI Chip Sales to China Nvidia stock's surge looks poised to accelerate because investors' biggest concern about the company -- losing the Chinese data center AI chip market -- is now a non-issue.",
+    "detail": "Nvidia's Stock Looks Set to Soar on Resumption of H20 AI Chip Sales to China\nBeth McKenna, The Motley Fool\nTue, Jul 15, 2025, 8:00 AM 5 min read\nIn This Article:\nNVDA\nKey Points\n\nNvidia was reportedly assured by the U.S. government that it could resume sales to China of its H20 AI chip.\n\nNvidia had designed the H20 specifically for the Chinese market after earlier U.S. export controls meant it couldn't sell its most advanced data center AI chips to China.\n\nThen in April, the government expanded the restrictions to include the H20, causing Nvidia to halt its sales and take charges of $4.5 billion on its fiscal Q1 results.\n\n10 stocks we like better than Nvidia \u203a\n\nOn Monday night, Nvidia (NASDAQ: NVDA) announced that it will resume sales of its H20 artificial intelligence (AI) chip to China, which it had halted in April because of new U.S. government export controls, citing national security concerns. Nvidia's announcement came via an email just after 9:30 p.m. ET to investors who subscribe to the company's news and other releases with a link to a blog post.\n\nThis is great news for investors and should help propel Nvidia stock higher.\n\nImage source: Getty Images.\nNvidia given OK by U.S. government to resume sales of the H20\n\nNvidia's email announcement credited CEO Jensen Huang for the H20 news, stating that he \"has been promoting AI this month in Washington, DC, and China -- emphasizing the benefits that AI will bring to business and society worldwide.\"\n\nBut here's the core message for investors contained in Nvidia's email announcement: \"NVIDIA is filing applications to sell the NVIDIA H20 GPU [graphics processing unit] again. The U.S. government has assured NVIDIA that licenses will be granted, and NVIDIA hopes to start deliveries soon.\"\n\nNote the word \"soon\" -- Nvidia hopes to start deliveries \"soon.\" Nvidia's fiscal second quarter ends in late July. So it seems likely that this H20 news will start making a major impact in the fiscal third quarter. More on potential financial implications follows.\n\nU.S. chip export controls to China expanded to include the H20 in April\n\nAs I wrote at the time: \"Nvidia stock fell 6.9% on Wednesday [April 16], following the tech giant's Tuesday night disclosure via a filing with the U.S. Securities and Exchange Commission (SEC) that it plans to take charges of up to $5.5 billion on its fiscal first-quarter results. The charges stem from the U.S. government enacting restrictions on the export of its H20 chip to China and select other countries.\"\n\nAs it ended up, Nvidia took charges (for H20 products in inventory and purchase commitments) of less than the maximum that it had originally estimated. In late May, when it reported its fiscal first-quarter results, the total H20-associated charges were $4.5 billion. Yes, that's still huge.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.8
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia resumes H20 AI chip sales to China, reversing $4.5B charge from Q1."
+    },
+    "date": "2025-07-15T08:00:00"
+  }
+]

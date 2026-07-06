@@ -1,0 +1,407 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/markets-hope-for-one-thing-from-us-china-tariff-talks-another-90-day-extension-152925614.html",
+    "title": "Markets hope for one thing from US-China tariff talks: another 90-day extension What the market is looking for as US and Chinese trade negotiators meet this week is whether recent de-escalatory signals between the two superpowers will produce a further delay of steep tariffs.",
+    "detail": "Markets hope for one thing from US-China tariff talks: another 90-day extension\nBen Werschkul \u00b7 Washington Correspondent\nUpdated Mon, Jul 28, 2025, 8:29 AM 4 min read\nIn This Article:\nNVDA\n\nUS and Chinese trade negotiators are meeting this week for at least two days of trade talks as most of the immediate term focus \u2014 at least from markets \u2014 remains on whether recent de-escalatory signals between the two superpowers will translate into a further delay of punishing additional tariffs.\n\nTrump officials also hope this third gathering of the trade teams in recent months will provide an opportunity to pivot to longer-term issues even as a short-term deadline of Aug. 12 remains front of mind.\n\nThe talks are being closely watched for whether they move the countries toward a face-to-face later this year between Presidents Trump and Xi Jinping as well as whether negotiators can solidify recent gains, such as a lessening of tensions around semiconductors and rare earth minerals.\n\n\"We have a good relationship with China,\" President Trump said Monday just after his team stepped into the talks.\n\nHe signaled his focus could be on market access, saying \"I'd love to see China open up their country.\"\n\nTreasury Secretary Scott Bessent, center, shakes hands with Swedish prime minister Ulf Kristersson as he arrived as Sweden's government seat, Rosenbad, in Stockholm on July 28 ahead of the trade talks with China. (FREDRIK SANDBERG/TT News Agency/AFP via Getty Images) \u00b7 FREDRIK SANDBERG via Getty Images\n\nChinese state media also confirmed Monday that talks were underway at the Rosenbad building in Stockholm without providing additional details.\n\nThe talks come during another crucial week for Trump's trade agenda, with a separate deadline looming this Friday for other countries to strike a deal after a pact was announced with the European Union Sunday setting 15% tariffs. Other major trading partners from Canada to South Korea are still in talks.\n\nYet the recent momentum on trade for Trump could have a limited impact on the more complex talks with China.\n\nZoe Liu, a senior fellow at the Council on Foreign Relations, noted on Yahoo Finance Monday morning that she does not think \"the EU's model is going to be a good template for U.S.China negotiation\" \u2014 pointing to how China has already proved a willingness to retaliate and that the country has key points of leverage and \"knows exactly where to hit back.\"\n\nTerry Haines, Pangaea Policy Founder, added that potential carrots from China could also have less impact.\n\nHe noted how foreign investment has been a key piece of recent deals \u2014 both with Europe and another pact with Japan \u2014 but that in the China context \"they don't want Chinese investment in a lot of areas\" \u2014 citing an effort to remove the influence of Chinese money in areas ranging from social media app TikTok to land purchases in the US.\n\nChina's Vice Premier He Lifeng waves as he arrives on July 28 for trade talks. (FREDRIK SANDBERG/TT News Agency/AFP via Getty Images) \u00b7 FREDRIK SANDBERG via Getty Images\nOverall talks seen as 'going in the right direction'\n\nThe China talks are being led on the US side by Treasury Secretary Scott Bessent with He Lifeng, the China's vice premier for economic policy, representing his country\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.47
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-28T08:29:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Trade talks may extend tariff pause, benefiting NVDA's semiconductor sales amid reduced tension over materials."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-teslas-valuation-is-hard-to-read-as-musks-ev-empire-falters-190957863.html",
+    "title": "Why Tesla's valuation is hard to read as Musk's EV empire falters Tesla's growing pains might have hit the company where it hurts post-earnings, but there is potential if the company can figure out what it wants to be when it grows up.",
+    "detail": "Why Tesla's valuation is hard to read as Musk's EV empire falters\nGrace L. Williams\nSun, Jul 27, 2025, 12:09 PM 3 min read\nIn This Article:\nTSLA\nNVDA\nF\nGOOGL\n\nPrickly billionaire Elon Musk is at a crossroads with Tesla (TSLA) \u2014 and investors are shouldering the outsized risk.\n\n\"I think we are in the transition phase, so it's a very critical phase for Tesla at the moment,\" Gradient Investments' Lisa Schreiber said on Yahoo Finance's Opening Bid (watch above).\n\nOn July 23, Tesla reported much weaker second quarter earnings compared to a year ago. During the earnings call, Musk cautioned about headwinds and shared that ride-hailing and autonomous features will be a key focus for the company going forward.\n\nShares fell directly after the earnings announcement and closed down 8.2% on Thursday.\n\nTesla remains an innovator, with robots and AI in its portfolio. Its EV business, however, is sharply declining as competition rises and backlash grows against Musk's politics. The expiration of a $7,500 federal credit for EVs won't help matters, either.\n\n\"When we look at valuation, investors do not know exactly how to value [Tesla]. Is it an EV maker? Is it more than that? The thing is, it's not just an EV play anymore,\" Schrieber said. \"But it's also not a robotaxi [and] robot company already. So we have struggles here.\"\n\nTo Schrieber's point, Tesla's stock trades more like a hot tech player trying to take on juggernauts like Nvidia (NVDA). Shares trade at 161 times the estimated forward price to earnings. (Nvidia, with much stronger growth, trades around 55 times.) Ford (F), a pure-play automaker, trades at 9.6 times.\n\nMeanwhile, some perceive Tesla as a company that isn't sure what it wants to be when it grows up. The innovation around autonomous driving is noteworthy, but the waiting can make even the most patient investor antsy.\n\n\"Especially with Tesla, we have to be a little bit careful,\" Schreiber said, noting that Musk has a history of huge promises but delayed launches.\n\nThe robotaxi, for instance, launched this past June in Austin, Texas. William Blair analysts Jed Dorsheimer and Mark Shooter, who rate Tesla's stock at Market Perform, noted that rival company Google's (GOOG) Waymo robotaxi \"represents a six-year head start.\"\n\n\"We think the training wheels will get taken off quickly and the pace at which robotaxi scales will surprise the upside,\" the pair wrote. \"Although maybe not to half of Americans by the end of the year.\"\n\nDuring Tesla's earnings call, Musk also discussed humanoid robots, AI, and their integration into the vehicle fleet, calling the company's cars \"essentially a four-wheeled robot.\"\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.46
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "date": "2025-07-27T12:09:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Tesla's Q2 earnings disappoint; shares fall 8.2%; focus shifts to ride-hailing, autonomous features; EV business faces competition, political backlash; NVDA unaffected."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-just-beat-apple-crazy-151822348.html",
+    "title": "Nvidia Just Beat Apple in This Crazy Metric \u2014 Should You Buy the Stock? Nvidia just beat Apple in a very major way \u2014 should you buy the stock? We break down if you should buy, sell or wait.",
+    "detail": "Nvidia Just Beat Apple in This Crazy Metric \u2014 Should You Buy the Stock?\nSunan Wongsa-nga / iStock.com\nLaura Beck\nMon, Jul 28, 2025, 8:18 AM 5 min read\nIn This Article:\nNVDA\nAAPL\nMSFT\n\nWhen you think about valuable companies, you probably think about their market cap. But there\u2019s a wild metric that reveals something much more interesting: market capitalization per employee. And Nvidia just absolutely crushed Apple in this bizarre measurement that might actually matter more than you think.\n\nHere\u2019s the comparison: Nvidia\u2019s market cap per employee stands at over $90 million per worker. Apple? Just $18 million per employee. Microsoft comes in at $15 million per employee. That means each Nvidia employee is \u201cworth\u201d five times more than an Apple employee from a market valuation perspective.\n\nCheck Out: I Asked ChatGPT What the Stock Market Will Look Like in 100 Days \u2014 Here\u2019s What It Said\n\nRead Next: 9 Downsizing Tips for the Middle Class To Save on Monthly Expenses\n\nNvidia vs. Apple: The Shocking Per-Employee Value Comparison\n\nLet\u2019s break down what we\u2019re actually looking at here. Nvidia currently sits at a $4.2 trillion market cap with just 36,000 employees. Do the math and you get roughly $117 million per employee at today\u2019s stock price of around $172.\n\nApple, despite being worth slightly less at around $3.3 trillion, employs about 180,000 people worldwide. That works out to roughly $18 million per employee. It\u2019s still an incredible number, but nothing compared to Nvidia\u2019s productivity machine.\n\nYou might be thinking, \u201cThis is just a fun math exercise,\u201d but market cap per employee reveals something crucial about how modern businesses create value. Companies with high per-employee valuations typically share certain characteristics that make them incredibly attractive investments.\n\nFirst, they\u2019re usually asset-light businesses that rely heavily on intellectual property rather than physical infrastructure. Nvidia doesn\u2019t manufacture its own chips. Instead, it designs them and outsources production to companies like Taiwan Semiconductor. This means they can scale revenue without proportionally scaling their workforce.\n\nDiscover More: I\u2019m a Financial Advisor: 4 Investing Rules My Millionaire Clients Never Break\n\nWhy Market Cap Per Employee Matters for Stock Investors\n\nSecond, these companies often operate in markets with massive demand but limited competition. Nvidia essentially has a monopoly on the AI chip market right now, powering everything from ChatGPT to self-driving cars. When you\u2019re the only game in town for the most important technology trend of our time, you can charge premium prices.\n\nThird, high per-employee value companies benefit from network effects and scalability. Once Nvidia develops a new chip architecture, that intellectual property can generate billions in revenue without requiring thousands of additional employees.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "date": "2025-07-28T08:18:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia's market cap per employee surpasses Apple's significantly ($90M vs $18M), suggesting higher employee value at Nvidia."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bc-most-active-stocks-143016473.html",
+    "title": "BC-Most Active Stocks Gibo Holdings Ltd. 851,749,346 0.132",
+    "detail": "BC-Most Active Stocks\nThe Associated Press\nMon, Jul 28, 2025, 7:30 AM 21 min read\nIn This Article:\n^IXIC\nHCTI\nGTI\nOPEN\nLIDR\n\nNEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks.\n\nNasdaq most active stocks:\n\nStock Name\n\n\t\n\nVolume\n\n\t\n\nHigh\n\n\t\n\nLow\n\n\t\n\nLast\n\n\t\n\nChange\n\n\n\n\nGibo Holdings Ltd.\n\n\t\n\n851,749,346\n\n\t\n\n0.132\n\n\t\n\n0.0794\n\n\t\n\n0.1042\n\n\t\n\n+0.0344\n\n\n\n\nHealthcare Triangle Inc.\n\n\t\n\n562,128,696\n\n\t\n\n0.082\n\n\t\n\n0.0716\n\n\t\n\n0.0798\n\n\t\n\n+0.0113\n\n\n\n\nGraphjet Technology\n\n\t\n\n226,889,255\n\n\t\n\n0.1599\n\n\t\n\n0.1282\n\n\t\n\n0.1362\n\n\t\n\n+0.0372\n\n\n\n\nBollinger Innovations Inc.\n\n\t\n\n131,686,486\n\n\t\n\n0.09\n\n\t\n\n0.0667\n\n\t\n\n0.0683\n\n\t\n\n+0.0023\n\n\n\n\nOpendoor Technologies Inc.\n\n\t\n\n128,045,121\n\n\t\n\n2.75\n\n\t\n\n2.45\n\n\t\n\n2.51\n\n\t\n\n-0.03\n\n\n\n\nAEye Inc.\n\n\t\n\n122,328,505\n\n\t\n\n6.44\n\n\t\n\n4.20\n\n\t\n\n4.5599\n\n\t\n\n+0.1249\n\n\n\n\nVisionWave Holdings Inc.\n\n\t\n\n110,263,733\n\n\t\n\n7.43\n\n\t\n\n3.28\n\n\t\n\n6.9405\n\n\t\n\n+4.5905\n\n\n\n\nNVNI Group Ltd.\n\n\t\n\n84,650,428\n\n\t\n\n0.6977\n\n\t\n\n0.5343\n\n\t\n\n0.5444\n\n\t\n\n+0.1241\n\n\n\n\nSMX (Security Matters) PLC\n\n\t\n\n60,847,746\n\n\t\n\n3.32\n\n\t\n\n2.44\n\n\t\n\n2.93\n\n\t\n\n+0.81\n\n\n\n\nIncannex Healthcare Inc.\n\n\t\n\n51,978,867\n\n\t\n\n1.25\n\n\t\n\n1.10\n\n\t\n\n1.1303\n\n\t\n\n+0.0803\n\n\n\n\nNVIDIA Corp.\n\n\t\n\n50,145,583\n\n\t\n\n175.57\n\n\t\n\n173.97\n\n\t\n\n175.05\n\n\t\n\n+1.55\n\n\n\n\nTesla Inc.\n\n\t\n\n48,705,808\n\n\t\n\n328.95\n\n\t\n\n315.69\n\n\t\n\n327.4601\n\n\t\n\n+11.4001\n\n\n\n\nABPRO Holdings Inc.\n\n\t\n\n43,044,035\n\n\t\n\n0.455\n\n\t\n\n0.3454\n\n\t\n\n0.3965\n\n\t\n\n+0.0811\n\n\n\n\nIntel Corp.\n\n\t\n\n42,353,104\n\n\t\n\n21.29\n\n\t\n\n20.69\n\n\t\n\n20.965\n\n\t\n\n+0.265\n\n\n\n\nPlug Power Inc.\n\n\t\n\n36,925,290\n\n\t\n\n1.93\n\n\t\n\n1.74\n\n\t\n\n1.7599\n\n\t\n\n-0.0801\n\n\n\n\nAdvanced Micro Devices Inc.\n\n\t\n\n36,901,472\n\n\t\n\n174.70\n\n\t\n\n168.67\n\n\t\n\n173.27\n\n\t\n\n+6.80\n\n\n\n\nWang & Lee Group Inc.\n\n\t\n\n30,959,819\n\n\t\n\n0.0998\n\n\t\n\n0.0806\n\n\t\n\n0.085\n\n\t\n\n-0.0081\n\n\n\n\nWARNER BROS. DISCOVERY INC.\n\n\t\n\n30,964,801\n\n\t\n\n13.79\n\n\t\n\n13.49\n\n\t\n\n13.655\n\n\t\n\n+0.165\n\n\n\n\nSuper Micro Computer Inc.\n\n\t\n\n30,378,503\n\n\t\n\n59.14\n\n\t\n\n55.30\n\n\t\n\n58.27\n\n\t\n\n+3.80\n\n\n\n\nTNF Pharmaceuticals Inc.\n\n\t\n\n29,598,393\n\n\t\n\n0.1291\n\n\t\n\n0.116\n\n\t\n\n0.1212\n\n\t\n\n+0.0044\n\n\n\n\nAnghami Inc.\n\n\t\n\n29,208,761\n\n\t\n\n0.70\n\n\t\n\n0.58\n\n\t\n\n0.598\n\n\t\n\n+0.1475\n\n\n\n\nMicrovision Inc. (Wash.)\n\n\t\n\n28,389,383\n\n\t\n\n1.62\n\n\t\n\n1.25\n\n\t\n\n1.285\n\n\t\n\n-0.015\n\n\n\n\nLucid Group Inc.\n\n\t\n\n23,388,319\n\n\t\n\n2.96\n\n\t\n\n2.86\n\n\t\n\n2.8698\n\n\t\n\n-0.0502\n\n\n\n\nErayak Power Solut.Group Inc.\n\n\t\n\n23,202,028\n\n\t\n\n0.1386\n\n\t\n\n0.1266\n\n\t\n\n0.1307\n\n\t\n\n+0.0037\n\n\n\n\nMill City Ventures III Ltd.\n\n\t\n\n23,016,817\n\n\t\n\n8.01\n\n\t\n\n6.07\n\n\t\n\n6.83\n\n\t\n\n+0.93\n\n\n\n\nSharpLink Gaming Inc.\n\n\t\n\n22,692,157\n\n\t\n\n23.10\n\n\t\n\n21.28\n\n\t\n\n21.42\n\n\t\n\n-0.57\n\n\n\n\nSoFi Technologies Inc.\n\n\t\n\n22,340,571\n\n\t\n\n21.22\n\n\t\n\n20.77\n\n\t\n\n20.8619\n\n\t\n\n-0.3381\n\n\n\n\nAmerican Airlines Group Inc.\n\n\t\n\n21,927,750\n\n\t\n\n11.63\n\n\t\n\n11.40\n\n\t\n\n11.555\n\n\t\n\n+0.055\n\n\n\n\nPalantir Technologies Inc.\n\n\t\n\n21,222,153\n\n\t\n\n160.2799\n\n\t\n\n157.66\n\n\t\n\n157.8168\n\n\t\n\n-0.9832\n\n\n\n\nCelcuity Inc.\n\n\t\n\n19,670,498\n\n\t\n\n46.42\n\n\t\n\n35.00\n\n\t\n\n39.63\n\n\t\n\n+25.86\n\n\n\n\niShares Ethereum Trust ETF\n\n\t\n\n19,408,777\n\n\t\n\n29.32\n\n\t\n\n28.56\n\n\t\n\n28.78\n\n\t\n\n+1.20\n\n\n\n\nAvalon GloboCare Corp.\n\n\t\n\n18,457,901\n\n\t\n\n4.74\n\n\t\n\n2.48\n\n\t\n\n3.20\n\n\t\n\n+0.93\n\n\n\n\nMajestic Ideal Holdings Ltd\n\n\t\n\n18,238,817\n\n\t\n\n2.225\n\n\t\n\n1.82\n\n\t\n\n1.99\n\n\t\n\n+0.18\n\n\n\n\nMARA Holdings Inc.\n\n\t\n\n17,956,395\n\n\t\n\n17.65\n\n\t\n\n17.00\n\n\t\n\n17.02\n\n\t\n\n-0.23\n\n\n\n\nGarden Stage Ltd.\n\n\t\n\n17,193,767\n\n\t\n\n0.1348\n\n\t\n\n0.12\n\n\t\n\n0.1309\n\n\t\n\n-0.0036\n\n\n\n\niShares Bitcoin Trust ETF\n\n\t\n\n16,871,560\n\n\t\n\n67.74\n\n\t\n\n66.98\n\n\t\n\n67.15\n\n\t\n\n+0.79\n\n\n\n\n22nd Century Group Inc.\n\n\t\n\n16,528,253\n\n\t\n\n3.93\n\n\t\n\n3.25\n\n\t\n\n3.4407\n\n\t\n\n+0.3707\n\n\n\n\nRiot Platforms Inc.\n\n\t\n\n16,390,981\n\n\t\n\n14.65\n\n\t\n\n14.01\n\n\t\n\n14.19\n\n\t\n\n-0.35\n\n\n\n\nNavitas Semiconductor Corp.\n\n\t\n\n15,843,052\n\n\t\n\n9.48\n\n\t\n\n8.33\n\n\t\n\n8.525\n\n\t\n\n-0.265\n\n\n\n\nOceanPal Inc.\n\n\t\n\n15,340,461\n\n\t\n\n0.1832\n\n\t\n\n0.17\n\n\t\n\n0.1751\n\n\t\n\n-0.012\n\n\n\n\nAlphabet Inc.\n\n\t\n\n14,458,812\n\n\t\n\n194.05\n\n\t\n\n191.2441\n\n\t\n\n191.575\n\n\t\n\n-1.605\n\n\n\n\nRigetti Computing Inc.\n\n\t\n\n14,216,440\n\n\t\n\n16.3172\n\n\t\n\n15.28\n\n\t\n\n15.73\n\n\t\n\n+0.29\n\n\n\n\nTilray Brands Inc.\n\n\t\n\n13,896,202\n\n\t\n\n0.7092\n\n\t\n\n0.67\n\n\t\n\n0.6877\n\n\t\n\n-0.0008\n\n\n\n\nIREN Ltd.\n\n\t\n\n12,144,550\n\n\t\n\n17.84\n\n\t\n\n16.665\n\n\t\n\n16.73\n\n\t\n\n-0.99\n\n\n\n\nAdial Pharmaceuticals Inc.\n\n\t\n\n11,878,567\n\n\t\n\n0.64\n\n\t\n\n0.564\n\n\t\n\n0.625\n\n\t\n\n+0.111\n\n\n\n\nRobinhood Markets Inc.\n\n\t\n\n11,704,915\n\n\t\n\n106.53\n\n\t\n\n104.66\n\n\t\n\n105.275\n\n\t\n\n+0.425\n\n\n\n\nSoundhound AI Inc.\n\n\t\n\n11,224,093\n\n\t\n\n12.24\n\n\t\n\n11.37\n\n\t\n\n11.425\n\n\t\n\n-0.285\n\n\n\n\nHeritage Distilling Group Inc.\n\n\t\n\n11,315,139\n\n\t\n\n0.8821\n\n\t\n\n0.475\n\n\t\n\n0.7332\n\n\t\n\n+0.2932\n\n\n\n\nRecursion Pharmaceuticals Inc.\n\n\t\n\n11,192,021\n\n\t\n\n6.685\n\n\t\n\n6.36\n\n\t\n\n6.42\n\n\t\n\n-0.07\n\n\n\n\nBit Digital Inc.\n\n\t\n\n10,914,209\n\n\t\n\n3.28\n\n\t\n\n3.07\n\n\t\n\n3.0941\n\n\t\n\n-0.0559\n\n\n\n\nApple Inc.\n\n\t\n\n10,713,680\n\n\t\n\n214.845\n\n\t\n\n213.58\n\n\t\n\n214.54\n\n\t\n\n+0.66\n\n\n\n\nFaraday Future Intel.Electric\n\n\t\n\n10,730,877\n\n\t\n\n2.985\n\n\t\n\n2.75\n\n\t\n\n2.75\n\n\t\n\n-0.16\n\n\n\n\nSidus Space Inc.\n\n\t\n\n10,589,440\n\n\t\n\n1.16\n\n\t\n\n1.08\n\n\t\n\n1.138\n\n\t\n\n-0.882\n\n\n\n\nCervoMed Inc.\n\n\t\n\n10,518,510\n\n\t\n\n13.13\n\n\t\n\n9.59\n\n\t\n\n9.85\n\n\t\n\n+0.87\n\n\n\n\nAmazon.com Inc.\n\n\t\n\n10,382,306\n\n\t\n\n234.29\n\n\t\n\n232.25\n\n\t\n\n233.91\n\n\t\n\n+2.47\n\n\n\n\nTerawulf Inc.\n\n\t\n\n9,731,637\n\n\t\n\n5.3799\n\n\t\n\n5.04\n\n\t\n\n5.055\n\n\t\n\n-0.115\n\n\n\n\nAlphabet Inc.\n\n\t\n\n9,722,166\n\n\t\n\n194.82\n\n\t\n\n192.13\n\n\t\n\n192.49\n\n\t\n\n-1.59\n\n\n\n\nRocket Lab Corp.\n\n\t\n\n9,474,458\n\n\t\n\n48.165\n\n\t\n\n44.88\n\n\t\n\n45.2104\n\n\t\n\n-2.2196\n\n\n\n\nBitfarms Ltd.\n\n\t\n\n8,742,148\n\n\t\n\n1.31\n\n\t\n\n1.25\n\n\t\n\n1.2699\n\n\t\n\n+0.0399\n\n\n\n\nIovance Biotherapeutics Inc.\n\n\t\n\n8,530,609\n\n\t\n\n3.41\n\n\t\n\n3.03\n\n\t\n\n3.0325\n\n\t\n\n-0.0975\n\n\n\n\nRivian Automotive Inc.\n\n\t\n\n8,478,113\n\n\t\n\n14.07\n\n\t\n\n13.75\n\n\t\n\n13.84\n\n\t\n\n-0.17\n\n\n\n\nOstin Tech.Group Co. Ltd.\n\n\t\n\n8,329,257\n\n\t\n\n0.1121\n\n\t\n\n0.10\n\n\t\n\n0.1029\n\n\t\n\n-0.0173\n\n\n\n\nHuntington Bancshares Inc.\n\n\t\n\n8,229,507\n\n\t\n\n16.8698\n\n\t\n\n16.70\n\n\t\n\n16.725\n\n\t\n\n-0.115\n\n\n\n\nCisco Systems Inc.\n\n\t\n\n7,977,174\n\n\t\n\n67.96\n\n\t\n\n67.37\n\n\t\n\n67.5162\n\n\t\n\n-1.1738\n\n\n\n\nOriental Rise Holdings Ltd.\n\n\t\n\n7,946,939\n\n\t\n\n0.1737\n\n\t\n\n0.1637\n\n\t\n\n0.1702\n\n\t\n\n-0.0049\n\n\n\n\nCEA Industries Inc.\n\n\t\n\n7,918,462\n\n\t\n\n77.00\n\n\t\n\n46.10\n\n\t\n\n58.76\n\n\t\n\n+49.885\n\n\n\n\nTron Inc.\n\n\t\n\n7,881,735\n\n\t\n\n12.00\n\n\t\n\n9.93\n\n\t\n\n11.4635\n\n\t\n\n+1.8635\n\n\n\n\nCipher Mining Inc.\n\n\t\n\n7,454,504\n\n\t\n\n6.635\n\n\t\n\n6.13\n\n\t\n\n6.16\n\n\t\n\n-0.31\n\n\n\n\nAGNC Investment Corp.\n\n\t\n\n7,373,401\n\n\t\n\n9.77\n\n\t\n\n9.67\n\n\t\n\n9.72\n\n\t\n\n+0.01\n\n\n\n\naTyr Pharma Inc.\n\n\t\n\n7,252,978\n\n\t\n\n7.2904\n\n\t\n\n6.00\n\n\t\n\n6.41\n\n\t\n\n+0.58\n\n\n\n\nApplied Digital Corp.\n\n\t\n\n7,173,733\n\n\t\n\n11.01\n\n\t\n\n10.40\n\n\t\n\n10.445\n\n\t\n\n-0.305\n\n\n\n\nPlus Therapeutics Inc.\n\n\t\n\n6,939,795\n\n\t\n\n0.6114\n\n\t\n\n0.5669\n\n\t\n\n0.5751\n\n\t\n\n+0.0453\n\n\n\n\nGrab Holdings Limited\n\n\t\n\n6,925,729\n\n\t\n\n5.36\n\n\t\n\n5.27\n\n\t\n\n5.285\n\n\t\n\n-0.075\n\n\n\n\nGeron Corp. (Del.)\n\n\t\n\n6,572,613\n\n\t\n\n1.28\n\n\t\n\n1.19\n\n\t\n\n1.20\n\n\t\n\n-0.06\n\n\n\n\nCleanspark Inc.\n\n\t\n\n6,552,291\n\n\t\n\n12.41\n\n\t\n\n11.85\n\n\t\n\n11.93\n\n\t\n\n+0.11\n\n\n\n\nTruGolf Holdings Inc.\n\n\t\n\n6,386,601\n\n\t\n\n6.8299\n\n\t\n\n5.88\n\n\t\n\n6.16\n\n\t\n\n+0.385\n\n\n\n\nCSX Corp.\n\n\t\n\n6,142,414\n\n\t\n\n35.9452\n\n\t\n\n35.51\n\n\t\n\n35.85\n\n\t\n\n+0.09\n\n\n\n\nSangamo Therapeutics Inc.\n\n\t\n\n6,038,181\n\n\t\n\n0.699\n\n\t\n\n0.62\n\n\t\n\n0.6322\n\n\t\n\n+0.0466\n\n\n\n\nKrispy Kreme Inc.\n\n\t\n\n6,034,276\n\n\t\n\n4.4289\n\n\t\n\n4.00\n\n\t\n\n4.1082\n\n\t\n\n-0.3118\n\n\n\n\nMicron Technology Inc.\n\n\t\n\n5,984,668\n\n\t\n\n112.00\n\n\t\n\n109.86\n\n\t\n\n111.275\n\n\t\n\n+0.015\n\n\n\n\natai Life Sciences B.V.\n\n\t\n\n5,883,267\n\n\t\n\n3.37\n\n\t\n\n3.06\n\n\t\n\n3.3401\n\n\t\n\n-0.2299\n\n\n\n\nSolid Power Inc.\n\n\t\n\n5,692,216\n\n\t\n\n4.68\n\n\t\n\n4.18\n\n\t\n\n4.205\n\n\t\n\n-0.105\n\n\n\n\nVor Biopharma Inc.\n\n\t\n\n5,635,839\n\n\t\n\n2.56\n\n\t\n\n2.235\n\n\t\n\n2.505\n\n\t\n\n+0.305\n\n\n\n\nBit Origin Ltd.\n\n\t\n\n5,581,410\n\n\t\n\n0.5792\n\n\t\n\n0.5201\n\n\t\n\n0.521\n\n\t\n\n+0.002\n\n\n\n\nHIVE Digital Technologies Ltd.\n\n\t\n\n5,584,500\n\n\t\n\n2.32\n\n\t\n\n2.22\n\n\t\n\n2.2452\n\n\t\n\n-0.0248\n\n\n\n\nMarvell Technology Inc.\n\n\t\n\n5,564,425\n\n\t\n\n76.585\n\n\t\n\n74.73\n\n\t\n\n75.22\n\n\t\n\n+1.01\n\n\n\n\nWebull Corp.\n\n\t\n\n5,471,694\n\n\t\n\n16.34\n\n\t\n\n15.60\n\n\t\n\n15.738\n\n\t\n\n-0.307\n\n\n\n\nCoinbase Global Inc.\n\n\t\n\n5,457,119\n\n\t\n\n395.39\n\n\t\n\n376.00\n\n\t\n\n377.11\n\n\t\n\n-14.55\n\n\n\n\nSarepta Therapeutics Inc.\n\n\t\n\n5,370,720\n\n\t\n\n13.08\n\n\t\n\n11.68\n\n\t\n\n12.6801\n\n\t\n\n+0.7501\n\n\n\n\nAbsci Corp.\n\n\t\n\n5,305,456\n\n\t\n\n3.09\n\n\t\n\n2.9725\n\n\t\n\n3.005\n\n\t\n\n+0.115\n\n\n\n\nQuantum Computing Inc.\n\n\t\n\n5,283,038\n\n\t\n\n17.18\n\n\t\n\n16.31\n\n\t\n\n16.51\n\n\t\n\n-0.20\n\n\n\n\nINmuneBio Inc.\n\n\t\n\n5,242,928\n\n\t\n\n3.244\n\n\t\n\n2.93\n\n\t\n\n3.009\n\n\t\n\n+0.299\n\n\n\n\nDragonfly Energy Holdings Corp\n\n\t\n\n5,178,012\n\n\t\n\n0.41\n\n\t\n\n0.36\n\n\t\n\n0.40\n\n\t\n\n-0.0092\n\n\n\n\nEos Energy Enterprises Inc.\n\n\t\n\n4,965,294\n\n\t\n\n6.54\n\n\t\n\n6.15\n\n\t\n\n6.1899\n\n\t\n\n-0.1801\n\n\n\n\nComcast Corp.\n\n\t\n\n4,901,990\n\n\t\n\n33.67\n\n\t\n\n33.305\n\n\t\n\n33.585\n\n\t\n\n-0.095\n\n\n\n\nIntensity Therapeutics Inc.\n\n\t\n\n4,697,529\n\n\t\n\n0.355\n\n\t\n\n0.33\n\n\t\n\n0.3501\n\n\t\n\n+0.0251\n\n\n\n\nMicrosoft Corp.\n\n\t\n\n4,618,718\n\n\t\n\n515.00\n\n\t\n\n511.90\n\n\t\n\n512.1939\n\n\t\n\n-1.5161\n\n\n\n\nOxford Lane Capital Corp.\n\n\t\n\n4,562,003\n\n\t\n\n3.72\n\n\t\n\n3.605\n\n\t\n\n3.7019\n\n\t\n\n+0.0819\n\n\n\n\nNano Nuclear Energy Inc.\n\n\t\n\n4,511,024\n\n\t\n\n42.8899\n\n\t\n\n37.20\n\n\t\n\n38.33\n\n\t\n\n-3.52\n\n\n\n\nChanson International Holding\n\n\t\n\n4,473,815\n\n\t\n\n0.124\n\n\t\n\n0.1188\n\n\t\n\n0.1199\n\n\t\n\n+0.0016\n\nNYSE most active stocks:\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.31
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.12
+      }
+    },
+    "date": "2025-07-28T07:30:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVDA Group Ltd. saw a +12.41% increase in its stock price."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/big-tech-earnings-coming-spotlight-140000575.html",
+    "title": "Big Tech Earnings Coming Up: Spotlight on Mag 7 ETFs MAGS, FNGS and TOPT ETFs are in focus as Microsoft, Meta, Apple and Amazon prepare to report key Q2 earnings this week.",
+    "detail": "Big Tech Earnings Coming Up: Spotlight on Mag 7 ETFs\nSweta Killa\nMon, Jul 28, 2025, 7:00 AM 8 min read\nIn This Article:\nTOPT\nMSFT\nMETA\nAAPL\nAMZN\n\nThe second-quarter earnings season has turned into high gear, and the so-called \u201cMagnificent 7\" companies are in focus. Four of the \u201cMagnificent 7\u201d members \u2014 Microsoft MSFT, Meta Platforms META, Apple AAPL and Amazon AMZN \u2014 are slated to report this week, accounting for almost a third of the S&P 500 members.\n\nThe second-quarter earnings of the \u201cMag 7\u201d companies are expected to be up\u00a014%\u00a0from the same period last year on 11.9% higher revenues. These expectations are a blend of actual results from Alphabet GOOGL and Tesla TSLA and estimates for the remaining five, of which four are on deck to report this week. Microsoft and Meta Platforms will report after market close on July 30, while Apple and Amazon will report on July 31. NVIDIA is likely to report later next month.\u00a0\n\nThe whole group has led the market\u2019s rebound from the April lows to new all-time highs. Only Apple is the laggard, as the company has not yet reaped the benefits of AI. Other members of the \u201cMagnificent 7\u201d are leaders in the AI space and are actively investing in setting up datacenters and related infrastructure that will enable them to run the large-language models (read:\u00a0Mag 7 ETFs Surge: Will the Rally Keep Rolling?).\n\nMicrosoft\n\nMicrosoft has an\u00a0Earnings ESP\u00a0of -0.64% and a Zacks Rank #2 (Buy). According to our methodology, the combination of a positive Earnings ESP and a Zacks Rank #1 (Strong Buy), 2 or 3 (Hold) increases the chances of an earnings beat. You can uncover the best stocks to buy or sell before they\u2019re reported with our Earnings ESP Filter.\n\nMicrosoft saw no earnings estimate revision over the past 30 days for the second quarter of fiscal 2025. Its earnings track record is impressive, with the four-quarter earnings surprise being 5.21%, on average. The Zacks Consensus Estimate indicates earnings growth of 13.6% and revenue growth of 13.9% from the year-ago quarter.\u00a0\n\nThe world's largest software company will continue to grow as artificial intelligence applications drive more cloud infrastructure usage. Microsoft's Azure cloud business is benefiting from the company's partnership with AI leader OpenAI.\n\nWall Street is clearly bullish on the world's largest software company heading into the results, with an average brokerage recommendation (ABR) of\u00a01.23 \u00a0made by 47 brokerage firms. Out of them, 39 are Strong Buy and five are Buy. Strong Buy and Buy, respectively, account for 82.98% and 10.64% of all recommendations. The average price target for Microsoft comes to $552.35, ranging from a low of $475.00 to a high of $626.00.\n\nSome analysts have also raised the target price on Microsoft. Evercore ISI raised its price target to $545.00 from $515.00, citing that the company\u2019s momentum in Azure and AI will continue to drive \"durable double-digit top and bottom line growth.\u201d Wedbush lifted the price target to $6000. According to Wedbush, the company \"is just hitting its next phase of monetization on the AI front,\" thanks to the adoption of Copilot, its chatbot, and the cloud-computing platform Azure (read:\u00a0ETFs to Surge as Microsoft Tops $3.5T, Reclaims Top Spot).\n\nMeta Platforms\n\nMeta Platforms has an Earnings ESP of +2.91% and a Zacks Rank #1. The social media giant saw a negative earnings estimate revision of five cents for the second quarter over the past seven days. The Zacks Consensus Estimate for the yet-to-be-reported quarter indicates substantial year-over-year earnings growth of 12.98%. Revenues are expected to increase 14.77% year over year. Meta Platforms delivered an earnings surprise of 17.30%, on average, in the last four quarters.\u00a0\n\nMeta currently has a Wall Street analyst recommendation of\u00a01.35\u00a0made by 55 brokerage firms. Of these, 45 are Strong Buy and three are Buy. Strong Buy and Buy, respectively, account for 81.82% and 5.45% of all recommendations. Based on short-term price targets offered by 52 analysts, the average price target for Meta Platforms comes to $756.13, ranging from a low of $566.00 to a high of $935.00.\n\nMeta\u2019s AI strategy now serves as the backbone of its business transformation. The company has now committed $60\u201370 billion in capital expenditure for this year, with the lion\u2019s share earmarked for AI infrastructure. This includes cutting-edge data centers like Prometheus and Hyperion, as well as the deployment of NVIDIA\u2019s Grace Hopper Superchip. These bold investments are already delivering results across Meta\u2019s platforms. The 30% adoption of Advantage+ is driving a 5% boost in Reels conversion rates. AI-driven recommendations have lifted time spent on Facebook by 7% and on Threads by a remarkable 35%. Instagram Reels engagement is up 24%, fueled by improved algorithmic personalization.\n\nThe world\u2019s largest social media platform projects revenues in the range of $42.5-$45.5 billion for the second quarter.\u00a0\n\nApple\n\nApple has an Earnings ESP of +3.52% and a Zacks Rank #3. Apple saw a positive earnings estimate revision of a penny over the past 30 days for the fiscal third quarter of 2025. The iPhone maker has a strong track record of positive earnings surprises. It delivered an average earnings surprise of 4.68% in the trailing four quarters. The Zacks Consensus Estimate indicates a modest year-over-year increase of 1.43% for earnings and 3.67% for revenues.\n\nThe tech giant currently has a Wall Street analyst recommendation of\u00a02.04\u00a0made by 37 brokerage firms. Of these, 18 are Strong Buy and three are Buy. Strong Buy and Buy respectively account for 48.65% and 8.11% of all recommendations. Based on short-term price targets offered by 33 analysts, the average price target for Apple comes to $231.52. The forecasts range from a low of $139.00 to a high of $300.00.\n\nOn the last earnings call, the iPhone maker guided \u201clow to mid-single digit\u201d sales growth for the fiscal third quarter. Chief executive Tim Cook warned that Apple is likely to face a $900 million headwind as a result of tariffs. He added that it is \u201cvery difficult\u201d to predict beyond June due to uncertainties surrounding the U.S.-China trade policy.\u00a0\n\nAmazon\n\nAmazon has an Earnings ESP of +7.37% and a Zacks Rank #1. The company saw a positive earnings estimate revision of a penny over the past seven days for the second quarter. The Zacks Consensus Estimate indicates a year-over-year earnings increase of 8.13% and substantial revenue growth of 9.67% for the to-be-reported quarter. Additionally, Amazon\u2019s earnings surprise history is impressive, with the four-quarter average surprise being 20.68%.\u00a0\n\nAmazon currently has a Wall Street analyst recommendation of\u00a01.15\u00a0made by 55 brokerage firms. Of these, 48 are Strong Buy and six are Buy. Strong Buy and Buy respectively account for 87.27% and 10.91% of all recommendations. Based on short-term price targets offered by 53 analysts, the average price target for Amazon comes to $254.38, ranging from a low of $195.00 to a high of $305.00.\u00a0\n\nAmazon continues to dominate the e-commerce business and is expanding its footprint in cloud computing, advertising and various other sectors. The world's largest online retailer projected revenues of $159-$164 billion for the second quarter of 2025. Blockbuster Prime Day Event sales are likely to boost revenues for the company. Like other tech companies, Amazon is ramping up investments in data centers, chips and the power needed for AI workloads. It is also investing in its own computer chips and those developed by NVIDIA.\u00a0\n\nHowever, CFO Brian Olsavsky, on the last earnings call, issued a cautious outlook due to uncertain consumer demand in the face of President Trump's shifting tariff policies.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "date": "2025-07-28T07:00:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Second-quarter earnings for \"Mag 7\" firms, including Microsoft, Meta, Apple, Amazon, and NVDA, expected to rise 14%, with 11.9% revenue growth; Microsoft, Meta, Apple, and"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/p-500-rally-faces-11-113000120.html",
+    "title": "S&P 500 Rally Faces $11 Trillion Gauntlet of Big Tech Earnings (Bloomberg) -- The S&P 500 Index\u2019s relentless advance to record highs faces a crucial test this week, with four technology behemoths worth a combined $11.3 trillion reporting earnings over a two-day stretch.Most Read from BloombergCan This Bridge Ease the Troubled US-Canadian Relationship?Budapest\u2019s Most Historic Site Gets a Controversial RebuildTrump Administration Sues NYC Over Sanctuary City PolicyThis earnings season is off to a solid start, but now all eyes are on quarterly results from Mic",
+    "detail": "S&P 500 Rally Faces $11 Trillion Gauntlet of Big Tech Earnings\nJeran Wittenstein, Carmen Reinicke and Ryan Vlastelica\nMon, July 28, 2025 at 6:36 AM MST 4 min read\n9\nIn This Article:\nStockStory Top Pick\nSMCI\n+6.21%\nMETA\n+0.65%\nMSFT\n-0.22%\nNVDA\n+0.83%\nGOOGL\n-1.03%\n\n(Bloomberg) -- The S&P 500 Index\u2019s relentless advance to record highs faces a crucial test this week, with four technology behemoths worth a combined $11.3 trillion reporting earnings over a two-day stretch.\n\nMost Read from Bloomberg\n\nCan This Bridge Ease the Troubled US-Canadian Relationship?\n\nBudapest\u2019s Most Historic Site Gets a Controversial Rebuild\n\nTrump Administration Sues NYC Over Sanctuary City Policy\n\nThis earnings season is off to a solid start, but now all eyes are on quarterly results from Microsoft Corp. and Meta Platforms Inc. on Wednesday, and Apple Inc. and Amazon.com Inc. on Thursday. The announcements will give investors a key glimpse into the health of businesses ranging from electronic devices and software to cloud-computing and e-commerce.\n\nA strong showing is critical to sustaining the S&P 500\u2019s rally. The four firms \u2014 members of the Magnificent Seven \u2014 account for a fifth of the market-capitalization-weighted benchmark. What\u2019s more, Meta and Microsoft are among the top three point gainers in the S&P this year, after Nvidia Corp. With valuations climbing, the focus will be not only on whether they beat estimates, but also on their outlook for the coming quarters.\n\n\u201cThe bar is set pretty high,\u201d said Michael Arone, chief investment strategist at State Street Investment Management. \u201cThe Magnificent Seven in particular, they really need to deliver now to keep this momentum going.\u201d\n\nThe S&P 500 rose 0.1% on Monday, on track for a sixth straight positive session. Markets were supported by a trade deal between the US and Europe.\n\nSo far, Corporate America appears to be taking President Donald Trump\u2019s tariffs in stride. With about a third of S&P 500 members having reported, roughly 82% have beaten profit forecasts, on track for the best quarter in about four years, data compiled by Bloomberg Intelligence show. The performance has helped lift the benchmark by about 2% since the cycle kicked off around two weeks ago.\n\nTo be fair, analysts had slashed estimates over the past few months amid concerns about the impact of tariffs on consumer spending and profit margins. While Big-Tech projections have come down too, the surge in stock prices has kept expectations elevated.\n\nThe Magnificent Seven, which also includes Nvidia, Alphabet Inc. and Tesla Inc., is projected to deliver combined year-over-year earnings growth of 16% in the second quarter, according to data compiled by BI. That\u2019s down from expectations of 19% at the end of March, before Trump announced his sweeping tariffs. Nvidia is the final member of the group to report, in late August.\n\nThe S&P 500, meanwhile, is expected to show annual profit growth of 4.5%, down from the 7.5% projected in March.\n\nIt\u2019s all amping up the pressure on Big Tech. Many of the companies may need to give rosy forecasts to justify valuations, according to Anthony Saglimbene, chief market strategist at Ameriprise Advisor Services.\n\n\u201cThey\u2019re likely going to have to say that the rest of the year or the next quarter looks positive, either re-affirming guidance or even upping guidance,\u201d he said.\n\nAI Divergence\n\nSome of Magnificent Seven have failed to live up to the moniker this year as artificial intelligence has again become the dominant theme separating winners from losers in the stock market. Meta, Microsoft and Nvidia account for nearly half of the S&P 500\u2019s gain this year, while shares of companies including Apple have weakened amid struggles with the technology.\n\nThat divergence was on display last week, when Alphabet rose after reporting strong earnings growth, while a bleak outlook for electric-vehicle sales sent Tesla\u2019s stock tumbling.\n\nInvestors will watch capital-spending plans particularly closely. Many companies have increased spending on AI infrastructure, which has made the makers of computing gear like Nvidia and Super Micro Computer Inc. some of the best-performing stocks of the year.\n\nAll signs point to that continuing. In total, Microsoft, Alphabet, Amazon and Meta are projected to pump $317 billion into capital spending in their current fiscal years, with that figure rising to $350 billion in 2026, according to the average of analyst estimates compiled by Bloomberg.\n\nAwaiting Payoff\n\nInvestors have rewarded such aggressive plans in recent months, especially Meta, shares of which have rallied about 22% this year. But ultimately, investors have to see the payoff, says Gabriela Santos, chief strategist for the Americas at JPMorgan Asset Management.\n\n\u201cInvestors are becoming much more overt in saying, \u2018show me the money,\u2019\u201d she said. \u201cAt these levels, especially for large-cap tech, we need to see monetization rather than a promise of monetization coming at some point down the line.\u201d\n\nMagnificent Seven valuations have jumped from the depths of the tariff-induced selloff in April, but they still remain well below peak levels. The group is priced at 28 times projected profits, compared with a high of 34 in December while the S&P 500 is priced at 22 times.\n\n\u201cWhile Big Tech P/Es can look high on the surface, if you consider the growth and the high free cash flow and the strong return on invested capital, in many cases they\u2019re attractively priced,\u201d said Tony DeSpirito, managing director and head of US fundamental equities at BlackRock.\n\n(Updates to market open.)\n\nMost Read from Bloomberg Businessweek\n\nBurning Man Is Burning Through Cash\n\nIt\u2019s Not Just Tokyo and Kyoto: Tourists Descend on Rural Japan\n\nElon Musk\u2019s Empire Is Creaking Under the Strain of Elon Musk\n\nConfessions of a Laptop Farmer: How an American Helped North Korea\u2019s Wild Remote Worker Scheme\n\nScottish Wind Farms Show How to Counter Nimby Opposition\n\n\u00a92025 Bloomberg L.P.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.76
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": null,
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "4 tech giants, including NVDA, worth $11.3T report earnings; results from MSFT, META, AAPL, GOOGL to provide insight into health of electronics & software businesses."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/microvision-movia-lidar-now-supported-132000710.html",
+    "title": "MicroVision MOVIA Lidar Now Supported on NVIDIA DRIVE AGX, Enabling Advanced Perception-Enhanced Solutions for Automakers REDMOND, WASHINGTON / ACCESS Newswire / July 28, 2025 / MicroVision, Inc. (NASDAQ:MVIS), a technology pioneer delivering advanced perception solutions in autonomy and mobility, today announced that its MOVIA\u2122 lidar system is now supported on the NVIDIA ...",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nMicroVision MOVIA Lidar Now Supported on NVIDIA DRIVE AGX, Enabling Advanced Perception-Enhanced Solutions for Automakers\nMicroVision, Inc\nMon, Jul 28, 2025, 6:20 AM 3 min read\nIn This Article:\nMVIS\nNVDA\n\nREDMOND, WASHINGTON / ACCESS Newswire / July 28, 2025 / MicroVision, Inc. (NASDAQ:MVIS), a technology pioneer delivering advanced perception solutions in autonomy and mobility, today announced that its MOVIA\u2122 lidar system is now supported on the NVIDIA DRIVE AGX platform, enabling seamless utilization by automotive customers of MicroVision's perception-enhanced lidar solutions.\n\nNVIDIA DRIVE AGX is a scalable and energy-efficient AI computing platform designed to process the complex workloads required for autonomous driving. It delivers industry-leading performance for the development and production of functionally safe AI-powered vehicles.\n\n\"With our MOVIA solution now supported on the NVIDIA DRIVE AGX platform via a plugin driver, we're giving automotive OEMs and other partners robust point cloud data already processed by our powerful perception compute within the sensor,\" said Glen DeVos, CTO of MicroVision. \"Even as opportunities for MicroVision's perception and lidar solutions span into various industrial sectors, we remain fully committed to ensuring that our technology serves as a crucial key to unlocking important safety features for automotive OEMs.\n\n\"As OEMs continue to advance their ADAS and autonomy solutions, we believe our MOVIA sensors are uniquely positioned to play a key role, especially with their focus on cost efficiency and onboard perception features,\" continued DeVos. \"Our fully industrialized, solid state MOVIA L sensor is specifically designed for commercial trucking, and our MOVIA S sensor is expected to deliver high performance at a very competitive price, particularly for the high volumes of the automotive industry. The availability of our technology on the industry-leading platform will allow for faster integration into automotive OEMs' ADAS and autonomy platforms, which we anticipate will accelerate our opportunities in the automotive market.\"\n\nAbout MicroVision\n\nMicroVision is at the forefront of driving the global adoption of innovative perception solutions, with the goal of making mobility and autonomy safer. Our engineering excellence, based in Redmond, Washington and Hamburg, Germany, enables us to develop and supply integrated lidar hardware and perception software solutions. Our proprietary technologies enhance safety and automation across various industrial applications, including robotics, automated warehouses, and agriculture, and are instrumental in the development of autonomous systems. MicroVision's core technology, initially developed for the automotive industry, continues to accelerate advanced driver-assistance systems (ADAS) and autonomous driving. Building on our history of providing technology to the military segment, our target offerings include semi- and fully autonomous airborne and terrestrial sensor systems. With our solid-state lidar technologies, encompassing MEMS-based long-range lidar and flash-based short-range lidar, integrated with our onboard perception software, MicroVision possesses the expertise to deliver safe mobility at the speed of life.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.41
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.4
+      }
+    },
+    "date": "2025-07-28T06:20:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "MicroVision's MOVIA lidar system now compatible with NVIDIA DRIVE AGX, enhancing automaker access to advanced perception solutions."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/grab-strong-buy-semiconductor-stock-131750976.html",
+    "title": "Should You Grab This \u2018Strong Buy\u2019 Semiconductor Stock Ahead of Earnings? CDNS is outperforming ahead of tonight's earnings report, which means the bar is high for the semiconductor stock to beat Wall Street's estimates.",
+    "detail": "Should You Grab This \u2018Strong Buy\u2019 Semiconductor Stock Ahead of Earnings?\nElizabeth H. Volk\nMon, Jul 28, 2025, 6:17 AM 3 min read\nIn This Article:\nCDNS\n^SPX\nSemiconductor close up by Yosi Azwan via iStock\n\nCadence Design Systems (CDNS) is in focus this Monday ahead of its\u00a0upcoming Q2 2025 earnings report, scheduled for release after today\u2019s closing bell. Analysts project non-GAAP earnings per share (EPS) of $1.57 and revenues between $1.25-1.27 billion, representing an impressive 18.7% year-over-year growth.\n\nAhead of earnings, the specialized semiconductor design stock set an\u00a0all-time high price at $335.16 on July 25, reflecting widespread investor optimism going into the Q2 results. CDNS is up 10% year-to-date, outpacing the broader S&P 500 Index ($SPX). The stock ended last week perched above its upper Bollinger Band, suggesting that CDNS shares could be somewhat overbought going into tonight\u2019s earnings.\n\nMore News from Barchart\n\nAlphabet Posts Lower Free Cash Flow and FCF Margins - Is GOOGL Stock Overvalued?\n\nTech Earnings, Tariff Deadline and Other Key Things to Watch this Week\n\nOption Volatility And Earnings Report For July 28 \u2013 Aug 1\n\nStop Missing Market Moves: Get the FREE Barchart Brief \u2013 your midday dose of stock movers, trending sectors, and actionable trade ideas, delivered right to your inbox. Sign Up Now!\n\nwww.barchart.com\n\nOverall, the options market is pricing in a post-event price swing of 6.12% in either direction for Cadence stock, which is less dramatic than its average earnings reaction of 7.41% over the past four quarters.\n\nwww.barchart.com\nInside the Chip Business at CDNS\n\nWhile the rally in CDNS raises the odds for a \u201csell the news\u201d earnings reaction, the stock\u2019s strength has been driven by positive results in its core electronic design automation (EDA) business, which boasts exceptional gross profit margins of 86%. The EDA business has been booming amid increasing demand in the artificial intelligence (AI), hyperscale, and automotive markets.\n\nCadence's AI portfolio, which includes Cerebrus, Verisium AI, and Allegro X AI solutions, has experienced rapid adoption as system companies develop next-generation AI products. The System Design and Analysis division shows promising momentum, driven by solutions like Allegro X and AI-powered Substrate Router, while the IP business division is projected to achieve 26.5% year-over-year growth due to rising demand for AI and chiplet solutions.\n\nHowever, there are over potential distortions to Q2 results due to U.S.-China tech tensions and export restrictions, with Cadence and peer Synopsys (SNPS) cleared to resume exports to the mainland as recently as July 3.\n\nIs CDNS Stock a Buy?\n\nRecent analyst upgrades for CDNS have boosted investor confidence, with Loop Capital raising its price target to $370 and Goldman Sachs initiating coverage with a \u201cBuy\u201d rating and ambitious $380 target. The company's strategic partnerships with industry leaders like Nvidia (NVDA), Taiwan Semiconductor (TSM), Qualcomm (QCOM), and Intel (INTC) position it favorably for continued growth in the rapidly growing semiconductor space, and\u00a0the stock boasts a \u201cStrong Buy\u201d rating overall from the 19 analysts in coverage.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.29
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.5
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-07-28T06:17:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "CDNS stock sets all-time high before earnings; projected EPS of $1.57, revenues between $1.25-1.27B, up 18.7% YoY. CDNS up"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-131200173.html",
+    "title": "The Zacks Analyst Blog Highlights NVIDIA, Netflix, Goldman Sachs and AMREP NVDA, NFLX, GS, and AXR stand out with strong performance and growth drivers, despite margin or macro risks.",
+    "detail": "The Zacks Analyst Blog Highlights NVIDIA, Netflix, Goldman Sachs and AMREP\nZacks Equity Research\nMon, Jul 28, 2025, 6:12 AM 5 min read\nIn This Article:\nNVDA\nAXR\nNFLX\nGS\nFor Immediate Release\n\nChicago, IL \u2013 July 28, 2025 \u2013 Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: NVIDIA Corp. NVDA, Netflix, Inc. NFLX, The Goldman Sachs Group, Inc. GS and AMREP Corp. AXR.\n\nHere are highlights from Friday\u2019s Analyst Blog:\n\nTop Research Reports for NVIDIA, Netflix and Goldman Sachs\n\nThe Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 16 major stocks, including NVIDIA Corp. (NVDA), Netflix, Inc. (NFLX), and The Goldman Sachs Group, Inc. (GS), as well as a micro-cap stock, AMREP Corp. (AXR). The Zacks microcap research is unique as our research content on these small and under-the-radar companies is the only research of its type in the country.\n\nThese research reports have been hand-picked from the roughly 70 reports published by our analyst team today.\n\nYou can see all of today's research reports here >>>\n\nAhead of Wall Street\n\nThe daily 'Ahead of Wall Street' article is a must-read for all investors who would like to be ready for that day's trading action. The article comes out before the market opens, attempting to make sense of that morning's economic releases and how they will affect that day's market action. You can read this article for free on our home page and can actually sign up there to get an email notification as this article comes out each morning.\n\nYou can read today's AWS here >>> Pre-Markets Moderate in the Green for Another Up-Week\n\nNVIDIA's shares have outperformed the Zacks Semiconductor - General industry over the past year (+54.7% vs. +45.3%). NVIDIA is benefiting from the strong growth of artificial intelligence (AI) and high-performance, accelerated computing. The growing demand for generative AI and large language models using graphics processing units (GPUs) based on NVIDIA's Hopper and Blackwell architectures is aiding data center revenues.\n\nHowever, a limited supply of Blackwell GPUs could hinder its ability to meet demand. Rising costs associated with the production of more complex AI systems will hurt margins.\n\n(You can read the full research report on NVIDIA here >>>)\n\nShares of Netflix have outperformed the Zacks Broadcast Radio and Television industry over the past year (+87.0% vs. +66.6%). Netflix delivered strong second-quarter results with earnings of $7.19 per share (beating estimates by 1.7%) and revenue of $11.07 billion (up 16% YoY).\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.37
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "date": "2025-07-28T06:12:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"Analyst Blog highlights NVIDIA, with Zacks Equity Research discussing its recent news and events.\""
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/huaweis-ai-system-may-pressure-125934181.html",
+    "title": "Huawei's AI System May Pressure Nvidia Dominance CloudMatrix innovation could match GB200 performance",
+    "detail": "Huawei's AI System May Pressure Nvidia Dominance\nUndercovered Deep Insights\nMon, Jul 28, 2025, 5:59 AM 1 min read\nIn This Article:\nNVDA\n\nHuawei surprised many at the Shanghai AI conference when it rolled out its CloudMatrix 384 system.\n\nInstead of a handful of high?power chips, Huawei went for 384 of its 910C processors and stitched them together with what it calls supernode architecture.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nThe upshot? On some benchmarks it lines up pretty closely with Nvidia's (NASDAQ:NVDA) GB200 NVL72, according to SemiAnalysis founder Dylan Patel.\n\nWe heard from Huawei Cloud's Zhang Pingan in June that CloudMatrix 384 is already humming away on their public cloud.\n\nThat's a big deal because it shows Huawei isn't just talking hardware it's actually running real?world workloads. Sure, Nvidia's B200 chips still boast higher efficiency per chip. But Huawei's play is all about scale and system smarts rather than raw chip muscle.\n\nIf Huawei can deliver on price and availability, Nvidia could feel some heat especially in markets where cost rules.\n\nOf course, export rules and customer comfort with Chinese tech remain question marks. For now, CloudMatrix 384 is China's boldest bid yet to challenge the AI?infrastructure crown. Watch pricing, performance reports and any new U.S. export moves.\n\nThey'll tell us whether this is a fleeting headline or the start of a real shake?up.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.35
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "date": "2025-07-28T05:59:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Huawei's CloudMatrix 384 challenges NVDA dominance with comparable performance on certain benchmarks."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvda-huawei-challenges-nvidia-ai-125826148.html",
+    "title": "NVDA: Huawei Challenges Nvidia with New AI Compute Platform China's Huawei Unveils AI Supercomputer That Could Eclipse Nvidia's H100",
+    "detail": "NVDA: Huawei Challenges Nvidia with New AI Compute Platform\nNauman khan\nMon, Jul 28, 2025, 5:58 AM 1 min read\nIn This Article:\nNVDA\n\nJuly 28 - Huawei Technologies took the stage at Shanghai's World Artificial Intelligence Conference to reveal its CloudMatrix 384 AI computing system, a platform Reuters reports rivals Nvidia's (NASDAQ:NVDA) most advanced offering.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nBuilt on custom AI?optimized chips and high?speed interconnects, CloudMatrix 384 delivers multi?petaflop performance for large?scale model training. Huawei says the system taps innovations in chip design, cooling and power efficiency to match or exceed the throughput of Nvidia's H100 GPUs, which dominate data?center AI workloads.\n\nAnalysts note that while Nvidia (NASDAQ:NVDA) holds roughly 80% of the high?end AI accelerator market, competitors like Huawei and Cerebras are closing the gap. CloudMatrix 384 could appeal to Chinese cloud providers and enterprises seeking alternatives amid U.S. export restrictions on Nvidia chips.\n\nInvestors remain bullish on the company's next?generation Blackwell architecture. For Huawei, the launch signals an intensified push into global AI infrastructure, setting up a fierce technology duel between the U.S. and Chinese AI champions.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.53
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.4
+      }
+    },
+    "date": "2025-07-28T05:58:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Huawei unveils CloudMatrix 384 AI platform, challenging Nvidia's dominance in high-end AI accelerators."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-gains-trump-ai-push-125509213.html",
+    "title": "Nvidia Gains as Trump AI Push Fuels Investor Optimism Trump unveils 90-point AI strategy targeting China, deregulation",
+    "detail": "Nvidia Gains as Trump AI Push Fuels Investor Optimism\nFaizan Farooque\nMon, Jul 28, 2025, 5:55 AM 1 min read\nIn This Article:\nNVDA\n\nNvidia (NVDA, Financials) rose about 1.7% on Thursday after the Trump administration unveiled a broad artificial intelligence strategy aimed at expanding U.S. dominance in the sector with a heavy focus on deregulation and infrastructure growth.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nThe 25-page America's AI Action Plan includes 90 policy proposals to streamline data center construction, boost AI tool access for U.S. allies, and eliminate federal rules that hinder AI development; specific regulations targeted for repeal were not disclosed.\n\nDavid Sacks, the White House's AI czar, said the U.S. is in an AI race; the plan includes measures to counter China's influence in international governance bodies and proposes reviewing Chinese AI models for alignment with state censorship. Secretary of State Marco Rubio said the strategy sets the technological gold standard globally.\n\nThe initiative promotes building more U.S. data centers; it also introduces fast-track permitting and opens access to federal land. Environmental oversight will be relaxed; the Environmental Protection Agency is reportedly preparing to reverse a key emissions finding a move that could limit future climate regulations.\n\nThe AI rollout comes amid growing power demands and rising emissions. Google's 2024 sustainability report cited a 48% increase in greenhouse gas emissions since 2019; the surge was largely attributed to energy-intensive AI infrastructure.\n\nDespite promising that AI will complement human labor, the plan arrives as companies increasingly turn to automation. Job cuts from Recruit Holdings (owner of Indeed and Glassdoor), Salesforce, and others have been linked directly to AI deployment.\n\nSome analysts see the rollout as investor-friendly. Wedbush analyst Dan Ives called it a watershed moment and a big step forward in the AI arms race.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.76
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "date": "2025-07-28T05:55:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2. No direct information about NVDA found."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/samsung-tesla-collaboration-benefit-graphjet-125300096.html",
+    "title": "Samsung and Tesla collaboration to benefit Graphjet New York, United States, July 28, 2025 (GLOBE NEWSWIRE) -- Graphjet Technology (\u201cGraphjet\u201d or \u201cthe Company\u201d) announced today that it stands to benefit from the expansion in the semiconductor manufacturing in the United States, where many chip manufacturers have invested, especially in the production of AI Chips. Tesla CEO, Elon Musk, made an announcement today that Tesla has signed a $16.5 billion chipmaking agreement with Samsung which will last until 2033 where Samsung\u2019s fabrication plant in T",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nSamsung and Tesla collaboration to benefit Graphjet\nGraphjet Technology\nMon, Jul 28, 2025, 5:53 AM 4 min read\nIn This Article:\nGTI\n005930.KS\nTSLA\n2330.TW\nNVDA\nGraphjet Technology\n\nNew York, United States, July 28, 2025 (GLOBE NEWSWIRE) -- Graphjet Technology (\u201cGraphjet\u201d or \u201cthe Company\u201d) announced today that it stands to benefit from the expansion in the semiconductor manufacturing in the United States, where many chip manufacturers have invested, especially in the production of AI Chips.\n\nTesla CEO, Elon Musk, made an announcement today that Tesla has signed a $16.5 billion chipmaking agreement with Samsung which will last until 2033 where Samsung\u2019s fabrication plant in Texas will be dedicated to making the next-generation AI6 inference chips, which is designed for humanoid robots, self-driving cars and AI data centers.\n\nWith the surging demand for specialized chips, especially AI chips, many manufacturers have been expanding their production capacity, including Taiwan Semiconductor Manufacturing Company (TSMC), which has announced its intention to invest in advanced semiconductor manufacturing in the United States by an additional $100 billion and Nvidia building supercomputers manufacturing plants in Texas.\n\n\u201cAs a producer of graphite and graphene, Graphjet stands to benefit from the expansion of the AI chip production as graphite and graphene plays a crucial role in semiconductor manufacturing, particularly in processes requiring high temperature and precise control.\u00a0 The current growth in semiconductor industry in the United States is timely for our planned expansion to build a production plant in Nevada. We have started to generate revenue and have been gaining increasing interest in our product, with growing number of visits by corporate representatives and directors of multinational clients, requests for samples, and more qualification process. The growth in the semiconductor industry will accelerate the growth of our company.\u201d says Chris Lai, CEO of Graphjet.\n\nAbout Graphjet Technology\n\nGraphjet Technology (Nasdaq: GTI) was founded in 2019 in Malaysia as an innovative graphene and graphite producer. Graphjet Technology has the world\u2019s first patented technology to recycle palm kernel shells generated in the production of palm seed oil to produce single layer graphene and artificial graphite. Graphjet\u2019s sustainable production methods utilizing palm kernel shells, a waste agricultural product that is common in Malaysia, will set a new shift in graphite and graphene supply chain of the world. For more information, please visit https://www.graphjettech.com/.\n\nCautionary Statement Regarding Forward-Looking Statements\n\nThe information in this press release contains certain \u201cforward-looking statements\u201d within the meaning of the \u201csafe harbor\u201d provisions of the Private Securities Litigation Reform Act of 1995. These\u00a0forward-looking statements generally are identified by the words \u201cbelieve,\u201d \u201cproject,\u201d \u201cexpect,\u201d \u201canticipate,\u201d \u201cestimate,\u201d \u201cintend,\u201d \u201cstrategy,\u201d \u201caim,\u201d \u201cfuture,\u201d \u201copportunity,\u201d \u201cplan,\u201d \u201cmay,\u201d \u201cshould,\u201d \u201cwill,\u201d \u201cwould,\u201d \u201cwill be,\u201d \u201cwill continue,\u201d \u201cwill likely result\u201d and similar expressions, but the absence of these words does not mean that a statement is not\u00a0forward-looking.\u00a0Forward-looking statements are predictions, projections and other statements about future events that are based on current expectations and assumptions and, as a result, are subject to risks and uncertainties. Actual results may differ from their expectations, estimates and projections and consequently, you should not rely on these\u00a0forward-looking statements as predictions of future events. Many factors could cause actual future events to differ materially from the\u00a0forward-looking statements in this his press release, including but not limited to: (i) changes in the markets in which Graphjet competes, including with respect to its competitive landscape, technology evolution or regulatory changes; (ii) the risk that Graphjet will need to raise additional capital to execute its business plans, which may not be available on acceptable terms or at all; (iii) Graphjet is beginning the commercialization of its technology and it may not have an accurate estimate of future capital expenditures and future revenue; (iv) statements regarding Graphjet\u2019s industry and market size; (v) financial condition and performance of Graphjet, including the anticipated benefits, the implied enterprise value, the financial condition, liquidity, results of operations, the products, the expected future performance and market opportunities of Graphjet; (vi) Graphjet\u2019s ability to develop and manufacture its graphene and graphite products; (vii) Graphjet\u2019s ability to return to and maintain compliance with Nasdaq continued listing standards; and (viii) those factors discussed in our filings with the Securities and Exchange Commission (the \u201cSEC\u201d). You should carefully consider the foregoing factors and the other risks and uncertainties that will be described in the \u201cRisk Factors\u201d section of the documents to be filed by Graphjet from time to time with the SEC. These filings identify and address other important risks and uncertainties that could cause actual events and results to differ materially from those contained in the\u00a0forward-looking statements.\u00a0Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on\u00a0forward- looking statements, and while Graphjet may elect to update these\u00a0forward-looking statements at some point in the future, they assume no obligation to update or revise these\u00a0forward-looking statements, whether as a result of new information, future events or otherwise, unless required by applicable law. Graphjet does not give any assurance that Graphjet will achieve its expectations.\n\nContinua a leggere\nCondizioni e Informativa sulla privacy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-28T05:53:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Tesla's $16.5B chip deal with Samsung may boost Graphjet Technology due to increased demand for AI chips."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nbis-eyes-positive-ebitda-h2-122500292.html",
+    "title": "NBIS Eyes Positive EBITDA in H2 2025: What Could Drive Growth? Nebius sees 385% revenue surge and eyes positive EBITDA by the second half of 2025, fueled by AI demand.",
+    "detail": "NBIS Eyes Positive EBITDA in H2 2025: What Could Drive Growth?\nShivangi Deora\nMon, Jul 28, 2025, 5:25 AM 4 min read\nIn This Article:\nNBIS\nNVDA\n\nNebius Group N.V. NBIS, a fast-growing artificial intelligence (AI) infrastructure provider, is forecasting a return to positive adjusted EBITDA in the second half of 2025, driven by accelerating revenues, global expansion and focus on tech innovation. NBIS is gaining from solid growth in its core AI business. As organizations increasingly invest in generative AI, Nebius is benefiting from a full-stack approach, offering everything from high-performance GPU cloud infrastructure to Saturn Cloud\u2019s MLOps platform and AI development tools. The company recently announced the general availability of NVIDIA GB200 Grace Blackwell Superchip capacity for its customers in Europe.\n\nIts expanding global infrastructure footprint, with data centers now across the United States, Europe and the Middle East, bodes well.\u00a0 To gain a larger share of the AI cloud compute market, NBIS is focusing on technical enhancements that increase reliability and reduce downtime to boost customer retention. In the first quarter, Nebius significantly upgraded its AI cloud infrastructure through improvements to its Slurm-based cluster. Nebius expanded integrations with external AI platforms like Metaflow, D Stack and SkyPilot, enabling customers to migrate tools with nominal friction.\n\nTo support growth, the company is doubling down on AI infrastructure with an ambitious $2 billion capital expenditure plan for 2025, up from its earlier guidance of $1.5 billion.\n\nNebius reported a 385% year-over-year revenue surge for the first quarter of 2025, reaching $55.3 million. It expects full-year revenues between $500 million and $700 million, backed by strong AI and cloud infrastructure demand. Over the medium term, the company anticipates EBIT margins to be within the 20% to 30% range, supported by the continued scaling of its AI cloud business.\n\nHowever, NBIS\u2019 path to profitability will require careful navigation. Despite a positive turn in the second half of 2025, management reaffirms that adjusted EBITDA will be negative for full-year 2025. The company is currently in a high-growth phase, which naturally comes with elevated capital expenditures and operational costs. Moreover, increasing market competition and macroeconomic uncertainties may adversely impact NBIS\u2019 growth trajectory.\n\nNebius competes with technology giants like CoreWeave, Inc. CRWV and Microsoft Corporation MSFT.\n\nTaking a Look at Competitors' Margins & Capital Expenditure\n\nCoreWeave\u2019s\u00a0first-quarter 2025 results show enormous growth, with revenues jumping 420% year over year to about $981.6 million. A backlog of $25.9 billion (including an $11.9 billion OpenAI deal) and partnerships with IBM and other AI labs underline strong demand. The adjusted operating income rose 550% year over year to $163 million, while adjusted EBITDA surged nearly 6x to $606 million, with margin improving from 55% to 62%. However, CoreWeave has become highly leveraged. It carried about $18.8 billion in total liabilities after the first quarter, of which $8.7 billion was debt. Interest expense swelled to roughly $264 million in the first quarter as a result. The company expects interest expense to remain elevated at $260-$300 million for the current quarter. It anticipates capex to be between $20 billion and $23 billion for 2025 due to accelerated investment in the platform to meet customer demand.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "date": "2025-07-28T05:25:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"NBIS projects positive EBITDA in H2 2025, driven by growing AI revenues, global expansion, and new NVIDIA GB200 capacity; benefits from full-stack AI approach.\""
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/digi-power-x-subsidiary-files-121849683.html",
+    "title": "Digi Power X Subsidiary Files Provisional Patent for ARMS 200 Modular AI Data Center Platform Digi Power X (DGX.V), an AI and digital infrastructure company, said Monday that its subsidiary US D",
+    "detail": "PREMIUM\nDigi Power X Subsidiary Files Provisional Patent for ARMS 200 Modular AI Data Center Platform\nMT Newswires\nMon, Jul 28, 2025, 5:18 AM 1 min read\nIn This Article:\nDGX.V\nNVDA\nSMCI\n\nDigi Power X (DGX.V), an AI and digital infrastructure company, said Monday that its subsidiary US D\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-28T05:18:00",
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI and digital infrastructure firm Digi Power X files provisional patent for modular AI data center platform, potentially boosting NVDA's prospects."
+    }
+  }
+]

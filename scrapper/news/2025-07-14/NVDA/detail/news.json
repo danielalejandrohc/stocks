@@ -1,0 +1,461 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/tesla-stock-higher-on-potential-for-xai-investment-full-merger-would-be-the-next-stage-analyst-says-153027960.html",
+    "title": "Tesla stock higher on potential for xAI investment; full merger would be the 'next stage,' analyst says Tesla stock rose Monday morning after CEO Elon Musk said Tesla should be able to invest in his xAI startup pending a shareholder vote. This would be another instance of the \u201cMuskonomy\u201d at play, where Musk\u2019s companies become more financially intertwined, which could benefit him.",
+    "detail": "Tesla stock higher on potential for xAI investment; full merger would be the 'next stage,' analyst says\nThough Elon Musk said he doesn't want a full Tesla-xAI merger, analysts like Dan Ives believe that will be the eventual outcome.\nPras Subramanian \u00b7 Senior Reporter\nUpdated Mon, Jul 14, 2025, 2:27 PM 3 min read\nIn This Article:\nTSLA\nXAAI.PVT\nSPAX.PVT\nNVDA\n\nTesla stock (TSLA) rose Monday after CEO Elon Musk said Tesla should be able to invest in his xAI (XAAI.PVT) startup, pending a shareholder vote. This would be another instance of the \u201cMuskonomy\u201d at play, in which Musk\u2019s companies become more financially intertwined and potentially beneficial to him.\n\nIn response to a user on X.com asking about Tesla investing in xAI, Musk said that Tesla shareholders would have the chance to \u201cvote on that matter.\u201d The user\u2019s request came after a Wall Street Journal report over the weekend that Musk\u2019s SpaceX (SPAX.PVT) had agreed to invest $2 billion in xAI\u2019s latest fundraising round. The user said it was \u201cnot fair\u201d to Tesla retail investors that the company was not invested in xAI, to which Musk agreed and said, \u201cIf it was up to me, Tesla would have invested in xAI long ago.\u201d\n\nMusk said in a later post that Tesla should not merge with xAI, although the two companies currently work together. The xAI Grok chatbot was added to Tesla\u2019s vehicles in a recent software update, though this has been a contentious move as Grok has been embroiled in controversy surrounding antisemitic statements.\n\nBloomberg noted that xAI is also a Tesla customer, purchasing nearly $200 million worth of Tesla megapack energy storage batteries.\n\nMusk\u2019s companies investing in one another \u2014 and even merging together \u2014 is nothing new. In March, xAI bought out Musk\u2019s X.com in a deal valuing X.com at $33 billion, a very good deal for investors in the social media company. In 2016, Tesla acquired SolarCity for $2.6 billion; the solar firm was struggling at the time and was previously run by Musk\u2019s family members, per Walter Isaacson\u2019s Musk biography.\n\nIndeed, the commingling of resources between Musk\u2019s companies is nothing new, though it is somewhat controversial. Tesla engineers have been working at both X.com and xAI, and highly sought-after Nvidia chips originally destined for Tesla\u2019s AI efforts were directed to xAI.\n\nShareholder groups have complained about what appears to be a conflict of interest for Musk and his companies in the past. In this case, Musk appears to favor a company like xAI, in which he owns a large stake and can more fully control.\n\nThe 'Muskonomy' (source: Morgan Stanley) \u00b7 Morgan Stanley\n\nWall Street analysts, including Wedbush\u2019s Dan Ives, suggested a Tesla and xAI tie-up could enhance Tesla\u2019s artificial intelligence presence and indirectly compensate Musk, whose Tesla pay package has been stuck in legal limbo.\n\nIn a recent note, Ives argued that Musk needed a new package giving him 25% voting power to incentivize him, along with \u201cguardrails\u201d that guaranteed his time at the company. Musk chided Ives for the guardrails suggestion, telling the analyst to \u201cshut up.\u201d\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.36
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Tesla stock rises as Musk considers xAI investment, potentially benefiting NVDA."
+    },
+    "date": "2025-07-14T14:27:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/where-have-all-the-dividends-gone-123021534.html",
+    "title": "Where have all the dividends gone?! Corporate America perhaps has forgotten about the importance of the stock dividend.",
+    "detail": "Where have all the dividends gone?!\nBrian Sozzi \u00b7 Executive Editor\nUpdated Mon, Jul 14, 2025, 12:14 AM 4 min read\nIn This Article:\nNVDA\nPLTR\nVZ\n\nThis is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\n\nThe chart of the day\n\nWhat we're watching\n\nWhat we're reading\n\nEconomic data releases and earnings\n\nRemember dividends?\n\nYou know, the check you used to collect every quarter for holding a share of a company? I say \"used to\" as you have probably long moved on to chasing growth stocks with no dividend checks, such as Nvidia (NVDA). I get it \u2014 why hold out for a measly dividend check four times a year when you can get rich overnight from a blowout quarter from Nvidia or fellow momo name Palantir (PLTR)!\n\nYou aren't alone in forgetting about dividends \u2014 Corporate America appears to be doing the same as it plows cash flow into AI investments and share repurchases. (I hate repurchases, but that's a story for a different day.)\n\nHere's the context on this one.\n\nS&P 500 (^GSPC) dividend yields are now within 20 basis points of their all-time low, according to fresh research from Deutsche Bank strategist Jim Reid. Those lows were reached in the tech bubble of 2000, when everyone was paying up for growth and couldn't care less about dividends (sound familiar?).\n\nThere is an important historical consideration to this, Reid notes.\n\nPrior to 1958, dividend yields were consistently higher than government bond yields. Stocks were viewed as super risky \u2014 lacking diversification, regulatory oversight, and corporate transparency. Investors demanded a high dividend yield as compensation for those risks.\n\nMoreover, dividends often enjoyed more favorable tax considerations than today, helping to cement the view that income was the most reliable path to long-term prosperity.\n\nFast-forward to 2025, and companies are eschewing dividends for buybacks. Can you blame them? Share repurchases boost EPS, the same EPS that is often tied to executive bonuses. Further, higher EPS can support a higher stock price. Double bang for the buck!\n\nBut a market fueled by buybacks rather than a steady stream of dividends has risks, Reid said.\n\nFor one, buybacks are more discretionary. I am very keen to see if companies were still aggressive buyers during the second quarter amid the Trump trade turmoil or if they pulled back.\n\nSecond, buybacks tend to occur more often at market tops than bottoms. That means companies are buying stock at the top, which could lead to a poor return on investment for shareholders.\n\nAnd three, buybacks encourage short-term thinking by managers.\n\n\"So does a near-record low dividend yield matter? Not while companies are flush with cash and happy to repurchase their own stock,\" Reid said. \"But it does make the US market more high beta. If a downturn hits, buybacks will stop far more quickly than dividends, potentially pulling away a key pillar of market support.\"\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.17
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.02
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite the shift towards growth stocks like NVDA and PLTR, traditional dividend-paying companies are investing in AI and repurchasing shares instead of paying dividends."
+    },
+    "date": "2025-07-14T00:14:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/top-analyst-hikes-nvidia-target-143507845.html",
+    "title": "Top Analyst Hikes Nvidia Target to $180 on AI Chip Demand DBS Lifts Nvidia Price Forecast Citing Soaring AI Chip Sales",
+    "detail": "Top Analyst Hikes Nvidia Target to $180 on AI Chip Demand\nNauman khan\nMon, Jul 14, 2025, 8:35 AM 1 min read\nIn This Article:\nNVDA\n\nJuly 14 - Nvidia (NASDAQ:NVDA) received a fresh boost on Friday as DBS analyst Fang Boon Foo raised his price target to $180 from $160, maintaining a \"Buy\" rating.\n\nFoo pointed to sustained global demand for Nvidia's AI accelerators, forecasting that revenue for Q2 FY 2026 will reach about $45 billion, up slightly from the prior quarter, as Hopper and Blackwell chip orders outpace supply.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nWhile U.S. export curbs on China present risks, Foo noted that a China?compliant variant under development may help mitigate potential headwinds, supporting continued growth in that market.\n\nThe analyst also highlighted Nvidia's annual product refresh cycle, transitioning from Hopper to Blackwell and then to Rubin, as a key advantage in the competitive AI chip landscape. He warned that gross margins might dip in the short term as Blackwell production ramps, but management expects margins to rebound to the mid?70% range in fiscal year 2026.\n\nValuation concerns are tempered by Nvidia's strong free cash flow and high return on equity, with Foo arguing that a 22?times forward price?to?book multiple is justified given the company's market position.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.68
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Top Analyst raises NVDA target to $180 on AI chip demand; Q2 FY 2026 revenue expected at $45B due to strong demand for AI accelerators, with Hopper and Blackwell chip orders"
+    },
+    "date": "2025-07-14T08:35:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/apple-faces-calls-reboot-ai-123108385.html",
+    "title": "Apple Faces Calls to Reboot AI Strategy With Shares Slumping (Bloomberg) -- Apple Inc. is facing pressure to shake up its corporate playbook to invigorate its struggling artificial intelligence efforts.Most Read from BloombergWhy Did Cars Get So Hard to See Out Of?How German Cities Are Rethinking Women\u2019s Safety \u2014 With TaxisAdvocates Fear US Agents Are Using \u2018Wellness Checks\u2019 on Children as a Prelude to ArrestsAlarmed by a share slump that\u2019s erased more than $640 billion in market value this year and frustrated with delays in rolling out AI features, inves",
+    "detail": "Apple Faces Calls to Reboot AI Strategy With Shares Slumping\nRyan Vlastelica\nMon, Jul 14, 2025, 7:50 AM 5 min read\nIn This Article:\nADBE\nGOOG\nTSLA\nNVDA\nAAPL\n\n(Bloomberg) -- Apple Inc. is facing pressure to shake up its corporate playbook to invigorate its struggling artificial intelligence efforts.\n\nMost Read from Bloomberg\n\nWhy Did Cars Get So Hard to See Out Of?\n\nHow German Cities Are Rethinking Women\u2019s Safety \u2014 With Taxis\n\nAdvocates Fear US Agents Are Using \u2018Wellness Checks\u2019 on Children as a Prelude to Arrests\n\nAlarmed by a share slump that\u2019s erased more than $640 billion in market value this year and frustrated with delays in rolling out AI features, investors are calling for Apple to break with long-standing traditions to make a big acquisition and more aggressively pursue talent.\n\n\u201cHistorically Apple does not do big mergers and acquisitions,\u201d said Citigroup Inc. analyst Atif Malik, noting that the last major deal was its takeover of Beats in 2014. But, he argues, \u201cinvestors would turn more positive if Apple could acquire or invest a meaningful stake in an established AI provider.\u201d\n\nApple shares have fallen 16% this year while traders bid up the shares of peers like Meta Platforms Inc., which is spending lavishly on AI. While Apple faces other problems, including its exposure to tariffs and regulatory issues, disappointment in bringing compelling AI features to its vast ecosystem of devices has become top of mind for investors.\n\nApple didn\u2019t respond to a request for comment. The stock fell 1.3% on Monday.\n\nThe company has long shunned acquisitions in favor of building its own products. The largest acquisition in Apple\u2019s history was a $3 billion deal for headphone maker Beats more than a decade ago.\n\nThere are signs that Apple may be warming up to such a move. Bloomberg News reported last month that executives have held internal talks about making an offer for AI startup Perplexity AI, which would add talent and help Apple develop an AI-based search engine. The startup recently completed an investment round that valued it at $14 billion.\n\nDan Ives, an analyst at Wedbush who is a long-time Apple bull, called buying Perplexity a \u201cno brainer,\u201d and said even if Apple paid $30 billion, that sum would be \u201ca drop in the bucket relative to the monetization opportunity Apple can achieve on AI.\u201d\n\nSince unveiling its AI vision more than a year ago, Apple\u2019s roll outs of new features have underwhelmed, such as those unveiled at its Worldwide Developers Conference last month. The company has reportedly considered using AI tech from outside companies, rather than in-house models, to power a new version of its Siri digital assistant.\n\nKevin Cook, a senior stock strategist at Zacks Investment Research, wants Apple to be more like Meta when it comes to hiring AI experts but stops short of calling for more dramatic changes, saying that concerns about its AI shortfalls are overblown.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -0.5226
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Pressure mounts on Apple to reboot AI strategy; shares down $640B this year. Investors call for big acquisitions, aggressive talent pursuit."
+    },
+    "date": "2025-07-14T07:50:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/super-micro-computer-rides-dlc-134200929.html",
+    "title": "Super Micro Computer Rides on DLC Momentum: What Lies on the Horizon? SMCI's DLC tech delivers growth as hyperscalers and AI-data centers drive its demand.",
+    "detail": "Super Micro Computer Rides on DLC Momentum: What Lies on the Horizon?\nSubham Roy\nMon, Jul 14, 2025, 7:42 AM 3 min read\nIn This Article:\nVRT\nDELL\nSMCI\nNVDA\n\nSuper Micro Computer\u2019s SMCI direct liquid cooling (DLC) technology is in high demand among hyperscalers and AI data centers as the liquid cooling technology reduces heat more effectively than its air cooling counterparts. DLC also commands efficient power usage, which enables it to handle higher computational densities and lowering total cost of ownership.\n\nSMCI\u2019s DLC is driving its server and storage system segment, which grew 20.5% year over year in the third quarter of fiscal 2025. Notably, Super Micro Computer\u2019s direct liquid cooling products for data-center applications crossed the production volume of 2000 DLC racks per month.\n\nNow the company has introduced DLC-2, which not only reduces electricity consumption by 40% but also lowers the cost of water and space while decreasing noise. SMCI\u2019s success with liquid cooling technology is evident in the strong traction in 4U NVIDIA B200 HGX systems and GB200 NVL72 racks as reported in the third quarter of fiscal 2025.\n\nSMCI\u2019s newest technology, its direct liquid cooling data center building blocks (DCBBS), enables data centers to develop modular, rack-scale and plug-and-play architecture. The DCBBS technology utilizes DLC-2 to optimize thermal performance.\n\nThe rising adoption of SMCI\u2019s DLC offerings has prompted it to announce a revenue guidance of $21.8-$22.6 billion for fiscal 2025. The Zacks Consensus Estimate for SMCI\u2019s fiscal 2025 revenues is pegged at $22.12 billion, indicating growth of 48% year over year.\n\nHow Competitors Fare Against SMCI\n\nVertiv VRT has a strong thermal management portfolio covering coolant distribution units, chillers, rear-door heat exchangers, and immersion cooling systems to optimize performance, power utilization, control, and heat re-use. VRT is expanding its storage and server cooling expertise organically and inorganically. Vertiv is working closely with NVIDIA to offer cooling systems to AI factories and has previously deepened its portfolio with the Cooltera acquisition.\n\nDell Technologies\u2019 DELL liquid cooling architectures consist of its Apex and PowerEdge platforms designed for AI server solutions. DELL\u2019s cooling solutions are modular, customizable and allow the integration of both air and liquid cooling features with 24-hour rack deployment turnaround and end-to-end deployment services. These key differentiators make Dell Technologies\u2019 server easy to deploy, hence encouraging smoother adoption.\n\nSMCI\u2019s Price Performance, Valuation and Estimates\n\nShares of SMCI have surged 61.6% year to date against the Zacks Computer- Storage Devices industry\u2019s decline of 9.2%\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.79
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Super Micro's DLC tech gains traction; Q3 FY25 server, storage growth at 20.5%. New DLC-2 promises 40% energy savings."
+    },
+    "date": "2025-07-14T07:42:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/intel-vs-qualcomm-chipmaker-better-134000786.html",
+    "title": "Intel vs. Qualcomm: Which Chipmaker is Better Poised for Mobile & 5G? QCOM gains edge over INTC in AI PCs and 5G, with stronger 2025 growth forecasts and broader connected tech traction.",
+    "detail": "Intel vs. Qualcomm: Which Chipmaker is Better Poised for Mobile & 5G?\nSupriyo Bose\nMon, Jul 14, 2025, 7:40 AM 6 min read\nIn This Article:\nINTC\nQCOM\n\nIntel Corporation INTC and Qualcomm Incorporated QCOM are two premier semiconductor firms investing heavily in connectivity and edge computing, with both focusing on AI (artificial intelligence) and advanced chip technologies. Intel, reportedly the world\u2019s largest semiconductor company and primary supplier of microprocessors and chipsets, is gradually reducing its dependence on the PC-centric business by moving into data-centric businesses, such as AI and autonomous driving. The foundry operating model is a key component of the company's strategy and is designed to reshape operational dynamics and drive greater transparency, accountability and focus on costs and efficiency.\n\nQualcomm\u2019s offering includes high-performance, low-power chip designs for mobile devices, PCs, XR (Extended Reality), automotive, wearable, robotics, connectivity and AI use cases. The company boasts a comprehensive intellectual property portfolio comprising 3G, 4G, 5G and other technologies.\u00a0\n\nWith the growing proliferation of AI in PCs, smartphones, automotive and IoT applications, both Intel and Qualcomm are steadily advancing their semiconductor portfolios to bolster their competitive edge. Let us analyze the competitive strengths and weaknesses of the companies to understand who is better positioned to capitalize on emerging market trends.\n\nThe Case for Intel\n\nIntel has been investing in expanding its manufacturing capacity to accelerate its IDM 2.0 (Integrated Device Manufacturing) strategy. Interim management is committed to keeping the core strategy unchanged despite efforts to drive operational efficiency and agility. The company is emphasizing the diligent execution of operational goals to establish itself as a leading foundry. It is focusing on simplifying parts of its portfolio to unlock efficiencies and create value.\u00a0\n\nIntel's innovative AI solutions are set to benefit the broader semiconductor ecosystem by driving down costs, improving performance and fostering an open, scalable AI environment. The company has witnessed healthy traction in AI PCs, which have taken the market by storm and remain firmly on track to ship more than 100 million by the end of 2025. Intel Xeon platforms have reportedly set the benchmark in 5G cloud-native core with substantial performance and power efficiency improvements, additional power-saving capabilities and easy-to-deploy software. This has triggered healthy demand trends from major telecom equipment manufacturers and independent software vendors to optimize and unleash proven power savings for a more sustainable future.\n\nHowever, Intel derives a significant part of its revenues from China. As Washington tightens restrictions on high-tech exports to China, Beijing has intensified its push for self-sufficiency in critical industries. This shift poses a dual challenge for Intel, as it faces potential market restrictions and increased competition from domestic chipmakers. The company is also lagging behind in the GPU and AI front compared to peers such as NVIDIA Corporation NVDA and AMD. Leading technology companies are reportedly piling up NVIDIA\u2019s GPUs to build clusters of computers for their AI work, leading to exponential revenue growth.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Intel focuses on AI, autonomous driving, and data-centric businesses, while Qualcomm offers chip designs for mobile devices, PCs, XR, automotive, wearables, robotics, and connectivity; both companies invest in"
+    },
+    "date": "2025-07-14T07:40:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/broadcom-stock-just-set-time-131501517.html",
+    "title": "Broadcom Stock Just Set a New All-Time High. Should You Buy AVGO Here? AVGO just reached new heights as AI demand booms. Should this price action prompt a closer look at shares?",
+    "detail": "Broadcom Stock Just Set a New All-Time High. Should You Buy AVGO Here?\nAanchal Sugandh\nMon, Jul 14, 2025, 7:15 AM 4 min read\nIn This Article:\nAVGO\nNVDA\nBroadcom Inc logo on phone and site-by Majahid Mottakin via Shutterstock\n\nBroadcom (AVGO) recently scaled a notable peak, touching a\u00a052-week high of $281.18 on Thursday, July 10. The rise comes amid a broader market rally, where investors appear unfazed by lingering trade uncertainties.\n\nNotably, Nvidia's (NVDA) meteoric climb to a\u00a0$4 trillion market capitalization seems to have cast a favorable shadow over Broadcom\u2019s shares. Nvidia\u2019s success is not merely an isolated triumph but a ringing endorsement of the entire\u00a0artificial intelligence (AI) ecosystem.\n\nMore News from Barchart\n\nShopify Stock is a Bargain - How to Make a 3.2% One-Month Yield with SHOP\n\nTariffs, Inflation and Other Key Things to Watch this Week\n\nStocks Set to Open Lower as Trump Ratchets Up Tariff Threats, U.S. Inflation Data and Big Bank Earnings Awaited\n\nOur exclusive Barchart Brief newsletter is your FREE midday guide to what's moving stocks, sectors, and investor sentiment - delivered right when you need the info most. Subscribe today!\n\nThe surge of AVGO stock alongside Nvidia highlights their intertwined destinies. While Nvidia provides the core processing power of AI through its GPUs, Broadcom\u2019s high-performance networking chips, custom ASICs, and switching infrastructure are the vital backbone that keeps AI data centers operating smoothly at scale.\n\nBoth companies share a client base dominated by hyperscale cloud providers, making their fortunes tightly linked. As Nvidia\u2019s valuation climbs higher, investors are starting to look beyond, rotating into companies like Broadcom with solid fundamentals, reliable dividends, and essential roles in powering the next wave of AI development.\n\nAbout Broadcom Stock\n\nBroadcom stands as a leading designer and global supplier of an extensive portfolio of\u00a0semiconductor products. With a\u00a0market cap of $1.3 trillion, its core expertise lies in complex digital and mixed-signal CMOS devices alongside analog III-V products.\n\nOver the past 52 weeks, AVGO\u2019s stock price has\u00a0surged 61%, far outpacing many peers. The momentum has accelerated recently, with a 51% gain in just the last three months, easily eclipsing the broader S&P 500 Index\u2019s ($SPX)\u00a0nearly 17% return during the same period.\n\nwww.barchart.com\n\nInvestors continue to value AVGO stock richly, with forward adjusted earnings trading at\u00a050 times and sales at 25 times, well above the industry averages. The premium reflects confidence in the company\u2019s growth trajectory and pricing power.\n\nAdding to its appeal, Broadcom rewards shareholders with a dependable forward annual dividend of $2.30, yielding 0.84%. Remarkably, the company has raised this dividend consistently for 14 consecutive years. The most recent quarterly dividend of $0.59 was paid on June 30 to investors recorded as of June 20.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.88
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "52-week high for Broadcom (AVGO), boosted by Nvidia's (NVDA) $4 trillion market cap, favoring AI ecosystem."
+    },
+    "date": "2025-07-14T07:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/crwv-stock-jumps-209-3-131500060.html",
+    "title": "CRWV Stock Jumps 209% in 3 Months: Hold Steady or Make an Exit? CoreWeave soars 209% in 3 months, but risks from aggressive capex deployment and valuation now challenge the rally's staying power.",
+    "detail": "CRWV Stock Jumps 209% in 3 Months: Hold Steady or Make an Exit?\nVaishali Doshi\nMon, Jul 14, 2025, 7:15 AM 4 min read\nIn This Article:\nCRWV\nNBIS\nMSFT\nAMZN\nOPAI.PVT\n\nCoreWeave, Inc. CRWV stock has appreciated 208.5% in the past three months and closed last session at $125.84, jumping more than threefold from its initial opening price of $39 on March 28, 2025.\n\nWith its GPU-based cloud solutions tailored for AI workloads, CRWV is well-positioned to gain from the AI infrastructure boom. Strategic partnerships with major players like OpenAI and NVIDIA bode well along with massive $259 billion revenue backlog. The company has outpaced its peers like Nebius Group N.V. NBIS, Microsoft MSFT and Amazon AMZN. Nebius, Microsoft and Amazon shares have gained 107.6%, 30.4% and 25.3%, respectively, in the same time frame.\n\nPrice Performance\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\nHowever, the stock has declined sharply post its announcement of $9 billion takeover of Core Scientific. Since the announcement on July 7, CRWV has lost 21%. This recent slump is bound to raise an inevitable question: Is it still worth holding or making an exit is the smarter choice?\n\nLet\u2019s break down the key advantages and potential risks to help determine the smartest move for your portfolio.\n\nCRWV Faces Headwinds\n\nApart from scrutiny surrounding the company\u2019s latest acquisition bid, it also faces other headwinds. CRWV\u2019s aggressive capital deployment strategy is a key concern. CRWV expects capex to be between $20 billion and $23 billion for 2025 due to accelerated investment in the platform to meet customer demand. Higher capex can be a concern if revenues do not keep up the required pace to sustain such high capital intensity, especially in a macro environment where AI demand cycles could fluctuate due to competitive pricing and regulatory changes.\n\nThe company uses a success-based model, entering capex programs only after securing multi-year customer contracts that cover investment costs within the contract terms, helping it to sensibly scale the debt structure. High capex, even with a success-based model, exposes CoreWeave to execution risks if contract revenue does not materialize on time.\n\nCoreWeave\u2019s aggressive data center buildout is being funded in part by debt. In the last earnings call, management acknowledged a surge in interest expenses. In the first quarter, interest expense came in at $264 million, topping expectations. This was attributed to changes in vendor payment terms. The company now guides interest expense to remain elevated, at $260-$300 million in the current quarter. Higher interest expenses can exert pressure on the adjusted net income and potentially affect free cash flow generation.\n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "208.5% rise in CRWV stock over three months; strategic partnerships with NVIDIA, OpenAI, and massive revenue backlog positioning it well in AI infrastructure market; outperforming peers like Microsoft, Amazon,"
+    },
+    "date": "2025-07-14T07:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/analyst-just-doubled-price-target-130002271.html",
+    "title": "This Analyst Just Doubled His Price Target on AMD Stock AMD just landed a new price target from HSBC \u2014 double the previous estimate \u2014 as confidence builds around its AI chip momentum.",
+    "detail": "This Analyst Just Doubled His Price Target on AMD Stock\nAnushka Mukherji\nMon, Jul 14, 2025, 7:00 AM 6 min read\nIn This Article:\nAMD\nNVDA\nAdvanced Micro Devices Inc_ office sign-by Poetra_RH via Shutterstock\n\nAdvanced Micro Devices (AMD) has been a quiet powerhouse in the semiconductor world, with its chips driving everything from PCs and gaming consoles to data center servers and aerospace tech. But while the artificial intelligence (AI) boom lifted many boats, AMD stock has lagged over the past year, weighed down by its struggle to grab a meaningful slice of the surging AI chip market \u2014 an arena where rival chip giant Nvidia (NVDA) has stolen the spotlight.\n\nThat narrative, however, is starting to shift. AMD is pushing back in 2025 with fresh momentum. A strong first-quarter earnings report in May, strategic acquisitions, and the debut of its new Instinct MI350 Series GPUs last month are breathing new life into shares. Investor sentiment is beginning to shift in AMD\u2019s favor, and so is the tone on Wall Street.\n\nMore News from Barchart\n\nShopify Stock is a Bargain - How to Make a 3.2% One-Month Yield with SHOP\n\nTariffs, Inflation and Other Key Things to Watch this Week\n\nStocks Set to Open Lower as Trump Ratchets Up Tariff Threats, U.S. Inflation Data and Big Bank Earnings Awaited\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nIn fact, HSBC recently doubled its price target from $100 to $200 on AMD, calling the new MI350 chips a real competitor to Nvidia\u2019s latest Blackwell lineup. With investor confidence rebounding and next-gen chips in the cards, AMD is closing in on its biggest rival. And with such developments in play, it seems like an opportune time to take a closer look at AMD stock.\n\nAbout Advanced Micro Devices Stock\n\nFor more than 55 years, Advanced Micro Devices has been at the forefront of innovation in high-performance computing, graphics, and visualization. In the GPU space, where Nvidia has long held the crown, AMD remains the only serious alternative with the scale and capability to compete. While Nvidia continues to dominate among hyperscalers thanks to its performance edge despite the hefty price tag, AMD is making a strong case for change.\n\nLast month, the company unveiled a new lineup of chips that challenge Nvidia\u2019s edge, starting with the Instinct MI350 Series GPUs. And the momentum doesn\u2019t stop there. AMD also gave a sneak peek at Helios, a next-gen rack-scale system built around its upcoming MI400 Series GPUs. Designed to deliver better price and performance than Nvidia, Helios is expected in 2026 and already turning heads in the data center world.\n\nMajor players like ChatGPT maker OpenAI, Meta Platforms (META), and Microsoft (MSFT) have already committed to AMD\u2019s latest chips, signaling a shift that could reshape the AI hardware landscape. The company\u2019s market capitalization presently stands at around $237 billion.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.17
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.4
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Strong Q1 earnings, strategic acquisitions, and new GPU launch boost investor sentiment towards AMD, potentially challenging NVDA's dominance in AI chip market."
+    },
+    "date": "2025-07-14T07:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/tariff-led-volatility-ahead-big-120000961.html",
+    "title": "Tariff-Led Volatility Ahead for Big Tech? ETFs in Focus Tariff tensions loom, but tech ETFs like XLK, CIBR, CLOU and SMH could benefit from AI growth and cybersecurity demand.",
+    "detail": "Tariff-Led Volatility Ahead for Big Tech? ETFs in Focus\nSanghamitra Saha\nMon, Jul 14, 2025, 6:00 AM 3 min read\nIn This Article:\nXLK\nSMH\nXSW\nCIBR\nCLOU\n\nThe tech industry may face some ups and downs in the near term, with new tariffs expected to begin in August. Gene Munster of Deepwater Asset Management told Yahoo Finance that the delayed rollout adds uncertainty, especially for the December quarter.\n\nNVIDIA and Apple are among tech firms temporarily shielded but still under scrutiny. NVIDIA continues to grapple with a ban on chip sales to China, while Apple faces pressure to shift manufacturing to the United States or face a potential 25% tariff.\n\nSemiconductors in the Crosshairs\n\nTrump has hinted at more tariffs on semiconductors \u2014 a move that could raise prices on both components and finished products, potentially hurting consumer electronics sales. According to Bob O\u2019Donnell of TECHnalysis Research, the lack of clarity may be more damaging than the tariffs themselves, as quoted on Yahoo Finance.\n\nShould You Fear Short-Term Volatility?\n\nThe rise of AI will keep driving the market up, as companies continue to spend heavily on technology and related areas. Tech companies are investing billions in data centers and AI chips to support the development of AI systems.\n\nNVDA became the first company to reach a $4 trillion market cap on July 9, driving a sharp rally in the technology sector and the AI boom. Other \u201cMagnificent Seven\u201d stocks, Microsoft MSFT, Apple AAPL, Alphabet GOOGL, Meta Platforms META and Amazon AMZN, also rallied lately on the AI euphoria and easing tariff tensions after the April shock.\n\nThe technology sector is among the major growth drivers for the second-quarter earnings season. There was initially significant pressure on Tech sector Q2 earnings estimates, but the negative revisions trend notably stabilized in the subsequent weeks.\n\nLong-Term Outlook: Still Strong\n\nThe global shift toward digital technology has boosted e-commerce in areas like remote work, entertainment, and shopping, making the sector stronger. The fast growth of technologies such as cloud computing, big data, the Internet of Things, wearables, VR headsets, drones, virtual reality, machine learning, digital communication, blockchain, and 5G will keep driving this momentum, irrespective of the tariff threat.\n\nCybersecurity: A Growing Priority\n\nCybersecurity is another prominent area. Given the recent surge in the adoption of AI technology, the need for cybersecurity becomes increasingly evident. An inevitable increase in cybersecurity spending is expected, driven by rising cyberattacks and the drastic financial fallout from them. The global cybersecurity market is projected to grow at a compound annual growth rate (CAGR) of\u00a012.9%\u00a0between 2025 and 2030, according to a new study by Grand View Research.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.67
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "New tariffs may impact NVIDIA, with potential 25% tariff on Apple products and uncertainties surrounding a ban on chip sales to China. Higher semiconductor tariffs could increase component costs and hurt consumer electron"
+    },
+    "date": "2025-07-14T06:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/market-chatter-nvidia-ceo-jensen-115805487.html",
+    "title": "Market Chatter: Nvidia CEO Jensen Huang Reportedly to Hold Media Briefing in Beijing Wednesday Nvidia (NVDA) Chief Executive Jensen Huang plans to hold a media briefing in Beijing Wednesday, his",
+    "detail": "PREMIUM\nMarket Chatter: Nvidia CEO Jensen Huang Reportedly to Hold Media Briefing in Beijing Wednesday\nMT Newswires\nMon, Jul 14, 2025, 5:58 AM 1 min read\nIn This Article:\nNVDA\n\nNvidia (NVDA) Chief Executive Jensen Huang plans to hold a media briefing in Beijing Wednesday, his\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia CEO Jensen Huang to hold media briefing in Beijing Wednesday. Potential for new announcements or insights."
+    },
+    "date": "2025-07-14T05:58:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/week-ai-chips-decentralized-ai-113715195.html",
+    "title": "This Week In AI Chips - Decentralized AI Cloud Initiative Transforming Global Infrastructure IPTP Networks and MCB Ventures have announced the launch of the DeCenter Foundation, targeting advancements in AI infrastructure through the development of a decentralized AI Cloud. This innovative model is based on Hybrid RWA Data Centers and DePIN Edge Infrastructure, aiming to address current challenges such as cost, scalability, and data ethics in the centralized AI compute market. The DeCenter Foundation's mission focuses on promoting transparency, ethical governance, and...",
+    "detail": "This Week In AI Chips - Decentralized AI Cloud Initiative Transforming Global Infrastructure\nSimply Wall St\nMon, Jul 14, 2025, 5:37 AM 1 min read\nIn This Article:\nAMD\nNVDA\nQCOM\n\nIPTP Networks and MCB Ventures have announced the launch of the DeCenter Foundation, targeting advancements in AI infrastructure through the development of a decentralized AI Cloud. This innovative model is based on Hybrid RWA Data Centers and DePIN Edge Infrastructure, aiming to address current challenges such as cost, scalability, and data ethics in the centralized AI compute market. The DeCenter Foundation's mission focuses on promoting transparency, ethical governance, and community-driven values, with significant emphasis on building AI-focused data centers in key Asian markets and launching open architecture for enhanced compute contributions. This initiative represents an important shift toward creating a transparent, equitable, and sustainable AI ecosystem, potentially reshaping the AI landscape on a global scale.\n\nIn other market news, Cambricon Technologies was a notable mover up 2% and closing at CN\u00a5565.06. Meanwhile, Alchip Technologies softened, down 3.6% to end trading at NT$3,305.00.\n\nAlchip Technologies is poised for potential gains through its focus on HPC and AI sectors, despite facing significant customer reliance and geopolitical challenges. Discover more about Alchip Technologies' strategic moves and what it means for investors.\n\nFor more on AI Chips, don't miss our 'Market Insights' article which covers how these components are monetizing amidst evolving trade policies\u2014read it now!\n\nBest AI Chip Stocks\n\nAdvanced Micro Devices closed at $146.42 up 1.6%.\n\nNVIDIA settled at $164.92 up 0.5%, close to the 52-week high.\n\nQUALCOMM settled at $157.46 down 1%.\n\nTurning Ideas Into Actions\n\nGet an in-depth perspective on all 56 AI Chip Stocks, including Texas Instruments, Entegris and Lasertec, by using our screener here.\n\nReady To Venture Into Other Investment Styles? AI is about to change healthcare. These 28 stocks are working on everything from early diagnostics to drug discovery. The best part - they are all under $10b in market cap - there's still time to get in early.\n\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.37
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"DeCenter Foundation launched, transforming AI infrastructure; aims to tackle costs, scalability, and data ethics issues in centralized AI market; potential reshape of global AI landscape.\""
+    },
+    "date": "2025-07-14T05:37:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/could-shopify-stock-help-become-111500456.html",
+    "title": "Could Shopify Stock Help You Become a Millionaire? Shopify is a top e-commerce platform creator with a presence in 175 countries.  Management is focusing on several key areas to boost business and market share.  Patient investors could benefit from including the stock in a diversified portfolio.",
+    "detail": "Could Shopify Stock Help You Become a Millionaire?\nJennifer Saibil, The Motley Fool\nMon, Jul 14, 2025, 5:15 AM 5 min read\nIn This Article:\nSHOP\n^SPX\nNVDA\nKey Points\n\nShopify is a top e-commerce platform creator with a presence in 175 countries.\n\nManagement is focusing on several key areas to boost business and market share.\n\nPatient investors could benefit from including the stock in a diversified portfolio.\n\n10 stocks we like better than Shopify \u203a\n\nA rising tide lifts all ships, and a bull market is lifting stocks today. The S&P 500 is up year to date, and the stock market minted its first $4 trillion company last week as powerhouse Nvidia keeps climbing.\n\nMany stocks that plunged in April when tariff raises were announced are rising, driving the market's gains. Shares of e-commerce giant Shopify (NASDAQ: SHOP) are up 19% since May 1. The stock has gone through many ups and downs over the past few years, and the market now clearly sees opportunity here.\n\nLet's see what's happening at Shopify and whether investing in it today can help make you a millionaire.\n\nDriving global e-commerce\n\nShopify operates a global commerce platform that has expanded from its humble beginnings as an e-commerce solutions provider for small businesses to a comprehensive platform offering every type of package and service for all kinds of retailers. It has 12% of the U.S. e-commerce market share, and it's the largest e-commerce platform in the country.\n\nImage source: Getty Images.\n\nAfter some lumpy years and an ill-fated attempt to move into logistics, Shopify has emerged as a lean and agile company, and it's expanding on its core business. This has been the right move for the company, and it's reporting strong, profitable growth.\n\nIn first-quarter 2025, revenue growth accelerated to 27% year over year to $2.4 billion. Operating income was up 136% to $203 million, and free cash flow increased from $232 million to $363 million. Gross merchandise volume (GMV), which is the volume of products sold on the company's platform, increased 25% to $75 billion. That's an excellent showing at a time when many retailers are feeling intense economic pressure.\n\nNew opportunities\n\nIn addition to constant upgrades, improved features, and new services, management is focusing on several key strategic areas to boost its business and capture market share. It continues to build out relationships with other tech platforms, such as Amazon and Meta Platforms, and it has launched the Shop Pay quick digital payments tool to compete with similar offerings from competitors like PayPal and Apple. It's been very successful, with a 57% increase in GMV over last year in the first quarter.\n\nOne initiative that has been extremely successful is moving offline. Shopify sees offline sales as a key growth driver for this year and going forward, and offline sales increased 33% year over year in the first quarter, outpacing the total. This is an important element of the unified commerce strategy that makes the whole greater than the sum of its parts.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "19% rise in Shopify stock since May 1 may attract investors seeking growth opportunities; management focus on expanding business and market share."
+    },
+    "date": "2025-07-14T05:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/option-volatility-earnings-report-july-110002800.html",
+    "title": "Option Volatility And Earnings Report For July 14 - 18 Earnings season kicks into gear this week with banks and tech stocks taking center stage. This week we have NFLX, BAC, TSM, JPM, WFC, C, MS, GS, JNJ and ASML all reporting in what shapes as a busy and pivotal week for stocks.",
+    "detail": "Option Volatility And Earnings Report For July 14 - 18\nGavin McMaster\nMon, Jul 14, 2025, 5:00 AM 3 min read\nIn This Article:\n2330.TW\nJNJ\nPage of newspaper with words options trading by Vitalii Vodolazskyi via Shutterstock\n\nEarnings season kicks into gear this week with banks and tech stocks taking center stage. This week we have Netflix (NFLX), Bank of America (BAC), Taiwan Semiconductor (TSM), JP Morgan (JPM), Wells Fargo (WFC), Citigroup (C), Morgan Stanley (MS), Goldman Sachs (GS), Johnson & Johnson (JNJ) and ASML Holdings (ASML) all reporting in what shapes as a busy and pivotal week for stocks.\n\nBefore a company reports earnings, implied volatility is usually high because the market is unsure about the outcome of the report. Speculators and hedgers create huge demand for the company\u2019s options which increases the implied volatility, and therefore, the price of options.\n\nMore News from Barchart\n\nShopify Stock is a Bargain - How to Make a 3.2% One-Month Yield with SHOP\n\nStop Missing Market Moves: Get the FREE Barchart Brief \u2013 your midday dose of stock movers, trending sectors, and actionable trade ideas, delivered right to your inbox. Sign Up Now!\n\nAfter the earnings announcement, implied volatility usually drops back down to normal levels.\n\nLet\u2019s take a look at the expected range for these stocks. To calculate the expected range, look up the option chain and add together the price of the at-the-money put option and the at-the-money call option. Use the first expiry date after the earnings date. While this approach is not as accurate as a detailed calculation, it does serve as a reasonably accurate estimate.\n\n\u00a0\n\nMonday\n\nFAST \u2013 5.5%\n\n\u00a0\n\nTuesday\n\nJPM \u2013 3.7%\n\nWFC \u2013 4.6%\n\nC \u2013 4.3%\n\n\u00a0\n\nWednesday\n\nJNJ \u2013 2.7%\n\nBAC \u2013 4.2%\n\nASML \u2013 6.1%\n\nMS \u2013 4.2%\n\nGS \u2013 4.1%\n\nPGR \u2013 3.9%\n\nKMI \u2013 3.5%\n\n\u00a0\n\nThursday\n\nTSM \u2013 5.3%\n\nNFLX \u2013 7.6%\n\nGE \u2013 6.9%\n\nABT \u2013 3.5%\n\nPEP \u2013 4.0%\n\nIBKR \u2013 5.5%\n\nUSB \u2013 3.9%\n\n\u00a0\n\nFriday\n\nAXP \u2013 4.5%\n\nSCHW \u2013 4.8%\n\nMMM \u2013 5.5%\n\nTFC \u2013 3.7%\n\nSLB \u2013 5.0%\n\n\u00a0\n\nOption traders can use these expected moves to structure trades. Bearish traders can look at selling bear call spreads outside the expected range.\n\nBullish traders can sell bull put spreads outside the expected range, or look at naked puts for those with a higher risk tolerance.\n\nNeutral traders can look at iron condors. When trading iron condors over earnings, it is best to keep the short strikes outside the expected range.\n\nWhen trading options over earnings, it is best to stick to risk defined strategies and keep position size small. If the stock makes a larger than expected move and the trade suffers a full loss, it should not have more than a 1-3% effect on your portfolio.\n\nStocks With High Implied Volatility\n\nWe can use Barchart\u2019s Stock Screener to find other stocks with high implied volatility.\n\nLet\u2019s run the stock screener with the following filters:\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Implied volatility rises ahead of earnings week for NVDA and other tech companies."
+    },
+    "date": "2025-07-14T05:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/official-nvidia-hit-4-trillion-104500271.html",
+    "title": "It's Official -- Nvidia Hit a $4 Trillion Valuation. Here Is the Next \"Magnificent Seven\" Stock I Think Will Hit a Historical Milestone This Year. Nvidia recently became the world's first $4 trillion company, but one of its megacap peers is knocking on the door of another impressive milestone.",
+    "detail": "It's Official -- Nvidia Hit a $4 Trillion Valuation. Here Is the Next \"Magnificent Seven\" Stock I Think Will Hit a Historical Milestone This Year.\nAdam Spatacco, The Motley Fool\nMon, Jul 14, 2025, 4:45 AM 5 min read\nIn This Article:\nNVDA\nMETA\nMSFT\nAAPL\nAMZN\nKey Points\n\nNvidia is currently the most valuable company in the world, as measured by market capitalization.\n\nMicrosoft and Apple trail behind, followed by Amazon and Alphabet who are only in the $2 trillion club.\n\nMeta is closing in on a $2 trillion valuation, and its investments in AI could usher in a new wave of growth.\n\nThese 10 stocks could mint the next wave of millionaires \u203a\n\nNvidia recently became the first company in history to reach a market capitalization of $4 trillion. Although shares have retreated a bit, Nvidia still remains the most valuable company in the world as of this writing (July 10).\n\nWhile many of Nvidia's \"Magnificent Seven\" peers have massive upside, I see Meta Platforms (NASDAQ: META) as next in line to achieve a valuation milestone. With a market capitalization of $1.8 trillion, I think Meta will become the next $2 trillion company by year end.\n\nLet's explore how Meta is investing in artificial intelligence (AI) to supercharge its social media empire and tech wearables business. From there, I'll detail how much growth is needed from a valuation perspective in order for Meta to join the likes of Amazon and Alphabet in the $2 trillion club.\n\nMeta is not messing around\n\nThe graph illustrates Meta's capital expenditure (capex) trends over the last several years. Throughout the AI revolution, Meta has poured billions into developing its own custom chipsets, building an internal large language model (LLM), and doubling down on wearable tech.\n\nMETA Capital Expenditures (Annual) data by YCharts\n\nPer management's guidance during the company's first-quarter earnings call, capex is expected to reach up to $72 billion this year -- nearly double what Meta spent last year.\n\nTwo projects in particular that are worth pointing out include Meta's $14.3 billion investment in Scale AI, as well as the company's reported plans to plans to raise $29 billion for additional data center infrastructure. While the data center build-out is not yet set in stone, I see Meta's consideration of this build-out as a signal that the company intends to continue investing heavily in chips and other AI equipment to improve its existing infrastructure.\n\nScale AI offers sophisticated data labeling processes that Meta can integrate into its own algorithms to better target advertisements. By improving its recommendation models through AI, Meta has the opportunity to increase user engagement across its various social media platforms -- Facebook, Instagram, and WhatsApp -- while concurrently lowering costs per click and user acquisition. These dynamics could lead to a lucrative combination of accelerated revenue and widening profit margins for Meta.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.35
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "1st company to hit $4T market cap: Nvidia; Meta's AI investments may spur growth."
+    },
+    "date": "2025-07-14T04:45:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/goldman-sachs-backs-nvidia-broadcom-104256664.html",
+    "title": "Goldman Sachs Backs Nvidia and Broadcom as Top AI Stocks to Own Chip giants get a fresh vote of confidence as AI enters its next phase",
+    "detail": "Goldman Sachs Backs Nvidia and Broadcom as Top AI Stocks to Own\nFaizan Farooque\nMon, Jul 14, 2025, 4:42 AM 1 min read\nIn This Article:\nNVDA\n\nGoldman Sachs just awarded Nvidia (NVDA, Financials) and Broadcom (AVGO, Financials) a major thumbs-up. Both stocks are now on the investment bank's list of top AI ideas, and analyst James Schneider gave both equities new Buy ratings.Nvidia's story isn't new, but it's still strong. Schneider thinks the firm is the center of the AI revolution, not just because of its GPUs, but also because of its burgeoning software ecosystem, dedicated customers, and constant stream of new ideas. Goldman thinks there's still potential for the stock to go up, even though it has already gone up more than 20% this year. They set a price objective of $185.Goldman likes what it sees from Broadcom, which is taking a new approach to AI. The company is making a lot of progress in custom AI chips and infrastructure software, which are two areas that are predicted to bring in more than 40% of its income by 2026. Schneider points out that Broadcom has strong connections with hyperscale cloud providers and that its stable profitability and sticky software make it worth more. What does he want? $315.But here's the larger picture: Goldman thinks we're not at the conclusion of the AI tale; we're just starting the next act. The first wave was all about constructing infrastructure; now, it's about finding ways to make it work. That means greater chances for businesses like Nvidia and Broadcom that are already doing a lot of work.Goldman's message is clear and to the point. If you really want to get into AI, you should put these two stocks on your watchlist and maybe even buy them.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.74
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.75
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Goldman Sachs assigns Buy rating to NVDA, citing AI revolution potential, software ecosystem growth, and customer base; sets price target at $185."
+    },
+    "date": "2025-07-14T04:42:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/prediction-stock-could-join-nvidia-100000839.html",
+    "title": "Prediction: This Stock Could Join Nvidia, Amazon, Alphabet, Microsoft, and Apple in the $2 Trillion Club By 2035 Visa, a leading financial services company, is still some ways away from a market cap of $1 trillion.  The company's significant growth prospects should lead to superior returns during the next 10 years.  In 2018, Apple became the first publicly traded company to have a $1 trillion market cap.",
+    "detail": "Prediction: This Stock Could Join Nvidia, Amazon, Alphabet, Microsoft, and Apple in the $2 Trillion Club By 2035\nProsper Junior Bakiny, The Motley Fool\nMon, Jul 14, 2025, 4:00 AM 5 min read\nIn This Article:\nAAPL\nV\nNVDA\nAMZN\nGOOGL\nKey Points\n\nVisa, a leading financial services company, is still some ways away from a market cap of $1 trillion.\n\nThe company's significant growth prospects should lead to superior returns during the next 10 years.\n\n10 stocks we like better than Visa \u203a\n\nIn 2018, Apple became the first publicly traded company to have a $1 trillion market cap. Since then, several more have joined it at that level and some of them have even exceeded the $2 trillion mark. Today, that exclusive club comprises Nvidia, Microsoft, and Apple -- all of which are actually above $3 trillion -- as well as Amazon and Alphabet.\n\nThough payment network giant Visa (NYSE: V) hasn't even cracked the $1 trillion valuation ceiling yet -- its market cap is $680 billion as of July 11 -- I think it could join the $2 trillion club by 2035. The financial services powerhouse would need a compound annual growth rate of 11.3% during the next decade to hit that milestone. That would be no easy feat, but here's why the company could pull it off.\n\nImage source: Getty Images.\nA terrific business model\n\nWhat happens when you swipe (or tap) a credit or debit card at a point-of-sale system? Transactions of this kind are typically processed in seconds, but what goes on behind the scenes is fairly complex. Visa is at the center of it all, helping merchants connect with issuing banks and, effectively, request the data that shows whether a consumer has the money or available credit to cover the transaction. If they do, the transaction is accepted; otherwise, it is rejected.\n\nEvery time a transaction is routed through its payment network, Visa pockets a small percentage of the total. According to some data, in the U.S. last year, there were an average of 1,781 credit card transactions per second, about 107,000 per minute, more than 6 million per hour, and almost 154 million per day. Of course, Visa isn't the only company in this industry, but it is the largest -- and the scale of credit and debit card usage in the U.S. should give investors an idea of the company's potential.\n\nThere are nearly 5 billion cards in circulation connected to the Visa network, and during the 12 months ended March 31, it supported about 316 billion transactions and $16.1 trillion in payment volume. The company's dominance in the payments segment translates into excellent financial results. Its revenue, earnings, and free cash flow have all grown at healthy clips during the past decade. Meanwhile, it has maintained gross margins of about 80% and net margins in the vicinity of 50%. For a company of its size, that's outstanding.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Visa's growth prospects could potentially propel it towards a $1T market cap, possibly setting it on track for the $2T club like NVDA, MSFT, AAPL, AMZN, and GOOGL by"
+    },
+    "date": "2025-07-14T04:00:00"
+  }
+]

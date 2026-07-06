@@ -1,0 +1,312 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-captures-the-market-zeitgeist-wk-kellogg-bakes-up-a-big-deal-and-delta-soars-opening-bid-takeaways-153120039.html",
+    "title": "Nvidia captures the market zeitgeist, WK Kellogg bakes up a big deal, and Delta soars: Opening Bid takeaways There is more happening in markets right now than Nvidia hitting a bit milestone.",
+    "detail": "Nvidia captures the market zeitgeist, WK Kellogg bakes up a big deal, and Delta soars: Opening Bid takeaways\nBrian Sozzi \u00b7 Executive Editor\nThu, Jul 10, 2025, 9:31 AM 3 min read\nIn This Article:\nDAL\nBTC-USD\nNVDA\nK\nKLG\n\nIt's an individual stock story day on Wall Street.\n\nWhile the broader markets continue to take renewed Trump tariff headlines in stride while searching for a fresh catalyst, individual companies are dominating the session today.\n\nHere is everything we touched on during Yahoo Finance's Opening Bid on Thursday.\n\n1. Delta lands a whopper\n\nDelta (DAL) soared as much as 14% as it landed a big second quarter and outlook. Shares were tops on the Yahoo Finance Trending Ticker page.\n\nIf the airline giant's earnings day is any indication of the broader earnings season, the market may be poised to take off to another level.\n\nThe company beat quarterly analyst estimates by $0.03, but it's what Delta said that has excited investors. Its third quarter EPS guidance of $1.25 to $1.75 was $0.38 above consensus at the high end. The company called out steady demand trends. It restored full-year EPS guidance and hiked the dividend by 25%.\n\nStockBroker.com's Jessica Inskip said on Opening Bid, \"I think the bar has been really set very low for this earnings season. I expect to see a lot of beats.\"\n\n2. The year of bitcoin records\n\nBitcoin prices reached a new all\u2011time high, climbing to over $112,000. That surpasses its previous peak of around $111,900 seen in May of this year.\n\nThe move has ignited another push higher in crypto plays such as Circle (CRCL) and Robinhood (HOOD). The drivers of the latest bitcoin record aren't clear. Some traders speculate it's short covering, and others say it's a flight to perceived safety amid tariff uncertainty.\n\nInskip said the desire to trade around the clock by retail investors is also driving bitcoin prices.\n\n3. Nvidia captivates markets\n\nTo $4 trillion and beyond!\n\nWe continue to track Nvidia the day after the AI chip darling became the first company to reach $4 trillion market cap.\n\nShares are on the rise today, supported by a bullish call on rival Advanced Micro Devices (AMD) from HSBC analyst Ryan Mellor, who cited strong demand for AI chips.\n\n4. Deals down the food aisle\n\nThe potential for extra chocolaty cereal from WK Kellogg (KLG) is on the rise. Shares of the Froot Loop and Frosted Flakes maker have spiked more than 31% as chocolate giant Ferrero offers a $3.1 billion buyout deal. The company's market was around $1.5 billion prior to the news.\n\nIf closed, this deal would remove from public markets the other Kellogg brand that was spun off in 2023. Kellanova (K) \u2014 maker of Pringles and snack bars \u2014 is in the process of being purchased for $36 billion by gum king Wrigley.\n\n\"These are iconic brands, and so you include our iconic brands with their iconic brands. One of the reasons we got into this is because it offers us an opportunity to actually get some regional expansion as well, opens us up to a broader set of snacking categories,\" Mars Wrigley North America president Anton Vincent recently told me about the rationale for the Kellanova deal at Cannes Lions.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.93
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "3"
+    },
+    "date": "2025-07-10T09:31:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trumps-tariff-changes-leave-big-tech-in-limbo-204340259.html",
+    "title": "Trump\u2019s tariff changes leave Big Tech in limbo President Trump's tariff moves are back, and they're leaving Big Tech with few options.",
+    "detail": "Trump\u2019s tariff changes leave Big Tech in limbo\nDaniel Howley \u00b7 Technology Editor\nUpdated Wed, Jul 9, 2025, 2:43 PM 6 min read\nIn This Article:\nNVDA\nAAPL\n005930.KS\n^SPX\nDELL\n\nThe tech industry is once again on a knife\u2019s edge after President Trump signed an executive action on Monday delaying the implementation of his reciprocal tariffs on countries around the world until Aug. 1.\n\nThe decision came just days before the prior July 9 deadline when many of Trump\u2019s original \"Liberation Day\" tariffs were to take hold. Trump also began sending out letters to select trading partners, including Japan and South Korea, which he said will face 25% levies if they don\u2019t reach agreements with the United States by Aug. 1.\n\nFor the tech industry, the announcements mark a return to the uncertainty of April, which sent both the S&P 500 and Dow plummeting, as Trump seeks to remake the country\u2019s various trade relationships.\n\n\u201cIt's been two steps forward, one step back,\u201d explained Deepwater Asset Management managing partner Gene Munster.\n\nRead more: 5 ways to tariff-proof your finances\n\n\u201cWe're still moving forward, but what it means for Big Tech is that it opens up this unknown about what happens now and in that \u2026 December quarter, because any changes probably won't really start to take effect until midway through the September quarter,\u201d Munster added.\n\nQINGDAO, CHINA - JULY 08 2025: Aerial view of a container terminal in Qingdao in east China's Shandong province Tuesday, July 08, 2025. (Photo credit should read YU FANGPING / Feature China/Future Publishing via Getty Images) \u00b7 Feature China via Getty Images\n\nWhat happens after the Aug. 1 deadline, though, is anyone\u2019s guess. For now, Trump says he won\u2019t extend the deadline, but he\u2019s also pushed it out twice already.\n\nIf there\u2019s one bright side to the tariff changes, it\u2019s that they don\u2019t impact the ongoing trade negotiations between the US and China, which could have resulted in price hikes on tech products. According to the US International Trade Commission, Trump\u2019s tariffs on the country will largely remain suspended through Aug. 10.\n\nThen there are companies like Nvidia (NVDA) and Apple (AAPL), which have won a reprieve from the immediate threat of tariffs but face individual actions from the Trump administration. Nvidia is contending with a ban on the sale of its chips to China, while Apple is staring down an additional 25% tariff if it doesn\u2019t begin building its devices in the US instead of relying on manufacturing in other countries, including China and India.\n\nAnd every tech company is waiting on tenterhooks for the administration to announce its tariffs on semiconductor imports.\n\nIt all adds up to a confusing summer for Big Tech.\n\nThe confusion is worse than the tariffs\n\nAmong the biggest challenges for Big Tech is the inability to plan how to address the impact of tariffs in the coming months. What\u2019s more, with the US pushing for countries to exclude China from their supply chains, there\u2019s no guarantee the current cooling in the trade war between the two superpowers won\u2019t go hot again.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.53
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Delayed US tariffs leave tech giants like NVDA in trade limbo; Trump sends letters to Japan, South Korea, threatening 25% levies if no deals reached by Aug 1."
+    },
+    "date": "2025-07-09T14:43:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/trump-tariffs-nvidia-hits-4-trillion-market-cap-mark-zuckerbergs-big-summer-opening-bid-takeaways-165321922.html",
+    "title": "Trump tariffs, Nvidia hits $4 trillion market cap, Mark Zuckerberg's big summer: Opening Bid takeaways What day isn't a big day for investors?",
+    "detail": "Trump tariffs, Nvidia hits $4 trillion market cap, Mark Zuckerberg's big summer: Opening Bid takeaways\nBrian Sozzi \u00b7 Executive Editor\nWed, Jul 9, 2025, 10:53 AM 3 min read\nIn This Article:\nUBER\nMETA\nNVDA\nHG=F\nAAPL\n\nA slow summer for markets this is not.\n\nTraders entered Wednesday's session digesting more President Trump tariff chaos that has sent copper prices ripping higher. This is in addition to fresh uncertainty on the future of the Federal Reserve.\n\nSome 10 minutes into the opening bell on Wall Street, however, investors shook it off to shift focus on AI chip darling Nvidia (NVDA). The company broke through a $4 trillion market for the first time ever (watch the above analysis).\n\nHere is everything we touched on during Yahoo Finance's Opening Bid on Wednesday.\n\n1. 50% copper tariffs!\n\nPresident Trump's off-the-cuff move to slap copper imports with a 50% tariff should remind investors of one key point: In this administration, one must always brace for surprises.\n\nShares of copper plays Freeport-McMoRan (FCX) and Southern Copper Corporation (SCCO) dropped 5% and 3%, respectively, in early trading.\n\n\"I think it's [the copper tariffs] just a reminder that markets don't move in a straight line, that we'll get some hiccups along the way,\" Truist co-chief investment officer Keith Lerner said.\n\nLerner remains bullish on the markets.\n\n2. The race to succeed Fed Chair Jerome Powell\n\nThe \"Apprentice\"-style battle to be President Trump's Fed chair pick is heating up, according to the Wall Street Journal. Two of the top candidates \u2014 former Fed governor Kevin Warsh and director of the National Economic Council Kevin Hassett \u2014 are certainly qualified but ratchet up Wall Street's concern on Fed independence. Both are seen as key economic allies of Trump.\n\n\"If one of the Kevins does come in and take over, it's setting up for maybe a little bit more contentious conversations perhaps at the FOMC going forward,\" Crossmark Global Investments chief markets strategist Victoria Fernandez said. \"It does not necessarily mean that they are going to be able to lower rates.\"\n\nTime to get bullish on Uber? \u00b7 Yahoo Finance\n3. Zuck's cool vibes\n\nMeta (META) CEO Mark Zuckerberg is having a summer to remember, including poaching top AI talent such as Alexandr Wang with big paychecks. On July 4, he posted a video of himself wakesurfing in an eagle costume on Instagram. And now his company is plunking down a reported $3.5 billion to increase its stake in eyewear maker EssilorLuxottica.\n\nMeta lost $4.2 billion in its Reality Labs division in the most recent quarter, which has never been profitable. Yet Meta's stock has rallied 25% this year while Apple (AAPL) has seen its stock drop 16%. After all, Apple has a lot of tariff exposure!\n\nFernandez said, \"I think Meta is a good fundamental place to be.\"\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI chip leader Nvidia breaks $4T market cap amidst unexpected 50% copper tariffs."
+    },
+    "date": "2025-07-09T10:53:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/luma-ai-launches-dream-lab-150000285.html",
+    "title": "Luma AI Launches \"Dream Lab LA\" to Give Filmmakers the Knowledge, Tools, and Team to Thrive in the AI Era LOS ANGELES, July 10, 2025--Luma AI Launches \"Dream Lab LA\" to Give Filmmakers the Knowledge, Tools, and Team to Thrive in the AI Era",
+    "detail": "Luma AI Launches \"Dream Lab LA\" to Give Filmmakers the Knowledge, Tools, and Team to Thrive in the AI Era\nBusiness Wire\nThu, Jul 10, 2025, 9:00 AM 4 min read\nIn This Article:\nNVDA\nLuma AI launches \"Dream Lab LA\" to give filmmakers the knowledge, tools, and team to thrive in the AI era. Verena Puhm (L) was named Head of Studio, and Jon Finger (R) named Creative Workflow Executive. (Credit: Tim Kasper for Luma AI)\n\n\"Dream Lab LA\" will be led by industry veteran and filmmaker Verena Puhm and entertainment technology expert Jon Finger\n\nWith support from a16z, AWS, NVIDIA and other leading investors, Luma AI is partnering with filmmakers to evolve their craft \u2013 honoring the past while innovating for the future\n\nLOS ANGELES, July 10, 2025--(BUSINESS WIRE)--Luma AI, one of the world's most advanced generative AI companies, today announced the launch of its groundbreaking initiative, \"Dream Lab LA\" \u2013 a bold new initiative headquartered in Los Angeles that combines frontier AI technology with deep expertise in filmmaking. Dream Lab LA is designed as a creative engine room where Hollywood veterans, emerging storytellers, studios, and curious minds come together to shape the next era of storytelling \u2013 before it arrives.\n\n\"Dream Lab LA is where we build what everyone else is still guessing at,\" says Amit Jain, CEO and Founder of Luma AI. \"This is not about chasing trends, this is about defining what\u2019s next.\"\n\nRooted in hands-on filmmaking and backed by frontier research, Dream Lab LA exists to explore how AI can empower creativity, not replace it. As AI rapidly reshapes the creative landscape, Dream Lab LA offers a space for experimentation, education, and collaboration between studios, creators, and curious minds.\n\nLuma AI today announced the leadership team for Dream Lab LA, naming Verena Puhm as Head of the studio. A powerhouse in both traditional and AI-driven storytelling, Puhm has shaped content for global giants like CNN, BBC, Netflix, Red Bull Media, and Leonine Studios. As one of the earliest creatives to embrace AI in filmmaking, she\u2019s led acclaimed projects recognized by Sundance, Project Odyssey, Curious Refuge, and OpenAI\u2019s Sora Selects. Her ability to merge narrative craftsmanship with technological innovation has earned her a reputation as one of the leading voices driving the future of the entertainment industry. In her new role, Puhm will spearhead the studio\u2019s vision for next-generation content and lead a slate of boundary-pushing productions.\n\n\"I believe the future of storytelling should be shaped by the people who tell stories, not just the people who build the tools,\" says Verena Puhm, Head of Dream Lab LA. \"We\u2019re cultivating a community, a creative lab, and a launchpad for what\u2019s next. This isn\u2019t just another platform; it\u2019s a creative studio built from the ground up to blend technological innovation with artistic intention.\"\n\nJon Finger, Creative Workflow Executive, brings over 15 years of experience at the intersection of emerging technology and content creation. A pioneer in at-home motion capture, 3D scanning, and virtual production, he has worked across various entertainment sectors with brands such as Paramount Network, The Game Awards, and Comedy Central, and has developed for Netflix. For the past three years, Finger has focused on AI integration in filmmaking, developing workflows that give creators physicalized control over AI-driven productions.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.37
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Luma AI launches \"Dream Lab LA,\" a partnership with filmmakers to blend AI tech with traditional craft, backed by a16z, AWS, and NVIDIA."
+    },
+    "date": "2025-07-10T09:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/hsbc-upgrades-amd-ai-chip-145404249.html",
+    "title": "HSBC upgrades AMD as AI chip pricing could drive major upside through 2026 Investing.com -- HSBC upgraded Advanced Micro Devices (NASDAQ:AMD) to Buy and doubled its price target to $200 given a stronger-than-expected pricing power in its AI GPU lineup and growing confidence in the company\u2019s data center roadmap.",
+    "detail": "HSBC upgrades AMD as AI chip pricing could drive major upside through 2026\nPratyush Thakur\nThu, Jul 10, 2025, 8:54 AM 1 min read\nIn This Article:\nAMD\nNVDA\n\nInvesting.com -- HSBC upgraded Advanced Micro Devices (NASDAQ:AMD) to Buy and doubled its price target to $200 given a stronger-than-expected pricing power in its AI GPU lineup and growing confidence in the company\u2019s data center roadmap.\n\nThe brokerage, which had previously downgraded AMD in January, now expects the company\u2019s MI350 chips to command significantly higher prices than initially assumed, with performance on par with Nvidia\u2019s Blackwell-based B200.\n\nHSBC raised its 2026 AI revenue forecast to $15.1 billion, 57% above consensus, driven by average selling prices it now sees at $25,000 per unit versus a prior estimate of $15,000.\n\nAnalysts said the MI350\u2019s earlier-than-expected pricing strength and wider adoption of CoWoS packaging could further lift earnings, while a shift in mix toward high-end AI GPUs in 2025 should support near-term momentum.\n\nThe firm lifted its 2025 and 2026 earnings estimates by 13% and 23%, respectively.\n\nA potential catalyst beyond 2025 is the launch of the MI400 series, AMD\u2019s first full-rack AI server solution, expected to compete with Nvidia\u2019s next-generation Vera Rubin platform in 2026.\n\nHSBC said the MI400\u2019s use of standard data center infrastructure could help adoption but noted it is still early to quantify the upside.\n\nNon-AI businesses, including general server and client segments, are holding up well, with HSBC revising up 2025 server shipment estimates by 5%.\n\nDespite a recent rally following AMD\u2019s AI event in June, the firm believes the full impact of its AI pricing power is not yet reflected in the stock.\n\nHSBC\u2019s $200 target is based on a 31x multiple of 2026 estimated EPS.\n\nRelated articles\n\nHSBC upgrades AMD as AI chip pricing could drive major upside through 2026\n\nTesla rallies on robotaxi expansion; Munster calls progress \u2018ahead of schedule\u2019\n\nMS resumes Verizon at Equal-Weight, sees limited upside without wireless gains\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "HSBC upgrades AMD, boosting AI GPU pricing and raising 2026 revenue forecast to $15.1B for AMD's MI350 chips, posing potential threat to NVDA."
+    },
+    "date": "2025-07-10T08:54:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-stock-regains-momentum-time-144716771.html",
+    "title": "Nvidia Stock Regains Momentum. Is It Time to Buy, Sell, or Hold NVDA? In just three months, Nvidia stock has surged 51%, making it the first publicly traded company to briefly surpass a staggering $4 trillion market cap.",
+    "detail": "Nvidia Stock Regains Momentum. Is It Time to Buy, Sell, or Hold NVDA?\nAmit Singh\nThu, Jul 10, 2025, 8:47 AM 4 min read\nIn This Article:\nNVDA\nNVIDIA Corp logo on phone-by Evolf via Shutterstock\n\nAfter a sluggish start to 2025, Nvidia (NVDA) stock has come roaring back, reflecting improving market sentiment.\n\nJust a few months ago, the narrative surrounding Nvidia was far more cautious. Earlier in the year, the stock faced mounting pressure as concerns grew over potential demand headwinds for its high-performance GPUs. Notably, the launch of DeepSeek\u2019s cost-effective R1 large language model (LLM) in January raised concerns that Nvidia\u2019s premium-priced chips might lose their appeal. Adding fuel to the fire, new U.S. government restrictions on GPU shipments to China wiped out billions in potential revenue.\n\nMore News from Barchart\n\nThis Underdog AI Stock Just Got a New Street-High Price Target\n\n\u2018The Most Patriotic Thing You Can Do Is Not Pay the IRS\u2019 Says Grant Cardone as OBBBA Signed into Law \u2014 Here\u2019s How Much You\u2019ll Save\n\nTexas Just Passed Quantum Computing Legislation. How Should You Play IONQ Stock Here?\n\nTired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!\n\nOverall, Nvidia\u2019s early 2025 narrative was one of headwinds and caution.\n\nBut the tide has turned. In just three months, Nvidia stock has surged 51%, making it the first publicly traded company to briefly surpass a staggering $4 trillion market cap. As macroeconomic fears have eased, so has the selling pressure on tech, including Nvidia. Further, the company\u2019s dominance across the AI ecosystem, including hardware, software, and networking, puts it in a solid position to capitalize on exploding AI infrastructure demand.\n\nwww.barchart.com\nNVDA\u2019s Financial Performance Reflects Strong Fundamentals\n\nNvidia\u2019s recent financial performance demonstrates the robustness of its fundamentals. In its latest quarter, the company reported $44 billion in revenue, representing a 69% year-over-year increase. The Data Center segment led the charge with $39 billion in sales, up 73%, driven by the accelerating demand. Further, the shift from AI training to inference and the rapid buildout of AI factories around the globe augurs well for growth.\n\nThe company\u2019s new Blackwell platform is now the key growth catalyst. In Q1, Blackwell chips contributed nearly 70% of Data Center compute revenue, marking the fastest ramp in Nvidia\u2019s history. With its innovative GB200 NVL systems, Nvidia is delivering AI compute at an unprecedented scale and efficiency, achieving the lowest cost per inference token in the industry.\n\nNvidia\u2019s resilience shows in other areas as well. Networking has emerged as a powerful second growth engine, generating $5 billion in quarterly revenue, a 64% quarter-over-quarter increase. Technologies like NVLink and Spectrum-X are now essential for AI infrastructure, enabling the high-bandwidth, low-latency performance required for next-generation agentic AI, which aims to surpass generative models by facilitating autonomous reasoning and decision-making.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.97
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "2025 Q2: Improved market sentiment boosts NVDA stock after earlier concerns over demand headwinds and US restrictions on GPU shipments to China."
+    },
+    "date": "2025-07-10T08:47:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/world-10-richest-people-wealthiest-150953619.html",
+    "title": "The world\u2019s 10 richest people: The wealthiest have $100 billion or more Here are the world\u2019s 10 richest people and some of their key investments.",
+    "detail": "The world\u2019s 10 richest people: The wealthiest have $100 billion or more\nJames Royal, Ph.D.\nThu, Jul 10, 2025, 8:40 AM 5 min read\nIn This Article:\nMETA\nMC.PA\nGOOGL\nTSLA\nSPAX.PVT\n\nThe world\u2019s wealthiest people have several things in common, but one of the most prominent is that the 10 richest have more than $100 billion to their name. The very top have $200 billion or more. These amounts don\u2019t consist of cash sitting in a bank but are mainly investments, often of some of the largest publicly traded companies, which even the general public can invest in.\n\nThese billionaires reached their lofty heights through hard work, great ideas, serendipity and plenty of careful planning along the way.\n\nHere are the world\u2019s 10 richest people and some of their key investments, according to the Bloomberg Billionaires Index, as of July 9, 2025.\n\n1. Elon Musk: $347 billion\n\nElon Musk is one of the most controversial business figures, but what\u2019s not under dispute is his wealth. Born in South Africa, Musk built Tesla into a leading player in the electric vehicle market, and is pushing space travel with his SpaceX venture.\n\nMusk made a small fortune as an early shareholder of PayPal, and more recently purchased Twitter, which he renamed X. Musk has courted controversy in recent years, becoming politically aligned with President Donald Trump during the 2024 presidential election before becoming the face of the Department of Government Efficiency (DOGE), as well as using drugs during a broadcast interview with top podcaster Joe Rogan.\n\nGet started: Match with an advisor who can help you achieve your financial goals\n\n2. Mark Zuckerberg: $258 billion\n\nMark Zuckerberg is the founder of Meta Platforms, the company previously known as Facebook. The youngest member of this list, Zuckerberg began Facebook out of his dorm room at Harvard and quickly expanded it over the ensuing years.\n\nMeta owns social media platforms Facebook and Instagram, as well as the messaging service WhatsApp. The company is also heavily investing in artificial intelligence.\n\n3. Larry Ellison: $251 billion\n\nLarry Ellison co-founded software company Oracle and ran it for decades before becoming its chief technology officer and executive chairman. Ellison also owns nearly all of the Hawaiian island of Lana\u2019i.\n\n4. Jeff Bezos: $243 billion\n\nAs the founder of Amazon, Jeff Bezos became something of a household name in the dot-com boom of 1999-2000, but his wealth really took off after the 2008-2009 financial crisis. In the decade that followed, Amazon expanded into web services, logistics and shipping and more.\n\nBezos purchased The Washington Post in 2013 for $250 million and founded Blue Origin, an aerospace company that is commercializing space travel. He\u2019s also a noted philanthropist, founding the Bezos Earth Fund in 2020 with a donation of $10 billion and has said that he will give away most of his fortune.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "10 richest people have >$100B; Elon Musk ($347B) invests in public companies, including NVDA."
+    },
+    "date": "2025-07-10T08:40:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvda-goldman-doubles-down-nvidia-142001362.html",
+    "title": "NVDA: Goldman Doubles Down on Nvidia as It Hits $4 Trillion Milestone Nvidia Hit $4 Trillion--Goldman Sachs Sees Even More Upside",
+    "detail": "NVDA: Goldman Doubles Down on Nvidia as It Hits $4 Trillion Milestone\nNauman khan\nThu, Jul 10, 2025, 8:20 AM 1 min read\nIn This Article:\nNVDA\n\nJuly 10 - A Thursday note from Goldman Sachs unveiled a new \"Buy\" rating on Nvidia Corporation (NASDAQ:NVDA) with a $185 price target. The move comes days after the chipmaker briefly pushed its market value past $4 trillion.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nAnalyst James Schneider highlighted Nvidia's dominance in accelerated computing and its industry-standard CUDA software, which developers use to build and deploy AI applications.\n\nHe also pointed to Nvidia's widening customer base, including cloud providers, healthcare firms and robotics companies, which is likely to sustain demand for next-generation GPUs.\n\nSchneider praised the firm's breakneck pace of product launches and noted that Nvidia is already monetizing its AI platforms, unlike many peers still refining their offerings.\n\nDespite the stock's recent rally, he believes valuation remains attractive and forecasts that NVDA will outperform over the next 12 months.\n\nInvestors will watch closely to see if this bullish initiation can fuel further gains as Nvidia navigates intense competition and evolving AI trends.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.75
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.78
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Goldman raises NVDA to Buy, citing dominance in accelerated computing, expanding customer base, and rapid product launches; stock already rallied."
+    },
+    "date": "2025-07-10T08:20:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stocks-mostly-rise-trade-deal-034138919.html",
+    "title": "Wall Street stocks stall, London hits record high Wall Street stocks dipped Thursday while London hit a record high as investors remain optimistic overall that governments will reach deals to avoid US tariffs.All three of Wall Street's main indices quickly slipped into the red, a day after the S&P 500 and Nasdaq Composite set fresh record highs thanks to a surge in US chip titan Nvidia that pushed the firm to a record $4 trillion valuation at one point.",
+    "detail": "Global stocks mostly rise, shrugging off US tariff threats\nAFP\nThu, Jul 10, 2025, 3:49 PM 3 min read\nIn This Article:\nDAL\n^SPX\nStrong results from Delta Air Lines boosted US airline shares (Daniel SLIM)\n\nStocks largely rose on Thursday, with London striking a record high and US indices also edging to fresh new peaks, as investors looked past US President Donald Trump's plethora of tariff threats.\n\nBoth the S&P 500 and Nasdaq shrugged off early weakness to eke out gains that left them at all-time highs.\n\nUS airline shares enjoyed a particularly buoyant session with Delta, United and American Airlines all winning double digit gains after Delta's results topped estimates.\n\nInvestors are largely ignoring a flood of tariff announcements from Trump this week affecting myriad important trading partners, analysts said.\n\n\"It's pretty clear that the market does not want to pay attention to tariff news until the tariffs are actually in place,\" said Steve Sosnick of Interactive Brokers.\n\n\"As long as there is any plausible, any possible reason for tariffs to get renegotiated or pushed back or modified, then the market is going to just not respond to the news,\" said Steve Sosnick of Interactive Brokers.\n\nIn Europe, London's FTSE 100 index rose more than one percent to set a new all-time high, lifted also by a surge in mining stocks after Trump said he would enact a 50-percent copper tariff on August 1.\n\nParis stocks advanced, tracking gains in Asia, but Frankfurt ended the day lower.\n\nNegotiators from around the world have been trying to reach agreements with Washington since Trump in April unveiled his \"Liberation Day\" tariff bombshell, with a July 9 deadline pushed back to August 1.\n\n\"Indications that the EU is edging closer to a deal with the US, with an agreement thought to be possible in a few days, has added to the positive vibes,\" said Susannah Streeter, head of money and markets at Hargreaves Lansdown.\n\nLetters have been sent in recent days to more than 20 trading partners -- including Japan and South Korea -- setting out new tolls, with some higher and some lower than the initial levels.\n\nThere was little global reaction to news that Trump had hit Brazil with a 50-percent tariff as he blasted the trial of the country's ex-president Jair Bolsonaro.\n\nBrazilian President Luiz Inacio Lula da Silva said he would impose reciprocal levies on the United States.\n\nBrazil had not been among those threatened with higher duties, with the United States running a goods trade surplus with the South American giant.\n\n- Key figures at around 2140 GMT -\n\nNew York - Dow: UP 0.4 percent at 44,650.64 (close)\n\nNew York - S&P 500: UP 0.3 percent at 6,280.46 (close)\n\nNew York - Nasdaq Composite: UP 0.1 percent at 20,630.66 (close)\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.25
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"Delta's strong earnings lift US airline shares; S&P 500, Nasdaq hit all-time highs despite US tariff threats.\""
+    },
+    "date": "2025-07-10T15:49:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bitcoin-price-levels-watch-cryptocurrency-140108338.html",
+    "title": "Bitcoin Price Levels to Watch After Cryptocurrency Hits First Record High Since May Bitcoin powered past $112,000 to another record high yesterday, its first since late May, before consolidating in early trade on Thursday. Monitor these major chart levels.",
+    "detail": "Bitcoin Price Levels to Watch After Cryptocurrency Hits First Record High Since May\nTimothy Smith\nThu, Jul 10, 2025, 8:01 AM 2 min read\nIn This Article:\nBTC-USD\nNVDA\nMSFT\nSource: TradingView.com\nKey Takeaways\n\nBitcoin powered past $112,000 to another record high yesterday, its first since late May, before consolidating in early trade on Thursday.\n\nBitcoin\u2019s price nudged above the top trendline of a descending channel Wednesday, paving the way for a continuation move higher.\n\nThe measuring principle projects an upside target if $146,400.\n\nInvestors should watch major support levels on bitcoin's chart around $107,000 and $100,000.\n\n\n\n\nBitcoin (BTCUSD) powered past $112,000 to another record high yesterday, its first since late May, before consolidating in early trade on Thursday.\n\nIn recent months, the cryptocurrency has received a boost from more companies adding it to their corporate treasuries and lawmakers working towards passing pro-crypto legislation.\n\nBitcoin trades nearly 50% above its early April low and has gained 19% on the year, roughly matching the returns of Magnificent Seven members, Nvidia (NVDA) and Microsoft (MSFT) over the same period.\n\nBelow, we take a closer look at the technicals in bitcoin\u2019s chart and identify major price levels worth watching out for.\n\nDescending Channel Breakout\n\nBitcoin\u2019s price nudged above the top trendline of a descending channel on Wednesday, paving the way for a continuation move higher. Moreover, the relative strength index (RSI) confirms bullish momentum and remains below overbought levels, providing ample room for the digital asset to move into price discovery mode.\n\nHowever, it\u2019s worth pointing out that trading volume continues to dwindle on Coinbase (COIN), the largest U.S.-based crypto exchange, suggesting that larger market participants, such as institutional investors, may be accumulating the asset through spot bitcoin exchange-traded funds (ETFs) rather than exchanges.\n\nLet\u2019s use technical analysis to project a potential upside target on bitcoin\u2019s chart and also locate several major price levels where the cryptocurrency could find support.\n\nChart-Based Upside Target\n\nInvestors can project an upside target in bitcoin by using the measuring principle, a technique that analyzes price swings on the chart to forecast future price levels.\n\nWhen applying the analysis, we calculate the distance of the cryptocurrency\u2019s uptrend that preceded the descending channel and add that amount to Wednesday\u2019s breakout point. This projects a target of $146,400 ($37,600 + $108,800), implying 32% upside from bitcoin\u2019s current trading levels.\n\nMajor Support Levels to Watch\n\nDuring retracements, investors should initially watch the $107,000 level. This point, currently situated just below the descending channel\u2019s upper trendline, could provide support near the 50-day moving average and prominent December and January peaks.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.8
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Bitcoin hits new record high at $112k; Investors watch key support levels at $107k, $100k as more companies adopt crypto & pro-legislation progresses."
+    },
+    "date": "2025-07-10T08:01:00"
+  }
+]

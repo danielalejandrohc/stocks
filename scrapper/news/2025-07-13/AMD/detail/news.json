@@ -1,0 +1,240 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/goldman-sachs-starts-coverage-marvell-150618157.html",
+    "title": "Goldman Sachs Starts Coverage on Marvell (MRVL)\u2014Why It\u2019s Not a Buy Yet Marvell Technology, Inc. (NASDAQ:MRVL) is one of the Trending AI Stocks on Wall Street. On July 10, Goldman Sachs analyst James Schneider initiated coverage on the stock with a \u201cNeutral\u201d rating and a price target of $75.00. The firm is cautious on the stock, along with AMD and Arm Holdings. Even though all three are involved [\u2026]",
+    "detail": "Goldman Sachs Starts Coverage on Marvell (MRVL)\u2014Why It\u2019s Not a Buy Yet\nGhazal Ahmed\nSun, Jul 13, 2025, 9:06 AM 2 min read\nIn This Article:\nAMD\nARM\n\nMarvell Technology, Inc. (NASDAQ:MRVL) is one of the Trending AI Stocks on Wall Street.\u00a0On July 10, Goldman Sachs analyst James Schneider initiated coverage on the stock with a \u201cNeutral\u201d rating and a price target of $75.00.\n\nThe firm is cautious on the stock, along with AMD and Arm Holdings. Even though all three are involved in AI, the firm is of the view that they don\u2019t offer the same upside potential right now.\n\n\u201cOur ratings reflect a more negative risk/reward skew on these companies\u2019 shares from current levels, or areas where we see additional downside risk to fundamentals.\u201d\n\nParticularly for Marvell, the firm said that it has AI exposure, but not enough upside right now to recommend buying.\n\n\u201cWe initiate on Marvell (MRVL) with a Neutral rating and a 12-month target price of $75. Marvell is a networking solutions provider and an industry leader in optical DSPs. The company has also seen growing traction in its custom compute franchise. We believe the company has demonstrated early success in its custom compute franchise, with deployments at Amazon and recently announced new customer wins at its Custom AI event.\n\nGoldman Sachs Starts Coverage on Marvell (MRVL)\u2014Why It\u2019s Not a Buy Yet\n\n\"However, we have only moderate visibility into the shape of the company\u2019s custom compute ramp in CY26. On the positive side, we believe that the company is on a path to recovery in its traditional Enterprise Networking and Carrier businesses. All in, we see a balanced risk/reward profile at these levels. We could be more constructive on the stock if we were to gain better visibility on the company\u2019s ASIC ramp in 2026 and beyond.\u201d\n\nMarvell Technology, Inc. (NASDAQ:MRVL) engages in the development and production of semiconductors, focusing heavily on data centers.\n\nWhile we acknowledge the potential of MRVL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT:\u00a010 Trending AI Stocks on News and Ratings and 12 AI Stocks Making Waves on Wall Street.\n\nDisclosure: None.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-13T09:06:00",
+    "summaries": {
+      "deepseek-r1:8b": "Goldman Sachs analyst is cautious on AMD, not seeing upside potential.",
+      "gemma4:e4b": "An analyst suggests a negative risk/reward skew for AMD, citing additional downside risk to fundamentals."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 0.1
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/prediction-2-ai-chip-stocks-131500252.html",
+    "title": "Prediction: These 2 AI Chip Stocks Will Outperform Nvidia Over the Next 5 Years Nvidia is the dominant player in AI infrastructure, but its size could limit some of its upside.  AMD and Broadcom, meanwhile, have huge opportunities.  Given their smaller sizes, the stocks have the potential to outperform Nvidia in the coming years.",
+    "detail": "Prediction: These 2 AI Chip Stocks Will Outperform Nvidia Over the Next 5 Years\nGeoffrey Seiler, The Motley Fool\nSun, Jul 13, 2025, 7:15 AM 5 min read\nIn This Article:\nNVDA\nAMD\nAVGO\nKey Points\n\nNvidia is the dominant player in AI infrastructure, but its size could limit some of its upside.\n\nAMD and Broadcom, meanwhile, have huge opportunities.\n\nGiven their smaller sizes, the stocks have the potential to outperform Nvidia in the coming years.\n\n10 stocks we like better than Advanced Micro Devices \u203a\n\nNvidia is the undisputed king of artificial intelligence (AI) infrastructure. The company has a dominant share in the graphics processing unit (GPU) market, where its chips provide the processing power necessary to run AI workloads. Its CUDA software platform has helped create a wide moat, giving the company over 90% market share in the GPU space.\n\nThat said, Nvidia has become a mammoth company, recently hitting a $4 trillion market cap. As such, it now faces the law of large numbers. It can keep growing, but it will get more difficult to keep up the same pace.\n\nThat's why the stocks of Advanced Micro Devices (NASDAQ: AMD) and Broadcom (NASDAQ: AVGO) could outperform the GPU leader over the next five years. Both have smaller revenue bases to work from and big potential tailwinds.\n\nImage source: Getty Images.\nAdvanced Micro Devices\n\nAMD, as the company is also known, has been seeing strong revenue growth, but its AI opportunity could just be getting started. While it's still a distant second to Nvidia in GPUs, it has been able to carve out a niche in AI inference.\n\nOn its last earnings call, AMD said that one of the largest AI model companies in the world is using its GPUs to run a significant chunk of its daily inference workloads. Major cloud providers have been using its chips to run search, recommendation engines, and generative AI tasks. The company's ROCm software platform still trails CUDA, but it's generally considered good enough when it comes to inference.\n\nThe reason the stock can outperform, though, largely comes down to size. Nvidia's data center revenue hit $39.1 billion last quarter, while AMD's was just $3.7 billion. It doesn't have to take massive share from the leader to see explosive growth, as even modest wins can make a big impact.\n\nAMD is also a leader in data center central processing units (CPUs), where it has gained meaningful share against Intel. CPUs act as the brains of the operation, so as AI workloads expand, demand for high-performance CPUs will also grow.\n\nMeanwhile, the UALink Consortium which was formed by AMD, Intel, Broadcom, and others, is looking to challenge Nvidia's NVLink and its proprietary interconnects. It wants to develop an open standard for high-speed, low-latency interconnects for AI accelerators in data centers. If successful, it could erode one of Nvidia's biggest advantages and open the door for companies to use clusters of multiple vendors. That would be huge for AMD.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    },
+    "date": "2025-07-13T07:15:00",
+    "summaries": {
+      "deepseek-r1:8b": "AMD and Broadcom may outperform Nvidia due to smaller size.",
+      "gemma4:e4b": "AMD has huge opportunities and potential to outperform competitors due to its smaller size."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 1.0
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/street-calls-week-053122836.html",
+    "title": "Street Calls of the Week Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.",
+    "detail": "Street Calls of the Week\nMaria Ponnezhath\nSat, Jul 12, 2025, 11:31 PM 5 min read\nIn This Article:\nADSK\nMSFT\nAMD\n\nInvesting.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.\n\nInvestingPro subscribers always get first dibs on market-moving AI analyst comments. Upgrade today!\n\nAutodesk\n\nWhat happened? On Monday, DA Davidson upgraded Autodesk (NASDAQ:ADSK) to Buy with a $375 price target.\n\n*TLDR: DA Davidson upgrades Autodesk to BUY. Efficiency drives explosive profit growth.\n\nWhat\u2019s the full story? DA Davidson slams the upgrade button on Autodesk, shifting it to BUY from NEUTRAL. The firm\u2019s laser focus on growth engines like ACC (NSE:ACC) and Fusion, paired with a relentless push for operational excellence, signals a trajectory toward top-tier performance.\n\nAutodesk, long hailed as a top decile asset in the September 2024 initiation, is now sprinting toward its full potential. The firm sees no fluke here\u2014this is execution meeting opportunity.\n\nMargins? Sure, there\u2019ll be noise from transaction model shifts, but DA Davidson isn\u2019t sweating it. The firm\u2019s calculus shows Autodesk has more than enough levers to pull for efficiency gains, paving the way for explosive profit growth in the coming years. This isn\u2019t hope\u2014it\u2019s a roadmap carved in the cold, hard data of a business finally firing on all cylinders.\n\nBuckle (NYSE:BKE) up.\n\nDatadog\n\nWhat happened? On Tuesday, Guggenheim downgraded Datadog (NASDAQ:DDOG) to Sell with a $105 price target.\n\n*TLDR: OpenAI shift risks Datadog revenue. Short-term pain, long-term recovery.\n\nWhat\u2019s the full story? The analysts see significant risk in the second half of the year as OpenAI, Datadog\u2019s largest customer, shifts toward cost-efficient, in-house observability solutions. This move doesn\u2019t reflect broader enterprise trends but rather OpenAI\u2019s unique hypergrowth and infrastructure needs, which make third-party solutions impractical at scale. OpenAI appears to already be transitioning away from Datadog for log management, with plans to deprecate other functionalities like metrics and traces.\n\nWhile Datadog may post strong OpenAI-driven results in Q2 (+25% revenue growth), Q4 could see growth slow to 17%, with a potential $150M revenue gap by 2026.\n\nLonger term, Datadog\u2019s robust product portfolio and category leadership position it for a return to high-teens growth and 25%+ free cash flow margins by 2027. However, near-term headwinds, including subdued IT budgets and slower-than-expected ramp from other AI-native customers, may hinder offsetting OpenAI\u2019s impact quickly.\n\nThe analysts view these challenges as transitory but caution they could weigh on growth through 2026.\n\nMicrosoft\n\nWhat happened? On Wednesday, Oppenheimer upgraded Microsoft (NASDAQ:MSFT) to Outperform with a $600 price target.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.2499
+      }
+    },
+    "date": "2025-07-12T23:31:00",
+    "summaries": {
+      "deepseek-r1:8b": "No direct information about AMD found.",
+      "gemma4:e4b": "No direct information about AMD found."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/hsbc-upgrades-advanced-micro-devices-051044140.html",
+    "title": "HSBC Upgrades Advanced Micro Devices (AMD) Stock to Buy from Hold Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 10 Best Semiconductor Stocks to Buy According to Reddit. The company\u2019s stock was upgraded to a \u201cBuy\u201d rating from \u201cHold\u201d by HSBC analyst Frank Lee with a street-high price target of $200. The analyst is now increasingly optimistic about Advanced Micro Devices, Inc. (NASDAQ:AMD)\u2019s long-term growth potential and improved [\u2026]",
+    "detail": "HSBC Upgrades Advanced Micro Devices (AMD) Stock to Buy from Hold\nBob Karr\nSat, Jul 12, 2025, 11:10 PM 3 min read\nIn This Article:\nAMD\n\nAdvanced Micro Devices, Inc.\u00a0(NASDAQ:AMD) is one of the 10 Best Semiconductor Stocks to Buy According to Reddit. The company\u2019s stock was upgraded to a \u201cBuy\u201d rating from \u201cHold\u201d by HSBC analyst\u00a0Frank Lee with a street-high price target of $200. The analyst is now increasingly optimistic about Advanced Micro Devices, Inc.\u00a0(NASDAQ:AMD)\u2019s long-term growth potential and improved market performance in the GPU (Graphics Processing Unit) and CPU (Central Processing Unit) markets. Furthermore, the analyst noted stronger-than-expected pricing power in the company\u2019s AI GPU lineup and increasing confidence in its data center roadmap.\n\nHSBC Upgrades Advanced Micro Devices (AMD) Stock to Buy from Hold\n\nA close up of a complex looking PCB board with several intergrated semiconductor parts.\n\nAdvanced Micro Devices, Inc. (NASDAQ:AMD) and HUMAIN, Saudi Arabia\u2019s new AI enterprise, announced the landmark agreement to build the world\u2019s most open, scalable, resilient, and cost-efficient AI infrastructure. This is expected to power future of global intelligence via a network of AMD-based AI computing centers stretching from the Kingdom of Saudi Arabia to the US. According to the agreement, the parties are expected to invest up to $10 billion to deploy 500 megawatts of AI compute capacity over the upcoming 5 years.\n\nLongriver Investment Partners released its \u201cLongriver Partners Fund\u201d Q2 2025 investor letter.\u00a0Here\u00a0is what the fund said:\n\n\u201cNvidia\u2019s NVLink, its high-bandwidth interconnect, underpins training at scale, where GPUs must coordinate across racks. NVLink Fusion, announced this year, may extend that advantage by letting custom chips plug into Nvidia\u2019s system rather than replace it. However, many inference tasks can be handled independently, one GPU at a time. That lowers the importance of networking, and with it, Nvidia\u2019s edge in tightly integrated systems.\n\nWhile we acknowledge the potential of AMD as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you\u2019re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    },
+    "date": "2025-07-12T23:10:00",
+    "summaries": {
+      "deepseek-r1:8b": "HSBC upgrades AMD to 'Buy' with $200 target; optimistic on GPU/CPU growth, AI demand.",
+      "gemma4:e4b": "An analyst upgraded AMD to \"Buy\" with a $200 price target, citing strong GPU/CPU performance and data center growth."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 1.0
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/ai-helped-save-chip-industry-033000325.html",
+    "title": "AI helped save the chip industry. What happens if it turns out to be a bust? Some signs suggest that AI growth is stalling, or at least slowing down.",
+    "detail": "AI helped save the chip industry. What happens if it turns out to be a bust?\nChips are getting more expensive to make. \u00b7 Fortune \u00b7 Getty Images\nRakesh Kumar\nSat, Jul 12, 2025, 9:30 PM 4 min read\nIn This Article:\nNVDA\nAMD\n\nNvidia is now the first company to surge past $4 trillion in market capitalization, rebounding from its DeepSeek-induced slump earlier this year. Other AI chipmakers, including AMD and China\u2019s Huawei, are reporting strong financial results. Nearly every major chipmaker is now centering its strategy on AI.\n\nBut what if AI doesn\u2019t work out?\n\nThis isn\u2019t just a hypothetical question. Some signs suggest that AI growth is stalling, or at least slowing down. New models no longer show significant improvements from scaling up size or the amount of training data. Nobel laureate Demis Hassabis recently noted that \u201cwe are no longer getting the same progress\u201d on AI development. Andreessen Horowitz, one of the most prominent investors in AI, similarly shared concerns that AI model capabilities appeared to be plateauing.\n\nOne reason for AI\u2019s slowing performance might be that models have already consumed most available digital data, leaving little left over for further improvement. Developers are instead turning to synthetic data, but it might be less effective\u2014and might even make models worse.\n\nAI development is also enormously capital intensive. Training the most advanced models requires compute clusters costing billions of dollars. Even a single training run can cost tens of millions of dollars. Yet while development costs keep going up, monetary rewards are limited. Aside from AI coding assistants, there are few examples of AI generating returns that justify these immense capital investments.\n\nSome companies are already scaling back their AI infrastructure investment due to cost. Microsoft, for example, is \u201cslowing or pausing some early-stage projects\u201d and has canceled equipment orders for several global data center projects. Meta, AWS and Google have all reportedly cut their GPU orders. Chip bottlenecks, power shortages, and public concerns are also barriers to mass AI adoption.\n\nIf the AI boom peters out, that\u2019s bad news for the chip industry, which has used this new technology to avoid a serious slump.\n\nChips are getting more expensive to make. Developing new manufacturing processes cost billions of dollars; building new plants can cost tens of billions of dollars. These costs are all passed onto consumers but, outside of AI, customers aren\u2019t keen on buying more expensive chips. The fancy technologies in today\u2019s AI processors aren\u2019t that useful for other purposes.\n\nAI delayed an industry reckoning: Manufacturing is getting more expensive, while performance gains are shrinking. The economic promise of AI justifies high chip prices, but if that goes away, the chip industry needs to find something else to persuade people to sustain investment in advanced chip manufacturing. Otherwise, advanced chipmaking will become unsustainable: New technologies will cost more and more, while delivering less and less.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      }
+    },
+    "date": "2025-07-12T21:30:00",
+    "summaries": {
+      "deepseek-r1:8b": "AMD reports strong financial results amid AI chip focus, but AI growth concerns may impact future prospects.",
+      "gemma4:e4b": "AMD reports strong financial results, but sector growth concerns suggest potential headwinds."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 0.65
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/history-says-3-stocks-could-163700479.html",
+    "title": "History Says These 3 Stocks Could Be Big Winners in the Second Half Nvidia, Advanced Micro Devices, and Tesla have all been phenomenal growth stocks to own over the years.  Companies are continuing to post strong results.  As long as that's the case, there may still be plenty of bullishness in the markets for the foreseeable future.",
+    "detail": "History Says These 3 Stocks Could Be Big Winners in the Second Half\nDavid Jagielski, The Motley Fool\nSat, Jul 12, 2025, 10:37 AM 6 min read\nIn This Article:\nNVDA\nAMD\nTSLA\n^SPX\nKey Points\n\nNvidia, Advanced Micro Devices, and Tesla have all been phenomenal growth stocks to own over the years.\n\nThey have averaged second-half returns of more than 30% over the past 10 years.\n\n10 stocks we like better than Nvidia \u203a\n\nThe S&P 500 is trading at around record levels, and so too are many stocks. But that doesn't mean that valuations can't continue to go higher. Companies are continuing to post strong results. As long as that's the case, there may still be plenty of bullishness in the markets for the foreseeable future.\n\nThere are, however, some stocks that may be more likely to rise in the second half than others. Three stocks that have historically done well in the latter part of the year are Nvidia (NASDAQ: NVDA), Advanced Micro Devices (NASDAQ: AMD), and Tesla (NASDAQ: TSLA). Here's a rundown of how they've done over the past 10 years, and whether they are good buys today.\n\nImage source: Getty Images.\nNvidia\n\nChipmaker Nvidia has been an astounding investment to own over the years. Its chips are in high demand as companies invest in artificial intelligence (AI) and seek out strong compute power. Nvidia recently hit a $4 trillion valuation, and as of last week's close, it was up 23% since the start of the year.\n\nIn eight of the past 10 years, Nvidia has generated positive returns in the second half (the only exceptions being 2022 and 2018). And it has averaged a second-half return of 33%. If it rallies that much, its market cap will hit more than $5 trillion.\n\nThe second half will indeed be a big test for Nvidia, to see whether its growth will remain robust despite tariffs and global trade wars potentially affecting its operations. If it can still deliver strong results, it may not be unreasonable to expect it to do well in the second half. But it won't be easy. Export restrictions in China, for example, have cut Nvidia's market share in that market nearly in half.\n\nThe AI stock is trading at 38 times its estimated future earnings (based on analyst expectations). That's a bit expensive, but if trade worries ease, then it may not be a surprise to see Nvidia deliver strong second-half results and for its share price to rally higher. But regardless of how it performs in the second half, this can still make for a phenomenal stock to own for the long term.\n\nAdvanced Micro Devices\n\nNvidia rival Advanced Micro Devices, also known as AMD, is another stock that's traditionally done well in the second half of the year. It has generated a positive return in the latter part of the year in seven of the past 10 years. And its average second-half return over that stretch has been 31%.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    },
+    "date": "2025-07-12T10:37:00",
+    "summaries": {
+      "deepseek-r1:8b": "Advanced Micro Devices (AMD) stock has historically performed well in the second half, potentially offering future gains.",
+      "gemma4:e4b": "No direct information about AMD found."
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jim-cramer-says-likes-datadog-152041865.html",
+    "title": "Jim Cramer Says He Likes Datadog but its not \u201cWhat I Want to Recommend Anymore\u201d Datadog, Inc. (NASDAQ:DDOG) is one of the stocks that Jim Cramer shed light on. A caller asked why Cramer assigned a Sell rating on the stock during Squawk on the Street, and he replied: \u201cAlright, I am no longer a believer in the enterprise software group. I think that we\u2019ve become convinced, and we knew [\u2026]",
+    "detail": "Jim Cramer Says He Likes Datadog but its not \u201cWhat I Want to Recommend Anymore\u201d\nSyeda Seirut Javed\nSat, Jul 12, 2025, 9:20 AM 2 min read\nIn This Article:\nDDOG\nNVDA\nAMD\n\nDatadog, Inc. (NASDAQ:DDOG) is one of the stocks that Jim Cramer shed light on. A caller asked why Cramer assigned a Sell rating on the stock during Squawk on the Street, and he replied:\n\n\u201cAlright, I am no longer a believer in the enterprise software group. I think that we\u2019ve become convinced, and we knew this from NVIDIA, we knew this\u2026 from AMD, that the enterprise software business, which has always had a very high multiple, has kind of stalled out, and I think that Datadog\u2019s part of that. I\u2019m tired of companies that give me observability into my operation. There\u2019s too many of them. I don\u2019t want to do it anymore. I don\u2019t want to see them anymore, and that\u2019s why. I do, I like the company, they\u2019re good guys, but that\u2019s not what I want to recommend anymore. But thank you for seeing that that\u2019s what I was saying this morning, because it is important.\u201d\n\nJim Cramer Says He Likes Datadog but its not \"What I Want to Recommend Anymore\"\n\nA close-up of a laptop with a software engineer coding on the monitor.\n\nDatadog (NASDAQ:DDOG) provides a cloud-based platform that monitors application performance, infrastructure, and security. The company\u2019s tools help organizations track system health, manage incidents, optimize costs, and ensure cloud and data security.\n\nWhile we acknowledge the potential of DDOG as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now.\n\nDisclosure: None. This article is originally published at Insider Monkey.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      }
+    },
+    "date": "2025-07-12T09:20:00",
+    "summaries": {
+      "deepseek-r1:8b": "Analysts highlight negative sentiment towards enterprise software, including AMD, due to market saturation concerns.",
+      "gemma4:e4b": "The sector's stall, noted from AMD, suggests a negative outlook for enterprise software revenue."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 0.15
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/veteran-analyst-drops-massive-call-220700783.html",
+    "title": "Veteran analyst drops massive call on AMD stock The fresh target could shake up the AI chip race.",
+    "detail": "Veteran analyst drops massive call on AMD stock\nMoz Farooque\nFri, Jul 11, 2025, 4:07 PM 4 min read\nIn This Article:\nAMD\nNVDA\n\nVeteran analyst drops massive call on AMD stock originally appeared on TheStreet.\n\nA decade ago, few would have bet on Advanced Micro Devices\u00a0 (AMD) surviving, let alone challenging Nvidia\u2019s\u00a0 (NVDA) AI chip dominance.\n\nHowever, through relentless execution and smart tech bets, AMD\u2019s not just in the fight, but also rattling the pecking order in the red-hot AI arms race.\n\n\ud83d\udcb5\ud83d\udcb0Don't miss the move: Subscribe to TheStreet's free daily newsletter\ud83d\udcb0\ud83d\udcb5\n\nAMD\u2019s big bet on bold designs and faster chips is paying off and then some, as AI reshapes everything from cloud servers to supercomputers.\n\nThat said, one heavyweight analyst note suggests that Wall Street is misreading AMD\u2019s next big chapter, an upside that\u2019s a lot bigger than investors think.\n\nAMD stock just got a fresh jolt from an unexpected analyst call.Image source: Cheng/Getty Images\nHow AMD went from nearly bankrupt to an AI powerhouse\n\nIt\u2019s easy to forget how close AMD came to disappearing altogether.\n\nBack in 2015, the chipmaker was hanging by a thread, losing out to Intel\u2019s stronger CPUs and watching Nvidia dominate GPUs.\n\nThen Lisa Su stepped in as CEO that October, changing everything.\n\nSu bet big on new ideas, approving a massive redesign of AMD\u2019s CPUs called Zen. By 2017, Zen-based Ryzen chips were winning back PC buyers, and AMD\u2019s EPYC server processors started chipping away at Intel\u2019s data center business share.\n\nRelated: Cathie Wood drops bold message on Apple, Tesla stock\n\nThat turnaround set the stage for AMD\u2019s breakthrough push into AI.\n\nIn 2020 and 2021, it rolled out its first real AI chips, the Instinct MI100 and MI200. Those helped propel AMD in the AI race, while still lagging behind Nvidia\u2019s powerful GPUs.\n\nFast-forward to 2024, and AMD surprised one and all with its MI300 series. For the first time, AMD\u2019s chips matched Nvidia\u2019s in key AI tests.\n\nNow, the new Instinct MI350 could be the real game-changer.\n\nThe MI350 is packed with next-generation technology, including 56 compute units, a massive 288 GB of high-speed memory, and 8 TB per second of bandwidth to handle AI workloads.\n\nAlso, it uses new data types, including the FP6 and FP4, that boost speed for training AI models and running them globally.\n\nMore Tech Stock News:\n\nTesla\u2019s next bet could flip the robotaxi race\n\nCathie Wood shells out $13.9 million for one high-stakes biotech stock\n\nApple\u2019s quiet shake-up could redefine its future\n\nEarly tests show the MI350 can potentially match or even surpass Nvidia\u2019s latest Blackwell B200 chips on some AI jobs.\n\nAlso, it can do that with 30% less money, which makes many big tech buyers think twice about sticking only with Nvidia.\n\nLayer that with AMD\u2019s open-source software platform, ROCm 7.0, and its smart chiplet design keeps costs down.\n\n\u7e7c\u7e8c\u95b1\u8b80\n\u689d\u6b3e \u53ca \u79c1\u96b1\u653f\u7b56\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    },
+    "date": "2025-07-11T16:07:00",
+    "summaries": {
+      "deepseek-r1:8b": "Veteran analyst upgrades AMD, citing strong AI performance and potential upside.",
+      "gemma4:e4b": "An analyst suggests a massive upside for AMD due to its strong performance and market share gains in the AI sector."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 1.0
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/hsbc-turns-bullish-amd-194500213.html",
+    "title": "HSBC Turns Bullish on AMD With performance matching NVIDIA's B200, these GPUs command a healthy premium",
+    "detail": "HSBC Turns Bullish on AMD\nUndercovered Deep Insights\nFri, Jul 11, 2025, 1:45 PM 1 min read\nIn This Article:\nAMD\n\nHSBC just gave AMD (NASDAQ:AMD) a big thumbs-up, bumping the stock from Hold to Buy and doubling its price target to two hundred dollars. The reason? The new MI350 series is commanding a healthy premium over rival NVIDIA's (NASDAQ:NVDA) latest chips while matching them punch for punch.\n\nWarning! GuruFocus has detected 3 Warning Signs with AMD.\n\nFrank Lee at HSBC now figures these MI355 cards will go for about twenty-five thousand dollars eachup from his earlier guess of fifteen thousand. What makes it even sweeter is that they drop right into existing data-center gear, so customers can upgrade without ripping out their racks.\n\nAMD CEO Lisa Su has been all about keeping things open, supporting every major AI framework and offering full-stack solutions. That freedom means buyers aren't tied to one vendor's ecosystem, which has helped turn heads in the market.\n\nLooking ahead, HSBC thinks there's even more upside once AMD rolls out its MI400 series. The key things to watch will be how fast these new GPUs get picked up and whether partners keep embracing AMD's plug-and-play approach. If they do, that two-hundred-dollar target could look conservative.\n\nThis article first appeared on GuruFocus.\n\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    },
+    "date": "2025-07-11T13:45:00",
+    "summaries": {
+      "deepseek-r1:8b": "HSBC upgraded AMD to Buy, raised price target to $200; new chips lead market, CEO emphasizes open strategy, strong AI growth expected.",
+      "gemma4:e4b": "An analyst upgraded AMD to Buy with a $200 target due to the MI350 series commanding a premium, with MI355 cards priced at $25,000."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 1.0
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/amd-stock-popped-analyst-said-141548277.html",
+    "title": "AMD Stock Popped After Analyst Said New AI Chips Could Take On Nvidia\u2019s\u2014Watch These Key Price Levels Advanced Micro Devices (AMD) shares jumped Thursday after analysts suggested the company\u2019s latest AI chips could compete with Nvidia's offerings. Watch these crucial chart levels.",
+    "detail": "AMD Stock Popped After Analyst Said New AI Chips Could Take On Nvidia\u2019s\u2014Watch These Key Price Levels\nTimothy Smith\nFri, Jul 11, 2025, 8:15 AM 3 min read\nIn This Article:\nAMD\nNVDA\nSource: TradingView.com\nKey Takeaways\n\nAdvanced Micro Devices (AMD) stock jumped Thursday after analysts suggested the company\u2019s latest AI chips are comparable to Nvidia's (NVDA) offerings .\n\nThe stock broke out from a flag pattern in Thursday\u2019s trading session on the highest volume in a little over a week, potentially signaling a continuation of the stock\u2019s recent move higher.\n\nInvestors should watch crucial overhead areas on AMD's chart around $175 and $215, while also monitoring vital support levels near $135 and $115.\n\n\n\n\nAdvanced Micro Devices (AMD) stock jumped Thursday after analysts suggested the company\u2019s latest AI chips could take on Nvidia's (NVDA) offerings.\n\nAnalysts at HSBC said AMD\u2019s MI350 series chips are comparable with Nvidia\u2019s current Blackwell chips and next generation MI400 chips, due for release next year, could compete with Nvidia\u2019s next-generation Vera Rubin platform.\n\n\nAMD shares trade 86% above their early April low and have gained 18% since the start of the year as of Thursday\u2019s close. However, they have significantly unperformed Nvidia\u2019s shares over the past 12 months due to the company\u2019s inability to capture a greater share of the booming AI chip market.\n\nBelow, we take a closer look at AMD\u2019s chart and use technical analysis to identify crucial price levels that investors should keep an eye on.\n\nFlag Pattern Breakout\n\nSince bottoming in early April, AMD shares have traded higher in an orderly uptrend. More recently, the price broke out from a flag pattern in Thursday\u2019s trading session on the highest volume in a little over a week, potentially signaling a continuation of the stock\u2019s recent move higher.\n\nIn another win for the bulls, the 50-day moving average (MA) continues to converge up toward the 200-day MA, setting the stage for a golden cross signal. Meanwhile, the relative strength index (RSI) confirms bullish price momentum, sitting just below the indicator\u2019s overbought threshold.\n\nLet\u2019s identify two crucial overhead areas on AMD\u2019s chart that could attract interest if the shares continue to track higher and also locate several vital support levels worth monitoring during future pullbacks in the stock.\n\nCrucial Overhead Areas to Watch\n\nThe first overhead area to watch sits around $175. This price point could provide resistance near prominent countertrend peaks that formed on the chart in May and October last year. This level is also near a bars pattern target that preceded the flag and overlays it from the pattern\u2019s breakout point. Such a move would complete a classic Elliot Wave pattern, with five distinct swings playing out.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.6665
+      }
+    },
+    "date": "2025-07-11T08:15:00",
+    "summaries": {
+      "deepseek-r1:8b": "AMD stock surged Thursday on analyst upgrades due to comparable AI chips, up 18% year-to-date and 86% from April lows.",
+      "gemma4:e4b": "AMD jumped after analysts suggested its AI chips are comparable to a competitor's offerings, with support near $135 and resistance at $215."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 0.9
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/huawei-working-ai-chips-compete-133907890.html",
+    "title": "Huawei working on new AI chips to compete with Nvidia Investing.com -- China\u2019s Huawei Technologies is developing a new AI chip design that would expand the capabilities of its processors to handle a wider range of AI development tasks, according to a report by The Information on Friday.",
+    "detail": "Huawei working on new AI chips to compete with Nvidia\nVlad Schepkov\nFri, Jul 11, 2025, 7:39 AM 1 min read\nIn This Article:\nAMD\nNVDA\n\nInvesting.com -- China\u2019s Huawei Technologies is developing a new AI chip design that would expand the capabilities of its processors to handle a wider range of AI development tasks, according to a report by The Information on Friday.\n\nThe new design would reportedly more closely resemble the architecture used by both Nvidia (NASDAQ:NVDA) and Advanced Micro Devices (NASDAQ:AMD). This similarity should make it easier for Chinese AI developers to transition from Nvidia\u2019s chips to Huawei\u2019s alternatives.\n\nHuawei aims to make its chips more attractive to Chinese tech companies, which currently prefer Nvidia\u2019s processors despite increasing difficulties in obtaining them due to U.S. export controls.\n\nWhile Chinese tech firms have tested Huawei chips, few have fully adopted them. This reluctance stems largely from the challenges developers face in adapting to Huawei\u2019s distinct software system after years of building products using Nvidia\u2019s Cuda software.\n\nWith the planned new chip design, AI developers using Huawei\u2019s processors will be able to run code written for Nvidia\u2019s software platform. However, Huawei will still need to develop software that translates commands from Nvidia\u2019s software into instructions its own chips can understand.\n\nRelated articles\n\nHuawei working on new AI chips to compete with Nvidia\n\nUBS downgrades Albemarle to Sell on prolonged lithium glut, price risk\n\nRoblox stock may rally further as Citi sees more runway growth\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "date": "2025-07-11T07:39:00",
+    "summaries": {
+      "deepseek-r1:8b": "Huawei developing AI chips similar to AMD architecture could benefit AMD by making competitors more attractive.",
+      "gemma4:e4b": "A competitor's new AI chip design, similar to AMD, could negatively impact AMD's market share in the sector."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 0.15
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-130002825.html",
+    "title": "Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It Advanced Micro (AMD) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+    "detail": "Advanced Micro Devices, Inc. (AMD) Is a Trending Stock: Facts to Know Before Betting on It\nZacks Equity Research\nFri, Jul 11, 2025, 7:00 AM 5 min read\nIn This Article:\nAMD\n^SPX\n\nAdvanced Micro Devices (AMD) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of the key factors that could influence the stock's performance in the near future.\n\nOver the past month, shares of this chipmaker have returned +21.7%, compared to the Zacks S&P 500 composite's +4.1% change. During this period, the Zacks Computer - Integrated Systems industry, which Advanced Micro falls in, has gained 9.3%. The key question now is: What could be the stock's future direction?\n\nAlthough media reports or rumors about a significant change in a company's business prospects usually cause its stock to trend and lead to an immediate price change, there are always certain fundamental factors that ultimately drive the buy-and-hold decision.\n\nEarnings Estimate Revisions\n\nHere at Zacks, we prioritize appraising the change in the projection of a company's future earnings over anything else. That's because we believe the present value of its future stream of earnings is what determines the fair value for its stock.\n\nWe essentially look at how sell-side analysts covering the stock are revising their earnings estimates to reflect the impact of the latest business trends. And if earnings estimates go up for a company, the fair value for its stock goes up. A higher fair value than the current market price drives investors' interest in buying the stock, leading to its price moving higher. This is why empirical research shows a strong correlation between trends in earnings estimate revisions and near-term stock price movements.\n\nFor the current quarter, Advanced Micro is expected to post earnings of $0.51 per share, indicating a change of -26.1% from the year-ago quarter. The Zacks Consensus Estimate has changed -3.4% over the last 30 days.\n\nThe consensus earnings estimate of $3.88 for the current fiscal year indicates a year-over-year change of +17.2%. This estimate has changed -1.6% over the last 30 days.\n\nFor the next fiscal year, the consensus earnings estimate of $5.59 indicates a change of +44.2% from what Advanced Micro is expected to report a year ago. Over the past month, the estimate has remained unchanged.\n\nHaving a strong externally audited track record, our proprietary stock rating tool, the Zacks Rank, offers a more conclusive picture of a stock's price direction in the near term, since it effectively harnesses the power of earnings estimate revisions. Due to the size of the recent change in the consensus estimate, along with three other factors related to earnings estimates, Advanced Micro is rated Zacks Rank #3 (Hold).\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.1054
+      }
+    },
+    "date": "2025-07-11T07:00:00",
+    "summaries": {
+      "deepseek-r1:8b": "AMD stock surged 21.7% outpacing the market, driven by strong earnings potential.",
+      "gemma4:e4b": "AMD showed a positive performance, returning +21.7% over the past month, significantly outpacing the sector's 9.3% gain."
+    },
+    "sentiment_scores": {
+      "gemma4:e4b": 0.9
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/news/latest-news-ai-chips-ai-113726956.html",
+    "title": "Latest News In AI Chips - AI Transforms Logistics With Innovative Supply Chain Solutions ITS Logistics has unveiled ITS Engage, an AI-driven supply chain ecosystem designed to enhance the collaboration and efficiency of shippers, carriers, and supply chain partners. Developed over three years, this technology platform aims to transform logistics operations with real-time data access and advanced analytics, utilizing machine learning to streamline the management of drayage and container lifecycles. By offering enhanced visibility and customizable features, ITS Engage is set to...",
+    "detail": "Latest News In AI Chips - AI Transforms Logistics With Innovative Supply Chain Solutions\nSimply Wall St\nFri, Jul 11, 2025, 5:37 AM 1 min read\nIn This Article:\nAMD\nQCOM\nTER\nNVDA\n\nITS Logistics has unveiled ITS Engage, an AI-driven supply chain ecosystem designed to enhance the collaboration and efficiency of shippers, carriers, and supply chain partners. Developed over three years, this technology platform aims to transform logistics operations with real-time data access and advanced analytics, utilizing machine learning to streamline the management of drayage and container lifecycles. By offering enhanced visibility and customizable features, ITS Engage is set to expand with additional tools in logistics management, aiming to address complexities in supply chain operations. This initiative reflects a growing trend in harnessing AI to bolster the logistics industry's adaptability and responsiveness.\n\nIn other market news, Teradyne was trading firmly up 6.3% and closing at $98.62. Meanwhile, Kioxia Holdings trailed, down 3% to close at \u00a52,480.\n\nTeradyne's timely acquisition of Quantifi Photonics boosts its semiconductor market strength. Click to read a detailed narrative on Teradyne's strategic advancements.\n\nDon't miss our Market Insights article titled \"AI Enters the 'Show Me the Money' Phase,\" offering crucial insights into AI Chip monetization and investment opportunities\u2014get in fast!\n\nBest AI Chip Stocks\n\nAdvanced Micro Devices finished trading at $144.16 up 4.2%.\n\nNVIDIA ended the day at $164.10 up 0.7%, not far from its 52-week high.\n\nQUALCOMM finished trading at $159.09 down 0.2%.\n\nMake It Happen\n\nClick this link to deep-dive into the 55 companies within our AI Chip Stocks screener including GlobalFoundries, Giga Device Semiconductor and TongweiLtd.\n\nCurious About Other Options? The latest GPUs need a type of rare earth metal called Terbium and there are only 24 companies in the world exploring or producing it. Find the list for free.\n\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\n\nSources:\n\nSimply Wall St\n\n\"ITS Logistics Announces ITS Engage: A Centralized Ecosystem for Shippers, Carriers, and Supply Chain Partners\" from ITS Logistics on GlobeNewswire (published 10 July 2025)\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      }
+    },
+    "date": "2025-07-11T05:37:00",
+    "summaries": {
+      "deepseek-r1:8b": "No direct information about AMD found.",
+      "gemma4:e4b": "No direct information about AMD found."
+    }
+  }
+]

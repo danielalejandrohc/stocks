@@ -1,0 +1,11 @@
+# Ollama GPU-enabled Dockerfile
+# Using official Ollama image with GPU support
+FROM ollama/ollama:latest
+
+# Set environment variables
+ENV OLLAMA_HOST=0.0.0.0:11434
+
+# Expose the Ollama API port
+EXPOSE 11434
+
+# The official image already handles GPU support and has ollama serve as the default CMD

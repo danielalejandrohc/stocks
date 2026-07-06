@@ -1,0 +1,407 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/ai-trade-takes-center-stage-as-big-tech-earnings-season-kicks-off-135109560.html",
+    "title": "AI trade takes center stage as Big Tech earnings season kicks off Big Tech earnings season kicks off when Google parent Alphabet reports after the bell today.",
+    "detail": "AI trade takes center stage as Big Tech earnings season kicks off\nDaniel Howley \u00b7 Technology Editor\nWed, Jul 23, 2025, 6:51 AM 5 min read\nIn This Article:\nAAPL\nNVDA\nGOOGL\nMSFT\nOPAI.PVT\n\nTech earnings season kicks off in earnest on Wednesday, when Google parent Alphabet (GOOG, GOOGL) reports its results after the bell. And Wall Street\u2019s two favorite letters will once again dominate the conversation: AI\n\nFrom continued capex spending to questions about if and how those huge cash outlays are driving new revenue streams, AI will seemingly be all investors and analysts talk about. But Big Tech companies are also facing a variety of additional challenges this quarter, ranging from Google's antitrust trial to Microsoft's (MSFT) relationship with OpenAI (OPAI.PVT) to Apple's (AAPL) ongoing AI troubles.\n\nAnd while AI darling Nvidia (NVDA) won't report its earnings until Aug. 27, leaving the most anticipated disclosure of the season more than a month away, there will be plenty of news and announcements to track in the interim. And it's certain to make for a busy earnings cycle.\n\nAI sales growth is still at the center of the conversation\n\nBig Tech's billions of dollars in investments into AI data centers helped power Nvidia's massive growth over the past few years, but Wall Street is looking to see how much that spending is paying off.\n\nDuring Amazon's (AMZN) last earnings call, CEO Andy Jassy said the company's AI business \"has a multibillion dollar annual revenue run rate, continues to grow triple-digit year-over-year percentages, and is still in its very early days.\"\n\nWhat's more, Jassy said prior to the latest generation of AI, Amazon believed AWS had a chance to be a multi-$100 billion run rate business, and now the company believes it can grow even more beyond that. But Amazon will need to show off how exactly it plans to get there to keep investors happy when it reports on July 31.\n\nGoogle, which reports today, and Microsoft, which reports July 30, will also have to prove their AI plans are paying dividends. Google has added its Gemini model to its Workspace productivity software and across its search products, including its AI Overviews and AI Mode.\n\nRead more: Live coverage of corporate earnings\n\nDuring the company's Q1 earnings call, senior vice president and chief business officer Philipp Schindler said AI Overviews searches monetize at the same rate as standard search queries, which leaves room for improvement. The company said its AI expansion and Google Cloud Platform Core products also helped power a 28% increase in its Cloud segment revenue.\n\nBut questions remain about how it will successfully monetize its AI Mode offering and fend off challenges from OpenAI, Anthropic (ANTH.PVT), and Perplexity (PEAI.PVT).\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.47
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI focus expected in tech earnings, with Google, Microsoft, Apple reporting; Nvidia (NVDA) earnings due Aug 27."
+    },
+    "date": "2025-07-23T06:51:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/commentary-ceos-have-a-new-boss--trump-194013608.html",
+    "title": "Commentary: CEOs have a new boss \u2014 Trump Trump tells businesses what products to make, where to make them, and who to hire. Is this capitalism?",
+    "detail": "Opinion\nCommentary: CEOs have a new boss \u2014 Trump\nRick Newman \u00b7 Senior Columnist\nUpdated Tue, Jul 22, 2025, 12:40 PM 6 min read\nIn This Article:\nNVDA\nAAPL\nMAT\nWMT\nGM\n\nIf you're an American CEO, you might wake up one day to discover that President Trump has helped himself to a seat on your board of directors.\n\nSince first running for president in 2015, Trump has fashioned himself as a businessman-politician who knows what's best for American companies. Many CEOs appreciate his focus on deregulation and lowering taxes.\n\nBut there's a catch: Trump has strong views on how managers should run their businesses and no compunctions about using the power of the presidency to bully bosses into doing it his way. Many CEOs are learning how to accommodate the micromanager in chief, some through lip service and others through actual business decisions.\n\nSome of Trump's interventions are remarkably mundane. He wants Coca-Cola to use real cane sugar in its soda instead of corn syrup. Coke says it will actually do what Trump wants, even though sugar is more expensive and Trumpa-Cola will probably cost more.\n\nOther demands are far more problematic. He wants the Washington Commanders football team and the Cleveland Guardians baseball team to revert to their former names, the racially insensitive Redskins and Indians, respectively. That's Trump using professional sports franchises to push his anti-woke agenda to the extreme, which may not hurt Trump, but it puts the two teams in a lose-lose position by reigniting controversies they thought they had finally put behind them.\n\nRaising cane: President Trump is lobbying for real sugar in Coke. (AP Photo/Alex Brandon) \u00b7 ASSOCIATED PRESS\n\nTrump's most meddlesome gambit is his trade policy, which is meant to literally force thousands of US companies to reorganize the way they do business by buying less abroad and more domestically. He directly threatened Apple with a 25% tax if it doesn't start making iPhones in the United States. After Mattel said it would have to raise prices because of Trump's tariffs, Trump threatened a 100% tax on products the toymaker imports and threatened that Mattel \"won\u2019t sell one toy in the United States.\"\n\nTrump said he'd hit Harley-Davidson with a \"big tax\" if it went through with a plan to move some motorcycle production overseas. When Walmart said it would likely pass along the cost of Trump's tariffs to its own customers, Trump told Walmart it should \"eat the tariffs\" \u2014 pay the cost and accept lower profits \u2014 and warned, \"I'll be watching.\"\n\nRead more: The latest news and updates on Trump's tariffs\n\nTrump's manhandling of corporate America is hitting the bottom line. General Motors (GM) said on July 22 that Trump's tariffs shaved $1.1 billion off its second quarter profits and will likely cost the company as much as $5 billion this year. The day before, Jeep maker Stellantis (STLA) said the Trump tariffs contributed to a $2.7 billion loss in the first half of 2025. The second quarter earnings season is just getting started, so that may just be a taste of the losses related to Trump's rewiring of global supply chains.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Trump's intervention affects Coca-Cola's ingredients; potential impact on NVDA unclear."
+    },
+    "date": "2025-07-22T12:40:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jim-cramer-micron-chart-saying-145356201.html",
+    "title": "Jim Cramer on Micron: \u201cThe Chart is Saying We Gotta Wait\u201d Micron Technology, Inc. (NASDAQ:MU) is one of the stocks Jim Cramer reflected on. A caller inquired about the stock and its sudden decline. Cramer responded: \u201cI gotta tell you, I look at it every day\u2026 Do you know, I said\u2026 What\u2019s with Micron three times today? I think that run from $70 to $130 really [\u2026]",
+    "detail": "Jim Cramer on Micron: \u201cThe Chart is Saying We Gotta Wait\u201d\nSyeda Seirut Javed\nWed, Jul 23, 2025, 7:53 AM 2 min read\nIn This Article:\nMU\nNVDA\n\nMicron Technology, Inc. (NASDAQ:MU) is one of the stocks Jim Cramer reflected on. A caller inquired about the stock and its sudden decline. Cramer responded:\n\n\u201cI gotta tell you, I look at it every day\u2026 Do you know, I said\u2026 What\u2019s with Micron three times today? I think that run from $70 to $130 really got people spooked. I don\u2019t know. Now everyone\u2019s talking about how the chart\u2019s bad. I\u2019m with you. I think the stock is inexpensive, but you know what? The chart is saying, we gotta wait. I\u2019m going to obey the chart. I just am, I\u2019m going to obey the chart. And anyway, I like NVIDIA.\u201d\n\nJim Cramer on Micron: \"The Chart is Saying We Gotta Wait\"\n\nCharles Knowles / Shutterstock.com\n\nMicron (NASDAQ:MU) develops and sells memory and storage products, including DRAM and flash-based solutions, under various brands and channels. Its technologies serve markets such as data centers, PCs, mobile devices, automotive, and industrial applications. In a June episode, Cramer said that he likes the stock at $120. He commented:\n\n\u201cAlright, well, this is not unusual for Micron. I\u2019ve seen this happen many times at Micron. This stock went literally from $60 to $126, and they did a fantastic quarter. But there\u2019s no way that a stock that goes from $60 to $126 can go higher, no matter how good it is. This is a momentary pullback, and then you\u2019re going to have to start buying the stock all over again. I like the stock at $120.\u201d\n\nWhile we acknowledge the potential of MU as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now.\n\nDisclosure: None. This article is originally published at Insider Monkey.\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.32
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Jim Cramer suggests waiting on Micron due to chart concerns; prefers NVIDIA (NVDA)."
+    },
+    "date": "2025-07-23T07:53:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/bc-most-active-stocks-143016021.html",
+    "title": "BC-Most Active Stocks Gibo Holdings Ltd. 110,474,801 0.0515",
+    "detail": "BC-Most Active Stocks\nThe Associated Press\nWed, Jul 23, 2025, 7:30 AM 21 min read\nIn This Article:\n^IXIC\nHCTI\nWLGS\nMULN\nOPEN\n\nNEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks.\n\nNasdaq most active stocks:\n\nStock Name\n\n\t\n\nVolume\n\n\t\n\nHigh\n\n\t\n\nLow\n\n\t\n\nLast\n\n\t\n\nChange\n\n\n\n\nHealthcare Triangle Inc.\n\n\t\n\n391,088,569\n\n\t\n\n0.0285\n\n\t\n\n0.0243\n\n\t\n\n0.0248\n\n\t\n\n+0.0058\n\n\n\n\nWang & Lee Group Inc.\n\n\t\n\n373,278,594\n\n\t\n\n0.1445\n\n\t\n\n0.1057\n\n\t\n\n0.1189\n\n\t\n\n+0.0484\n\n\n\n\nMullen Automotive Inc.\n\n\t\n\n210,505,067\n\n\t\n\n0.0976\n\n\t\n\n0.075\n\n\t\n\n0.0887\n\n\t\n\n+0.0107\n\n\n\n\nOpendoor Technologies Inc.\n\n\t\n\n171,978,305\n\n\t\n\n2.59\n\n\t\n\n2.26\n\n\t\n\n2.40\n\n\t\n\n-0.48\n\n\n\n\nClearside Biomedical Inc.\n\n\t\n\n130,822,693\n\n\t\n\n0.59\n\n\t\n\n0.4542\n\n\t\n\n0.514\n\n\t\n\n+0.1626\n\n\n\n\nGoPro Inc.\n\n\t\n\n129,315,692\n\n\t\n\n2.37\n\n\t\n\n1.92\n\n\t\n\n2.0501\n\n\t\n\n+0.6801\n\n\n\n\nGibo Holdings Ltd.\n\n\t\n\n110,474,801\n\n\t\n\n0.0515\n\n\t\n\n0.0436\n\n\t\n\n0.0447\n\n\t\n\n+0.0014\n\n\n\n\nKrispy Kreme Inc.\n\n\t\n\n84,990,910\n\n\t\n\n5.72\n\n\t\n\n4.53\n\n\t\n\n4.97\n\n\t\n\n+0.84\n\n\n\n\nAlpha Modus Holdings Inc.\n\n\t\n\n83,418,849\n\n\t\n\n2.31\n\n\t\n\n1.65\n\n\t\n\n2.2009\n\n\t\n\n+1.0409\n\n\n\n\nLucid Group Inc.\n\n\t\n\n58,378,641\n\n\t\n\n3.31\n\n\t\n\n3.11\n\n\t\n\n3.2069\n\n\t\n\n+0.0769\n\n\n\n\nIncannex Healthcare Inc.\n\n\t\n\n46,823,479\n\n\t\n\n0.95\n\n\t\n\n0.8434\n\n\t\n\n0.934\n\n\t\n\n+0.094\n\n\n\n\nPolyrizon Ltd\n\n\t\n\n41,933,653\n\n\t\n\n2.45\n\n\t\n\n1.67\n\n\t\n\n2.10\n\n\t\n\n+0.65\n\n\n\n\nNVIDIA Corp.\n\n\t\n\n41,401,025\n\n\t\n\n170.40\n\n\t\n\n167.97\n\n\t\n\n168.585\n\n\t\n\n+1.555\n\n\n\n\nIovance Biotherapeutics Inc.\n\n\t\n\n36,641,173\n\n\t\n\n4.23\n\n\t\n\n3.58\n\n\t\n\n4.145\n\n\t\n\n+1.015\n\n\n\n\nMARA Holdings Inc.\n\n\t\n\n33,664,328\n\n\t\n\n18.745\n\n\t\n\n17.36\n\n\t\n\n17.7567\n\n\t\n\n-2.1233\n\n\n\n\nTilray Brands Inc.\n\n\t\n\n25,899,884\n\n\t\n\n0.8302\n\n\t\n\n0.749\n\n\t\n\n0.7523\n\n\t\n\n-0.0336\n\n\n\n\nPlug Power Inc.\n\n\t\n\n22,466,063\n\n\t\n\n1.91\n\n\t\n\n1.79\n\n\t\n\n1.8102\n\n\t\n\n-0.0298\n\n\n\n\nOFA Group\n\n\t\n\n21,869,624\n\n\t\n\n2.30\n\n\t\n\n2.02\n\n\t\n\n2.06\n\n\t\n\n+0.33\n\n\n\n\nDragonfly Energy Holdings Corp\n\n\t\n\n17,798,286\n\n\t\n\n0.4456\n\n\t\n\n0.3701\n\n\t\n\n0.3825\n\n\t\n\n-0.1375\n\n\n\n\nFaraday Future Intel.Electric\n\n\t\n\n16,768,167\n\n\t\n\n3.11\n\n\t\n\n2.75\n\n\t\n\n2.955\n\n\t\n\n+0.015\n\n\n\n\nAnebulo Pharmaceuticals Inc.\n\n\t\n\n16,210,380\n\n\t\n\n3.42\n\n\t\n\n3.07\n\n\t\n\n3.13\n\n\t\n\n+1.30\n\n\n\n\nBitfarms Ltd.\n\n\t\n\n15,909,702\n\n\t\n\n1.35\n\n\t\n\n1.24\n\n\t\n\n1.2501\n\n\t\n\n-0.0699\n\n\n\n\nPlus Therapeutics Inc.\n\n\t\n\n15,740,915\n\n\t\n\n0.533\n\n\t\n\n0.43\n\n\t\n\n0.4725\n\n\t\n\n+0.0475\n\n\n\n\nTesla Inc.\n\n\t\n\n15,471,933\n\n\t\n\n334.60\n\n\t\n\n329.01\n\n\t\n\n333.785\n\n\t\n\n+1.675\n\n\n\n\nRecursion Pharmaceuticals Inc.\n\n\t\n\n13,902,942\n\n\t\n\n7.14\n\n\t\n\n6.55\n\n\t\n\n6.665\n\n\t\n\n+0.125\n\n\n\n\nRichtech Robotics Inc.\n\n\t\n\n13,204,718\n\n\t\n\n2.33\n\n\t\n\n2.17\n\n\t\n\n2.2008\n\n\t\n\n+0.1608\n\n\n\n\nRezolve AI PLC\n\n\t\n\n13,165,202\n\n\t\n\n3.60\n\n\t\n\n3.15\n\n\t\n\n3.235\n\n\t\n\n+0.245\n\n\n\n\nReplimune Group Inc.\n\n\t\n\n12,371,497\n\n\t\n\n3.31\n\n\t\n\n2.70\n\n\t\n\n3.18\n\n\t\n\n+0.375\n\n\n\n\nIntel Corp.\n\n\t\n\n12,736,486\n\n\t\n\n23.335\n\n\t\n\n22.92\n\n\t\n\n23.33\n\n\t\n\n+0.09\n\n\n\n\nApple Inc.\n\n\t\n\n12,062,848\n\n\t\n\n215.15\n\n\t\n\n212.41\n\n\t\n\n212.70\n\n\t\n\n-1.70\n\n\n\n\niShares Ethereum Trust ETF\n\n\t\n\n11,705,205\n\n\t\n\n27.7501\n\n\t\n\n27.12\n\n\t\n\n27.20\n\n\t\n\n-0.61\n\n\n\n\nreAlpha Tech Corp.\n\n\t\n\n11,427,846\n\n\t\n\n0.3997\n\n\t\n\n0.3527\n\n\t\n\n0.3879\n\n\t\n\n-0.0641\n\n\n\n\nOxford Lane Capital Corp.\n\n\t\n\n11,035,981\n\n\t\n\n3.85\n\n\t\n\n3.71\n\n\t\n\n3.765\n\n\t\n\n-0.215\n\n\n\n\niShares Bitcoin Trust ETF\n\n\t\n\n10,782,258\n\n\t\n\n67.145\n\n\t\n\n66.66\n\n\t\n\n66.95\n\n\t\n\n-0.87\n\n\n\n\nSharpLink Gaming Inc.\n\n\t\n\n10,436,220\n\n\t\n\n26.59\n\n\t\n\n24.83\n\n\t\n\n25.51\n\n\t\n\n-1.89\n\n\n\n\nAdvanced Micro Devices Inc.\n\n\t\n\n10,347,130\n\n\t\n\n158.35\n\n\t\n\n156.00\n\n\t\n\n157.206\n\n\t\n\n+2.486\n\n\n\n\nAlphabet Inc.\n\n\t\n\n10,128,303\n\n\t\n\n192.53\n\n\t\n\n189.25\n\n\t\n\n189.80\n\n\t\n\n-1.54\n\n\n\n\nTexas Instruments Inc.\n\n\t\n\n10,079,421\n\n\t\n\n195.00\n\n\t\n\n187.54\n\n\t\n\n190.051\n\n\t\n\n-24.869\n\n\n\n\nSoFi Technologies Inc.\n\n\t\n\n9,591,611\n\n\t\n\n21.28\n\n\t\n\n20.86\n\n\t\n\n21.1367\n\n\t\n\n+0.1567\n\n\n\n\nPalantir Technologies Inc.\n\n\t\n\n9,525,474\n\n\t\n\n150.65\n\n\t\n\n148.2871\n\n\t\n\n149.22\n\n\t\n\n+0.15\n\n\n\n\nTNF Pharmaceuticals Inc.\n\n\t\n\n9,217,755\n\n\t\n\n0.1149\n\n\t\n\n0.108\n\n\t\n\n0.1086\n\n\t\n\n+0.0016\n\n\n\n\nWendy's Co., The\n\n\t\n\n8,783,863\n\n\t\n\n12.00\n\n\t\n\n11.205\n\n\t\n\n11.4462\n\n\t\n\n+0.6062\n\n\n\n\nRiot Platforms Inc.\n\n\t\n\n8,779,246\n\n\t\n\n14.3789\n\n\t\n\n13.70\n\n\t\n\n13.885\n\n\t\n\n-0.385\n\n\n\n\nWebull Corp.\n\n\t\n\n8,465,192\n\n\t\n\n17.59\n\n\t\n\n16.55\n\n\t\n\n17.07\n\n\t\n\n+0.10\n\n\n\n\nTerawulf Inc.\n\n\t\n\n8,491,340\n\n\t\n\n5.26\n\n\t\n\n4.97\n\n\t\n\n4.975\n\n\t\n\n-0.285\n\n\n\n\nRigetti Computing Inc.\n\n\t\n\n8,408,545\n\n\t\n\n15.8599\n\n\t\n\n15.50\n\n\t\n\n15.515\n\n\t\n\n+0.085\n\n\n\n\nErayak Power Solut.Group Inc.\n\n\t\n\n8,275,758\n\n\t\n\n0.1828\n\n\t\n\n0.1692\n\n\t\n\n0.1773\n\n\t\n\n-0.0078\n\n\n\n\nBit Digital Inc.\n\n\t\n\n7,866,804\n\n\t\n\n3.27\n\n\t\n\n3.08\n\n\t\n\n3.1511\n\n\t\n\n-0.1189\n\n\n\n\nSoundhound AI Inc.\n\n\t\n\n7,844,552\n\n\t\n\n11.88\n\n\t\n\n11.415\n\n\t\n\n11.6601\n\n\t\n\n+0.3201\n\n\n\n\nRobinhood Markets Inc.\n\n\t\n\n7,727,940\n\n\t\n\n102.68\n\n\t\n\n100.65\n\n\t\n\n101.545\n\n\t\n\n-0.305\n\n\n\n\nAmerican Airlines Group Inc.\n\n\t\n\n7,518,142\n\n\t\n\n12.67\n\n\t\n\n12.52\n\n\t\n\n12.58\n\n\t\n\n+0.08\n\n\n\n\nGrab Holdings Limited\n\n\t\n\n7,457,408\n\n\t\n\n5.52\n\n\t\n\n5.41\n\n\t\n\n5.411\n\n\t\n\n-0.059\n\n\n\n\nAGNC Investment Corp.\n\n\t\n\n7,251,300\n\n\t\n\n9.55\n\n\t\n\n9.39\n\n\t\n\n9.4952\n\n\t\n\n+0.1252\n\n\n\n\nBit Origin Ltd.\n\n\t\n\n7,207,521\n\n\t\n\n0.6546\n\n\t\n\n0.59\n\n\t\n\n0.6015\n\n\t\n\n-0.0767\n\n\n\n\nEnphase Energy Inc.\n\n\t\n\n7,062,433\n\n\t\n\n40.30\n\n\t\n\n37.17\n\n\t\n\n37.44\n\n\t\n\n-5.06\n\n\n\n\nMackenzie Realty Capital Inc.\n\n\t\n\n7,046,092\n\n\t\n\n1.69\n\n\t\n\n0.8376\n\n\t\n\n0.8768\n\n\t\n\n+0.1168\n\n\n\n\nOriental Rise Holdings Ltd.\n\n\t\n\n6,942,751\n\n\t\n\n0.1856\n\n\t\n\n0.159\n\n\t\n\n0.1749\n\n\t\n\n+0.0149\n\n\n\n\nWARNER BROS. DISCOVERY INC.\n\n\t\n\n6,784,757\n\n\t\n\n13.03\n\n\t\n\n12.85\n\n\t\n\n12.95\n\n\t\n\n+0.10\n\n\n\n\nSuper Micro Computer Inc.\n\n\t\n\n6,686,665\n\n\t\n\n51.70\n\n\t\n\n50.58\n\n\t\n\n51.39\n\n\t\n\n+1.53\n\n\n\n\nBeyond Meat Inc.\n\n\t\n\n6,602,581\n\n\t\n\n4.82\n\n\t\n\n4.37\n\n\t\n\n4.465\n\n\t\n\n+0.245\n\n\n\n\nCipher Mining Inc.\n\n\t\n\n6,547,034\n\n\t\n\n6.75\n\n\t\n\n6.425\n\n\t\n\n6.455\n\n\t\n\n-0.485\n\n\n\n\nRivian Automotive Inc.\n\n\t\n\n6,342,481\n\n\t\n\n14.24\n\n\t\n\n13.94\n\n\t\n\n14.075\n\n\t\n\n-0.045\n\n\n\n\naTyr Pharma Inc.\n\n\t\n\n6,129,219\n\n\t\n\n7.10\n\n\t\n\n5.80\n\n\t\n\n6.3247\n\n\t\n\n+1.0847\n\n\n\n\nUpexi Inc.\n\n\t\n\n6,040,230\n\n\t\n\n7.364\n\n\t\n\n6.61\n\n\t\n\n6.85\n\n\t\n\n-0.85\n\n\n\n\nOceanPal Inc.\n\n\t\n\n6,050,088\n\n\t\n\n0.4601\n\n\t\n\n0.4026\n\n\t\n\n0.4136\n\n\t\n\n-0.0532\n\n\n\n\nHIVE Digital Technologies Ltd.\n\n\t\n\n6,017,410\n\n\t\n\n2.54\n\n\t\n\n2.35\n\n\t\n\n2.38\n\n\t\n\n-0.12\n\n\n\n\nBloomz Inc.\n\n\t\n\n5,933,097\n\n\t\n\n0.25\n\n\t\n\n0.2132\n\n\t\n\n0.2132\n\n\t\n\n-0.0411\n\n\n\n\nAmazon.com Inc.\n\n\t\n\n5,913,129\n\n\t\n\n228.79\n\n\t\n\n227.57\n\n\t\n\n228.12\n\n\t\n\n+0.65\n\n\n\n\nNavitas Semiconductor Corp.\n\n\t\n\n5,864,300\n\n\t\n\n8.6254\n\n\t\n\n8.26\n\n\t\n\n8.385\n\n\t\n\n-0.235\n\n\n\n\nAgriforce Growing Systems Ltd.\n\n\t\n\n5,579,028\n\n\t\n\n0.776\n\n\t\n\n0.72\n\n\t\n\n0.7464\n\n\t\n\n+0.0397\n\n\n\n\nEos Energy Enterprises Inc.\n\n\t\n\n5,547,673\n\n\t\n\n6.45\n\n\t\n\n6.115\n\n\t\n\n6.235\n\n\t\n\n+0.205\n\n\n\n\nZooz Power Ltd.\n\n\t\n\n5,504,804\n\n\t\n\n3.20\n\n\t\n\n2.06\n\n\t\n\n2.914\n\n\t\n\n+0.784\n\n\n\n\nKoss Corp.\n\n\t\n\n5,265,802\n\n\t\n\n8.59\n\n\t\n\n6.26\n\n\t\n\n6.4401\n\n\t\n\n+0.7301\n\n\n\n\nRocket Lab Corp.\n\n\t\n\n5,250,539\n\n\t\n\n49.26\n\n\t\n\n47.47\n\n\t\n\n48.874\n\n\t\n\n+1.994\n\n\n\n\nGraphjet Technology\n\n\t\n\n4,848,881\n\n\t\n\n0.1025\n\n\t\n\n0.0945\n\n\t\n\n0.0985\n\n\t\n\n+0.0038\n\n\n\n\nIREN Ltd.\n\n\t\n\n4,701,947\n\n\t\n\n18.51\n\n\t\n\n17.92\n\n\t\n\n18.19\n\n\t\n\n-0.40\n\n\n\n\nAlphabet Inc.\n\n\t\n\n4,642,582\n\n\t\n\n193.36\n\n\t\n\n190.22\n\n\t\n\n190.69\n\n\t\n\n-1.42\n\n\n\n\nSolid Power Inc.\n\n\t\n\n4,484,765\n\n\t\n\n4.25\n\n\t\n\n3.93\n\n\t\n\n4.08\n\n\t\n\n+0.04\n\n\n\n\nON Semiconductor Corp.\n\n\t\n\n4,375,128\n\n\t\n\n60.57\n\n\t\n\n57.2597\n\n\t\n\n57.55\n\n\t\n\n-4.90\n\n\n\n\nIntuitive Machines Inc.\n\n\t\n\n4,379,431\n\n\t\n\n12.44\n\n\t\n\n11.41\n\n\t\n\n12.3488\n\n\t\n\n+1.0688\n\n\n\n\nCleanspark Inc.\n\n\t\n\n4,309,696\n\n\t\n\n12.665\n\n\t\n\n12.23\n\n\t\n\n12.4541\n\n\t\n\n-0.3859\n\n\n\n\nAmerican Battery Technology Co\n\n\t\n\n4,267,175\n\n\t\n\n3.25\n\n\t\n\n2.8674\n\n\t\n\n3.175\n\n\t\n\n+0.295\n\n\n\n\nBroadcom Inc.\n\n\t\n\n4,220,230\n\n\t\n\n279.45\n\n\t\n\n273.00\n\n\t\n\n276.30\n\n\t\n\n-2.29\n\n\n\n\nPalisade Bio Inc.\n\n\t\n\n4,056,466\n\n\t\n\n1.36\n\n\t\n\n0.855\n\n\t\n\n1.09\n\n\t\n\n+0.23\n\n\n\n\nLoop Industries Inc.\n\n\t\n\n3,956,662\n\n\t\n\n1.25\n\n\t\n\n1.21\n\n\t\n\n1.23\n\n\t\n\n0.00\n\n\n\n\nMicrochip Technology Inc.\n\n\t\n\n3,939,868\n\n\t\n\n70.80\n\n\t\n\n68.20\n\n\t\n\n68.44\n\n\t\n\n-6.82\n\n\n\n\nApplied Digital Corp.\n\n\t\n\n3,775,466\n\n\t\n\n11.23\n\n\t\n\n10.69\n\n\t\n\n10.8247\n\n\t\n\n-0.1253\n\n\n\n\nMicron Technology Inc.\n\n\t\n\n3,713,923\n\n\t\n\n110.289\n\n\t\n\n109.10\n\n\t\n\n109.355\n\n\t\n\n+0.135\n\n\n\n\nCanopy Growth Corp.\n\n\t\n\n3,483,085\n\n\t\n\n1.27\n\n\t\n\n1.18\n\n\t\n\n1.19\n\n\t\n\n-0.06\n\n\n\n\nECD Automotive Design Inc.\n\n\t\n\n3,453,127\n\n\t\n\n0.2501\n\n\t\n\n0.2344\n\n\t\n\n0.2366\n\n\t\n\n-0.0307\n\n\n\n\nAST SpaceMobile Inc.\n\n\t\n\n3,440,011\n\n\t\n\n60.28\n\n\t\n\n57.27\n\n\t\n\n58.56\n\n\t\n\n+1.47\n\n\n\n\nSafety Shot Inc.\n\n\t\n\n3,429,643\n\n\t\n\n0.90\n\n\t\n\n0.73\n\n\t\n\n0.8344\n\n\t\n\n+0.0958\n\n\n\n\nHuntington Bancshares Inc.\n\n\t\n\n3,448,965\n\n\t\n\n16.79\n\n\t\n\n16.63\n\n\t\n\n16.715\n\n\t\n\n+0.06\n\n\n\n\nBaker Hughes Co.\n\n\t\n\n3,379,305\n\n\t\n\n42.42\n\n\t\n\n41.15\n\n\t\n\n42.215\n\n\t\n\n+2.195\n\n\n\n\nQuantum Computing Inc.\n\n\t\n\n3,382,030\n\n\t\n\n17.245\n\n\t\n\n16.8601\n\n\t\n\n16.96\n\n\t\n\n+0.15\n\n\n\n\nMicrosoft Corp.\n\n\t\n\n3,390,774\n\n\t\n\n506.79\n\n\t\n\n500.70\n\n\t\n\n501.16\n\n\t\n\n-4.11\n\n\n\n\nLantern Pharma Inc.\n\n\t\n\n3,351,348\n\n\t\n\n4.18\n\n\t\n\n3.73\n\n\t\n\n4.005\n\n\t\n\n-0.025\n\n\n\n\nChime Financial Inc.\n\n\t\n\n3,337,801\n\n\t\n\n38.67\n\n\t\n\n33.90\n\n\t\n\n37.14\n\n\t\n\n+3.67\n\n\n\n\nSunrun Inc.\n\n\t\n\n3,251,008\n\n\t\n\n11.30\n\n\t\n\n10.9801\n\n\t\n\n11.115\n\n\t\n\n-0.045\n\n\n\n\nNovavax Inc.\n\n\t\n\n3,157,835\n\n\t\n\n7.6302\n\n\t\n\n7.2902\n\n\t\n\n7.525\n\n\t\n\n+0.305\n\nNYSE most active stocks:\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.37
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.16
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Healthcare Triangle Inc. sees a +0.0058 increase in its share price, while GoPro Inc. experiences a +0.6801 rise."
+    },
+    "date": "2025-07-23T07:30:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/dan-niles-explains-why-turned-135022690.html",
+    "title": "Dan Niles Explains Why He Turned Bullish on NVIDIA (NVDA) Nvidia is one of the 10 Buzzing Stocks Everyone is Talking About. Dan Niles, Niles Investment Management founder and portfolio manager, said in a recent program on CNBC that he turned bullish on NVIDIA Corp (NASDAQ:NVDA) for two reasons. The first was the company\u2019s China write-down after the US government imposed new restrictions on AI [\u2026]",
+    "detail": "Dan Niles Explains Why He Turned Bullish on NVIDIA (NVDA)\nFahad Saleem\nWed, Jul 23, 2025, 6:50 AM 3 min read\nIn This Article:\nNVDA\n2330.TW\nGOOGL\nMSFT\nAAPL\n\nNvidia is one of the 10 Buzzing Stocks Everyone is Talking About.\n\nDan Niles, Niles Investment Management founder and portfolio manager, said in a recent program on CNBC that he turned bullish on NVIDIA Corp (NASDAQ:NVDA) for two reasons. The first was the company\u2019s China write-down after the US government imposed new restrictions on AI chip sales. The second was related to the core dynamics of the AI industry fueling demand:\n\n\u201cSo training spending is slowing down, but you finally had inference spending picking up. And so that means people are going to ChatGPT, OpenAI, Gemini, which is the one I use a lot. I probably use it 10 to 20 times a day. And you had inference demand really start to take off. Google talked about the fact that in the month of May, the tokens that they were generating were up 50 times year-over-year. And then Microsoft, which obviously was invested in OpenAI back in 2019 before any of us had even heard of ChatGPT in 2022, they came out and said, \u201cHey, we have a 5x increase in the number of tokens we\u2019re generating. And so you put all that together, companies forecast derisks because of that massive write-down, some of the sovereign AI demand as President Trump went to the Middle East and you had all these deals, all of that stuff.\u201d\n\nNVDA is back in the game as even its skeptics are turning bullish amid strong demand for its chips. But Nvidia could face tough competition in the future. Major competitors like Apple, Qualcomm, and AMD are vying for TSMC\u2019s 3nm capacity, which could limit Nvidia's access to these chips. Why? Because Nvidia also uses\u00a0 TSMC's 3nm process nodes. Nvidia is also facing direct competition from other giants that are deciding to make their own chips. Amazon, with its Trainium2 AI chips, offers alternatives. Trainium2 chips could provide cost savings and superior computational power, which could shift AI workloads away from Nvidia\u2019s offerings.\n\nMar Vista Global Quality Strategy stated the following regarding NVIDIA Corporation (NASDAQ:NVDA) in its\u00a0second quarter 2025 investor letter:\n\n\u201cNVIDIA Corporation\u00a0(NASDAQ:NVDA) shares rebounded from their calendar Q1 lows as investor concerns over DeepSeek\u2019s efficiency gains and U.S. government restrictions on advanced AI semiconductors, such as NVIDIA\u2019s H20 family of GPUs, proved overstated. Demand for NVIDIA\u2019s next-generation Blackwell platform remains strong, fueled by the growing complexity of large language models and the emergence of reasoning-based applications. As CEO Jensen Huang noted, reasoning tasks can require up to 10 times the compute power of training a conventional large language model. With the AI market still in the early stages of a multi-year infrastructure build-out, NVIDIA is well-positioned to capture significant value as the industry standard for accelerated computing.\u201d\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.53
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.15
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA's bullish outlook due to increased inference spending and growing demand for AI applications, as indicated by Google's 50x increase in tokens generated in May."
+    },
+    "date": "2025-07-23T06:50:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/analyst-200-advanced-micro-devices-133815186.html",
+    "title": "Analyst With $200 Advanced Micro Devices (AMD) Price Target Explains Why He\u2019s Bullish, Sees \u2018Big Reversal\u2019 in AI Revenue Advanced Micro Devices Inc (NASDAQ:AMD) is one of the 10 Buzzing Stocks Everyone is Talking About. HSBC\u2019s Frank Lee explained in a recent program on CNBC why he raised his price target on Advanced Micro Devices Inc (NASDAQ:AMD) to $200. Lee believes AMD could rake in $8 billion in AI revenues and talked about other [\u2026]",
+    "detail": "Analyst With $200 Advanced Micro Devices (AMD) Price Target Explains Why He\u2019s Bullish, Sees \u2018Big Reversal\u2019 in AI Revenue\nFahad Saleem\nWed, Jul 23, 2025, 6:38 AM 3 min read\nIn This Article:\nAMD\nNVDA\nINTC\nMSFT\nMETA\n\nAdvanced Micro Devices Inc (NASDAQ:AMD) is one of the 10 Buzzing Stocks Everyone is Talking About.\n\nHSBC\u2019s Frank Lee explained in a recent program on CNBC why he raised his price target on Advanced Micro Devices Inc (NASDAQ:AMD) to $200. Lee believes AMD could rake in $8 billion in AI revenues and talked about other growth catalysts for the stock that\u2019s up 29% so far this year.\n\n\u201cI think the main thing is that, you know, compared to where we were at the beginning of the year where we got a lot more conservative, in terms of the outlook of Advanced Micro Devices Inc (NASDAQ:AMD) AI revenue. We see some changes in the last couple months that definitely much more constructive, and I think at the beginning of the year, there was very little visibility. The MI325 chip that they launched in the, in in the first quarter wasn\u2019t getting quite the feedback we were expecting. But now as we see the MI355, the feedback\u2019s been a lot more positive, and also we see a big uplift in pricing\u2014much more than we previously expected\u2014and we do see the hyperscalers seem to be interested. So hence we think there could be a big reversal in terms of the AI revenue for for this year. So we now have more than eight billion in revenues, which is considerably higher than the consensus around six.\u201d\n\nPhoto by L N on Unsplash\n\nAdvanced Micro Devices (NASDAQ:AMD) bulls believe the market should stop comparing the company\u2019s chips with Nvidia and focus on its data-center growth and its competitive edge over other players like Intel. Advanced Micro Devices (NASDAQ:AMD)\u2019s strong growth in the data center segment is indeed impressive, driven by Instinct GPU shipments and strong sales of EPYC CPUs. Advanced Micro Devices (NASDAQ:AMD) will continue to benefit from organic growth catalysts in this segment despite the competition from Nvidia. According to Goldman Sachs Research, global data center demand could surge by 160% by 2030. In the U.S., data centers are projected to use 8% of total power by 2030, up from 3% in 2022. McKinsey estimates that adding the required U.S. capacity will need over $500 billion in infrastructure investment by the decade\u2019s end.\n\nLongriver Partners Fund stated the following regarding Advanced Micro Devices, Inc. (NASDAQ:AMD) in its\u00a0second quarter 2025 investor letter:\n\n\u201cNvidia\u2019s NVLink, its high-bandwidth interconnect, underpins training at scale, where GPUs must coordinate across racks. NVLink Fusion, announced this year, may extend that advantage by letting custom chips plug into Nvidia\u2019s system rather than replace it. However, many inference tasks can be handled independently, one GPU at a time. That lowers the importance of networking, and with it, Nvidia\u2019s edge in tightly integrated systems.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.36
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "HSBC analyst raises AMD price target to $200, predicts $8B in AI revenues for AMD, potentially impacting NVDA's market share."
+    },
+    "date": "2025-07-23T06:38:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/reeltimes-rltr-rises-24-two-125000956.html",
+    "title": "ReelTime's RLTR Rises 24% in Two Days, Crushing All Major Tech and AI Stocks Again This Week Following Last Week's 54.3% Increase RLTR surpasses tech heavyweights Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), AMD, and Palantir (PLTR), so Far This week. BOTHELL, WA / ACCESS Newswire / July 23, 2025 / ReelTime Media (OTCID:RLTR) continued its explosive ...",
+    "detail": "This is a paid press release. Contact the press release distributor directly with any inquiries.\nReelTime's RLTR Rises 24% in Two Days, Crushing All Major Tech and AI Stocks Again This Week Following Last Week's 54.3% Increase\nReelTime Rentals, Inc.\nWed, Jul 23, 2025, 5:50 AM 3 min read\nIn This Article:\nRLTR\nMSFT\nNVDA\nGOOGL\nAMZN\n\nRLTR surpasses tech heavyweights Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), AMD, and Palantir (PLTR), so Far This week.\n\nBOTHELL, WA / ACCESS Newswire / July 23, 2025 / ReelTime Media (OTCID:RLTR) continued its explosive upward trajectory this week, posting a +24.1% gain over the past two trading days, far outperforming all major AI and tech stocks. This week's spike builds on last week's +54.3% surge, cementing RLTR's position as the top-performing stock across the entire AI and tech sector despite yesterday's slight pull back.\n\nThis increase over the past two days follows the announcement that Reltime's RI was featured in the Green Stock Journal as \"A powerful AI that's smarter, faster, and greener than any other on the planet. Reeltimes's Reel Intelligence \"RI\" outperforms all AI's in terms of minimizing environmental impact.\" https://greenstockjournal.com/.\n\nThis strong momentum surpasses tech heavyweights Microsoft (MSFT), NVIDIA (NVDA), Alphabet (GOOGL), Amazon (AMZN), Meta (META), AMD, and Palantir (PLTR), so Far This week.\n\nThe surge follows heightened investor interest in ReelTime's groundbreaking artificial intelligence platform, Reel Intelligence (\"RI\"), which has demonstrated a clear technological lead over mainstream AI providers.\n\n2-Day Stock Performance Comparison\nJuly 22-23, 2025\n\nTicker\n\n\t\n\nCompany\n\n\t\n\n% Change\n\n\n\n\nRLTR\n\n\t\n\nReelTime Media\n\n\t\n\n+24.1%\n\n\n\n\nMSFT\n\n\t\n\nMicrosoft Corp\n\n\t\n\n-0.9%\n\n\n\n\nNVDA\n\n\t\n\nNVIDIA Corp\n\n\t\n\n-2.5%\n\n\n\n\nGOOGL\n\n\t\n\nAlphabet Inc (Google)\n\n\t\n\n+0.6%\n\n\n\n\nAMD\n\n\t\n\nAdvanced Micro Devices\n\n\t\n\n-1.4%\n\n\n\n\nPLTR\n\n\t\n\nPalantir Technologies\n\n\t\n\n-1.8%\n\nRLTR soared 24.1% this week while nearly every major tech and AI stock declined or remained flat\n\nAt the heart of this momentum is Reel Intelligence (\"RI\"), ReelTime's proprietary chip-agnostic, distributed computing AI platform. RI continues to draw attention for its ability to outperform centralized AI models in nearly every measurable way.\n\nRI's Competitive Advantages: Chip-Agnostic Architecture: RI runs efficiently on any hardware-no reliance on GPUs or cloud infrastructure. Distributed Processing: Enables real-time collaboration and output generation across global nodes. Adaptive Learning: Continuously updates in real-time-no retraining required. High-Fidelity Output: RI can generate Emmy-grade 4K video, Grammy-level audio, advanced code, animation, imagery, and more. Energy Efficient: Requires a fraction of the power needed by large, centralized AI platforms.\n\nLast Week's Performance Recap\nJuly 15-22, 2025\n\nTicker\n\n\t\n\nCompany\n\n\t\n\n% Change\n\n\n\n\nRLTR\n\n\t\n\nReelTime Media\n\n\t\n\n+54.3%\n\n\n\n\nMSFT\n\n\t\n\nMicrosoft Corp\n\n\t\n\n+0.4%\n\n\n\n\nNVDA\n\n\t\n\nNVIDIA Corp\n\n\t\n\n+0.5%\n\n\n\n\nGOOGL\n\n\t\n\nAlphabet Inc (Google)\n\n\t\n\n+0.8%\n\n\n\n\nAMD\n\n\t\n\nAdvanced Micro Devices\n\n\t\n\n-1.1%\n\n\n\n\nPLTR\n\n\t\n\nPalantir Technologies\n\n\t\n\n-0.4%\n\nRLTR's 7 day run, up over 92% combined, comes at a time when the broader AI sector has either stalled or pulled back. With RI now entering early-stage commercial deployment and a major media campaign underway, momentum appears poised to continue\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.38
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"ReelTime Rentals (RLTR) outperforms major tech and AI stocks, including NVDA, with a 24% rise in two days, building on a previous 54.3% increase.\""
+    },
+    "date": "2025-07-23T05:50:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/businesses-deliver-gloomy-results-even-121104689.html",
+    "title": "Businesses deliver gloomy results even as markets celebrate Japan trade deal Asian and European stock markets rallied as investors cheered a trade agreement between the United States and Japan, which lowers tariffs on auto imports and spares Tokyo punishing new levies on other goods.  The news stirred hopes for a deal with the European Union ahead of the August 1 deadline set by the Trump administration.  But results from Texas Instruments and steelmaker SSAB showed how chaotic U.S. trade policy has already hurt profits, adding to costs, upending supply chains and weighing on consumer confidence.",
+    "detail": "Businesses deliver gloomy results even as markets celebrate Japan trade deal\nReuters\nWed, Jul 23, 2025, 5:11 AM 3 min read\nIn This Article:\nTXN\nSSAB-A.ST\nASM.AS\nCL=F\nGM\n\n(Reuters) -Businesses making everything from chips to steel reported downbeat results on Wednesday, with U.S. President Donald Trump's trade war inflicting damage even as Japan's deal lifted stocks and hopes that Europe can clinch a similar agreement.\n\nAsian and European stock markets rallied as investors cheered a trade agreement between the United States and Japan, which lowers tariffs on auto imports and spares Tokyo punishing new levies on other goods. The news stirred hopes for a deal with the European Union ahead of the August 1 deadline set by the Trump administration. [MKTS/GLOB]\n\nBut results from Texas Instruments and steelmaker SSAB showed how chaotic U.S. trade policy has already hurt profits, adding to costs, upending supply chains and weighing on consumer confidence.\n\nTexas Instruments' quarterly earnings report pointed to weaker-than-expected demand for its analogue chips from some customers and underscored tariff-related uncertainty.\n\nChipmakers such as Texas Instruments are not yet directly facing Trump's elevated tariffs, but the cost of chip-making tools has risen, and some of their end customers have pared back spending.\n\nLate on Tuesday, Dutch computer chip equipment maker ASM International warned that order intake from chipmakers had been \"lumpy\" in the second quarter. Its shares fell 8.5% on Wednesday.\n\n\"Tariffs are hitting home,\" said Neil Wilson, investment strategist at Saxo Markets.\n\nInvestors across the world are bracing for a slew of earnings this week that they hope will provide a window into how companies are navigating a torrent of challenges - from tariffs and regulatory changes to currency fluctuations, fickle consumer spending, higher prices, global conflicts and volatile oil prices.\n\nAs the second-quarter earnings season progresses, companies have reported a combined loss of $6.6 billion to $7.8 billion between July 16 and 22 for the full year, with the automotive, aerospace and pharmaceutical sectors being hurt the most by the tariffs.\n\nGeneral Motors accounted for a big chunk as it reiterated on Tuesday its expectation of a $4 billion to $5 billion hit from tariffs for 2025.\n\nLate on Tuesday, Finland's Nokia blamed tariff headwinds and the weaker U.S. dollar as it lowered its guidance for 2025.\n\nFor Swedish steelmaker SSAB, the biggest issue is that tariffs are causing more shipments of cheap steel to be redirected to Europe, CEO Johnny Sjostrom told Reuters on Wednesday.\n\n\"The turbulence of tariffs and trade barriers resulted in increased uncertainty,\" he said in a statement, with the largest impact seen in the weakening European steel market.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.6
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Despite Japan trade deal boosting markets, US trade war hurts businesses like Texas Instruments, negatively impacting NVDA's prospects."
+    },
+    "date": "2025-07-23T05:11:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/taiwan-semi-joins-trillion-dollar-120002855.html",
+    "title": "As Taiwan Semi Joins the Trillion-Dollar Club, Should You Buy, Sell, or Hold TSM Stock? After joining the trillion-dollar club and delivering blockbuster quarterly results, TSM\u2019s dominant AI chip leadership and strong analyst support make it a compelling stock to hold or buy on any weakness.",
+    "detail": "As Taiwan Semi Joins the Trillion-Dollar Club, Should You Buy, Sell, or Hold TSM Stock?\nEbube Jones\nWed, Jul 23, 2025, 5:00 AM 4 min read\nIn This Article:\n2330.TW\nAAPL\nNVDA\nSemiconductor chip by Mykola Pokhodzhay via iStock\n\nTaiwan Semiconductor Manufacturing Company (TSM) has crossed into Wall Street\u2019s most elite tier, becoming the latest member of the exclusive trillion-dollar market capitalization club. In\u00a0the last quarter, the\u00a0semiconductor giant stunned investors with a 61% leap in net profit and quarterly revenue surpassing $30 billion, while margins soared above many of its industry peers.\n\nWith every major AI player, from Apple (AAPL), to Nvidia (NVDA), relying on TSM\u2019s advanced technologies, and the world holding its breath as the semiconductor supply chain evolves, investors find themselves at a remarkable crossroads. Can TSM keep up this blistering pace, and should you bet on (or against) the chip giant now that it towers among the world\u2019s most valuable firms? Let\u2019s dive into TSM.\n\nMore News from Barchart\n\nNvidia Stock Warning: This NVDA Challenger Just Scored a Major Customer\n\nDear QuantumScape Stock Fans, Mark Your Calendars for July 23\n\nShould You Buy the Post-Earnings Dip in Lockheed Martin Stock?\n\nOur exclusive Barchart Brief newsletter is your FREE midday guide to what's moving stocks, sectors, and investor sentiment - delivered right when you need the info most. Subscribe today!\n\nTSM\u2019s Q2 Financial Report\n\nTaiwan Semiconductor Manufacturing (TSM), the world\u2019s leading contract chipmaker, commands a market capitalization north of $1.24 trillion, cementing its status as the backbone of global tech for giants like Apple and Nvidia.\n\nTSM\u2019s share price is up 19% year-to-date and 39% over the last 52 weeks.\n\nwww.barchart.com\n\nTSM trades at a forward price-earnings multiple of 24.8x, compared to a sector median of 24.4x. This shows that TSM is likely fairly valued.\n\nOn July 17, 2025,\u00a0TSM reported blockbuster second-quarter numbers. Consolidated revenue reached $30 billion, surging 44.4% year-over-year and 17.8% sequentially. Net income was $12.8 billion, up 42.6% year over year, and dilted earnings per share came in at $0.49 and $2.47 per ADR.\n\nProduction at the cutting edge remained the company\u2019s calling card: 3-nanometer technology deliveries accounted for 24% of wafer revenue, 5-nanometer 36%, and 7-nanometer 14%; advanced nodes (7-nm and better) captured an impressive 74% of total wafer sales.\n\nTSM\u2019s Growth Engines\n\nThe company recently\u00a0unveiled a $100 billion boost to its U.S. investment, expanding its American footprint to an extraordinary $165 billion overall. Rather than a routine capital allocation, this commitment will roll out three new state-of-the-art fabrication plants, two advanced packaging facilities, and a major R&D center.\n\n\u7e7c\u7e8c\u95b1\u8b80\n\u689d\u6b3e \u53ca \u79c1\u96b1\u653f\u7b56\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.56
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "61% Q2 profit increase, TSM's revenue surpasses $30B, joining the trillion-dollar club; AI players like AAPL & NVDA rely on TSM's tech, investors ponder"
+    },
+    "date": "2025-07-23T05:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/quantum-computing-inc-next-nvidia-114500190.html",
+    "title": "Is Quantum Computing Inc. the Next Nvidia? Shares of QCI have soared over the last year, but the company still has almost no revenue.  It expects to ramp up production of its new photonic chip next year.  Any comparison of Quantum Computing to Nvidia seems far-fetched at this point, but there's one key similarity.",
+    "detail": "Is Quantum Computing Inc. the Next Nvidia?\nJeremy Bowman, The Motley Fool\nWed, Jul 23, 2025, 4:45 AM 4 min read\nIn This Article:\nQUBT\nNVDA\nGOOGL\nRGTI\nIONQ\nKey Points\n\nShares of QCI have soared over the last year, but the company still has almost no revenue.\n\nIt expects to ramp up production of its new photonic chip next year.\n\nAny comparison of Quantum Computing to Nvidia seems far-fetched at this point, but there's one key similarity.\n\n10 stocks we like better than Quantum Computing \u203a\n\nQuantum computing stocks have gone from virtually unknown on Wall Street to all the rage in just a few months. Last December, Alphabet said that its Willow quantum chip had achieved a milestone in quantum computing, solving complex problems in minutes that would take traditional supercomputers 10 septillion years. The news sparked a frenzy for quantum computing stocks, which had gained momentum following the election.\n\nAmong the winners was Quantum Computing Inc. (NASDAQ: QUBT), also known as QCI, and its stock has soared since Alphabet's announcement. As the chart below shows, Quantum Computing and peers like Rigetti Computing, IonQ, and D-Wave Quantum\u00a0have all skyrocketed over the last year, following the same trend.\n\nQUBT data by YCharts.\n\nQuantum Computing stock won't win the title of most creative name in its sector, but it's the best performing of the four quantum computing stocks over the past year. Some investors believe it could be the next Nvidia, a stock that has jumped 100x over the last decade, recently reaching a market cap of $4 trillion.\n\nAre they right? Let's see if Quantum Computing's super surge can continue.\n\nImage source: Getty Images.\nWhere Quantum Computing stands today\n\nPart of the reason Quantum Computing has been the best performing of the four stocks above is that it's the smallest one, so it benefited from the same trend as the three others but jumped off the lowest base. It still has the lowest market cap of the group at $3 billion, and its revenue is negligible at this point. In the first quarter, the company brought in just $39,000 in revenue and posted an operating loss of $8.3 million.\n\nThe company is pursuing a different goal in quantum computing than its peers above. It's focused on photonic quantum computing, rather than the supercomputing technologies that companies like IonQ, Rigetti, and Alphabet are researching. QCI achieved an important milestone in the first quarter, completing construction on its Quantum Photonic Chip Foundry in Arizona, which sets it up to meet growing demand for thin film lithium niobate (TFLN) photonic chips.\n\nManagement expects revenue to begin to ramp up next year once it begins production at that foundry. At this point, Quantum Computing is still clearly a high-risk stock, though it has enough liquidity to last several years, based on current operations. At the end of the first quarter, the company had $166.4 million in cash and no debt.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.02
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0027
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"QCI shares surge despite minimal revenue; anticipates photonic chip production boost in 2026. Comparison to Nvidia premature due to lack of current revenue.\""
+    },
+    "date": "2025-07-23T04:45:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stock-split-watch-ionq-next-114000937.html",
+    "title": "Stock-Split Watch: Is IonQ Next? IonQ is the most valuable pure-play quantum computing stock.  It's surged over the last year as excitement over quantum computing has picked up.  Quantum computing stocks are getting a lot of attention these days, and it's easy to see why.",
+    "detail": "Stock-Split Watch: Is IonQ Next?\nJeremy Bowman, The Motley Fool\nWed, Jul 23, 2025, 4:40 AM 4 min read\nIn This Article:\nIONQ\nGOOGL\nNVDA\nKey Points\n\nIonQ is the most valuable pure-play quantum computing stock.\n\nIt's surged over the last year as excitement over quantum computing has picked up.\n\nRevenue is still minimal, but management expects growth to improve this year.\n\n10 stocks we like better than IonQ \u203a\n\nQuantum computing stocks are getting a lot of attention these days, and it's easy to see why.\n\nFollowing the boom in AI stocks over the last two years, investors are looking for the next emerging technology that can deliver monster returns. Quantum computing is starting to look like a good candidate, especially as the perception of its potential has changed significantly in recent months.\n\nLast December, Alphabet announced that it had achieved a new milestone in quantum computing with its Willow chip, which performed a computation in under 5 minutes that it said would take one of today's fastest supercomputers 10 septillion years to do.\n\nNvidia CEO Jensen Huang has also changed his stance on quantum computing after saying at the beginning of the year that \"very useful\" quantum computing was at least 15 years away. He later walked back those comments and said in June that the technology is \"reaching an inflection point,\" boosting optimism.\n\nAs a result of the increasing bullish sentiment, quantum computing stocks have soared this year. Among them is IonQ (NYSE: IONQ), which is the biggest of four publicly traded quantum stocks: it, D-Wave Quantum, Rigetti Computing, and Quantum Computing.\n\nFollowing the surge over the last year, IonQ's market cap has reached $13.5 billion. The stock has jumped more than 400%, and some investors are wondering if IonQ is now a candidate for a stock split, which would increase the number of shares while lowering the stock price, leaving it with the same market cap.\n\nImage source: Getty Images.\nCould IonQ's stock split?\n\nFast-growing stocks are often candidates for stock splits since most management teams want to keep the share price affordable for individual investors.\n\nStock splits don't change the fundamentals of a stock. They just lower the share price by creating more shares and dividing the pie into more pieces. But there is some evidence that stock splits are correlated with outperformance.\n\nThis could be because management chooses when to do a split when it reflects its own optimism in the growth of the business. The split can act as a signal to investors to buy the stock since some investors react positively to it. It also represents a milestone in the company's own growth.\n\nHowever, IonQ's share price is only $46 right now. Typically, stocks split their share prices when they're in the triple digits, if not well into the triple-digits, or even above $1,000.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.34
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "IonQ, the top quantum computing stock, sees revenue growth expectations this year, following Alphabet's quantum computing breakthrough."
+    },
+    "date": "2025-07-23T04:40:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/week-ai-chips-weride-lenovo-113733150.html",
+    "title": "This Week In AI Chips - WeRide Lenovo NVIDIA Unveil Groundbreaking Autonomous Driving Platform In a significant development for the AI chips sector, WeRide, in collaboration with Lenovo and NVIDIA, has introduced the HPC 3.0 high-performance computing platform. This platform, powered by NVIDIA's latest DRIVE AGX Thor chips, is designed for Level 4 (L4) autonomous vehicles and is set to debut in WeRide's new Robotaxi GXR. The HPC 3.0 platform offers substantial cost reductions and enhanced computing power, integrating key modules to boost system efficiency while meeting stringent...",
+    "detail": "This Week In AI Chips - WeRide Lenovo NVIDIA Unveil Groundbreaking Autonomous Driving Platform\nSimply Wall St\nWed, Jul 23, 2025, 4:37 AM 1 min read\nIn This Article:\nASML\nASMLF\nAMD\nNVDA\nWRD\n\nIn a significant development for the AI chips sector, WeRide, in collaboration with Lenovo and NVIDIA, has introduced the HPC 3.0 high-performance computing platform. This platform, powered by NVIDIA's latest DRIVE AGX Thor chips, is designed for Level 4 (L4) autonomous vehicles and is set to debut in WeRide's new Robotaxi GXR. The HPC 3.0 platform offers substantial cost reductions and enhanced computing power, integrating key modules to boost system efficiency while meeting stringent automotive standards. This innovation signifies a major step toward widespread commercial deployment of autonomous driving technology worldwide.\n\nNVIDIA last closed at $167.03 down 2.5%, not far from its 52-week high.\n\nIn other trading, Advanced Micro-Fabrication Equipment China was a standout up 5.9% and ending trading at CN\u00a5198.51. Meanwhile, KLA lagged, down 4.9% to finish the session at $892.22.\n\nNVIDIA's Blackwell architecture is set to revolutionize data centers and AI dominance. Click here to explore more about NVIDIA's innovative growth potential.\n\nDon't miss our Market Insights article on the AI Chips industry, exploring crucial investment opportunities amidst evolving trade dynamics\u2014read it now!\n\nBest AI Chip Stocks\n\nQUALCOMM finished trading at $157.99 down 0.6%.\n\nAdvanced Micro Devices ended the day at $154.72 down 1.5%.\n\nASML Holding settled at \u20ac602.40 down 3.5%.\n\nSumming It All Up\n\nClick here to unveil our expertly curated list of 56 AI Chip Stocks including Alchip Technologies, Arm Holdings and Micron Technology.\n\nContemplating Other Strategies? We've found 17 US stocks that are forecast to pay a dividend yeild of over 6% next year. See the full list for free.\n\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\n\nSources:\n\nSimply Wall St\n\n\"WeRide Teams Up With Lenovo to Launch 100% Automotive-Grade HPC 3.0 Platform Powered by NVIDIA DRIVE AGX Thor Chips\" from WeRide Inc. on GlobeNewswire (published 21 July 2025)\n\nCompanies discussed in this article include SHSE:688012 NasdaqGS:QCOM NasdaqGS:AMD NasdaqGS:NVDA ENXTAM:ASML and NasdaqGS:KLAC.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.68
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "NVIDIA partners with WeRide and Lenovo to launch HPC 3.0 platform for L4 autonomous vehicles; cost reduction and enhanced computing power expected."
+    },
+    "date": "2025-07-23T04:37:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvda-broken-wing-butterfly-trade-110002178.html",
+    "title": "NVDA Broken Wing Butterfly Trade Targets A Profit Zone Between 150 and 160 Nvidia is pulling back towards the rising 21-day moving average and is still in a solid uptrend. Today we\u2019re looking at a broken wing butterfly trade that creates a profit zone between $150 and $160 with income potential of around $85. Yesterday, the stock closed around $167.",
+    "detail": "NVDA Broken Wing Butterfly Trade Targets A Profit Zone Between 150 and 160\nGavin McMaster\nWed, Jul 23, 2025, 4:00 AM 3 min read\nIn This Article:\nNVDA\nCharting and analysis tablet and laptop by Pix1861 via Pixabay\n\nNvidia (NVDA) is pulling back towards the rising 21-day moving average and is still in a solid uptrend.\n\nToday we\u2019re looking at a broken wing butterfly trade that creates a profit zone between $150 and $160 with income potential of around $85. Yesterday, the stock closed around $167.\n\nMore News from Barchart\n\nDown 10% Since Warren Buffett\u2019s Retirement News, Should You Buy the Dip in Berkshire Hathaway Stock?\n\nArray Technologies (ARRY) Just Flashed a Statistically Significant Reversal Signal for Options Traders\n\nMSCI, the Index Company, Forecasts Strong Free Cash Flow, Looks Undervalued\n\nGet exclusive insights with the FREE Barchart Brief newsletter. Subscribe now for quick, incisive midday market analysis you won't find anywhere else.\n\nA broken wing butterfly with puts is a butterfly spread with long put strikes that are not at the same distance from the short put strike.\n\nA broken wing butterfly has more risk on one side of the spread than on the other.\n\nYou can also think of it as a butterfly with a \u201cskipped strike\u201d.\n\nThe trade is usually set up as a slightly bullish trade.\n\nA broken wing butterfly with puts is usually created buying a put, selling two lower puts and buying one further out-of-the-money put.\n\nAn ideal setup of the trade is to create the broken wing butterfly for a net credit, in this way, there is no risk on the upside.\n\nThe main risk with the trade is a sharp move lower early in the trade.\n\nNVDA Broken Wing Butterfly Example\n\nOn NVDA, an August 15 expiry broken wing butterfly could be set up through buying the $165 put, selling two of the $160 puts and buying the $150 put.\n\nHere are the details of the trade as of yesterday\u2019s close:\n\nBuy 1 August 15, $150 put @ 1.25\n\nSell 2 August 15, $160 put @ 3.10\n\nBuy 1 August 15, $165 put @ 4.85\n\nNotice that the upper strike put is 5 points away from the middle put and the lower put is 10 points away.\n\nThis broken wing butterfly trade will result in a net credit of $10, which means that if NVDA stays above $165, the profit will be $10.\n\nOn the downside, the maximum loss can be calculated by taking the difference between the two widths (5) multiplied by 100, minus the premium received.\n\nThat gives us 5 x 100 - 10 = $490.\n\nThe maximum gain can be calculated as 5 x 100 + 10 = $510\n\nThe ideal scenario for the trade is that NVDA stays above $160 for the next month. The main expiration profit zone is between $155 and $165.\n\nThe trade starts with delta of 4, so has a slight bullish bias to start, but that will flip to slightly negative delta closer to expiry if NVDA is still above $165.\n\nIn terms of risk management, I would set a stop loss of 20% of the capital at risk, or if NVDA broke below $155.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.28
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.4
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Nvidia (NVDA) targets profit zone between 150 and 160 with broken wing butterfly trade offering $85 income potential."
+    },
+    "date": "2025-07-23T04:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/3-brilliant-growth-stocks-buy-110000800.html",
+    "title": "3 Brilliant Growth Stocks to Buy Now and Hold for the Long Term These three companies are all in the right place at the right time with the right product.",
+    "detail": "3 Brilliant Growth Stocks to Buy Now and Hold for the Long Term\nJames Brumley, The Motley Fool\nWed, Jul 23, 2025, 4:00 AM\nIn This Article:\nNIO\nNVDA\nAVGO\nROKU\nKey Points\n\nThe U.S. EV market may be slowing, but that's not the case in China for companies like Nio.\n\nNvidia isn't the only way to invest in AI data centers' growth; you should also consider Broadcom.\n\nRoku is perfectly positioned to handle whatever the future of the streaming business holds.\n\n10 stocks we like better than Broadcom \u203a\n\nGot a little money, and a lot of time to let it work? If so, great! You can not only afford to buy growth stocks, but maybe even take some well-calculated risks -- on the right companies, of course. Just stay focused on their long-term prospects when things get a little worrisome in the short run.\n\nHere's a rundown of three brilliant stocks to buy now and hold for a while. Note that all three are proven winners in an industry that has a bright long-term future of its own.\n\nNio\n\nThe electric vehicle (EV) business may be hitting a wall here in the United States. That's not the case elsewhere though. In most other parts of the world, EVs are still being increasingly embraced. That's particularly true in China, where, according to a report from industry research outfit Rho Motion, June's sales of battery-powered electric vehicles soared 28% year over year to a record-breaking 1.11 million cars.\n\nThat's 60% of the planet's entire EV sales for the month in question, and about half of China's total automobile sales. And it only gets better from here. The International Energy Agency expects electric vehicles to account for 80% of China's total car sales by 2030.\n\nEnter Nio (NYSE: NIO). Yes, it primarily serves the Chinese market, but no, it's not the market's biggest name. It's not even close, in fact. That honor belongs to BYD, followed distantly by the likes of Wuling, Tesla, Li Auto, and Geely Automobile, just to name a few. Then there's Nio, which delivered a mere 24,925 cars last month, mostly within China.\n\nIts modest market share, however, is a key component of the bullish argument. It's got room to grow by penetrating its home country's fast-growing market. And it is. Nio's total deliveries jumped 17.5% year over year last month, capping off a 25.6% increase for the full quarter. Consumers there are falling in love with its affordable luxury as well as its practical lineup of vehicles, many of which are small SUVs and crossovers.\n\nUnderscoring this argument is the 36% top-line growth analysts expect for this year preceding next year's projected sales growth of 29%, both of which will help push the carmaker closer to profitability. The revenue growth pace, however, could persist for years, if not decades.\n\nStory Continues\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 0.4997
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.87
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "3. Roku optimally poised for future streaming"
+    },
+    "date": "2025-07-23T04:00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/money-flows-spot-outliers-nvidia-102624382.html",
+    "title": "Use Money Flows to Spot Outliers Like NVIDIA Early Hyperscaler NVIDIA Corporation (NVDA) up almost 64,948% since first Big Money outlier signal in 2000.",
+    "detail": "Use Money Flows to Spot Outliers Like NVIDIA Early\nLucas Downey\nWed, Jul 23, 2025, 3:26 AM 2 min read\nIn This Article:\nNVDA\n\nNVDA is a global leader in computer graphics processors, chipsets, and related software, leading the world\u2019s AI push. It beat expectations with first-quarter fiscal 2026 earnings, reporting $44.1 billion in quarterly revenue and non-GAAP per-share earnings of $0.81.\n\nIt\u2019s no wonder NVDA shares are up 24% so far this year \u2013 and they could rise more. MoneyFlows data shows how Big Money investors are again betting heavily on the stock.\n\nInflows Hitting NVIDIA\n\nInstitutional volumes reveal plenty. In the last year, NVDA has enjoyed strong investor demand, which we believe to be institutional support.\n\nEach green bar signals unusually large volumes in NVDA shares. They reflect our proprietary inflow signal, pushing the stock higher:\n\nSource: www.moneyflows.com\n\nPlenty of technology names are under accumulation right now. But there\u2019s a powerful fundamental story happening with NVIDIA.\n\nNVIDIA Fundamental Analysis\n\nInstitutional support and a healthy fundamental backdrop make this company worth investigating. As you can see, NVDA has had strong sales and earnings growth:\n\n3-year sales growth rate (+80.1%)\n\n3-year EPS growth rate (+225.9%)\n\nSource: FactSet\n\nAlso, EPS is estimated to ramp higher this year by +34.1%.\n\nNow it makes sense why the stock has been generating Big Money interest. NVDA has a track record of strong financial performance.\n\nMarrying great fundamentals with MoneyFlows software has found some big winning stocks over the long term.\n\nNVIDIA has been a top-rated stock at MoneyFlows for years. That means the stock has unusual buy pressure and growing fundamentals. We have a ranking process that showcases stocks like this on a weekly basis.\n\nIt\u2019s up 64,948% since its first appearance on the rare Outlier 20 report in June 2000. The blue bars below show when NVDA was a top pick in the last five years, having gained 1,548% in that time\u2026Big Money loves it:\n\nSource: www.moneyflows.com\n\nTracking unusual volumes reveals the power of money flows.\n\nThis is a trait that most outlier stocks exhibit\u2026the best of the best. Big Money demand drives stocks upward.\n\nNVIDIA Price Prediction\n\nThe NVDA action isn\u2019t new at all. Big Money buying in the shares is signaling to take notice. Given the historical gains in share price and strong fundamentals, this stock could be worth a spot in a diversified portfolio.\n\nDisclosure: the author holds no position in NVDA at the time of publication.\n\nIf you are a Registered Investment Advisor (RIA) or are a serious investor, take your investing to the next level and follow our free weekly MoneyFlows insights.\n\nThis article was originally posted on FX Empire\n\nMore From FXEMPIRE:\n\nSome Gains for the Aussie Dollar After the RBA Unexpectedly Holds\n\nWhy Nextracker Could Be the Next Big Money Outlier\n\nIdentify Superstar Stocks Like American Superconductor Early\n\nFrance: Multi-year Budget Plan Supports Fiscal Outlook but Great Uncertainty Remains\n\nUse Money Flows to Spot Outliers Like NVIDIA Early\n\nSoFi Shares See Huge Bullish Signal, Could Rise More\n\nTerms and Privacy Policy\nYour Privacy Choices\nCA Privacy Notice",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.89
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.85
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Institutional buying drives NVDA's 24% YTD growth; Q1 FY26 revenue hits $44.1B, EPS $0.81, MoneyFlows data supports continued upward trend."
+    },
+    "date": "2025-07-23T03:26:00"
+  }
+]

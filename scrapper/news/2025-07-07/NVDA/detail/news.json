@@ -1,0 +1,436 @@
+[
+  {
+    "url": "https://finance.yahoo.com/news/citi-lifts-nvidias-price-target-on-booming-sovereign-ai-demand-133311040.html",
+    "title": "Citi lifts Nvidia's price target on booming sovereign AI demand Citi's new $190 price target for Nvidia stock reflects rising global appetite for AI infrastructure.",
+    "detail": "Citi lifts Nvidia's price target on booming sovereign AI demand\nFrancisco Velasquez\nUpdated Mon, Jul 7, 2025, 8:05 AM 2 min read\nIn This Article:\nINTC\nNVDA\n\nCiti (C) is doubling down on Nvidia (NVDA), driven by what it sees as a major expansion in demand for AI infrastructure, particularly from sovereign governments.\n\nThe firm raised its price target on the chipmaker to $190 per share, implying a roughly 15% upside from Nvidia's current trading levels. Citi analysts said they see Nvidia capturing a larger piece of an expanding total addressable market (TAM) for data center infrastructure. The upgrade comes as Nvidia continues its charge toward a $4 trillion market cap, with shares up 12% in the past month.\n\n\"We believe sovereign demand is already contributing up to billions of dollars in 2025\" and should ramp up further in 2026, analysts Atif Malik and Papa Sylla wrote. Nvidia is involved in \"essentially every sovereign deal,\" the note said, making the company central to the global race to build national AI infrastructure.\n\nThe firm raised its 2028 AI compute TAM estimate to $563 billion, up 13% from $500 billion, and networking TAM to $119 billion, up from $90 billion, expecting sharp sales increases for Nvidia.\n\nCiti noted that at Nvidia's recent Generative AI conference, participants discussed a possible benchmark for AI infrastructure: one supercomputer or 10,000 GPUs per 100,000 employees, a ratio that could drive massive enterprise and government buildouts.\n\nNvidia, whose Blackwell GB200 chips power many of these AI clusters, is already seeing accelerating deployment, according to Citi. Concerns about potential bottlenecks in Nvidia's supply chain have also eased, with Citi reporting that rack buildouts are happening \"at a rapid pace.\" As the company prepares for its next-gen GB300 chips, analysts expect a smooth transition, crediting lessons learned from earlier platform shifts.\n\nCiti now expects Nvidia's data center revenue to grow 5% in FY 2027 and 11% in FY 2028. Networking sales are projected to surge by 12% and 27%, respectively. This represents a 20% attach rate, indicating a rising demand for high-performance systems that link large AI clusters. Gross margins are also forecast to continue expanding, normalizing in the mid-70% range by year-end.\n\nStill, the bank flagged downside risks, including renewed export restrictions under a potential second Trump administration. Bloomberg recently reported that Malaysia and Thailand could face scrutiny for suspected shipments to China.\n\nFor now, though, the AI gold rush \u2014 especially from public sector buyers \u2014 shows no signs of slowing.\n\n\"Nvidia has line of sight to tens of gigawatts of sovereign and enterprise AI factory buildouts over the next few years,\" Malik and Sylla wrote.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.83
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.68
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.75
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Citi raises NVDA price target due to booming sovereign AI demand, implying 15% upside; analysts expect Nvidia to capture more of the expanding TAM for data center infrastructure."
+    },
+    "date": "2025-07-07T08:05:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-nvda-wins-analyst-confidence-141426431.html",
+    "title": "Nvidia (NVDA) Wins Analyst Confidence Amid AI Driving Sustainability Nvidia Corp. (NASDAQ:NVDA) is one of the 10 best sustainability stocks to buy now. The company is an \u2018enabler\u2019 in the sustainability ecosystem as it enables sustainability through its core technology, supplying the computing power behind AI applications in climate science, energy efficiency, and low-emission transport systems (EVs, autonomous vehicles). Nvidia has set its own targets [\u2026]",
+    "detail": "Nvidia (NVDA) Wins Analyst Confidence Amid AI Driving Sustainability\nRizwan Siddiqui\nMon, Jul 7, 2025, 8:14 AM 2 min read\nIn This Article:\nNVDA\n\nNvidia Corp. (NASDAQ:NVDA) is one of the\u00a010 best sustainability stocks to buy now. The company is an \u2018enabler\u2019 in the sustainability ecosystem as it enables sustainability through its core technology, supplying the computing power behind AI applications in climate science, energy efficiency, and low-emission transport systems (EVs, autonomous vehicles).\n\nNvidia has set its own targets for achieving carbon neutrality across its global operations. As part of this effort, the company recently reported that all its electricity use worldwide is either powered by or offset with renewable energy. Beyond its internal sustainability goals, Nvidia\u2019s hardware and platforms play a crucial role in advancing analytics and automation, key tools for building more efficient, eco-friendly systems at scale. With every new product, the company is making strides in efficiency; for example, its Blackwell platform is 25 times more efficient for LLM inference compared to the Hopper generation.\n\nNvidia (NVDA) Wins Analyst Confidence Amid AI Driving Sustainability\n\nAnalyst opinions have been broadly positive on the company. For example, on July 1, Cantor Fitzgerald analyst C. J. Muse reaffirmed a Buy rating on Nvidia shares with an unchanged price target of $200. At around $165, the company should touch the mammoth, $4.0 trillion market capitalization. Interestingly, as the consensus 12-month median price target stands at around $175, with a high of $250, the market appears to be expecting a much higher value.\n\nIn a June 27 interview, Bloomberg Intelligence analyst Mandeep Singh was asked what should justify such a huge valuation. He said that most of the data points he tracks suggest that there is still good upside to current earnings estimates. Moreover, inferencing demand is expected to continue rising and is likely to support growth.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT:\u00a0Harvard University Stock Portfolio: Top 10 Stock Picks\u00a0and\u00a020 Undervalued Momentum stocks that are Taking Off.\n\nDisclosure: None.\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.7
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "10 Best sustainability stocks include carbon-neutral Nvidia (NVDA), driving AI for climate science, energy efficiency, and EVs."
+    },
+    "date": "2025-07-07T08:14:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/market-chatter-nvidia-risk-us-140425099.html",
+    "title": "Update: Market Chatter: Nvidia at Risk as US Moves to Block AI Chip Shipments to Malaysia, Thailand (Updates with Nvidia response in the last paragraph.) Nvidia (NVDA) may face new limits as the Tr",
+    "detail": "PREMIUM\nUpdate: Market Chatter: Nvidia at Risk as US Moves to Block AI Chip Shipments to Malaysia, Thailand\nMT Newswires\nMon, Jul 7, 2025, 8:04 AM 1 min read\nIn This Article:\nNVDA\n\n(Updates with Nvidia response in the last paragraph.) Nvidia (NVDA) may face new limits as the Tr\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.54
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "US restrictions on AI chip shipments to Malaysia, Thailand pose potential risk to NVDA's sales."
+    },
+    "date": "2025-07-07T08:04:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/could-win-lose-tighter-trump-135124450.html",
+    "title": "Who could win and lose on tighter Trump AI controls? UBS weighs in Investing.com -- UBS analysts warn that the reported new U.S. export restrictions on AI chips to Malaysia and Thailand could create turbulence for tech investors, as the Trump administration aims to block China\u2019s indirect access to high-performance semiconductors.",
+    "detail": "Who could win and lose on tighter Trump AI controls? UBS weighs in\nSam Boughedda\nMon, Jul 7, 2025, 7:51 AM 2 min read\nIn This Article:\nGOOG\nMSFT\nNVDA\n\nInvesting.com -- UBS analysts warn that the reported new U.S. export restrictions on AI chips to Malaysia and Thailand could create turbulence for tech investors, as the Trump administration aims to block China\u2019s indirect access to high-performance semiconductors.\n\n\u201cThe Trump administration is preparing new restrictions on AI chip exports to Malaysia and Thailand,\u201d UBS noted, citing Bloomberg, \u201cwith the aim of preventing advanced processors from reaching China via third countries.\u201d\n\nMalaysia is said to now account for nearly 12% of NVIDIA\u2019s global sales, making it a key AI data center hub. The proposed Commerce Department rule would target chipmakers like NVIDIA (NASDAQ:NVDA).\n\nUBS highlighted that \u201cnew regulations, on the heels of the June rally, could trigger volatility,\u201d especially as recent tech gains were driven more by \u201cprice-to-earnings multiple expansion than by positive earnings revisions.\u201d\n\nWith companies now in their earnings blackout period, UBS believes \u201cthere is less room for any misses in second-quarter results.\u201d\n\nDespite the regulatory overhang, UBS sees some potential winners. \u201cAmerican data center operators will still be allowed to import US AI chips,\u201d meaning that U.S. hyperscalers like Google (NASDAQ:GOOGL) and Microsoft (NASDAQ:MSFT) can continue regional expansion.\n\nUBS added that \u201cMalaysian companies primarily serving US-backed projects should remain relatively insulated.\u201d\n\nHowever, firms building data centers \u201cspeculatively or targeting Chinese demand may be more exposed to order cancelations or project delays.\u201d UBS also noted that \u201cdata center stocks in Southeast Asia may be more sensitive in the near term to headline risk.\u201d\n\nOverall, UBS remains constructive on the long-term outlook. \u201cWe believe the robust secular trends in AI will continue to drive long-term gains in the tech sector,\u201d the analysts wrote, even as they advise a \u201cbalanced portfolio stance within tech and the AI value chain.\u201d\n\nRelated articles\n\nWho could win and lose on tighter Trump AI controls? UBS weighs in\n\nRobinhood faces review in EU over tokenized OpenAI, SpaceX shares - CNBC\n\nBarclays: AI, DeepTech dominate as unicorns swell to $4.9 trillion valuation\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.37
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.25
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.3
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "New US export restrictions on AI chips may affect NVIDIA's sales in Malaysia, potentially causing market volatility."
+    },
+    "date": "2025-07-07T07:51:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/stock-market-news-jul-7-132200461.html",
+    "title": "Stock Market News for Jul 7, 2025 Wall Street closed higher on Thursday, driven by tech stocks to round off a holiday-shortened week.",
+    "detail": "Stock Market News for Jul 7, 2025\nZacks Equity Research\nMon, Jul 7, 2025, 7:22 AM 4 min read\nIn This Article:\nNVDA\n^DJI\n^IXIC\n^SPX\nXLK\n\nWall Street closed higher on Thursday, driven by tech stocks to round off a holiday-shortened week. Semiconductor giant Nvidia grew closer to the $4 trillion valuation mark, while a strong jobs report boosted investor morale. All three benchmark indexes closed firmly in the green.\n\nHow Did the Benchmarks Perform?\n\nThe Dow Jones Industrial Average (DJI) gained 0.8%, or 344.1 points, to close at 44,828.53. Twenty-two components of the 30-stock index ended in positive territory, seven ended in negative while one remained unchanged.\n\nThe tech-heavy Nasdaq Composite added 208 points, or 1%, to close at 20,601.1.\n\nThe S&P 500 rose 51.94 points, or 0.8%, to close at 6,279.36. Nine of the 11 broad sectors of the benchmark index closed in the green. The Technology Select Sector SPDR (XLK), the Financials Select Sector SPDR (XLF) and the Industrials Select Sector SPDR (XLI) advanced 1.3%, 1.1% and 0.9%, respectively.\n\nThe fear-gauge CBOE Volatility Index (VIX) increased 5.1% to 17.48. A total of 10.9 billion shares were traded on Thursday, lower than the last 20-session average of 17.8 billion, with markets closing earlier than usual for the Independence Day weekend.\n\nNVIDIA Drives Markets as Tech Stocks Rally\n\nOn Thursday, July 3, NVIDIA Corporation\u2019s NVDA\u00a0valuation surge fundamentally shaped broader market sentiment. Shares climbed roughly 1.3%, pushing the company\u2019s market capitalization to nearly $3.9 trillion, briefly eclipsing Apple\u2019s record and positioning Nvidia as the potential first-ever $4 trillion company.\n\nThis milestone underscored intense investor appetite for AI, reinforcing enthusiasm across the tech-focused Nasdaq and S&P 500, both of which closed at record highs. Nvidia\u2019s valuation bolstered confidence that AI infrastructure remains a durable growth theme. Moreover, optimism that the United States might ease export restrictions on semiconductor sales to China provided an additional tailwind.\n\nConsequently, shares of Intel Corporation INTC\u00a0and Broadcom Inc. AVGO\u00a0rose 2.8% and 2%, respectively. Both currently carry a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.\n\nEconomic Data \u00a0\n\nPer the Bureau of Labor Statistics, total nonfarm payroll employment increased by 147,000 in June. The number for May was revised up to 144,000 from the previously reported 139,000. The unemployment rate decreased to 4.1% in June from 4.2% in May. Average Hourly Earnings increased 0.2% in June after rising 0.4% in May. The average Workweek decreased to 34.3 in June from the 34.2 reported in May.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.84
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.65
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Tech rally propels Wall St; Nvidia nears $4T valuation, boosting market sentiment."
+    },
+    "date": "2025-07-07T07:22:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/nvidia-test-slot-could-send-130925256.html",
+    "title": "Nvidia test slot could send this stock soaring, UBS says Investing.com -- A potential breakthrough in securing a test slot at Nvidia (NASDAQ:NVDA) could become a major catalyst for Teradyne (NASDAQ:TER) shares, UBS analysts said, estimating that even a modest win may drive hundreds of millions of dollars in annual revenue.",
+    "detail": "Nvidia test slot could send this stock soaring, UBS says\nVahid Karaahmetovic\nMon, Jul 7, 2025, 7:09 AM 2 min read\nIn This Article:\nNVDA\nTER\n6857.T\nAAPL\nAMZN\n\nInvesting.com -- A potential breakthrough in securing a test slot at Nvidia (NASDAQ:NVDA) could become a major catalyst for Teradyne (NASDAQ:TER) shares, UBS analysts said, estimating that even a modest win may drive hundreds of millions of dollars in annual revenue.\n\nIn a Sunday note, the analysts said they have received \u201ca host of investor questions\u201d about the potential size of the opportunity for Teradyne if it becomes a second-source test supplier for Nvidia GPUs.\n\nWhile a definitive win has not been confirmed, UBS believes Nvidia is \u201csystematically dual-sourcing throughout its supply chain \u2013 meaning the winds of change may be blowing in TER\u2019s direction.\u201d\n\nUBS estimates that Nvidia\u2019s test tool purchases via Advantest for its current Blackwell GPU ramp could reach $1.75 billion in 2025, based on assumptions that OSAT partner KYEC is buying around 700 testers at $2.5 million apiece.\n\nThat would make Nvidia a roughly 30% end customer for Advantest in 2025. If Teradyne can capture even a small share of that, the impact would be substantial.\n\n\u201cIf TER was to make inroads at NVDA as a second source and conservatively win even just ~10% of their business, this could potentially translate to several $100MMs of revenue per year \u2013 a material upside driver for the company,\u201d analysts led by Timothy Arcuri said.\n\nThey also point out that Blackwell test times are significantly longer than its predecessor Hopper, due to the more complex packaging involving two compute tiles. That adds further weight to the potential revenue contribution from any incremental test wins.\n\nWhile much of the investor focus on Teradyne still centers on Apple (NASDAQ:AAPL), UBS believes the market is beginning to recognize \u201ca broader set of catalysts,\u201d including the Nvidia opportunity, Amazon\u2019s adoption of Teradyne\u2019s collaborative robots, and increasing transistor intensity in smartphones as the industry transitions to more advanced nodes.\n\nUBS rates Teradyne shares Buy.\n\nRelated articles\n\nNvidia test slot could send this stock soaring, UBS says\n\nWho could win and lose on tighter Trump AI controls? UBS weighs in\n\nCiti adds Applied Materials to focus list on valuation gap with peers\n\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.62
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.4
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.05
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Potential Nvidia test slot could boost Teradyne's revenue, says UBS."
+    },
+    "date": "2025-07-07T07:09:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/week-ai-chips-denodo-deepquery-113733218.html",
+    "title": "This Week In AI Chips - Denodo DeepQuery Enhances AI With Real-Time Explainable Insight Denodo Technologies has announced the release of Denodo DeepQuery, a new deep research capability designed to enhance AI innovation by providing real-time, explainable answers to complex, multi-step questions. Unlike traditional generative AI solutions, DeepQuery synthesizes and explains its reasoning by accessing a wide range of governed enterprise data across diverse systems and formats. This innovation leverages external data sources to enhance insights and is being integrated into the...",
+    "detail": "This Week In AI Chips - Denodo DeepQuery Enhances AI With Real-Time Explainable Insight\nSimply Wall St\nMon, Jul 7, 2025, 5:37 AM 1 min read\nIn This Article:\nAMD\nQCOM\nNVDA\n\nDenodo Technologies has announced the release of Denodo DeepQuery, a new deep research capability designed to enhance AI innovation by providing real-time, explainable answers to complex, multi-step questions. Unlike traditional generative AI solutions, DeepQuery synthesizes and explains its reasoning by accessing a wide range of governed enterprise data across diverse systems and formats. This innovation leverages external data sources to enhance insights and is being integrated into the Denodo AI SDK, offering developers and AI teams the ability to build and incorporate these capabilities into their applications. With the support of the Model Context Protocol (MCP), Denodo aims to deliver more accurate and contextual AI responses within enterprise environments.\n\nElsewhere in the market, First Solar was a notable mover up 8.5% and closing at $185.03. At the same time, ASML Holding softened, down 2.6% to end trading at \u20ac659.40.\n\nCapitalize on ASML's cutting-edge EUV and High-NA lithography technology amid increasing AI-driven demand to explore their pivotal role in the semiconductor market further. Discover more about ASML's strategic position in our detailed company narrative.\n\nFor a deep dive into AI Chips, revisit our Market Insights article where we explored AI's shifting value chain, especially hardware. Act now to understand emerging trends!\n\nBest AI Chip Stocks\n\nNVIDIA finished trading at $159.34 up 1.3%, hovering around its 52-week high.\n\nQUALCOMM settled with no change at, $162.21.\n\nAdvanced Micro Devices closed at $137.91 down 0.4%.\n\nTurning Ideas Into Actions\n\nNavigate through the entire inventory of 54 AI Chip Stocks including Lasertec, Tokyo Electron and TongweiLtd here.\n\nInterested In Other Possibilities? Explore 27 top quantum computing companies leading the revolution in next-gen technology and shaping the future with breakthroughs in quantum algorithms, superconducting qubits, and cutting-edge research.\n\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\n\nSources:\n\nSimply Wall St\n\n\"Denodo Announces Plans to Further Support AI Innovation by Releasing Denodo DeepQuery, a Deep Research Capability\" from Denodo Technologies Inc. (\u201cDenodo\u201d) on GlobeNewswire (published 07 July 2025)\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.37
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.04
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "New AI tool from Denodo enhances NVDA's AI capabilities with real-time, explainable insight. Denodo DeepQuery integrates into NVDA's AI SDK, boosting application development."
+    },
+    "date": "2025-07-07T05:37:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/market-chatter-nvidia-risk-us-111517251.html",
+    "title": "Market Chatter: Nvidia at Risk as US Moves to Block AI Chip Shipments to Malaysia, Thailand Nvidia (NVDA) may face new limits as the Trump administration plans to restrict shipments of its adv",
+    "detail": "PREMIUM\nMarket Chatter: Nvidia at Risk as US Moves to Block AI Chip Shipments to Malaysia, Thailand\nMT Newswires\nMon, Jul 7, 2025, 5:15 AM 1 min read\nIn This Article:\nNVDA\n\nNvidia (NVDA) may face new limits as the Trump administration plans to restrict shipments of its adv\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "negative",
+        "value": -0.44
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "\"Trump administration plans to limit Nvidia's chip shipments to Malaysia, Thailand, potentially impacting sales.\""
+    },
+    "date": "2025-07-07T05:15:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/social-buzz-wallstreetbets-stocks-mostly-105154998.html",
+    "title": "Social Buzz: Wallstreetbets Stocks Mostly Down Pre-Bell Monday; Webull, Tesla to Open Lower The most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly lower hours before Mo",
+    "detail": "PREMIUM\nSocial Buzz: Wallstreetbets Stocks Mostly Down Pre-Bell Monday; Webull, Tesla to Open Lower\nMT Newswires\nMon, Jul 7, 2025, 4:51 AM 1 min read\nIn This Article:\nTSLA\nHOOD\nDTE\nEU.V\nNVDA\n\nThe most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly lower hours before Mo\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade\nAlready have a subscription? Sign in\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "negative",
+        "value": -0.2
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Wallstreetbets discusses NVDA lower pre-bell Monday."
+    },
+    "date": "2025-07-07T04:51:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/huawei-ai-lab-fends-off-101338967.html",
+    "title": "Huawei\u2019s AI Lab Fends Off Accusations It Copied Rival Models (Bloomberg) -- Huawei Technologies Co.\u2019s secretive AI research lab has pushed back against accusations it relied on rivals\u2019 models to develop its own Pangu platform, taking the unusual step of rebutting claims about its artificial intelligence efforts.Most Read from BloombergForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsTrump\u2019s Gilded Design Style May Be Gaudy. But Don\u2019t Call it \u2018Rococo.\u2019Are Tourists Ruining Europe? How Locals Are Pushing BackMassachusetts to Follow NYC in Making La",
+    "detail": "Huawei\u2019s AI Lab Fends Off Accusations It Copied Rival Models\nBloomberg News\nMon, Jul 7, 2025, 4:13 AM 2 min read\nIn This Article:\nBABA\nBABAF\nNVDA\n\n(Bloomberg) -- Huawei Technologies Co.\u2019s secretive AI research lab has pushed back against accusations it relied on rivals\u2019 models to develop its own Pangu platform, taking the unusual step of rebutting claims about its artificial intelligence efforts.\n\nMost Read from Bloomberg\n\nForeign Buyers Swoop on Cape Town Homes, Pricing Out Locals\n\nTrump\u2019s Gilded Design Style May Be Gaudy. But Don\u2019t Call it \u2018Rococo.\u2019\n\nAre Tourists Ruining Europe? How Locals Are Pushing Back\n\nMassachusetts to Follow NYC in Making Landlords Pay Broker Fees\n\nIn California, Pro-Housing \u2018Abundance\u2019 Fans Rewrite an Environmental Landmark\n\nThe Pangu Pro MoE is the world\u2019s first model of its kind to be trained on Ascend chips \u2014 Huawei\u2019s answer to Nvidia Corp.\u2019s AI accelerators \u2014 the lab said in a WeChat post over the weekend. While the company employed open-source code \u2014 as is \u201ccommon practice\u201d \u2014 Huawei said it respected intellectual property and stuck closely to licensing terms. This followed accusations posted on the coding platform Github that Pangu\u2019s source code contained uncredited material from key rivals.\n\nHuawei\u2019s response is rare for a company regarded as a standard-bearer for China\u2019s efforts to wean itself off foreign technology, in spheres from smartphones to semiconductors. In AI services, however, rivals such as DeepSeek and Alibaba Group Holding Ltd. have captured investors\u2019 and industry executives\u2019 attention.\n\n\u201cWe strictly adhere to the requirements of open-source licenses, and clearly mark copyright statements in the relevant source files,\u201d Noah\u2019s Ark, Huawei\u2019s research lab, said in the post. \u201cWe welcome and look forward to in-depth and professional discussions on technical details with everyone in the open-source community.\u201d\n\nA Huawei representative declined to comment beyond the statement issued by Noah\u2019s Ark.\n\nFounded in 2012 to spearhead research into advanced technologies at Huawei, Noah\u2019s Ark now mainly focuses on cutting-edge AI and areas such as data mining. Its offices span Shenzhen to Hong Kong and London.\n\nThe accusations center around the Pangu Pro MoE (Mixture of Exerts) model. The company published its source code last week, which in turn spurred the creation of a GitHub group called \u201cHonestAGI\u201d that debated its origins. The post was deleted days later.\n\nBut on Sunday, another lengthy post appeared on the same platform. Entitled \u201cPangu\u2019s Sorrow,\u201d the unidentified author revived the allegations and also went into detail about how the team came under immense pressure to deliver, yet fell behind rivals.\n\n--With assistance from Newley Purnell, Luz Ding, Jessica Sui and Vlad Savov.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Huawei's AI lab defends Pangu platform, claiming use of Ascend chips and open-source code, countering accusations of copying rival models."
+    },
+    "date": "2025-07-07T04:13:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-palantir-094400050.html",
+    "title": "The Zacks Analyst Blog Highlights Palantir, NVIDIA, Microsoft, Amazon.com and Alphabet PLTR and NVDA are both gaining from the AI boom, but only one stands out as the better stock for stable returns in 2H25.",
+    "detail": "The Zacks Analyst Blog Highlights Palantir, NVIDIA, Microsoft, Amazon.com and Alphabet\nZacks Equity Research\nMon, Jul 7, 2025, 3:44 AM 5 min read\nIn This Article:\nPLTR\nNVDA\nMSFT\nAMZN\nGOOGL\nFor Immediate Release\n\nChicago, IL \u2013 July 7, 2025 \u2013 Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Palantir Technologies Inc. PLTR, NVIDIA Corp. NVDA, Microsoft Corp. MSFT, Amazon.com, Inc. AMZN and Alphabet Inc. GOOGL.\n\nHere are highlights from Thursday\u2019s Analyst Blog:\nBetter AI Stock for 2H25: NVIDIA or Palantir?\n\nShares of Palantir Technologies Inc., which sells a well-liked artificial intelligence (AI)-powered software platform, have surged 74.7% so far this year, outperforming the leading AI chip maker, NVIDIA Corp.\u2019s 17.1% gain. Can Palantir keep outperforming NVIDIA in the second half, and is it the better AI stock for your portfolio?\n\nReasons to Be Bullish on NVIDIA Stock\n\nThe surge in demand for NVIDIA\u2019s state-of-the-art new-generation Blackwell chips helped the company\u2019s sales grow 69% year over year to $44.1 billion in the fiscal first quarter, which ended on April 27. NVIDIA overcame supply-chain bottlenecks and delivered Blackwell AI servers to customers such as Microsoft Corp.\n\nStrong demand for AI chips will boost NVIDIA\u2019s sales, supported by increased developer adoption of the CUDA platform. The AI revolution in self-driving cars and autonomous robots also benefits NVIDIA. As major cloud computing companies like Amazon.com, Inc. and Alphabet Inc. purchased NVIDIA\u2019s graphics processing units (GPUs), in which the company holds a large share, the company is likely to see further growth.\n\nPresident Trump\u2019s tariffs and export restrictions on AI chips to China may impact NVIDIA\u2019s sales, but the company is adjusting its hardware specifications to resume sales there. Even without China, NVIDIA is positioned to benefit from the worldwide demand for AI capabilities.\n\nReasons to Be Bullish on Palantir Stock\n\nA rise in both commercial and government contracts helped Palantir increase its revenues in the first quarter. Commercial revenues increased 71% year over year (YoY) to $255 million, while government revenues rose 45% YoY to $373 million.\n\nPalantir\u2019s sales growth has contributed to strong financial results, with net income reaching $217.7 million in the first quarter, more than doubling last year\u2019s $106.1 million. Palantir\u2019s adjusted free cash flow for the quarter was $370 million, up 42% YoY. Additionally, the remaining performance obligations of $1.9 billion and an estimated total addressable market of over $1 trillion in the next decade indicate Palantir\u2019s continued strength.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.77
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.75
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.45
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Palantir's 74.7% YTD growth outshines NVIDIA's 17.1%, but can it continue in H225 vs NVIDIA's AI dominance?"
+    },
+    "date": "2025-07-07T03:44:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/fantastic-news-coreweave-shareholders-091000662.html",
+    "title": "Fantastic News for CoreWeave Shareholders CoreWeave scored significant wins in the first half, with revenue and stock performance soaring.  The company is a key partner of Nvidia and depends greatly on demand for the AI leader\u2019s chips.  CoreWeave (NASDAQ: CRWV) delivered an exciting first half to investors.",
+    "detail": "Fantastic News for CoreWeave Shareholders\nAdria Cimino, The Motley Fool\nMon, Jul 7, 2025, 3:10 AM 5 min read\nIn This Article:\nCRWV\nNVDA\nKey Points\n\nCoreWeave scored significant wins in the first half, with revenue and stock performance soaring.\n\nThe company is a key partner of Nvidia and depends greatly on demand for the AI leader\u2019s chips.\n\n10 stocks we like better than CoreWeave \u203a\n\nCoreWeave (NASDAQ: CRWV) delivered an exciting first half to investors. The company, known for its close relationship with artificial intelligence (AI) chip giant Nvidia (NASDAQ: NVDA), made its market debut, reported triple-digit quarterly revenue growth, and went on to gain 300%.\n\nInvestors are excited about CoreWeave as the company has seen soaring demand for its AI cloud services, and with the AI market potentially heading for $2 trillion in a few years, this momentum could continue. And just last week, this up-and-coming AI giant delivered even more fantastic news to shareholders. Let's check it out.\n\nImage source: Getty Images.\nMore than 250,000 Nvidia GPUs\n\nFirst, though, let's catch up on the CoreWeave story so far. As mentioned, the company is linked to Nvidia, and this is in two ways: CoreWeave's main business is the leasing out of compute power in the form of Nvidia graphics processing units (GPUs), or the main chips fueling key AI tasks such as the training and inferencing of models. The company has a fleet of more than 250,000 GPUs operating in about 32 data centers, and customers can rent access to them by the hour or for a much longer period. So CoreWeave offers them a great deal of flexibility.\n\nThe second link to Nvidia is the fact that this AI powerhouse holds a 7% stake in CoreWeave. This support is a positive sign for CoreWeave and its investors because Nvidia, with its dominant position in AI, knows how to recognize potential winners. So, if Nvidia is investing in an AI company, other investors may want to give that particular company a closer look.\n\nNow, let's consider the fantastic news CoreWeave just delivered to shareholders. The company said it became the first to make Nvidia's latest chip update -- Blackwell Ultra -- commercially available. This is in the form of the Nvidia GB300 NVL72 system built by Dell, a platform that CoreWeave says represents a \"major leap\" for AI reasoning and AI agent projects.\n\nThe GB300 NVL72 brings 1.5 times greater AI performance than the initial Blackwell chip -- GB200 -- that was launched in the fourth quarter of last year. And CoreWeave then was the first to make the Blackwell system available to customers too.\n\nCoreWeave competes with other cloud providers such as Amazon's Amazon Web Services and Microsoft Azure, and those companies have both hefty resources and a broad customer base -- and they, too, offer Nvidia products and services. But, what could help CoreWeave stand out over time is this first access to Nvidia products and the fact that CoreWeave specializes in AI workloads. So, CoreWeave being first to launch Blackwell and Blackwell Ultra is key because it's establishing itself as the place for customers to go if they aim to gain immediate access to Nvidia's latest innovations.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.8
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.78
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.6
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "positive",
+        "value": 0.83
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "AI cloud service provider CoreWeave, key Nvidia partner, reports triple-digit revenue growth and 300% stock surge in H1; shares excite investors amid potential $2T AI market growth."
+    },
+    "date": "2025-07-07T03:10:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/could-best-reason-buy-tesla-084700636.html",
+    "title": "Could This Be the Best Reason to Buy Tesla Stock Hand Over Fist? (Hint: It's Not Robotaxis.) Several analysts believe the humanoid robotics market could be larger than the robotaxi market.  Tesla has ambitious plans for its Optimus humanoid robots.  Tesla (NASDAQ: TSLA) fans should find it easy to identify reasons to buy the stock.",
+    "detail": "Could This Be the Best Reason to Buy Tesla Stock Hand Over Fist? (Hint: It's Not Robotaxis.)\nKeith Speights, The Motley Fool\nMon, Jul 7, 2025, 2:47 AM 5 min read\nIn This Article:\nTSLA\nNVDA\nAAPL\nKey Points\n\nSeveral analysts believe the humanoid robotics market could be larger than the robotaxi market.\n\nTesla has ambitious plans for its Optimus humanoid robots.\n\nHowever, the company faces several challenges to achieve significant success with Optimus.\n\nThese 10 stocks could mint the next wave of millionaires \u203a\n\nTesla (NASDAQ: TSLA) fans should find it easy to identify reasons to buy the stock. For one thing, its shares remain roughly 34% below the previous high. Anyone who believes in Tesla's long-term growth prospects will likely view this as a great opportunity to buy the stock at a discount.\n\nOne prominent Tesla bull, Ark Invest founder and CEO Cathie Wood, thinks the autonomous ride-hailing (robotaxi) market makes the stock a fantastic investment opportunity. However, there's a good case to be made that there's an even better reason that makes Tesla a stock to buy hand over fist right now.\n\nBigger than robotaxis?\n\nWood and her Ark Invest team believe the the robotaxi market could skyrocket to around $4 trillion by 2030. They look for Tesla to be the biggest winner in this market, thanks to the company's lower-cost technology and scalability.\n\nHowever, Ark Invest is much more optimistic about the robotaxi opportunity than most analysts. Fortune Business Insights projects that the robotaxi market could be nearly $119 billion by 2030. Market researcher Research and Markets thinks the robotaxi market could expand by a compound annual growth rate of 45.2% and hit $124.9 billion by 2034.\n\nTesla could have an even larger opportunity. Morgan Stanley projects that the humanoid robotics market could top $5 trillion by 2050. The financial services giant thinks that the adoption of humanoid robots will accelerate in the 2030s.\n\nCitigroup analyst Wenyan Fei pegs the number at closer to $7 trillion by 2050. He and fellow analyst Rob Garlick think that humanoid robots will be especially helpful in providing home services. They envision the robots folding laundry, mowing lawns, and caring for older adults. And Tesla could be a big player in this market. Fei named Tesla's Optimus robot as \"definitely one of the leaders for the market.\"\n\nWant an even more bullish estimate of the humanoid robotics market? Ark Invest believes the global opportunity could eventually be in the ballpark of $24 trillion. Unsurprisingly, Wood's team thinks that Tesla \"could capture a significant share of this multi-trillion-dollar market.\"\n\nImage source: Getty Images.\nTesla's Optimus ambitions\n\nTesla certainly has grand ambitions for Optimus. CEO Elon Musk said during the company's 2024 fourth-quarter earnings call that Optimus could eventually generate more than $10 trillion in revenue. He acknowledged that his revenue predictions \"sound absolutely insane.\" However, Musk added that he thinks \"they will prove to be accurate.\"\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "neutral",
+        "value": 0.0
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "negative",
+        "value": -1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "neutral",
+        "value": 0.05
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "negative",
+        "value": -0.65
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "Tesla robotics market potential larger than robotaxis; Tesla aims for Optimus humanoid robots; Challenges hinder Optimus success; Tesla stock remains discounted, making it an investment opportunity."
+    },
+    "date": "2025-07-07T02:47:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/european-stocks-2025-outperformance-over-082210265.html",
+    "title": "European stocks' 2025 outperformance is over, but don't forget the euro LONDON (Reuters) -European stocks took an early lead in 2025, outperforming Wall Street thanks to erratic U.S. policymaking and Germany's once-in-a-generation fiscal shift, but U.S. markets have caught up.  The broad European STOXX 600 index was up 6.6% so far this year, as of Friday's close, compared with 6.8% for the S&P 500.  In March the STOXX was 10 percentage points ahead, leading European bulls to think this might be their time after years of European markets underperforming Wall Street.",
+    "detail": "European stocks' 2025 outperformance is over, but don't forget the euro\nAlun John\nMon, Jul 7, 2025, 2:22 AM 4 min read\nIn This Article:\n^GSPC\n^STOXX\nEUR=X\n^SPX\nNVDA\n\nBy Alun John\n\nLONDON (Reuters) -European stocks took an early lead in 2025, outperforming Wall Street thanks to erratic U.S. policymaking and Germany's once-in-a-generation fiscal shift, but U.S. markets have caught up.\n\nThe broad European STOXX 600 (^STOXX) index was up 6.6% so far this year, as of Friday's close, compared with 6.8% for the S&P 500 (^GSPC).\n\nIn March the STOXX was 10 percentage points ahead, leading European bulls to think this might be their time after years of European markets underperforming Wall Street.\n\nCalls for European outperformance still ring true in currencies, however, with the euro up 14% against the dollar year to date.\n\nTrade talks and the new U.S. tax-cut and spending law are tests for the rotation out of the U.S. and into Europe, said UBS Asset Management's head of global sovereign markets strategy Max Castelli.\n\n\"I don\u2019t think U.S. exceptionalism will come back with the same strength and intensity,\" he said. \"But I would not rule out the big period of outperformance of European assets over the U.S. being over.\"\n\nHere's a look at how Europe's performance against the U.S. stacks up.\n\nBig Tech is back\n\nMarija Veitmane, head of equity research at State Street Global Markets, said Wall Street shares started bouncing back in mid-April, partly because the \"trade war became trade negotiations.\"\n\nBut the \"real turning point\" was corporate earnings season when \"tech CEOs stood up and said 'Our earnings are going to be very strong'.\"\n\nTech accounts for roughly one-third of the S&P 500, and the sector is up 24% since the start of April, even including its plunge when U.S. President Donald Trump announced his tariff plans.\n\nNvidia (NVDA), once again the world's largest company by market cap, has risen an even more dramatic 45%, and there isn't anything in Europe to match.\n\nHold your nerve\n\nBut by no means all investors are rushing back to Wall Street with the S&P 500 at record highs, suggesting valuations are getting stretched.\n\n\"The tariff announcement showed how fast sentiment can change and how risky these high (U.S.) valuations are,\" said Madeleine Ronner, senior equity portfolio manager at asset manager DWS, adding that European valuations are more reasonable.\n\nAnd while that gap had been appropriate because of slow corporate earnings growth, \"Europe's (earnings per share) is starting to grow again, and the differential is getting smaller, which should be reflected in valuations,\" she said.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard",
+    "analysis": {
+      "gpt-4.1": {
+        "sentiment": "positive",
+        "value": 0.81
+      },
+      "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis": {
+        "sentiment": "positive",
+        "value": 1.0
+      },
+      "deepseek-ai/deepseek-llm-7b-chat": {
+        "sentiment": "negative",
+        "value": -0.85
+      },
+      "mistralai/Mistral-7B-Instruct-v0.3": {
+        "sentiment": "positive",
+        "value": 0.45
+      },
+      "meta-llama/Llama-3.2-3B-Instruct": {
+        "sentiment": "neutral",
+        "value": 0.0
+      }
+    },
+    "summaries": {
+      "mistralai/Mistral-7B-Instruct-v0.3_4bit": "European stocks outperformed US markets in early 2025 due to favorable policies and German fiscal shifts; however, US markets have since caught up. The euro has risen 14% against the dollar YTD, suggesting"
+    },
+    "date": "2025-07-07T02:22:00"
+  }
+]
