@@ -3,7 +3,7 @@ name: Run Stocks Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 16 * * *' # 8 AM Pacific Time (PDT is UTC-7, cron is UTC)
+    - cron: '0 16 * * *' # 16:00 UTC — 08:00 PST (UTC-8) / 09:00 PDT (UTC-7)
 
 permissions:
   contents: write
